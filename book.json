@@ -1,0 +1,40 @@
+{
+  "title": "Guide de la Faillite en Belgique",
+  "description": "Ressource de référence sur l'insolvabilité des entreprises - Guide complet pour faillis, dirigeants et créanciers",
+  "author": "Basé sur le Vademecum du Tribunal d'Entreprise de Liège",
+  "language": "fr",
+  "gitbook": ">=3.0.0",
+  "root": ".",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "hints",
+    "expandable-chapters",
+    "search-pro",
+    "ancre-navigation",
+    "-lunr",
+    "-search",
+    "sitemap-general",
+    "seo"
+  ],
+  "pluginsConfig": {
+    "sitemap-general": {
+      "prefix": "https://guide-faillite-belgique.be/"
+    },
+    "seo": {
+      "title": "Guide de la Faillite en Belgique - Ressource complète",
+      "description": "Guide complet sur la faillite en Belgique : obligations faillis, droits créanciers, délais, procédure. Information claire basée sur le Livre XX CDE.",
+      "keywords": "faillite belgique, insolvabilité, faillis, créanciers, curateur, dessaisissement, effacement dettes, déclaration créance, tribunal entreprise, livre XX, CDE, REGSOL"
+    },
+    "theme-default": {
+      "showLevel": true
+    }
+  },
+  "variables": {
+    "edition": "2025",
+    "baseLegale": "Livre XX du Code de droit économique",
+    "dateMAJ": "Février 2025"
+  }
+}
