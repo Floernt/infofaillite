@@ -3,324 +3,49 @@ description: Guide complet pour les créanciers - Déclarer votre créance, vér
 keywords: créancier faillite belgique, déclarer créance, délai 30 jours, dividende faillite, rang créanciers, REGSOL
 ---
 
-# Je suis créancier
+# Je suis créancier : par où commencer ?
 
-Votre **débiteur** (client, partenaire, locataire) a été déclaré en **faillite** ? Vous êtes **créancier** dans cette procédure.
+Lorsqu'une entreprise ou une personne qui vous doit de l'argent est déclarée en faillite, toutes les poursuites individuelles sont immédiatement suspendues : vous ne pouvez plus agir seul pour récupérer votre dû. Votre unique voie de recouvrement est de déclarer votre créance auprès du curateur désigné par le tribunal, en respectant impérativement les délais légaux. Ce guide vous accompagne pas à pas dans cette démarche.
 
-Cette section vous explique **concrètement** :
-- ✅ Comment **déclarer votre créance** (délai crucial : **30 jours**)
-- ✅ Comment suivre la **vérification** de votre créance
-- ✅ Quand et **combien** vous serez payé (dividendes)
-- ✅ Quels sont vos **droits** et **recours**
+!!! danger "Le délai de 30 jours pour déclarer votre créance"
+    À compter du jugement déclaratif de faillite, vous disposez de 30 jours pour déclarer votre créance au curateur. Passé ce délai, vous pouvez encore déclarer jusqu'à un an après le jugement, mais vous perdez le droit de participer à toute répartition provisoire déjà effectuée entre-temps. Au-delà d'un an, la forclusion est totale : votre créance ne sera plus prise en compte.
 
----
+## Le parcours d'un créancier en quatre étapes
 
-## ⚠️ PREMIER RÉFLEXE : Déclarer votre créance RAPIDEMENT
+### 1. Savoir que votre débiteur est en faillite
 
-{% hint style="danger" %}
-🚨 **DÉLAI CRUCIAL : 30 JOURS**
+La faillite est publiée au Moniteur belge dans les cinq jours du jugement, ce qui constitue la publication officielle opposable à tous. Vous pouvez également effectuer une recherche directement sur [déclarer votre créance sur REGSOL](https://www.regsol.be), la plateforme en ligne de gestion des procédures d'insolvabilité, en cherchant le nom de l'entreprise ou du débiteur concerné. Si vous êtes un créancier connu du failli, le curateur est tenu de vous notifier personnellement ; il se peut aussi que vous ayez déjà appris la nouvelle par vos propres réseaux ou par le débiteur lui-même.
 
-Vous avez **maximum 30 jours** depuis le jugement de faillite pour déclarer votre créance.
+### 2. Déclarer votre créance dans les délais
 
-**Si vous ratez ce délai** : Vous pouvez encore déclarer plus tard, mais vous ne participerez pas aux répartitions provisoires éventuelles.
+La déclaration s'effectue soit en ligne via REGSOL, soit par lettre recommandée adressée au curateur. Vous devez y joindre les pièces justificatives de la dette (factures, contrats, bons de commande), indiquer le montant exact en distinguant le capital, les intérêts échus et les frais, et mentionner explicitement toute garantie dont vous bénéficiez (hypothèque, gage, cautionnement). Pour tous les détails pratiques, consultez la page consacrée à [déclarer votre créance dans les 30 jours](declarer-creance.md).
 
-**Délai absolu** : 1 an depuis jugement (après = forclusion totale)
+### 3. La vérification de votre créance aux procès-verbaux
 
-➡️ [Déclarer votre créance maintenant](declarer-creance.md)
-{% endhint %}
+Une fois la période de déclaration close, le curateur procède à la vérification de l'ensemble des créances déclarées, qui aboutit à la rédaction de procès-verbaux successifs : un premier entre 35 et 60 jours après la clôture du délai, un deuxième vers six mois et un troisième vers douze mois. À l'issue de chacun, votre créance est soit admise, soit contestée par le curateur (ce qui entraîne une convocation devant le tribunal), soit mise en réserve dans l'attente d'un litige en cours. Vous pouvez consulter ces procès-verbaux à tout moment sur REGSOL. Pour comprendre comment réagir en cas de contestation, reportez-vous à la page sur [les procès-verbaux de vérification des créances](verification-contestation.md).
 
----
+### 4. Le paiement (dividende) à la clôture
 
-## Comprendre votre situation en 3 minutes
+Une fois tous les actifs du failli liquidés, le curateur procède à la répartition du produit entre les créanciers, proportionnellement à leur rang et au montant admis de leur créance. Les créanciers chirographaires, c'est-à-dire sans garantie particulière, reçoivent en pratique entre 0 et 10 % de leur créance dans la grande majorité des faillites belges. Le paiement est effectué par la Caisse des Dépôts et Consignations (CDC). Tous les détails sur [le calcul et le paiement des dividendes](paiement-dividendes.md) sont disponibles dans la page dédiée.
 
-### Qu'est-ce qu'une créance ?
+## Vos chances de récupération selon votre rang
 
-**Créance** = Somme d'argent que le failli vous doit
+Votre rang dans la hiérarchie des créanciers détermine directement votre priorité de paiement et, par conséquent, vos chances réelles de récupérer tout ou partie de votre créance.
 
-**Exemples** :
-- Factures impayées (fournisseur)
-- Loyers commerciaux impayés (bailleur)
-- Prêt non remboursé (banque)
-- Salaires impayés (travailleur)
-- Cotisations sociales impayées (ONSS)
+| Rang | Exemples de créanciers | Taux de récupération typique |
+|---|---|---|
+| Frais de justice | Curateur, greffe | Prioritaires (100 %) |
+| Super-privilégiés | Salariés (salaires impayés) | Très élevé |
+| Hypothécaires / gagistes | Banques avec hypothèque ou gage | Élevé sur le bien concerné |
+| Privilégiés | ONSS, Trésor public (TVA) | Variable |
+| Chirographaires | Fournisseurs, clients, banques sans garantie | 0-10 % en général |
 
-### Qui gère la faillite ?
+Si vous bénéficiez d'une garantie réelle (hypothèque, gage) ou personnelle (cautionnement), il est indispensable de la mentionner explicitement dans votre déclaration de créance : cela modifie votre rang et peut améliorer substantiellement votre taux de récupération. La page consacrée à [les garanties et cautions dans votre déclaration de créance](suretes-cautions.md) vous explique comment procéder correctement.
 
-**Le curateur** : Avocat désigné par le tribunal qui :
-- Vend les biens du failli
-- Vérifie les créances déclarées
-- Paie les créanciers selon ordre légal
-- Rédige rapports annuels
+## Les pages de ce guide
 
-Vous devez déclarer votre créance **au curateur**, pas au failli.
+Ce guide pour créanciers est organisé en plusieurs sections complémentaires. La première, [déclarer votre créance dans les 30 jours](declarer-creance.md), vous guide pas à pas dans la constitution et le dépôt de votre dossier, avec la liste précise des pièces à fournir. La deuxième, [les procès-verbaux de vérification des créances](verification-contestation.md), vous explique comment suivre l'instruction de votre dossier et comment contester une décision du curateur avec laquelle vous seriez en désaccord. La troisième, [le calcul et le paiement des dividendes](paiement-dividendes.md), détaille la mécanique de répartition et les modalités pratiques du versement. Enfin, la page sur [vos droits spécifiques en tant que créancier](droits-specifiques.md) recense l'ensemble des recours à votre disposition tout au long de la procédure, du droit à l'information jusqu'à la possibilité d'engager la responsabilité du curateur.
 
-**Coordonnées curateur** : Sur [REGSOL](https://www.regsol.be) (recherche par nom entreprise faillie)
+## Pour aller plus loin
 
-### Vais-je récupérer mon argent ?
-
-**Dépend de 2 facteurs** :
-
-1. **Votre rang** (ordre de paiement) :
-   - Créancier **hypothécaire** / **gagiste** : priorité sur bien grevé
-   - Créancier **privilégié** (ONSS, salaires, TVA) : priorité générale
-   - Créancier **chirographaire** (ordinaire) : dernier servi
-
-2. **L'actif disponible** (valeur des biens vendus) :
-   - Beaucoup d'actifs : bonnes chances
-   - Peu/pas d'actifs : faibles chances
-
-{% hint style="info" %}
-**Réalité statistique** : En moyenne, les créanciers chirographaires (ordinaires) récupèrent **0 à 10%** de leur créance dans les faillites belges.
-
-Les créanciers privilégiés et hypothécaires récupèrent **50 à 100%** selon actifs disponibles.
-{% endhint %}
-
----
-
-## Les étapes de votre parcours créancier
-
-### 1. Déclaration (J+0 à J+30)
-
-📝 **Vous déclarez** votre créance au curateur via [REGSOL](https://www.regsol.be) ou recommandé
-
-**Documents à fournir** :
-- Copie factures impayées
-- Contrats
-- Preuves de la dette
-- Mention garanties (hypothèque, gage, privilège)
-
-➡️ [Guide complet : Déclarer votre créance](declarer-creance.md)
-
----
-
-### 2. Vérification (J+30 à J+365)
-
-🔍 **Le curateur vérifie** votre créance :
-- **Admise** : Votre créance est reconnue
-- **Contestée** : Le curateur conteste (vous êtes convoqué tribunal)
-- **Réserve** : Vérification reportée (litiges en cours)
-
-**3 procès-verbaux (PV)** :
-1. **1er PV** : 5-30 jours après fin délai déclaration
-2. **2ème PV** : 6 mois après jugement
-3. **3ème PV** : 12 mois (définitif)
-
-➡️ [Comprendre la vérification et contestation](verification-contestation.md)
-
----
-
-### 3. Liquidation (6 mois à 3 ans)
-
-💰 **Le curateur vend** les biens du failli :
-- Mobilier (stocks, équipements, véhicules)
-- Immeubles
-- Fonds de commerce (going concern si possible)
-
-Vous pouvez **suivre l'évolution** sur [REGSOL](https://www.regsol.be) (rapports annuels)
-
-➡️ [Comprendre la liquidation des actifs](../comprendre/liquidation-actifs.md)
-
----
-
-### 4. Paiement (à la clôture)
-
-💸 **Vous recevez** votre dividende (part proportionnelle du produit de liquidation)
-
-**Ordre de paiement** (cascade) :
-1. Frais de justice et honoraires curateur
-2. Créanciers **hypothécaires** / **gagistes** (sur bien grevé)
-3. Créanciers **privilégiés** (ONSS, salaires, TVA)
-4. Créanciers **chirographaires** (ordinaires)
-
-**Paiement via** : Caisse des Dépôts et Consignations (CDC)
-
-➡️ [Tout savoir sur le paiement et dividendes](paiement-dividendes.md)
-
----
-
-## Vos droits principaux
-
-| Droit | Comment l'exercer ? |
-|-------|---------------------|
-| **Être informé** | Consulter REGSOL (rapports curateur) |
-| **Contester créance admise** | Contredit dans 1 mois après PV |
-| **Assister PV vérification** | Libre (pas obligatoire) |
-| **Demander convocation AG** | Si > 1/3 des dettes |
-| **Contester honoraires curateur** | Observations lors taxation tribunal |
-| **Agir en responsabilité** | Si curateur refuse (comblement passif) |
-
-➡️ [Détails : Vos droits spécifiques](droits-specifiques.md)
-
----
-
-## Questions fréquentes rapides
-
-### J'ai raté le délai de 30 jours, que faire ?
-
-**Réponse** : Vous pouvez encore déclarer jusqu'à l'assemblée générale des créanciers (souvent 1 an+). Vous ne participerez pas aux répartitions provisoires, mais serez payé à la clôture.
-
-➡️ [FAQ complète créanciers](faq.md#q1-jai-rate-le-delai-de-30-jours-puis-je-encore-declarer)
-
-### Comment savoir si mon client est en faillite ?
-
-**Réponse** : (1) Consultez [REGSOL](https://www.regsol.be), (2) Publication Moniteur belge dans 5 jours du jugement, (3) Signification par curateur si vous êtes créancier connu.
-
-➡️ [FAQ complète créanciers](faq.md#q2-comment-savoir-si-mon-client-est-en-faillite)
-
-### Ma créance est garantie par une hypothèque, que faire ?
-
-**Réponse** : Déclarez-la en mentionnant votre garantie. Vous êtes prioritaire sur le produit de vente de l'immeuble grevé. Si vous êtes premier rang, vous pouvez faire vendre vous-même après le 1er PV.
-
-➡️ [FAQ complète créanciers](faq.md#q5-ma-creance-est-garantie-par-une-hypothequeun-gage-que-faire)
-
----
-
-## Hiérarchie des créanciers (ordre de paiement)
-
-```
-┌─────────────────────────────────────────┐
-│ 1. FRAIS DE JUSTICE + HONORAIRES CURATEUR│ (Priorité absolue)
-└─────────────────────────────────────────┘
-              ⬇
-┌─────────────────────────────────────────┐
-│ 2. CRÉANCIERS PRIVILÉGIÉS SPÉCIAUX       │
-│    (Hypothèques, gages sur biens précis) │
-└─────────────────────────────────────────┘
-              ⬇
-┌─────────────────────────────────────────┐
-│ 3. CRÉANCIERS PRIVILÉGIÉS GÉNÉRAUX       │
-│    (ONSS, salaires, TVA)                 │
-└─────────────────────────────────────────┘
-              ⬇
-┌─────────────────────────────────────────┐
-│ 4. CRÉANCIERS CHIROGRAPHAIRES            │
-│    (Ordinaires, sans garantie)           │
-└─────────────────────────────────────────┘
-```
-
-{% hint style="warning" %}
-⚠️ **Si l'actif est insuffisant**, les créanciers de rang inférieur ne reçoivent **rien**.
-
-Dans 70% des faillites belges, il y a **insuffisance d'actif** (même les frais de justice ne sont pas couverts).
-{% endhint %}
-
----
-
-## Outils et ressources
-
-### REGSOL (outil essentiel)
-
-**Site** : [www.regsol.be](https://www.regsol.be)
-
-**Permet de** :
-- ✅ Vérifier si entreprise en faillite
-- ✅ Déclarer votre créance en ligne
-- ✅ Consulter coordonnées curateur
-- ✅ Suivre procès-verbaux vérification
-- ✅ Lire rapports annuels curateur
-- ✅ Consulter état répartition final
-
-**Accès** : Gratuit, création compte en ligne
-
----
-
-### Contact curateur
-
-**Trouver coordonnées** : REGSOL > Recherche entreprise > Onglet "Organes"
-
-**Communiquer** :
-- Email (réponse généralement sous 3-5 jours)
-- Recommandé si urgent
-- Téléphone (horaires cabinet)
-
-{% hint style="success" %}
-💡 **Conseil** : Le curateur est votre interlocuteur principal. Soyez professionnel et précis dans vos communications. Les curateurs sont souvent surchargés (gèrent dizaines de dossiers en parallèle).
-{% endhint %}
-
----
-
-### Juge-commissaire
-
-**Rôle** : Surveille et accélère les opérations du curateur
-
-**Quand le contacter** :
-- Curateur ne répond pas malgré relances
-- Problème grave dans gestion faillite
-- Demande convocation assemblée créanciers
-
-**Comment** : Email ou courrier (coordonnées REGSOL)
-
----
-
-## Cas particuliers
-
-### Vous êtes travailleur salarié (créance salariale)
-
-**Privilège spécial** : Vos salaires impayés sont **super-privilégiés** (priorité absolue après frais justice)
-
-**Montant prioritaire** : Dernier mois salaire + paiement anticipé préavis
-
-**Au-delà** : Fonds Fermeture Entreprises (FFE) paie le solde :
-- Arriérés salaire (max 3 mois)
-- Indemnité préavis
-- Indemnité licenciement
-
-➡️ [Site FFE](https://www.fermeture.belgium.be)
-
----
-
-### Vous êtes bailleur commercial (loyer impayé)
-
-**Privilège mobilier** : Sur meubles garnissant les lieux
-
-**Rang** : Privilège général (après hypothèques/gages, avant chirographaires)
-
-**Durée** : 2 années de loyers impayés
-
-**Résiliation bail** : Automatique par faillite (sauf reprise locaux par curateur)
-
----
-
-### Vous êtes caution du failli
-
-**Vous restez tenu** : La faillite du débiteur principal ne vous libère **PAS**
-
-**MAIS attention** :
-- Le créancier doit avoir **déclaré la sûreté personnelle** dans les **3 mois** du jugement
-- Sinon : **Décharge automatique** de la caution
-
-**Recours** :
-- Demande décharge si cautionnement manifestement disproportionné
-- Action en répétition contre failli (après paiement créancier)
-
-➡️ [Comprendre la décharge de caution](../comprendre/cloture.md#la-décharge-de-caution)
-
----
-
-## Navigation section créanciers
-
-📖 **Parcours complet recommandé** :
-
-1. [Déclarer votre créance](declarer-creance.md) ⚠️ **URGENT - 30 jours**
-2. [Vérification et contestation](verification-contestation.md)
-3. [Le paiement (dividendes)](paiement-dividendes.md)
-4. [Vos droits spécifiques](droits-specifiques.md)
-5. [FAQ Créanciers](faq.md) - 10 questions-réponses
-
-🔗 **Autres sections utiles** :
-- [Comprendre la procédure de faillite](../comprendre/definition-faillite.md)
-- [Les acteurs de la faillite](../comprendre/acteurs.md)
-- [Délais importants](../delais.md)
-- [Glossaire](../glossaire.md)
-
----
-
-{% hint style="success" %}
-**À retenir pour les créanciers** :
-
-✅ **Déclarez RAPIDEMENT** (30 jours max)
-✅ **Mentionnez vos garanties** (hypothèque, gage, privilège)
-✅ **Suivez REGSOL** régulièrement
-✅ **Soyez réaliste** sur vos chances de récupération (rang + actif)
-✅ **Contestez si nécessaire** (admission erronée autre créancier)
-{% endhint %}
+Pour mieux comprendre le cadre dans lequel s'inscrit votre démarche, vous pouvez consulter la page sur [le rôle du curateur dans la gestion de la faillite](../comprendre/acteurs.md), qui présente les différents intervenants de la procédure et leurs missions respectives. La page sur [le déroulement chronologique de la procédure](../comprendre/deroulement-phase-1-3.md) vous permettra de situer votre situation dans le calendrier global de la faillite. Vous pouvez également retrouver les informations officielles et déclarer votre créance directement sur [déclarer votre créance sur REGSOL](https://www.regsol.be).

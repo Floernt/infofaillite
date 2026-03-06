@@ -3,395 +3,70 @@ description: Obligations légales du failli - Documents à fournir, convocations
 keywords: obligations failli, documents faillite, inventaire, descente faillite, collaboration curateur, banqueroute
 ---
 
-# Vos obligations immédiates
+# Vos obligations légales en tant que failli
 
-En tant que failli, vous avez des **obligations légales strictes**. Le non-respect peut entraîner des sanctions graves : refus d'effacement des dettes, interdiction de gérer, voire poursuites pénales.
+Dès le prononcé du jugement de faillite, vous êtes soumis à un ensemble d'obligations légales précises, définies par le Code de droit économique. Ces obligations ne sont pas de simples formalités : votre collaboration avec le curateur conditionne directement deux enjeux essentiels pour votre avenir. D'une part, elle vous permet d'éviter une interdiction de gérer qui bloquerait toute reprise d'activité professionnelle. D'autre part, elle préserve votre droit à l'effacement automatique des dettes à la clôture de la procédure, qui est la principale protection offerte au failli de bonne foi.
 
----
+## La remise de tous vos documents
 
-## Vue d'ensemble de vos devoirs
+Dès votre premier contact avec le curateur — dans les jours qui suivent le jugement — vous devez lui remettre l'ensemble des documents liés à votre activité. Cela comprend votre comptabilité complète (journaux, bilans, déclarations TVA et fiscales, documents ONSS), vos documents juridiques (statuts, procès-verbaux, registres, contrats importants), vos extraits de compte bancaire sur au moins trois ans, ainsi que tous les titres de propriété sur vos biens. Vous devez également remettre les clés de vos locaux professionnels, les codes d'accès informatiques, les identifiants de messagerie et de logiciels, et les moyens de paiement professionnels (cartes, chéquiers, terminaux).
 
-Article XX.146 du Code de droit économique liste vos obligations principales :
+Si certains documents ont disparu, ont été détruits ou sont incomplets, signalez-le immédiatement et par écrit au curateur. La transparence sur les lacunes est toujours préférable au silence : ce qui compte, c'est que le curateur comprenne la situation réelle, pas qu'elle soit parfaite.
 
-1. ✅ **Remettre tous vos documents** au curateur
-2. ✅ **Répondre aux convocations** du juge-commissaire et du curateur
-3. ✅ **Assister à l'inventaire** (descente de faillite)
-4. ✅ **Fournir toutes informations** demandées
-5. ✅ **Permettre l'ouverture** de votre courrier professionnel
-6. ✅ **Comparaître** aux procès-verbaux de vérification des créances
+!!! warning ""
+    Dès le jugement de faillite, vous ne pouvez plus effectuer aucune opération sur les comptes professionnels, ni vendre un actif de l'entreprise, ni payer ou encaisser quoi que ce soit. Toute opération après jugement peut être qualifiée de détournement d'actif et exposer à des poursuites pénales. Pour comprendre l'étendue de ce blocage, consultez la page sur [les effets du dessaisissement sur vos biens](../comprendre/dessaisissement.md).
 
-{% hint style="danger" %}
-**Conséquences du non-respect**
+## Répondre aux convocations dans les 48 heures
 
-- ⛔ **Interdiction de gérer** jusqu'à 3 ans pour inaction (art. XX.229§2)
-- ⛔ **Refus d'effacement** des dettes (art. XX.173)
-- ⛔ **Poursuites pénales** pour banqueroute (art. 489-502 Code pénal)
-- ⛔ **Responsabilité personnelle** si préjudice causé aux créanciers
-{% endhint %}
+Le curateur et le juge-commissaire vous convoqueront à plusieurs reprises pendant la procédure. Lorsqu'une convocation urgente du curateur vous parvient — notamment pour la descente de faillite ou une audition — vous devez y répondre dans les 48 heures. Si vous êtes dans l'impossibilité de vous présenter, prévenez immédiatement par téléphone et par écrit, justifiez votre absence et proposez une date alternative sans délai.
 
----
+Vous serez également convoqué par le juge-commissaire pour une audition sur les causes de la faillite, et vous devrez comparaître aux procès-verbaux de vérification des créances, qui ont lieu à environ un mois, six mois, puis un an après le jugement. Ne jamais ignorer une convocation, même si vous estimez ne rien avoir à ajouter : l'absence non justifiée est en elle-même une faute susceptible d'entraîner une interdiction de gérer.
 
-## 1. Remettre tous les documents au curateur
+## La descente de faillite : votre premier rendez-vous
 
-### Documents comptables obligatoires
+La descente de faillite intervient dans les tout premiers jours suivant le jugement. Le curateur, généralement accompagné du juge-commissaire, se rend sur les lieux de votre activité pour dresser l'inventaire complet de vos biens. Votre présence est obligatoire : vous devez permettre l'accès à tous les locaux, répondre aux questions qui vous sont posées et signer le procès-verbal d'inventaire à l'issue de la visite.
 
-Vous devez remettre **sans délai** au curateur :
+Votre rôle pendant cette descente est actif. On vous demandera d'expliquer les causes de la faillite, de désigner et de commenter les actifs recensés, et de donner votre avis sur leur valeur approximative. Soyez coopératif et précis dans vos réponses : le curateur consignera vos déclarations dans le procès-verbal, qui sera transmis au tribunal. La bonne volonté que vous manifestez dès ce premier rendez-vous est un signal fort pris en compte lors de la décision sur l'effacement des dettes.
 
-📊 **Comptabilité complète**
-- Journal, grand-livre, balances
-- Bilan et compte de résultats
-- Déclarations TVA et fiscales
-- Fiches de paie et documents sociaux (ONSS)
+## L'autorisation pour les courriers
 
-📁 **Documents juridiques**
-- Statuts de la société
-- PV assemblées générales et conseils d'administration
-- Registre des actionnaires/parts sociales
-- Contrats importants (bail, fournisseurs, clients)
+En application de l'article XX.143 du Code de droit économique, votre courrier professionnel est automatiquement redirigé vers le curateur dès le jugement. Cela concerne les factures, les relances, la correspondance bancaire et fiscale liée à votre activité. Le curateur doit ouvrir ce courrier en votre présence dans la mesure du possible.
 
-💰 **Documents bancaires**
-- Extraits de compte (3 dernières années minimum)
-- Contrats de crédit, garanties
-- Cartes bancaires, moyens de paiement
+Votre courrier strictement personnel — correspondance familiale, médicale ou privée — ne peut en principe pas être retenu. Si vous estimez que des courriers personnels importants sont adressés à votre ancienne adresse professionnelle, vous pouvez saisir le juge-commissaire pour en demander l'ouverture vous-même ou leur restitution directe.
 
-🏢 **Documents patrimoniaux**
-- Titres de propriété (immeubles, véhicules)
-- Contrats d'assurance
-- Inventaire des stocks
-- Factures clients impayées (créances)
+## Informer le curateur de tout changement
 
-### Comment les transmettre ?
+Vos obligations ne s'éteignent pas après la descente de faillite. Pendant toute la durée de la procédure, vous devez informer le curateur de tout changement de situation : nouvelle adresse ou coordonnées, nouveau revenu ou emploi, biens découverts après l'inventaire initial, ou reprise d'une activité professionnelle. Ces informations permettent au curateur de gérer la masse correctement et d'informer les créanciers. Omettre volontairement de signaler un changement significatif peut être interprété comme une dissimulation et peser sur la décision du tribunal à la clôture.
 
-**Délai** : Immédiatement, dès votre premier contact avec le curateur
-**Modalités** : Remise en mains propres ou envoi sécurisé (selon accord avec curateur)
+## Les sanctions en cas de non-collaboration
 
-{% hint style="warning" %}
-Si des documents ont **disparu** ou sont **incomplets**, expliquez-le immédiatement et par écrit au curateur. Ne cachez rien : l'honnêteté est essentielle.
-{% endhint %}
+La non-collaboration n'est pas une option neutre. Elle expose à trois types de conséquences distinctes, qui peuvent se cumuler.
 
----
+### Le risque d'interdiction de gérer
 
-## 2. Répondre aux convocations
+Le tribunal peut prononcer une interdiction de gérer d'une durée pouvant aller jusqu'à trois ans si vous avez manqué à vos obligations légales pendant la faillite : absence aux convocations, refus de fournir des renseignements, non-remise des documents. Cette sanction vous empêcherait de constituer ou d'administrer une société pendant toute sa durée. Pour comprendre les conditions exactes de cette mesure et comment l'éviter, consultez la page sur [l'interdiction de gérer et comment l'éviter](interdiction.md).
 
-Le [curateur](../glossaire.md#curateur) et le [juge-commissaire](../glossaire.md#juge-commissaire) vont vous convoquer à plusieurs reprises pendant la procédure.
+### Le refus de l'effacement des dettes
 
-### Types de convocations
+L'effacement automatique des dettes à la clôture n'est pas acquis de droit si le tribunal constate des fautes graves et caractérisées dans votre comportement pendant la faillite. La dissimulation d'actifs, l'absence totale de comptabilité, le détournement de biens après jugement ou la non-collaboration répétée avec le curateur peuvent tous conduire à un refus total ou partiel d'effacement. Cela signifie que vos créanciers conserveraient le droit de vous poursuivre pour le solde de leurs créances après la clôture. La page consacrée à [l'effacement automatique des dettes à la clôture](effacement.md) détaille les conditions et les exceptions.
 
-| Qui convoque ? | Pourquoi ? | Délai de réponse |
-|----------------|------------|------------------|
-| **Curateur** | Descente de faillite, inventaire, auditions | **Impératif** : dans les 48h |
-| **Curateur** | Demandes d'informations complémentaires | **Rapide** : sous 5-7 jours |
-| **Juge-commissaire** | Audition sur causes de faillite (art. XX.148) | **Obligatoire** présence |
-| **Juge-commissaire** | Observations avant réalisation actifs (art. XX.166) | **Facultatif** mais recommandé |
-| **Tribunal** | Clôture, interdiction, autres audiences | **Obligatoire** ou conseillé |
+### Les poursuites pénales (banqueroute)
 
-### Que faire si vous ne pouvez pas vous présenter ?
+Indépendamment de la procédure de faillite, certains comportements constituent des infractions pénales. La banqueroute simple — notamment la tenue irrégulière de comptabilité ou le paiement préférentiel d'un créancier en période suspecte — est punie d'une peine pouvant aller jusqu'à un an de prison. La banqueroute frauduleuse — détournement ou dissimulation d'actifs, augmentation frauduleuse du passif, destruction de documents — peut entraîner jusqu'à cinq ans d'emprisonnement. Ces poursuites peuvent être engagées même après la clôture de la faillite et même si l'effacement des dettes a été accordé.
 
-1. **Prévenez immédiatement** (téléphone + email + recommandé si délai suffisant)
-2. **Justifiez** votre absence (certificat médical, impossibilité majeure)
-3. **Proposez** une date alternative rapidement
+!!! danger "Non-collaboration : des conséquences graves"
+    Un failli qui ne coopère pas s'expose simultanément à trois risques distincts : une interdiction de gérer pouvant bloquer toute reprise d'activité pendant trois ans, un refus d'effacement des dettes qui maintient les créanciers dans leur droit de vous poursuivre, et des poursuites pénales pour banqueroute simple ou frauduleuse, indépendantes de la procédure civile. Ces trois conséquences peuvent se cumuler.
 
-{% hint style="danger" %}
-❌ **Ne jamais ignorer** une convocation. Même si vous pensez n'avoir rien à dire, répondez et présentez-vous. L'absence est sanctionnée.
-{% endhint %}
+## Ce que vous pouvez faire malgré la faillite
 
----
+La faillite ne vous prive pas de tout. Vous conservez le droit de travailler, de percevoir un salaire ou des allocations, et de démarrer une nouvelle activité professionnelle en tant que personne physique, sous certaines conditions. Votre situation personnelle n'est pas figée par la procédure. Pour un tour d'horizon complet de ce qui reste possible, consultez la page sur [vos droits pendant la procédure de faillite](droits.md).
 
-## 3. Assister à l'inventaire (descente de faillite)
+## Pour aller plus loin
 
-La **descente de faillite** (art. XX.133) est une étape cruciale qui intervient très rapidement après le jugement.
-
-### Qu'est-ce que c'est ?
-
-Le curateur, souvent accompagné du juge-commissaire et parfois d'un greffier, se rend à votre domicile/siège social pour :
-
-- 📝 Dresser l'[inventaire](../glossaire.md#inventaire) de tous vos biens
-- 🔐 Apposer des scellés si nécessaire (fermeture des locaux)
-- 🔑 Récupérer clés, codes d'accès, moyens de paiement
-- 💬 Vous informer de vos droits et devoirs
-- 📦 Sécuriser les actifs contre disparition ou vol
-
-### Votre présence est obligatoire
-
-**Vous DEVEZ** :
-- ✅ Être présent personnellement (ou votre représentant légal si société)
-- ✅ Permettre l'accès à tous les locaux professionnels et personnels si nécessaire
-- ✅ Répondre aux questions
-- ✅ Signer le procès-verbal d'inventaire
-
-{% hint style="info" %}
-**Conseil** : Soyez **transparent** et **coopératif**. Montrer votre bonne volonté jouera en votre faveur pour l'effacement des dettes et éviter l'interdiction de gérer.
-{% endhint %}
-
-### Que se passe-t-il pendant l'inventaire ?
-
-1. **Recensement exhaustif** : Le curateur liste TOUS vos biens (meubles, stocks, matériel, véhicules, immeubles)
-2. **Évaluation approximative** : Estimation de la valeur des actifs
-3. **Questions** : Le curateur vous interroge sur vos actifs, dettes, causes de la faillite
-4. **Remise des clés et codes** : Vous devez remettre accès aux locaux, coffres, comptes informatiques
-5. **Signature** : Le procès-verbal est signé par vous et le curateur (et juge-commissaire si présent)
-
-➡️ **Délai** : L'inventaire doit être dressé "sans désemparer", c'est-à-dire sans interruption dans les jours suivant le jugement.
-
----
-
-## 4. Remettre les clés, codes d'accès et moyens de paiement
-
-Vous devez remettre **immédiatement** au curateur :
-
-🔑 **Accès physiques**
-- Clés de tous les locaux professionnels (bureaux, entrepôts, magasins)
-- Clés de véhicules de société
-- Codes d'alarme, badges d'accès
-
-💻 **Accès informatiques**
-- Codes d'accès ordinateurs, serveurs
-- Identifiants et mots de passe (email professionnel, logiciels de comptabilité, CRM)
-- Accès aux comptes bancaires en ligne
-
-💳 **Moyens de paiement**
-- Cartes bancaires professionnelles (à détruire ou remettre)
-- Chéquiers
-- Terminaux de paiement
-
-📱 **Communications**
-- Téléphones professionnels
-- Redirection du courrier professionnel vers le curateur
-
-{% hint style="warning" %}
-⚠️ Dès le jugement de faillite, vous **ne pouvez plus** :
-- Retirer de l'argent sur les comptes professionnels
-- Payer des fournisseurs ou encaisser des clients
-- Vendre des actifs de l'entreprise
-
-Toute opération après jugement peut être considérée comme un **détournement d'actif**.
-{% endhint %}
-
----
-
-## 5. Fournir toutes informations demandées
-
-Le curateur peut vous demander **tout renseignement utile** pour :
-
-- Retracer les opérations des derniers mois/années
-- Identifier les créanciers
-- Récupérer des actifs
-- Comprendre les causes de la faillite
-
-### Informations fréquemment demandées
-
-💰 **Sur les actifs**
-- Où sont stockées les marchandises ?
-- Quels clients doivent encore de l'argent ?
-- Avez-vous des comptes bancaires à l'étranger ?
-- Possédez-vous des biens en location, leasing ?
-
-💳 **Sur les dettes**
-- Liste complète de tous les créanciers (noms, montants, coordonnées)
-- Dettes fiscales et sociales (TVA, ONSS)
-- Prêts bancaires, garanties données
-- Cautions personnelles données ou reçues
-
-📜 **Sur les opérations récentes (période suspecte)**
-- Avez-vous vendu des biens récemment ? À qui ? Prix ?
-- Avez-vous fait des dons ou cadeaux importants ?
-- Avez-vous remboursé certains créanciers en priorité ?
-
-💼 **Sur la gestion**
-- Qui gérait réellement l'entreprise ?
-- Y a-t-il eu des fautes de gestion ?
-- Pourquoi l'activité a-t-elle continué alors que l'entreprise était en difficulté ?
-
-### Délais de réponse
-
-**Rapidement** : Sous 5 à 10 jours ouvrables selon urgence
-**Par écrit de préférence** : Email ou courrier recommandé pour traçabilité
-
-{% hint style="success" %}
-💡 **Astuce** : Tenez un **cahier de notes** dès le début avec toutes les informations importantes (créanciers, actifs, opérations récentes). Cela vous facilitera la tâche lors des demandes du curateur.
-{% endhint %}
-
----
-
-## 6. Permettre l'ouverture de votre courrier professionnel
-
-### Redirection automatique
-
-Article XX.143 : Tout le **courrier professionnel** du failli est détourné vers le curateur.
-
-- ✉️ La poste redirige votre courrier d'entreprise au curateur
-- 📧 Idéalement, donnez aussi accès à votre email professionnel
-
-### Ouverture du courrier
-
-**Principe** : Le curateur ouvre votre courrier **en votre présence** si possible.
-
-**Après le 1er procès-verbal de vérification des créances** : Vous pouvez demander au curateur d'ouvrir certains courriers vous-même si vous justifiez qu'ils sont personnels.
-
-### Courrier personnel vs professionnel
-
-| Courrier **professionnel** (pour curateur) | Courrier **personnel** (pour vous) |
-|--------------------------------------------|-------------------------------------|
-| Factures fournisseurs | Courrier familial |
-| Relances clients | Assurances personnelles non liées à l'entreprise |
-| Documents bancaires professionnels | Courrier médical |
-| Courrier fiscal/social entreprise | Correspondance privée |
-
-{% hint style="info" %}
-Si un courrier personnel important vous est adressé à votre ancien siège social, contactez le curateur pour récupération.
-{% endhint %}
-
----
-
-## 7. Clôture des comptes bancaires
-
-Le curateur va **clôturer** ou **bloquer** tous vos comptes professionnels.
-
-### Ce qui se passe
-
-1. **Inventaire des comptes** : Le curateur identifie tous vos comptes
-2. **Blocage immédiat** : Aucun retrait ni paiement possible
-3. **Récupération des fonds** : Soldes positifs transférés vers compte de la masse ([CDC](../glossaire.md#caisse-depots-consignations-cdc))
-4. **Clôture** : Comptes fermés définitivement
-
-### Vos comptes personnels
-
-**Comptes strictement personnels** (salaires, allocations) :
-- Normalement **non bloqués** si clairement séparés de l'activité professionnelle
-- Le curateur peut demander justification de l'origine des fonds
-
-**Comptes mixtes** (usage pro + perso) :
-- Risque de blocage
-- Le curateur analyse les mouvements pour déterminer la part professionnelle
-
-{% hint style="warning" %}
-⚠️ **Ouvrez un nouveau compte personnel** rapidement pour recevoir vos futurs salaires ou allocations. Choisissez une banque différente et précisez qu'il s'agit d'un compte strictement personnel post-faillite.
-{% endhint %}
-
----
-
-## Checklist pratique : Vos premières actions
-
-Voici ce que vous devez faire **dans les 7 premiers jours** suivant le jugement :
-
-### ✅ Jour 1-2 : Contact et documents
-
-- [ ] Contacter le curateur (coordonnées sur jugement ou [REGSOL](https://www.regsol.be))
-- [ ] Rassembler tous les documents comptables et juridiques
-- [ ] Préparer liste écrite de tous vos biens (stocks, matériel, véhicules, immeubles)
-- [ ] Préparer liste écrite de tous vos créanciers (noms, montants, coordonnées)
-
-### ✅ Jour 3-5 : Inventaire et remises
-
-- [ ] Assister à la descente de faillite (sur convocation curateur)
-- [ ] Remettre toutes les clés et codes d'accès
-- [ ] Signer le procès-verbal d'inventaire
-- [ ] Remettre cartes bancaires, chéquiers, moyens de paiement
-
-### ✅ Jour 5-7 : Informations complémentaires
-
-- [ ] Répondre aux premières questions du curateur
-- [ ] Fournir accès courrier professionnel (email + postal)
-- [ ] Organiser transfert/redirection communications professionnelles vers curateur
-- [ ] Ouvrir nouveau compte bancaire strictement personnel (si nécessaire)
-
-### ✅ En continu
-
-- [ ] Répondre à TOUTES les convocations du curateur et juge-commissaire
-- [ ] Répondre rapidement (48-72h) à toute demande d'information
-- [ ] Tenir un cahier de notes avec toutes les informations importantes
-- [ ] Conserver copies de tous vos échanges avec le curateur (emails, courriers)
-
----
-
-## Sanctions en cas de non-respect
-
-### Interdiction de gérer (art. XX.229§2)
-
-**Durée** : Maximum **3 ans** (interdiction de gérer uniquement personne morale)
-
-**Motif** : Omission de vos obligations légales pendant la faillite :
-- Ne pas répondre aux convocations
-- Refuser de fournir des renseignements
-- Ne pas remettre les documents
-
-### Refus d'effacement des dettes (art. XX.173)
-
-Si le tribunal estime que vous avez commis des **fautes graves et caractérisées** ayant contribué à la faillite, l'effacement peut être **refusé** totalement ou partiellement.
-
-Exemples de fautes :
-- Absence totale de comptabilité
-- Dissimulation d'actifs
-- Détournement de biens après jugement
-- Non-collaboration avec le curateur
-
-➡️ [En savoir plus sur l'effacement](effacement.md)
-
-### Poursuites pénales : Banqueroute
-
-**Articles 489-502 du Code pénal** : Sanctions pénales si :
-
-**Banqueroute simple** (jusqu'à 1 an de prison)
-- Tenue irrégulière de comptabilité
-- Paiement d'un créancier au détriment des autres (période suspecte)
-
-**Banqueroute frauduleuse** (jusqu'à 5 ans de prison)
-- Détournement ou dissimulation d'actifs
-- Augmentation frauduleuse du passif (fausses dettes)
-- Destruction de documents comptables
-
-{% hint style="danger" %}
-🚨 **Très important** : Les poursuites pénales sont **indépendantes** de la faillite. Même si votre faillite est clôturée avec effacement, vous pouvez être condamné pénalement.
-{% endhint %}
-
----
-
-## Questions fréquentes
-
-### Puis-je refuser de collaborer ?
-
-**Non**. La collaboration est **obligatoire** sous peine de sanctions graves (voir ci-dessus).
-
-### Que faire si je n'ai plus les documents comptables ?
-
-**Expliquez-le immédiatement par écrit** au curateur :
-- Où sont-ils (chez comptable, détruits, volés, perdus) ?
-- Pouvez-vous les récupérer ?
-- Avez-vous des copies partielles ?
-
-L'important est la **transparence**. Dire la vérité immédiatement est toujours mieux que de cacher un problème.
-
-### Le curateur peut-il entrer chez moi (domicile privé) ?
-
-**Oui**, si des biens professionnels s'y trouvent (stocks à domicile, bureau à domicile, véhicule pro stationné chez vous).
-
-Le curateur doit respecter votre vie privée, mais peut accéder aux lieux où se trouvent des actifs de la faillite.
-
-### Combien de temps vais-je devoir collaborer ?
-
-**Pendant toute la durée de la faillite** (6 mois à 5 ans selon complexité).
-
-Les demandes sont plus fréquentes au début (3 premiers mois), puis s'espacent. Vous recevrez surtout :
-- Convocations aux procès-verbaux de vérification (3 PV : J+30, J+6 mois, J+12 mois)
-- Demandes ponctuelles d'informations
-- Convocation finale avant clôture
-
----
-
-## Ressources et prochaines étapes
-
-📖 **Lecture recommandée** :
-- [Vos droits en tant que failli](droits.md)
-- [L'effacement des dettes](effacement.md)
-- [Reprendre une activité](reprendre-activite.md)
-
-🔗 **Liens utiles** :
-- [REGSOL](https://www.regsol.be) - Consulter votre dossier
-- [Glossaire](../glossaire.md) - Comprendre les termes
-- [FAQ Faillis](faq.md) - Questions fréquentes
-
----
-
-{% hint style="success" %}
-**À retenir** : La **transparence** et la **collaboration** sont vos meilleurs atouts. Un failli coopératif a beaucoup plus de chances d'obtenir l'effacement de ses dettes et d'éviter l'interdiction de gérer.
-{% endhint %}
+- [Vos droits pendant la procédure de faillite](droits.md)
+- [L'interdiction de gérer et comment l'éviter](interdiction.md)
+- [L'effacement automatique des dettes à la clôture](effacement.md)
+- [Les effets du dessaisissement sur vos biens](../comprendre/dessaisissement.md)
+- [La checklist pratique pour la première semaine](checklist-premiere-semaine.md)
+- [La foire aux questions pour les personnes en faillite](faq.md)
+- [Votre dossier sur REGSOL](https://www.regsol.be)

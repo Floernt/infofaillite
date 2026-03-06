@@ -3,402 +3,82 @@ description: FAQ Faillis - Questions fréquentes des personnes en faillite - Ré
 keywords: questions faillite belgique, faq failli, perdre biens faillite, durée faillite, négocier curateur, conjoint responsable
 ---
 
-# FAQ - Questions fréquentes des faillis
+# Questions fréquentes : je suis en faillite
 
-Vous trouverez ici les réponses aux **10 questions les plus fréquentes** posées par les personnes en faillite.
-
----
-
-## 1. Vais-je tout perdre ?
-
-### Réponse courte
-
-**Non**, vous ne perdez pas tout.
-
-### Explication détaillée
-
-✅ **Vous GARDEZ** :
-- Vos **biens insaisissables** (vêtements, literie, meubles indispensables)
-- Vos **revenus futurs** (salaires, honoraires de nouvelle activité)
-- Les **biens acquis après** le jugement (héritage, donation pendant faillite)
-- Vos **effets personnels** sans valeur marchande (photos, souvenirs)
-
-❌ **Vous PERDEZ** (vendus par le curateur) :
-- Tous vos **biens professionnels** existants au jour du jugement
-- Vos **biens personnels saisissables** de valeur
-- Vos **comptes bancaires** (soldes au jour J)
-- Vos **immeubles** (sauf résidence principale sous conditions très strictes)
-
-{% hint style="success" %}
-**Important** : Vos **revenus futurs** vous appartiennent. Vous pouvez rebondir et reconstruire votre patrimoine après la faillite.
-{% endhint %}
-
-➡️ [Détails sur vos biens](README.md#vos-biens--ce-qui-est-pris-ce-qui-reste)
+Lorsqu'on est confronté à une faillite, les mêmes questions reviennent presque toujours, souvent dans les premiers jours de la procédure. Cette page y répond de manière directe et pratique, en renvoyant aux pages détaillées du guide pour ceux qui souhaitent approfondir chaque sujet.
 
 ---
 
-## 2. Combien de temps dure une faillite ?
+## Vais-je tout perdre ?
 
-### Réponse courte
-
-Entre **6 mois et 5 ans**, selon la complexité de votre dossier.
-
-### Durées moyennes
-
-| Type de faillite | Durée typique |
-|------------------|---------------|
-| **Insuffisance d'actif** (pas de biens) | 6 à 12 mois |
-| **Faillite simple** (quelques actifs mobiliers) | 1 à 2 ans |
-| **Faillite moyenne** (immeubles, stocks) | 2 à 3 ans |
-| **Faillite complexe** (procès, going concern) | 3 à 5 ans (ou +) |
-
-### Ce qui influence la durée
-
-- 📊 **Nombre et complexité des actifs** à vendre
-- ⚖️ **Procès en cours** (actions en responsabilité, contestations)
-- 💼 **Tentative de going concern** (vente entreprise en activité)
-- 📝 **Nombre de créanciers** et contestations de créances
-
-➡️ [Comprendre le déroulement](../comprendre/deroulement-chronologique.md)
+Non, vous ne perdez pas tout. La faillite ne porte que sur les biens existants au moment du jugement : vos biens professionnels et vos avoirs personnels saisissables seront liquidés par le curateur, mais vos biens insaisissables (vêtements, literie, meubles indispensables, effets personnels sans valeur marchande) restent hors de la masse. Surtout, tous les revenus que vous gagnerez après le jugement, qu'il s'agisse d'un salaire, d'honoraires ou d'allocations, vous appartiennent intégralement. À la clôture de la procédure, [l'effacement automatique des dettes à la clôture](effacement.md) efface les dettes restantes pour les personnes physiques qui ont collaboré loyalement, ce qui vous permet de repartir sans le poids de votre passé financier.
 
 ---
 
-## 3. Puis-je négocier avec le curateur ?
+## Combien de temps va durer ma faillite ?
 
-### Réponse courte
-
-Vous pouvez **communiquer** et donner votre **avis**, mais c'est le curateur qui **décide**.
-
-### Explication
-
-**Vous POUVEZ** :
-- ✅ Donner votre avis sur la meilleure réalisation des actifs
-- ✅ Suggérer des acheteurs potentiels
-- ✅ Expliquer la valeur réelle de certains biens
-- ✅ Proposer des solutions
-
-**Le curateur** :
-- Doit vous **convoquer** avant liquidation (art. XX.166)
-- **Écoute** votre avis (consigné dans rapport juge-commissaire)
-- **Décide** librement sous contrôle du juge-commissaire
-
-{% hint style="info" %}
-**Conseil** : Soyez **constructif** et **transparent**. Un curateur apprécie un failli qui collabore et apporte des informations utiles.
-{% endhint %}
-
-➡️ [Votre droit d'être entendu](droits.md#1-droit-detre-entendu-sur-la-realisation-des-actifs)
+La durée dépend directement de la complexité de votre dossier. Une faillite sans actifs significatifs, dite en insuffisance d'actif, peut se clôturer en six à douze mois. Une faillite avec quelques biens mobiliers à liquider dure généralement de un à deux ans, tandis qu'un dossier comportant des immeubles ou des stocks importants prendra plutôt deux à trois ans. Les cas les plus complexes, impliquant des procès en cours, une tentative de cession de l'entreprise en activité ou un grand nombre de créanciers contestataires, peuvent s'étendre de trois à cinq ans ou davantage.
 
 ---
 
-## 4. Dois-je continuer à payer mes dettes personnelles ?
+## Puis-je négocier avec le curateur ?
 
-### Réponse courte
+Vous pouvez vous exprimer, donner votre avis et formuler des suggestions, notamment sur la meilleure manière de réaliser certains actifs ou sur des acheteurs potentiels, et le curateur est tenu de vous entendre avant certaines décisions importantes. Toutefois, c'est lui qui prend les décisions finales, sous le contrôle du juge-commissaire. Une attitude constructive et transparente sera toujours dans votre intérêt : un curateur qui reçoit des informations utiles et une coopération sincère travaillera dans de meilleures conditions pour tous.
 
-Dettes **anciennes** (avant faillite) : **Non**, le curateur les gère.
-Dettes **nouvelles** (après jugement) : **Oui**, elles restent à votre charge.
-
-### Détail par type de dette
-
-| Type de dette | À payer ? |
-|---------------|-----------|
-| **Dettes pro avant faillite** | ❌ Non (curateur gère) |
-| **Dettes perso liées à l'activité** (avant) | ❌ Non (curateur gère) |
-| **Dettes nouvelles** (après jugement) | ✅ Oui (votre responsabilité) |
-| **Crédit immobilier résidence** | ⚠️ Dépend (souvent saisi) |
-| **Pension alimentaire** | ✅ Oui (jamais effacée) |
-
-### Conséquences
-
-**Dettes anciennes** :
-- Poursuites suspendues
-- Créanciers doivent déclarer au curateur
-- Vous ne devez **rien payer** directement
-
-**Dettes nouvelles** :
-- Vous restez **personnellement responsable**
-- Créanciers peuvent vous poursuivre normalement
-- Vos nouveaux salaires peuvent être saisis (quote-part saisissable)
-
-➡️ [L'effacement des dettes anciennes](effacement.md)
+!!! tip ""
+    Consultez la page [vos droits pendant la procédure](droits.md) pour connaître précisément à quels moments vous devez être consulté et comment faire valoir votre point de vue.
 
 ---
 
-## 5. Mon conjoint est-il responsable de mes dettes professionnelles ?
+## Dois-je continuer à payer mes anciennes dettes ?
 
-### Réponse courte
-
-**Dépend** de votre régime matrimonial et du type de dettes.
-
-### Régime de communauté (légal ou conventionnelle)
-
-✅ **Conjoint peut être tenu** sur les **biens communs** si :
-- Dettes contractées pour l'activité professionnelle
-- Engagement solidaire des deux époux
-- Régime de communauté universelle
-
-**MAIS** : Votre conjoint **bénéficie aussi de l'effacement** si :
-- Cohabitation de plus de 6 mois avant faillite
-- Il était obligé aux dettes
-
-### Régime de séparation de biens
-
-❌ **Conjoint protégé** sauf si :
-- Il s'est porté **caution personnelle**
-- Il était **co-débiteur** solidaire
-- Il a **profité** des sommes empruntées
-
-### Cohabitant légal
-
-**Même règle** que conjoint marié si obligé aux dettes et cohabitation > 6 mois.
-
-{% hint style="info" %}
-**Conseil** : Votre conjoint doit consulter un avocat pour analyser précisément sa situation et ses risques.
-{% endhint %}
-
-➡️ [Effacement pour le conjoint](effacement.md#votre-conjointcohabitant-beneficie-aussi)
+Non. Les dettes antérieures au jugement de faillite sont prises en charge par le curateur : les poursuites individuelles des créanciers sont suspendues et ils doivent déclarer leurs créances auprès du curateur. Vous ne devez rien payer directement à vos anciens créanciers, et il serait même problématique de le faire, car cela pourrait constituer un avantage injustifié accordé à l'un d'eux. En revanche, les dettes que vous contractez après le jugement, pour votre vie courante ou une nouvelle activité, restent entièrement à votre charge et peuvent faire l'objet de poursuites normales.
 
 ---
 
-## 6. Que se passe-t-il si je refuse de collaborer ?
+## Mon conjoint est-il responsable de mes dettes ?
 
-### Réponse courte
-
-**Conséquences très graves** : interdiction de gérer, refus d'effacement, poursuites pénales.
-
-### Sanctions détaillées
-
-❌ **Interdiction de gérer**
-- Durée : jusqu'à **3 ans** pour inaction
-- Interdit de créer/gérer une société
-- Inscription JustBan (registre public)
-
-❌ **Refus d'effacement des dettes**
-- Vos dettes **ne sont PAS effacées**
-- Vous restez poursuivable après clôture
-- Impact financier majeur
-
-❌ **Poursuites pénales** (banqueroute)
-- Prison jusqu'à **5 ans** (banqueroute frauduleuse)
-- Casier judiciaire
-- Amendes
-
-❌ **Responsabilité civile**
-- Indemnisation des créanciers
-- Comblement de passif
-
-{% hint style="danger" %}
-🚨 **Ne prenez JAMAIS ce risque**. La collaboration est dans votre intérêt absolu.
-{% endhint %}
-
-➡️ [Sanctions du non-respect](obligations.md#sanctions-en-cas-de-non-respect)
+Cela dépend de votre régime matrimonial et de la nature des dettes. En régime de communauté, le conjoint peut être tenu sur les biens communs pour les dettes professionnelles, sauf s'il s'y était expressément opposé ; il peut toutefois bénéficier lui aussi de l'effacement s'il était obligé aux dettes et cohabitait avec vous depuis plus de six mois avant la faillite. En régime de séparation de biens, le conjoint est en principe protégé, sauf s'il s'est porté caution personnelle, était codébiteur solidaire ou a directement profité des sommes empruntées. Le cohabitant légal qui était obligé aux dettes suit les mêmes règles que le conjoint marié. Dans tous les cas, il est fortement conseillé au conjoint de consulter un avocat spécialisé pour analyser sa situation précise.
 
 ---
 
-## 7. Puis-je faire appel du jugement de faillite ?
+## Que se passe-t-il si je refuse de collaborer ?
 
-### Réponse courte
-
-**Oui**, dans le **mois** du prononcé, mais l'appel **ne suspend PAS** la procédure.
-
-### Procédure d'appel
-
-**Délai** : **1 mois** à partir de la date du jugement
-
-**Qui ?** : Vous-même ou un créancier (qui estime que vous n'êtes pas en faillite)
-
-**Où ?** : Cour d'appel compétente
-
-**Avec avocat** : Obligatoire
-
-### Important : Pas d'effet suspensif
-
-⚠️ **Le curateur continue son travail** même pendant l'appel :
-- Inventaire des biens
-- Ventes d'actifs
-- Vérification des créances
-
-Si l'appel aboutit (rare), les actes posés par le curateur sont annulés (très complexe).
-
-### Quand faire appel ?
-
-**Uniquement si** :
-- Vous estimez réellement ne **pas** être en état de faillite
-- Vous avez des **arguments solides** (vous pouvez payer vos dettes)
-- Avocat vous conseille cette voie
-
-{% hint style="warning" %}
-**En pratique** : Les appels réussissent rarement. Si vous êtes réellement en difficulté, mieux vaut collaborer et obtenir l'effacement que prolonger inutilement.
-{% endhint %}
+Les conséquences d'un refus de collaboration sont très graves et touchent à la fois votre avenir professionnel et votre situation financière. Sur le plan financier, le tribunal peut refuser l'effacement de vos dettes, ce qui signifie que vos créanciers pourront continuer à vous poursuivre même après la clôture de la faillite. Sur le plan professionnel, une [l'interdiction de gérer](interdiction.md) peut vous être imposée pour une durée pouvant aller jusqu'à trois ans, vous empêchant de créer ou de diriger une société. En cas de dissimulation d'actifs ou d'autres agissements frauduleux, vous vous exposez en outre à des poursuites pénales pour banqueroute, avec des peines pouvant inclure l'emprisonnement. Consultez la page [vos obligations légales envers le curateur](obligations.md) pour comprendre précisément ce que la loi vous impose.
 
 ---
 
-## 8. Les poursuites contre moi s'arrêtent-elles ?
+## Puis-je faire appel du jugement de faillite ?
 
-### Réponse courte
+Oui, vous disposez d'un délai d'un mois à compter du prononcé du jugement pour faire appel devant la cour d'appel compétente, avec l'assistance obligatoire d'un avocat. Il est important de savoir que l'appel ne suspend pas la procédure : le curateur continue d'inventorier et de gérer les actifs pendant toute la durée de la procédure d'appel. En pratique, les appels aboutissent rarement lorsque l'entreprise se trouvait réellement en état de faillite. Si vous estimez sérieusement que le jugement est erroné et que vous êtes en mesure de payer vos dettes, consultez un avocat sans attendre.
 
-**Oui** pour les dettes antérieures, **non** pour les dettes nouvelles.
-
-### Dettes antérieures à la faillite
-
-✅ **Poursuites SUSPENDUES** :
-- Saisies en cours arrêtées (sauf vente déjà ordonnée)
-- Huissiers ne peuvent plus agir
-- Créanciers doivent déclarer leur créance au curateur
-
-### Dettes postérieures à la faillite
-
-❌ **Poursuites POSSIBLES** :
-- Nouvelles dettes contractées après jugement
-- Pension alimentaire (jamais suspendue)
-- Amendes pénales
-
-### Cas particulier : Crédit hypothécaire
-
-**Si immeuble dans la masse** :
-- Banque peut faire vendre (créancier hypothécaire premier rang)
-- Vous perdez l'immeuble
-
-**Si immeuble hors masse** (rare) :
-- Banque peut continuer poursuites normalement
-
-➡️ [Comprendre le dessaisissement](../comprendre/dessaisissement.md)
+!!! warning ""
+    L'appel n'est pas une manière de gagner du temps. Si vous êtes effectivement en état de faillite, mieux vaut collaborer pleinement et obtenir l'effacement de vos dettes plutôt que de prolonger inutilement la procédure.
 
 ---
 
-## 9. Puis-je racheter mes biens vendus par le curateur ?
+## Les poursuites contre moi vont-elles s'arrêter ?
 
-### Réponse courte
-
-**Théoriquement oui**, mais difficile et rare en pratique.
-
-### Conditions
-
-✅ **Vous POUVEZ** :
-- Participer à la vente publique comme tout acquéreur
-- Faire une offre en vente de gré à gré
-
-❌ **Vous DEVEZ** :
-- Avoir les **fonds** nécessaires
-- Prouver **l'origine légale** des fonds (pas de détournement)
-- Payer le **prix du marché** (pas de favoritisme)
-
-### Vigilance du curateur
-
-Le curateur sera **très vigilant** sur :
-- D'où viennent vos fonds ? (famille, prêt, épargne antérieure légale)
-- N'y a-t-il pas sous-évaluation ?
-- Pas de montage frauduleux ?
-
-### En pratique
-
-**Très rare** car :
-- Vous êtes généralement sans ressources après faillite
-- Le curateur et juge-commissaire examinent de près
-- Risque de contestation par créanciers
-
-{% hint style="info" %}
-**Alternative** : Demandez à un tiers de confiance (famille, ami) d'acheter et de vous revendre plus tard (mais attention aux risques juridiques).
-{% endhint %}
+Pour les dettes antérieures à la faillite, oui : les poursuites individuelles sont suspendues dès le jugement, les saisies en cours sont arrêtées et les huissiers ne peuvent plus agir pour le compte de créanciers chirographaires. Ces créanciers doivent désormais passer par la procédure collective et déclarer leur créance au curateur. En revanche, les dettes postérieures au jugement restent entièrement poursuivables de manière ordinaire. La pension alimentaire n'est jamais suspendue, quelle que soit la date à laquelle elle est due. L'administration fiscale dispose également de prérogatives particulières qui méritent d'être examinées avec un conseil.
 
 ---
 
-## 10. Que faire si je découvre une erreur dans l'inventaire ?
+## Puis-je racheter des biens saisis ?
 
-### Réponse courte
-
-**Contactez immédiatement le curateur** par écrit (recommandé).
-
-### Procédure
-
-1. **Identifiez précisément** l'erreur :
-   - Bien oublié (pas inventorié)
-   - Bien mal évalué (sur ou sous-évalué)
-   - Bien qui ne vous appartient pas (propriété d'un tiers)
-
-2. **Écrivez au curateur** (email + recommandé) :
-   - Décrivez l'erreur
-   - Joignez preuves (photos, factures, titres de propriété)
-   - Demandez rectification
-
-3. **Délai** : Le plus rapidement possible (idéalement dans les jours suivant l'inventaire)
-
-### Si le curateur refuse
-
-- ⚠️ Contactez le **juge-commissaire** (email ou courrier)
-- ⚠️ Expliquez le désaccord avec preuves
-- ⚠️ Le juge-commissaire tranchera
-
-### Si bien appartenant à un tiers
-
-**Exemple** : Machine en leasing, stock en dépôt, véhicule du conjoint
-
-**Le tiers doit** :
-- Revendiquer son bien rapidement
-- Fournir preuves de propriété
-- Contacter le curateur
-
-{% hint style="success" %}
-**Conseil** : Vérifiez attentivement l'inventaire dès sa réception et signalez **toute** erreur immédiatement.
-{% endhint %}
+Théoriquement, vous pouvez participer à une vente publique ou formuler une offre en vente de gré à gré comme n'importe quel acquéreur, à condition de disposer de fonds dont vous pouvez justifier l'origine légale. En pratique, cette situation est très rare : vous devez payer le prix du marché, démontrer que les fonds ne proviennent pas d'un détournement, et le curateur comme le juge-commissaire examineront votre démarche avec une attention particulière pour écarter tout montage frauduleux. La contestation par d'autres créanciers constitue également un risque réel.
 
 ---
 
-## Autres questions fréquentes
+## Pour aller plus loin
 
-### Puis-je voyager à l'étranger ?
+Les pages de ce guide couvrent en détail les aspects essentiels de votre situation.
 
-**Oui**, la faillite ne vous interdit pas de voyager. Vous n'êtes pas assigné à résidence.
+- [Vos obligations légales envers le curateur](obligations.md) — ce que vous devez faire et les sanctions encourues
+- [Vos droits pendant la procédure](droits.md) — ce que la procédure ne peut pas vous retirer
+- [L'effacement automatique des dettes à la clôture](effacement.md) — conditions et fonctionnement
+- [Reprendre une activité après votre faillite](reprendre-activite.md) — possibilités concrètes et limites
+- [L'interdiction de gérer](interdiction.md) — ce que c'est, comment l'éviter, comment en sortir
+- [Le fonctionnement du dessaisissement](../comprendre/dessaisissement.md) — le mécanisme central de la faillite
 
-**Mais** : Vous devez rester **joignable** et répondre aux convocations du curateur/juge-commissaire.
-
-### La faillite affecte-t-elle mon permis de conduire ?
-
-**Non**, la faillite est une procédure civile qui n'a aucun impact sur votre permis de conduire.
-
-Votre véhicule peut être vendu par le curateur, mais votre permis reste valide.
-
-### Puis-je ouvrir un nouveau compte bancaire ?
-
-**Oui**, vous pouvez ouvrir un compte bancaire personnel (strictement personnel, pas professionnel).
-
-**Conseil** : Choisissez une banque différente et précisez qu'il s'agit d'un compte post-faillite pour vos salaires.
-
-### Combien coûte la faillite pour moi ?
-
-**Rien directement**. Les frais de la faillite (honoraires curateur, frais de justice) sont payés sur l'actif vendu.
-
-Si insuffisance d'actif, l'État avance les frais minimums.
-
-### Puis-je avoir accès à mon dossier ?
-
-**Oui** :
-- Sur [REGSOL](https://www.regsol.be) (en ligne, gratuit)
-- Au greffe du tribunal (consultation du dossier physique)
-
----
-
-## Ressources complémentaires
-
-📖 **Pour aller plus loin** :
-- [Vue d'ensemble de votre situation](README.md)
-- [Vos obligations immédiates](obligations.md)
-- [Vos droits](droits.md)
-- [L'effacement des dettes](effacement.md)
-- [Reprendre une activité](reprendre-activite.md)
-- [L'interdiction de gérer](interdiction.md)
-
-🔗 **Liens utiles** :
-- [REGSOL](https://www.regsol.be) - Consulter votre dossier
-- [Glossaire](../glossaire.md) - Comprendre les termes
-- [Délais importants](../delais.md) - Ne ratez aucun délai
-- [Ressources officielles](../ressources.md) - Contacts et aide
-
----
-
-{% hint style="info" %}
-**Votre question n'est pas dans cette FAQ ?**
-
-- Consultez le [glossaire](../glossaire.md) pour comprendre les termes
-- Contactez votre curateur (coordonnées sur REGSOL)
-- Demandez conseil à un avocat spécialisé en droit de l'insolvabilité
-{% endhint %}
+!!! note ""
+    Si votre question ne figure pas dans cette FAQ, votre curateur reste votre interlocuteur principal. Ses coordonnées sont disponibles sur [REGSOL](https://www.regsol.be). Pour les questions juridiques complexes, un avocat spécialisé en droit de l'insolvabilité peut vous apporter un conseil personnalisé.

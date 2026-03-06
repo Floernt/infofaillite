@@ -5,330 +5,96 @@ keywords: clôture faillite belgique, fin faillite, effacement dettes, insuffisa
 
 # La clôture de la faillite
 
-La **clôture** marque la **fin officielle** de la procédure de faillite. Elle intervient après liquidation des actifs et paiement (ou constat impossibilité paiement) des créanciers.
-
----
+La clôture marque la fin officielle de la procédure de faillite. Elle intervient une fois que le curateur a accompli sa mission : soit parce que tous les actifs ont été réalisés et les créanciers désintéressés dans la mesure du possible, soit parce qu'il n'existe aucun actif à distribuer. C'est à ce stade que s'opère, pour les personnes physiques, l'effacement automatique des dettes restantes.
 
 ## Les deux types de clôture
 
-### 1. Clôture pour insuffisance d'actif (70% des faillites)
+### La clôture pour insuffisance d'actif (environ 70 % des cas)
 
-**Définition** : Les actifs du failli sont **insuffisants** pour couvrir même les frais de justice et honoraires curateur.
+Lorsque le patrimoine du failli ne suffit pas à couvrir même les frais de justice et les honoraires du curateur, le tribunal prononce une clôture pour insuffisance d'actif. C'est la situation la plus fréquente en Belgique : environ sept faillites sur dix se terminent ainsi, en général entre six et douze mois après le jugement déclaratif. Les créanciers ne perçoivent aucun dividende, et l'État belge avance un forfait minimum pour rémunérer le curateur selon un barème réduit.
 
-**Délai** : Rapide (**6 à 12 mois** après jugement déclaratif)
+Pour le débiteur personne physique, cette absence de distribution n'enlève rien au bénéfice de l'effacement des dettes. Même si les créanciers reçoivent zéro euro, [l'effacement automatique des dettes pour les personnes physiques](../faillis/effacement.md) s'applique de plein droit à la clôture, sauf décision contraire du tribunal.
 
-**Constat** : Curateur établit **procès-verbal de carence** (inventaire montre actif nul ou très faible)
+!!! note "Insuffisance d'actif ne signifie pas absence d'effacement"
+    Même lorsque la procédure se clôture sans qu'un seul euro ait été distribué aux créanciers, le failli personne physique bénéficie de l'effacement automatique de ses dettes impayées. La clôture pour insuffisance d'actif ouvre donc bien la voie à un nouveau départ, indépendamment du résultat économique pour les créanciers.
 
-**Frais minimums** : État belge avance forfait minimum pour honoraires curateur (barème réduit)
+### La clôture après liquidation complète (environ 30 % des cas)
 
-**Créanciers** : Ne reçoivent **rien** (dividende = 0 €)
+Lorsque le curateur a pu vendre l'ensemble des actifs et distribuer le produit aux créanciers, la procédure s'achève par une clôture après liquidation complète. Ce scénario est plus long — en général entre un et quatre ans selon la complexité du dossier — mais il permet aux créanciers de percevoir un dividende, même partiel. Pour aller plus loin sur ce point, consultez la page consacrée à [le calcul et le paiement des dividendes aux créanciers](../creanciers/paiement-dividendes.md).
 
-**Effacement** : Dettes effacées quand même (personnes physiques, sauf refus)
+## Le déroulement de la clôture
 
-{% hint style="info" %}
-💡 **Réalité belge** : **70%** des faillites sont clôturées pour insuffisance d'actif. Les créanciers chirographaires ne récupèrent rien dans la majorité des cas.
-{% endhint %}
+### La taxation des honoraires du curateur
 
----
+Avant de clore la procédure, le tribunal fixe de manière définitive la rémunération du curateur. Celui-ci soumet un état de ses honoraires calculé selon un barème légal exprimé en pourcentage de l'actif brut réalisé. Les créanciers ont la possibilité de contester ce montant lors d'un débat contradictoire, après quoi le tribunal tranche par jugement.
 
-### 2. Clôture après liquidation complète (30% des faillites)
+### L'état de répartition
 
-**Définition** : Tous actifs ont été vendus et créanciers payés (partiellement ou totalement).
+Une fois les honoraires taxés, le curateur établit un état de répartition qui détaille, créancier par créancier, le dividende auquel chacun a droit compte tenu de son rang et du montant de sa créance admise. Cet état est soumis à l'homologation du tribunal, qui vérifie sa conformité avec les règles de priorité entre créanciers. Pour comprendre comment s'effectue concrètement cette répartition, voir la page sur [la liquidation des actifs et la réalisation du patrimoine](liquidation-actifs.md).
 
-**Délai** : Long (**1 à 4 ans** après jugement déclaratif, selon complexité)
+### Le paiement des dividendes
 
-**Procédure** :
+Après homologation de l'état de répartition, la Caisse des Dépôts et Consignations (CDC) procède au paiement des créanciers dans l'ordre de leur rang, généralement dans un délai d'un à trois mois. Il est donc essentiel que chaque créancier ait communiqué ses coordonnées bancaires exactes (IBAN) au curateur, faute de quoi le versement peut être retardé ou bloqué.
 
-1. **Taxation honoraires curateur** : Tribunal fixe montant définitif (après débat contradictoire)
-2. **Assemblée générale** : Créanciers débattent comptes (facultatif)
-3. **État de répartition** : Curateur établit dividendes par créancier
-4. **Homologation** : Tribunal approuve état répartition (jugement)
-5. **Paiement dividendes** : CDC paie créanciers (1-3 mois après homologation)
-6. **Demande clôture** : Curateur demande jugement clôture
+### Le jugement de clôture
 
----
+Sur requête du curateur, le tribunal prononce enfin le jugement de clôture. Ce jugement constate officiellement la fin de la faillite, décharge le curateur de son mandat et de sa responsabilité, lève le dessaisissement du failli et, pour les personnes physiques, entérine l'effacement des dettes. Un extrait de ce jugement est publié au Moniteur belge dans les quinze jours.
 
-## Procédure de clôture
+## Les effets du jugement de clôture
 
-### Demande par le curateur
+### Pour le failli (personne physique)
 
-**Curateur** dépose requête au tribunal demandant clôture (avec rapport final).
+La clôture produit trois effets principaux pour le failli personne physique. En premier lieu, [l'effacement automatique des dettes pour les personnes physiques](../faillis/effacement.md) efface toutes les dettes impayées nées avant la faillite, à l'exception de certaines catégories non effaçables comme les créances alimentaires, les dommages corporels ou les amendes pénales. En deuxième lieu, [la fin du dessaisissement à la clôture](dessaisissement.md) rend au failli la pleine maîtrise de ses biens futurs : il peut de nouveau contracter, vendre ou acheter librement. Enfin, il recouvre la liberté d'exercer une activité professionnelle sans restriction liée à la faillite, sauf si une interdiction de gérer a été prononcée séparément.
 
-**Motifs** :
-- Insuffisance actif (carence)
-- OU Liquidation achevée + Créanciers payés
+### Pour les sociétés
 
----
-
-### Jugement de clôture
-
-**Tribunal** prononce jugement constatant :
-
-✅ **Fin de la faillite**
-
-✅ **Décharge du curateur** (fin mandat, libération responsabilité)
-
-✅ **Effacement des dettes** (personnes physiques uniquement, sauf exceptions)
-
-✅ **Levée du dessaisissement** (failli redevient libre gérer biens futurs)
-
-**Publication** : Moniteur belge (extrait) + REGSOL (dans 15 jours)
-
----
-
-## Effacement automatique des dettes
-
-### Principe (art. XX.173)
-
-**Personnes physiques UNIQUEMENT** :
-
-À la clôture, **toutes les dettes impayées** sont **automatiquement effacées** (pas de demande à faire).
-
-**Exceptions** : Dettes **non effaçables** (alimentaires, corporelles, post-faillite, amendes pénales)
-
-➡️ [Détails effacement](../faillis/effacement.md)
-
----
-
-### Refus d'effacement (art. XX.173§2)
-
-**Tribunal peut refuser** (totalement ou partiellement) effacement si **fautes graves et caractérisées** ayant contribué à faillite.
-
-**Exemples fautes** :
-- Comptabilité absente/falsifiée
-- Poursuite activité manifestement déficitaire
-- Non-paiement systématique créanciers publics
-- Détournement actifs
-- Faillites répétées
-
-**Procédure** :
-- Demande préventive (curateur, procureur, créancier) **avant** clôture
-- OU Tierce opposition (créancier lésé) **après** clôture (3 mois max)
-
-**Effet** : Dettes restent dues (ou partiellement). Failli poursuivable après clôture.
-
----
-
-### Sociétés : PAS d'effacement
-
-**Sociétés commerciales** (SPRL, SA, SNC...) **NE bénéficient PAS** effacement.
-
-**Après clôture** :
-- Société dissoute et liquidée
-- Dettes impayées **subsistent** (créanciers peuvent poursuivre société morte = inefficace)
-- Dirigeants peuvent être poursuivis personnellement (comblement passif si condamnés)
-
----
-
-## Fin du dessaisissement
-
-**Dessaisissement prend fin** à la clôture :
-
-✅ Failli redevient **libre de gérer** ses biens (futurs)
-
-✅ Peut **contracter**, vendre, acheter librement
-
-✅ Reprendre activité sans restriction (sauf interdiction de gérer)
-
-**MAIS** :
-- Biens **vendus** pendant faillite = Perdus définitivement
-- Seuls **nouveaux biens** (acquis après clôture) lui appartiennent
-
-➡️ [Reprendre une activité](../faillis/reprendre-activite.md)
-
----
-
-## La décharge de caution
-
-### Principe
-
-**Cautions** (personnes s'étant portées garantes pour dettes failli) **NE bénéficient PAS** de l'effacement du failli.
-
-**Créanciers peuvent** poursuivre cautions normalement après clôture faillite.
-
----
-
-### Exception : Décharge automatique (art. XX.173§4)
-
-**Si créancier n'a PAS déclaré** sûreté personnelle (caution) dans **délai 3 mois** depuis jugement faillite :
-
-✅ **Caution automatiquement déchargée** (libérée)
-
-**Objectif** : Inciter créanciers déclarer rapidement toutes garanties.
-
-{% hint style="danger" %}
-🚨 **Créanciers avec cautions** : Déclarez impérativement caution dans **3 mois** sinon perte garantie personnelle.
-{% endhint %}
-
----
-
-### Exception : Décharge pour cautionnement disproportionné (art. XX.173§5)
-
-**Caution peut demander décharge** si cautionnement **manifestement disproportionné** :
-
-**Critères appréciation** :
-- Montant cautionné >> Revenus/patrimoine caution
-- Aucun avantage personnel caution
-- Déséquilibre flagrant (ex : caution 100 000 € alors que revenus 1 500 €/mois)
-
-**Procédure** : Caution demande décharge au tribunal (appréciation souveraine juge)
-
-**Délai** : **6 mois** après jugement clôture **définitif** (appel épuisé)
-
----
-
-### Exception : Caution conjointe du failli
-
-**Si caution = Conjoint/cohabitant légal failli** :
-
-**Caution BÉNÉFICIE effacement** si :
-- Cohabitation **> 6 mois avant** jugement faillite
-- Caution était **obligée** aux dettes (régime matrimonial, solidarité légale)
-
-**Effet** : Créancier ne peut poursuivre ni failli, ni conjoint caution.
-
-➡️ [Effacement conjoint](../faillis/effacement.md#votre-conjointcohabitant-beneficie-aussi)
-
----
-
-## Réhabilitation (concept ancien, largement remplacé)
-
-**Réhabilitation** = Procédure permettant à failli **effacer** mention faillite (historiquement).
-
-**Depuis réforme 2018** : Concept largement vidé de substance (effacement automatique à clôture).
-
-**Reste** : Possibilité demander **radiation inscription REGSOL** après délai (30 ans archives publiques).
-
----
-
-## Conséquences pratiques clôture
-
-### Pour le failli
-
-✅ **Fin faillite** : Procédure terminée
-
-✅ **Dettes effacées** (si pas refus) : Nouveau départ
-
-✅ **Peut travailler/entreprendre** librement (sauf interdiction gérer)
-
-✅ **Levée dessaisissement** : Gère nouveaux biens
-
-❌ **Faillite reste consultable** REGSOL (archives publiques)
-
-❌ **Impact crédit** : Banques peuvent refuser crédits (historique)
-
-❌ **Interdiction gérer** : Continue si prononcée (max 10 ans)
-
----
+Les personnes morales — sociétés anonymes, sociétés à responsabilité limitée, sociétés en nom collectif, etc. — ne bénéficient d'aucun effacement de dettes. À la clôture, la société est dissoute et liquidée ; elle cesse d'exister juridiquement. Les dettes impayées subsistent en droit, mais elles sont en pratique inexécutables contre une entité qui n'existe plus. Les dirigeants peuvent, quant à eux, être poursuivis personnellement sur d'autres fondements, notamment l'action en comblement de passif, s'ils y ont été condamnés.
 
 ### Pour les créanciers
 
-✅ **Dividende perçu** (si liquidation complète)
+Pour les créanciers, la clôture marque la fin définitive de toute espérance de récupération dans le cadre de la procédure. Le solde impayé de leur créance reste juridiquement dû mais devient inexigible à l'encontre du failli personne physique en raison de l'effacement. Les créanciers peuvent en revanche déduire fiscalement leur perte sur créance irrécouvrable. Il leur appartient de se rapprocher de leur conseiller fiscal pour en connaître les modalités précises.
 
-✅ **Certitude fin** : Procédure close, pas d'espoir récupération supplémentaire
+## La décharge de caution
 
-✅ **Déduction fiscale** : Perte sur créance déductible (impôts)
+En principe, les cautions — personnes qui se sont portées garantes des dettes du failli — ne bénéficient pas de l'effacement accordé au débiteur principal. Un créancier peut donc, en théorie, poursuivre la caution après la clôture de la faillite pour le solde impayé, ce qui constitue une différence importante avec la situation du failli lui-même.
 
-❌ **Solde impayé** : Perdu définitivement (si effacement)
+Toutefois, la loi prévoit un mécanisme de décharge automatique au profit des cautions lorsque le créancier a omis de déclarer sa sûreté personnelle dans les délais requis. Pour en savoir plus sur ce sujet, consultez la page sur [la décharge de caution en cas de faillite](../creanciers/suretes-cautions.md).
 
-❌ **Poursuites impossibles** : Failli libéré (sauf refus effacement ou cautions)
+!!! warning "Le délai de 3 mois pour les sûretés personnelles"
+    Si un créancier dispose d'un cautionnement ou d'une autre sûreté personnelle et qu'il n'en a pas fait mention lors de sa déclaration de créance dans les trois mois suivant le jugement déclaratif, la caution est automatiquement déchargée de son engagement. Cette règle vise à inciter les créanciers à déclarer rapidement l'ensemble de leurs garanties, et elle peut avoir des conséquences très significatives pour des garants qui auraient autrement dû rembourser des sommes importantes.
 
----
+## La publication de la clôture
 
-### Pour le curateur
+Dans les quinze jours suivant le jugement de clôture, un extrait est publié au Moniteur belge et mis à jour dans le registre REGSOL. Cette publication fait courir les délais de recours pour les tiers. La faillite reste toutefois consultable dans les archives publiques de REGSOL pendant trente ans à compter du jugement déclaratif.
 
-✅ **Fin mandat** : Libéré responsabilité (si décharge)
+## Les recours après clôture
 
-✅ **Honoraires payés** : Taxation finale approuvée
-
-✅ **Archives** : Dossier archivé (conservation 30 ans)
-
----
-
-## Rouverte de faillite (très rare)
-
-**Si actifs découverts APRÈS clôture** :
-
-**Principe** : Faillite **ne rouvre PAS**.
-
-**MAIS** :
-- Si **effacement accordé** : Actifs appartiennent au failli (libéré)
-- Si **effacement refusé** : Actifs consignés CDC, créanciers peuvent réclamer à concurrence créance clôture
-
-**Condition** : Actifs **significatifs** (tribunaux apprécient au cas par cas)
-
-**Procédure** : Créanciers signalent, tribunal décide (rouverte exceptionnelle)
-
----
+Toute personne ayant un intérêt légitime peut former une tierce opposition contre le jugement de clôture dans un délai de trois mois à compter de sa publication au Moniteur belge. Les parties à la procédure disposent quant à elles d'un délai d'un mois pour interjeter appel. Une fois ces délais écoulés, le jugement acquiert force de chose jugée et la clôture devient définitivement irrévocable.
 
 ## Questions fréquentes
 
-### Combien de temps après faillite puis-je reprendre activité ?
+**Combien de temps après la faillite puis-je reprendre une activité ?**
 
-**Immédiatement** (dès jugement déclaratif, pas besoin attendre clôture).
+Il n'est pas nécessaire d'attendre la clôture pour reprendre une activité professionnelle. Dès le jugement déclaratif, le failli peut travailler et ses revenus futurs lui appartiennent. La clôture lève formellement le dessaisissement, mais l'exercice d'une activité salariée ou indépendante est possible bien avant, sous réserve d'une éventuelle interdiction de gérer prononcée par le tribunal.
 
-Vos revenus nouveaux vous appartiennent. Pas d'interdiction travailler.
+**La faillite disparaît-elle de REGSOL après la clôture ?**
 
-➡️ [Reprendre une activité](../faillis/reprendre-activite.md)
+Non. La faillite demeure consultable dans les archives publiques de REGSOL pendant trente ans à compter du jugement déclaratif. Ce n'est qu'à l'issue de ce délai de conservation que les données sont supprimées.
 
----
+**Peut-on obtenir un crédit après une faillite clôturée ?**
 
-### La faillite disparaît-elle de REGSOL après clôture ?
+Juridiquement, rien n'interdit à un ancien failli d'obtenir un crédit après la clôture. En pratique, les établissements bancaires consultent les archives disponibles et peuvent refuser ou limiter l'accès au crédit pendant plusieurs années. Des solutions alternatives existent, notamment le microcrédit auprès d'organismes spécialisés, ou la présentation de garanties solides.
 
-**Non**. Faillite reste consultable **30 ans** (archives publiques).
+**L'effacement des dettes supprime-t-il également une interdiction de gérer ?**
 
-Après 30 ans : Données supprimées (prescription archives).
+Non. L'effacement des dettes et l'interdiction de gérer sont deux effets juridiques distincts. L'effacement porte sur les dettes ; l'interdiction de gérer est une sanction prononcée séparément, qui continue de produire ses effets jusqu'à son terme (dix ans au maximum) ou jusqu'à ce qu'une levée anticipée soit accordée par le tribunal sur requête.
 
----
+## Pour aller plus loin
 
-### Puis-je obtenir crédit après faillite clôturée ?
-
-**Théoriquement oui**, mais **en pratique très difficile** :
-
-Banques vérifient historique (REGSOL consultable, Centrale Crédits BNB).
-
-**Solutions** :
-- Attendre quelques années (montrer nouvelle stabilité)
-- Microcrédit (organismes spécialisés)
-- Garanties solides (hypothèque, caution solvable)
-
----
-
-### L'effacement efface-t-il mon interdiction de gérer ?
-
-**Non**. Effacement = Dettes. Interdiction de gérer = Sanction distincte.
-
-**Si interdiction prononcée** : Continue jusqu'à durée écoulée (max 10 ans) ou levée anticipée (requête tribunal).
-
-➡️ [L'interdiction de gérer](../faillis/interdiction.md)
-
----
-
-## Ressources et prochaines étapes
-
-📖 **Comprendre la procédure** :
-- [Qu'est-ce qu'une faillite ?](definition-faillite.md)
-- [Les acteurs](acteurs.md)
-- [Le déroulement chronologique](deroulement-chronologique.md)
-- [Le dessaisissement](dessaisissement.md)
-- [La liquidation des actifs](liquidation-actifs.md)
-
-🔗 **Selon votre profil** :
-- **Je suis en faillite** : [L'effacement des dettes](../faillis/effacement.md)
-- **Je suis créancier** : [Le paiement (dividendes)](../creanciers/paiement-dividendes.md)
-
-🔗 **Pratique** :
-- [REGSOL](https://www.regsol.be) - Consulter dossier
-- [Glossaire](../glossaire.md) - Termes expliqués
-
----
-
-{% hint style="success" %}
-**À retenir sur la clôture** :
-
-✅ **2 types** : Insuffisance actif (70%, 6-12 mois) ou Liquidation complète (30%, 1-4 ans)
-✅ **Effacement automatique** : Dettes effacées (pers. phys., sauf fautes graves)
-✅ **Décharge caution** : Si créancier n'a pas déclaré dans 3 mois
-✅ **Fin dessaisissement** : Failli redevient libre gérer biens futurs
-✅ **REGSOL** : Faillite consultable 30 ans (archives publiques)
-{% endhint %}
+- [Le déroulement chronologique complet de la procédure](deroulement-chronologique.md)
+- [Le rôle du curateur jusqu'à la clôture](acteurs.md)
+- [La liquidation des actifs et la réalisation du patrimoine](liquidation-actifs.md)
+- [La fin du dessaisissement à la clôture](dessaisissement.md)
+- [L'effacement automatique des dettes pour les personnes physiques](../faillis/effacement.md)
+- [Le calcul et le paiement des dividendes aux créanciers](../creanciers/paiement-dividendes.md)
+- [La décharge de caution en cas de faillite](../creanciers/suretes-cautions.md)

@@ -3,364 +3,49 @@ description: Liquidation des actifs faillite - Vente mobilier, immeubles, going 
 keywords: liquidation faillite belgique, vente actifs faillite, going concern, comblement passif, actions responsabilité faillite
 ---
 
-# La liquidation des actifs
+# La liquidation des actifs : comment le curateur vend les biens du failli
 
-La **liquidation** consiste à **vendre tous les biens** de la masse faillie pour récupérer des fonds et payer les créanciers.
+La liquidation des actifs constitue le coeur économique de toute procédure de faillite. La mission du curateur est de convertir l'ensemble du patrimoine du failli en liquidités afin de désintéresser les créanciers. La méthode retenue dépend de la nature de chaque bien : les modalités applicables aux meubles diffèrent de celles qui s'imposent pour les immeubles ou pour une cession en continuité d'activité.
 
----
+## La vente des biens mobiliers
 
-## Objectif
+Les biens mobiliers — équipements, stocks, véhicules, mobilier de bureau — peuvent être vendus par le curateur sans qu'il soit nécessaire d'obtenir l'autorisation préalable du juge-commissaire. Trois formules principales s'offrent à lui : la vente publique par commissaire-priseur, qui garantit la transparence et met les acheteurs en concurrence ; la vente de gré à gré, plus rapide mais qui exige que le curateur justifie le prix obtenu ; la vente en bloc de l'ensemble d'un lot, adaptée lorsque la rapidité prime sur la maximisation du produit unitaire. Le critère déterminant est toujours le même : obtenir le meilleur prix dans un délai raisonnable, sans brader les actifs ni en conserver inutilement qui génèrent des frais.
 
-**Maxim iser le produit de liquidation** :
-- Vendre au **meilleur prix** possible
-- Dans **délai raisonnable** (pas vente bradée mais pas conservation coûteuse)
-- Modalités **adaptées** à chaque type bien
+## La vente des biens immobiliers
 
----
+Contrairement aux meubles, la vente d'un immeuble requiert l'autorisation préalable du juge-commissaire, rendue sous forme d'ordonnance. Deux voies sont possibles : la vente aux enchères publiques organisée devant notaire, qui offre une transparence maximale mais peut prendre de trois à six mois ; la vente de gré à gré, plus souple, qui nécessite une expertise préalable de l'immeuble, une négociation avec l'acheteur, l'autorisation du juge-commissaire sur la base du rapport d'expertise, puis l'homologation par le tribunal avant la signature de l'acte notarié. Le créancier hypothécaire de premier rang dispose d'un droit particulier : après le premier procès-verbal de vérification des créances, il peut procéder lui-même à la vente de l'immeuble grevé selon les règles de la saisie immobilière, le produit étant alors consigné à la Caisse des Dépôts et Consignations.
 
-## Vente du mobilier
+## La vente en going concern
 
-### Principe : Liberté du curateur
+Lorsque l'entreprise dispose encore d'une activité viable, la cession en continuité — ou going concern — est l'option à privilégier. Elle consiste à vendre l'entreprise comme un ensemble fonctionnel, en préservant les emplois, les contrats en cours et la clientèle, plutôt que de liquider les actifs pièce par pièce. Cette approche maximise la valeur récupérée pour les créanciers tout en sauvegardant des emplois. Elle requiert toutefois qu'un repreneur soit trouvé, que l'offre soit autorisée par le tribunal et que les dispositions de la CCT n° 32bis soient respectées pour la protection des travailleurs : ceux qui sont repris voient leur contrat se poursuivre avec le nouvel employeur avec conservation de leur ancienneté, tandis que ceux qui ne sont pas retenus sont licenciés avec accès aux indemnités du Fonds de Fermeture des Entreprises.
 
-Le curateur vend **librement** (pas d'autorisation juge-commissaire nécessaire).
+!!! note "Le going concern : une priorité quand c'est possible"
+    Le curateur examine systématiquement la possibilité d'une cession en continuité dès les premiers jours de la faillite. Lorsque l'activité est encore viable, il publie un appel à candidats repreneurs et présente les offres reçues au juge-commissaire pour autorisation. Cette démarche est engagée en parallèle des autres opérations de liquidation, car le temps est un facteur critique : plus l'entreprise perd de la valeur, moins la cession globale est attrayante pour les repreneurs potentiels.
 
-### Modalités
+## La réalisation des créances
 
-**Vente publique** (commissaire-priseur) :
-- Enchères publiques
-- Transparence (concurrence acheteurs)
-- Frais : Commission commissaire-priseur (% prix vente)
+Le patrimoine du failli ne se limite pas aux biens corporels : les sommes qui lui sont dues par des tiers constituent également des actifs. Le curateur encaisse l'ensemble des créances du failli — factures clients impayées, loyers, indemnités d'assurance, remboursements de TVA, subventions — en se substituant à lui vis-à-vis des débiteurs. Lorsqu'une créance est contestée ou de recouvrement incertain, le curateur évalue l'opportunité d'engager une procédure judiciaire en comparant les chances de succès au coût de l'action ; il peut aussi choisir de transiger ou de céder la créance à un tiers si cela sert mieux l'intérêt de la masse.
 
-**Vente gré à gré** (directe) :
-- Négociation avec acheteur identifié
-- Plus rapide
-- Risque sous-évaluation (curateur doit justifier prix)
+## Les droits incorporels
 
-**Vente en bloc** :
-- Lot complet (ex : tout stock magasin)
-- Gain temps
-- Prix global souvent < somme ventes unitaires
+Les actifs immatériels du failli — brevets, marques, noms de domaine, licences logicielles, bases de données clients — peuvent représenter une valeur significative et sont réalisés au même titre que les biens corporels. Le curateur procède à leur inventaire, fait évaluer les droits qui ont une valeur marchande et les cède aux conditions les plus avantageuses. Ces actifs nécessitent souvent une approche ciblée, notamment vers des acquéreurs du même secteur d'activité qui peuvent valoriser un portefeuille de clientèle ou une technologie propriétaire.
 
-**Vente unitaire** :
-- Pièce par pièce
-- Maximise prix si biens valeur
-- Plus long
+## Le calendrier et la réalisation progressive
 
-### Critère décision
+La liquidation n'est pas une opération instantanée : selon la complexité du dossier, elle peut s'étendre sur plusieurs mois, voire plusieurs années. Le curateur vend les actifs au moment le plus opportun sur le plan économique, en tenant compte des conditions de marché et de la nature de chaque bien. Les actifs simples — stocks, petits matériels — sont généralement réalisés rapidement, tandis que les immeubles, les litiges en cours ou les droits incorporels complexes demandent davantage de temps. Le curateur rend compte de l'avancement de la liquidation dans des rapports annuels déposés au greffe du tribunal, auxquels les créanciers ont accès.
 
-**Meilleur intérêt créanciers** = Prix max dans délai raisonnable
+## Ce que la liquidation signifie pour le failli
 
----
+Le failli est tenu de collaborer à l'inventaire des actifs et de fournir au curateur toutes les informations nécessaires à la réalisation du patrimoine. Il peut exprimer un avis sur les offres de reprise ou sur les conditions de vente, mais la décision appartient au curateur. Par ailleurs, les revenus et biens acquis par le failli après le jugement de faillite n'entrent pas dans la masse faillie : ils appartiennent à sa vie nouvelle. Pour plus de détails sur les droits du failli pendant cette période, voir [les droits du failli pendant la liquidation](../faillis/droits.md).
 
-## Vente des immeubles
+## Ce que la liquidation signifie pour les créanciers
 
-### Autorisation obligatoire
+Le produit de la liquidation alimente la masse dont sera prélevé le dividende distribué aux créanciers. L'ordre de paiement suit une cascade légale stricte : les créances de la masse (frais de procédure, rémunérations du curateur) sont payées en premier, suivies des créanciers privilégiés spéciaux, puis des créanciers hypothécaires selon leur rang, puis des créanciers privilégiaux généraux, et enfin des créanciers chirographaires au marc le franc. Pour une description complète de ce mécanisme, consultez la page dédiée à [le calcul et le paiement des dividendes aux créanciers](../creanciers/paiement-dividendes.md).
 
-Le curateur **doit** obtenir autorisation **juge-commissaire** (ordonnance).
+## Pour aller plus loin
 
-**Pourquoi ?** Immeubles = Actifs importants (contrôle renforcé)
-
-### Vente publique
-
-**Procédure** :
-- Cahier charges (description, conditions)
-- Publicité (affiches, annonces)
-- Séance enchères (notaire)
-- Adjudication au plus offrant
-
-**Avantages** : Transparence, concurrence
-
-**Inconvénients** : Délai long (3-6 mois), frais élevés
-
-### Vente gré à gré
-
-**Procédure** :
-1. **Expertise** immeuble (expert désigné)
-2. **Négociation** avec acheteur
-3. **Autorisation** juge-commissaire (prix ≥ expertise - X%)
-4. **Homologation** tribunal (jugement approuvant vente)
-5. **Acte notarié**
-
-**Avantages** : Plus rapide, moins frais
-
-**Inconvénients** : Risque sous-évaluation
-
-### Créancier hypothécaire 1er rang
-
-**Droit spécial** : Peut vendre **lui-même** l'immeuble grevé (après 1er PV vérification).
-
-**Procédure** :
-- Notification curateur et juge-commissaire
-- Vente selon règles saisie immobilière
-- Produit consigné CDC
-- Paiement selon rang hypothèques
-
----
-
-## Going concern (vente entreprise en activité)
-
-### Définition
-
-**Going concern** = Vente de l'entreprise **en activité** (avec emplois, contrats, clientèle) plutôt que liquidation pièce par pièce.
-
-### Avantages
-
-✅ **Prix supérieur** : Entreprise fonctionnelle vaut plus que somme actifs dispersés
-
-✅ **Emplois sauvés** : Travailleurs repris par acheteur
-
-✅ **Rapidité** : Une seule transaction vs multiples ventes
-
-✅ **Intérêt économique** : Maintien activité, savoir-faire
-
-### Conditions
-
-✅ **Repreneur trouvé** : Entreprise/entrepreneur intéressé
-
-✅ **Entreprise viable** : Activité peut continuer (clients, commandes, personnel compétent)
-
-✅ **Autorisation tribunal** : Jugement approuvant cession
-
-### Convention collective n°32bis
-
-**Protection travailleurs** lors cession entreprise en faillite :
-
-**Principe** : Nouvel employeur **n'est PAS obligé** reprendre tous travailleurs (contrairement cession hors faillite).
-
-**MAIS** :
-- **Informationconsultation** : Travailleurs informés, peuvent donner avis
-- **Critères objectifs** : Choix travailleurs repris = Critères non discriminatoires
-- **Délégué syndical** : Si présent, doit être informé
-
-**Conséquences** :
-- Travailleurs **non repris** : Licenciés (indemnités via FFE)
-- Travailleurs **repris** : Contrat continue avec nouvel employeur (ancienneté conservée)
-
-### Procédure
-
-1. **Recherche repreneurs** : Curateur publie offre (sites spécialisés, contacts secteur)
-2. **Offres** : Candidats soumettent propositions
-3. **Négociation** : Curateur négocie prix et conditions
-4. **Information travailleurs** : Consultation (CCT 32bis)
-5. **Autorisation tribunal** : Jugement homologuant cession
-6. **Transfert** : Acte de cession, prise effet
-
-### Prix going concern
-
-**Généralement** :
-- Actifs matériels (valeur comptable nette ou expertise)
-- **PLUS** Prime "going concern" (goodwill, clientèle, contrats)
-
-**Exemple** :
-- Actifs matériels : 50 000 €
-- Prime going concern : 30 000 €
-- **Prix total** : 80 000 €
-
----
-
-## Actions en récupération d'actifs
-
-### Nullité des actes de la période suspecte
-
-**Période suspecte** : Période avant faillite où certains actes sont annulables (protéger créanciers contre détournements).
-
-#### Nullité de plein droit (automatique)
-
-**Sans preuve fraude** :
-
-❌ **Paiements dettes non échues** (6 mois avant faillite)
-
-❌ **Paiements dettes échues** par moyens anormaux (10 jours avant jugement)
-- Exemple : Payer en nature (biens) au lieu argent
-
-❌ **Sûretés constituées** pour dettes antérieures (6 mois avant jugement)
-- Exemple : Hypothèque donnée pour ancien prêt
-
-#### Nullité facultative (si préjudice masse)
-
-**Avec preuve préjudice + connaissance état faillite** :
-
-⚖️ **Actes à titre gratuit** (donations) : Annulables si dans 6 mois ou 10 ans (selon valeur)
-
-⚖️ **Paiements** : Si créancier savait état faillite (favorisé injustement)
-
-⚖️ **Ventes vil prix** : Actifs vendus très en-dessous valeur
-
-**Délais action** : 6 mois à 3 ans selon type acte (depuis jugement faillite)
-
----
-
-### Revendications (biens tiers)
-
-**Propriétaires légitimes** peuvent récupérer leurs biens indûment dans masse.
-
-**Exemples** :
-
-🏠 **Leasing** : Société leasing revendique bien loué (voiture, machine)
-
-📦 **Clause réserve propriété** : Vendeur impayé revendique marchandises livrées
-
-🏭 **Dépôt/Consignation** : Déposant revendique stock en dépôt
-
-**Procédure** :
-1. **Déclaration rapide** au curateur (avant vente bien si possible)
-2. **Preuves propriété** (contrat, factures, clause)
-3. **Curateur vérifie** et restitue OU conteste
-4. **Si contestation** : Tribunal tranche
-
-**Délai** : Dès connaissance faillite (plus vite = mieux)
-
----
-
-### Actions en responsabilité contre dirigeants
-
-#### 1. Comblement de passif (art. XX.225 à XX.234)
-
-**Principe** : Dirigeants ayant commis **faute grave** ayant contribué à faillite peuvent être condamnés **personnellement** combler (partiellement ou totalement) le passif.
-
-**Fautes graves types** :
-
-❌ **Comptabilité** :
-- Absence totale comptabilité
-- Comptabilité gravement incomplète/irrégulière
-- Destruction documents comptables
-
-❌ **Gestion** :
-- Prélèvements personnels excessifs
-- Dépenses somptuaires (train vie luxueux sur fonds société)
-- Poursuite activité alors que manifestement déficitaire sans espoir
-
-❌ **Paiements** :
-- Non-paiement systématique créanciers publics (ONSS, TVA)
-- Paiements préférentiels proches/apparentés
-
-❌ **Actifs** :
-- Détournement actifs
-- Ventes vil prix à proches
-- Dilapidation patrimoine
-
-**Qui agit ?** :
-- Curateur (priorité)
-- Créanciers si curateur refuse (après sommation 1 mois)
-
-**Sanction** : Condamnation payer X euros à masse (montant = préjudice causé, partiel ou total passif)
-
-**Effet** : Somme versée masse → Augmente dividende créanciers
-
----
-
-#### 2. Responsabilité cotisations ONSS
-
-**Loi spéciale** : Dirigeants **responsables personnellement** arriérés ONSS sur patrimoine personnel.
-
-**Conditions** :
-- Arriérés ONSS société faillie
-- Faute dirigeant (négligence, non-paiement volontaire)
-
-**Qui agit ?** : ONSS directement ou curateur (subrogé)
-
----
-
-#### 3. Wrongful trading
-
-**Principe** : Poursuite **déraisonnable** activité alors que dirigeant savait (ou aurait dû savoir) faillite inévitable et que poursuite aggravait passif.
-
-**Conditions** :
-- Situation manifestement compromise (dettes > actifs, pertes récurrentes, crédit rompu)
-- Poursuite activité malgré tout
-- Aggravation passif (nouvelles dettes)
-
-**Sanction** : Responsabilité personnelle dirigeants = Montant aggravation passif
-
----
-
-## Encaissement créances
-
-### Créances dues au failli
-
-**Curateur** encaisse toutes sommes dues au failli :
-
-**Exemples** :
-- Factures clients impayées
-- Loyers dus (si failli bailleur)
-- Indemnités assurances
-- Remboursements TVA
-- Subventions dues
-
-**Procédure** :
-- Notification débiteurs (curateur représente masse)
-- Mise en demeure si non-paiement
-- Action justice si nécessaire (tribunal)
-
----
-
-### Créances douteuses/litigieuses
-
-**Si créance contestée** :
-
-**Curateur** décide :
-- Poursuivre action (si chances succès + montant enjeu > frais procédure)
-- Abandonner (si créance faible ou chances nulles)
-- Transiger (accord amiable montant réduit)
-
-**Critère** : Intérêt créanciers (maximiser récupération nette)
-
----
-
-## Dépôt fonds à la CDC
-
-**Obligation** : Curateur doit déposer fonds encaissés à **Caisse Dépôts Consignations** (CDC) dans **délai 1 mois**.
-
-**Pourquoi ?** : Sécurité (fonds publics, traçabilité, interdiction utilisation curateur)
-
-**Exceptions** : Sommes nécessaires gestion courante (paiement charges, frais) conservées sur compte masse.
-
----
-
-## Questions fréquentes
-
-### Curateur peut-il vendre à vil prix ?
-
-**Non**. Obligation vendre au **meilleur prix**.
-
-**Si vente douteuse** : Créanciers peuvent contester (juge-commissaire ou tribunal).
-
-### Puis-je acheter les actifs de ma propre faillite ?
-
-**Oui** (théoriquement), mais :
-- Vente publique (participation comme tout acquéreur) OU offre gré à gré
-- **Prouver origine légale fonds** (pas détournement)
-- Curateur très vigilant (risque sous-évaluation complice)
-
-**En pratique** : Rare et complexe.
-
-### Que se passe-t-il si aucun acheteur ?
-
-**Biens sans valeur** :
-- Curateur peut abandonner (laisser sur place)
-- Destruction si coût conservation > valeur
-
-**Immeubles invendables** :
-- Expertise à 0 € ou valeur très faible
-- Abandon ou vente symbolique (1 €)
-
----
-
-## Ressources
-
-📖 [Le dessaisissement](dessaisissement.md)
-📖 [Le déroulement chronologique](deroulement-chronologique.md)
-📖 [La clôture](cloture.md)
-🔗 [REGSOL](https://www.regsol.be)
-
----
-
-{% hint style="success" %}
-**À retenir** :
-
-💰 **Objectif** : Vendre au meilleur prix
-🏠 **Immeubles** : Autorisation juge-commissaire
-🏢 **Going concern** : Vente entreprise en activité (emplois sauvés)
-⚖️ **Actions responsabilité** : Comblement passif si fautes graves
-📊 **Encaissement créances** : Factures clients, indemnités
-{% endhint %}
+- [Le curateur et ses pouvoirs dans la liquidation](acteurs.md)
+- [Le jugement de clôture et la répartition finale](cloture.md)
+- [Le calcul et le paiement des dividendes aux créanciers](../creanciers/paiement-dividendes.md)
+- [La période suspecte et les nullités qui affectent les actifs](periode-suspecte.md)
+- [Les droits du failli pendant la liquidation](../faillis/droits.md)
