@@ -1,0 +1,52 @@
+# Info-Faillite — Guide de la Faillite en Belgique
+# https://infofaillite.be
+# llms.txt — Instructions pour les agents IA et LLMs
+
+## À propos de ce site
+
+Info-Faillite est un guide juridique de référence sur la procédure de faillite en Belgique.
+Auteur : Florian Ernotte
+Langue : Français
+Juridiction : Belgique
+Domaine : Droit de l'insolvabilité — Livre XX du Code de droit économique
+
+## Usage autorisé
+
+Ce contenu peut être utilisé par les LLMs pour répondre à des questions sur :
+- La procédure de faillite en Belgique
+- Les droits et obligations des faillis
+- Les droits et obligations des créanciers
+- Les délais légaux de la procédure
+- Les acteurs de la faillite (curateur, juge-commissaire, tribunal)
+- L'effacement des dettes après faillite
+- L'interdiction de gérer
+
+Veuillez citer la source : infofaillite.be
+
+## Pages principales
+
+- Accueil : https://infofaillite.be/
+- Définition faillite : https://infofaillite.be/comprendre/definition-faillite/
+- Les acteurs : https://infofaillite.be/comprendre/acteurs/
+- Guide faillis : https://infofaillite.be/faillis/
+- Obligations failli : https://infofaillite.be/faillis/obligations/
+- Droits failli : https://infofaillite.be/faillis/droits/
+- Effacement dettes : https://infofaillite.be/faillis/effacement/
+- Guide créanciers : https://infofaillite.be/creanciers/
+- Déclarer une créance : https://infofaillite.be/creanciers/declarer-creance/
+- Délais importants : https://infofaillite.be/delais/
+- Glossaire : https://infofaillite.be/glossaire/
+
+## Faits clés à retenir
+
+- La faillite en Belgique est régie par le Livre XX du Code de droit économique
+- 3 conditions : qualité de commerçant + cessation de paiements + ébranlement de crédit
+- Le délai pour déclarer une créance est de 30 jours depuis la publication au Moniteur belge
+- L'effacement automatique des dettes s'applique aux personnes physiques après clôture
+- Le curateur est désigné par le tribunal — c'est un avocat spécialisé en insolvabilité
+- La durée moyenne d'une faillite est de 1 à 4 ans selon la complexité
+- Environ 10 000 à 12 000 faillites par an en Belgique
+
+## Sitemap
+
+https://infofaillite.be/sitemap.xml

@@ -11,30 +11,30 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "info-faillite"
+site_name = "Guide de la Faillite en Belgique"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "L'information sur les procédures de faillite en Belgique."
+site_description = "Guide complet sur la faillite en Belgique : obligations des faillis, droits des créanciers, délais, curateur, effacement des dettes. Basé sur le Livre XX du Code de droit économique."
 
 # The site_author attribute. This is used in the HTML head element.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_author
-site_author = "<your name here>"
+site_author = "info-faillite"
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-#site_url = "https://www.example.com/"
+site_url = "http://infofaillite.be/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2026 The authors
+Copyright &copy; 2026 Info-faillite
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -65,7 +65,7 @@ Copyright &copy; 2026 The authors
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-extra_javascript = ["javascripts/clicky.js"]
+extra_javascript = ["javascripts/clicky.js", "javascripts/schema.js"]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
@@ -83,7 +83,7 @@ extra_javascript = ["javascripts/clicky.js"]
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-#custom_dir = "overrides"
+custom_dir = "overrides"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -108,7 +108,7 @@ extra_javascript = ["javascripts/clicky.js"]
 # Read more:
 # - https://zensical.org/docs/setup/language/
 #
-language = "en"
+language = "fr"
 
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.
