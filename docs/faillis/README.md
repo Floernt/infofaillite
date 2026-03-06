@@ -3,207 +3,64 @@ description: Vue d'ensemble pour les personnes en faillite - Ce que cela signifi
 keywords: failli belgique, dessaisissement, biens faillite, durée faillite, que faire faillite
 ---
 
-# Je suis en faillite - Vue d'ensemble
+# Je suis en faillite : par où commencer ?
 
-Vous êtes failli ou dirigeant d'une entreprise déclarée en faillite ? Cette section vous explique concrètement ce que cela signifie et ce qui vous attend.
-
----
-
-## Qu'est-ce que cela signifie être en faillite ?
-
-La faillite est une **procédure judiciaire** prononcée par le [tribunal de l'entreprise](../comprendre/acteurs.md#le-tribunal-de-lentreprise) lorsqu'une entreprise ne peut plus payer ses dettes.
-
-### Concrètement, cela signifie que :
-
-✅ Vous êtes **dessaisi** de la gestion de vos biens
-✅ Un [**curateur**](../glossaire.md#curateur) (avocat spécialisé) prend en charge votre patrimoine
-✅ Vos **biens sont vendus** pour payer les créanciers
-✅ Vous conservez certains **droits** et pouvez bénéficier de l'**effacement des dettes**
-
-{% hint style="warning" %}
-**Important** : Être en faillite N'est PAS la fin de tout. C'est une procédure encadrée qui peut vous permettre de repartir sur de nouvelles bases.
-{% endhint %}
+Le jugement vient d'être prononcé. Vous avez probablement de nombreuses questions : qu'est-ce que cela change concrètement ? Que va-t-il se passer ? Que pouvez-vous encore faire ? Ce guide vous explique l'essentiel pour comprendre votre situation et prendre les bonnes décisions dès maintenant.
 
 ---
 
-## Le dessaisissement expliqué simplement
+## Ce que le jugement change immédiatement
 
-Le **dessaisissement** est l'effet principal de la faillite.
+Dès le prononcé du jugement déclaratif de faillite, vous êtes dessaisi de la gestion de vos biens. Cela signifie que vous ne pouvez plus vendre, acheter, payer ou encaisser au nom de votre activité. Un curateur — un avocat spécialisé désigné par le tribunal — prend en charge votre patrimoine professionnel pour l'inventorier, le vendre et distribuer le produit aux créanciers.
 
-### Qu'est-ce que c'est ?
-
-Dès le [jugement de faillite](../comprendre/deroulement-chronologique.md), vous **perdez le droit de gérer vos biens** :
-
-- ✋ Vous ne pouvez plus vendre, acheter, engager des dépenses
-- ✋ Vous ne pouvez plus gérer vos comptes bancaires professionnels
-- ✋ Vous ne pouvez plus disposer de votre fonds de commerce
-
-### Que devient votre rôle ?
-
-Le [curateur](../glossaire.md#curateur) **prend votre place** pour :
-
-- 📦 Inventorier tous vos biens
-- 💰 Gérer et vendre vos actifs
-- 💳 Payer les créanciers avec le produit des ventes
-
-{% hint style="info" %}
-**Bon à savoir** : Vous restez **propriétaire** de vos biens. Le curateur est simplement le gestionnaire temporaire le temps de la procédure.
-{% endhint %}
-
-➡️ [En savoir plus sur le dessaisissement](../comprendre/dessaisissement.md)
+Vous restez propriétaire de vos biens, mais c'est le curateur qui en assure la gestion jusqu'à la clôture de la procédure. Vous conservez en revanche vos biens personnels insaisissables — vêtements, literie, mobilier indispensable — et, surtout, tous les revenus que vous générerez à partir de maintenant : salaires, honoraires, allocations. Ces revenus futurs ne tombent pas dans la masse faillie. Pour comprendre dans le détail ce qui entre ou non dans la masse, consultez [les effets du dessaisissement sur vos biens](../comprendre/dessaisissement.md).
 
 ---
 
-## Vos biens : ce qui est pris, ce qui reste
+## Vos deux priorités immédiates
 
-### ❌ Ce qui ENTRE dans la masse (vendu par le curateur)
+**Comprendre vos obligations**, d'abord. La procédure impose des exigences précises : remettre vos documents comptables, répondre aux convocations dans les 48 heures, assister à l'inventaire, ne plus toucher aux comptes professionnels. Ne pas les respecter expose à des sanctions lourdes, notamment le refus de l'effacement des dettes et une interdiction de gérer. Lisez attentivement [vos obligations légales pour éviter les sanctions](obligations.md) et, pour ne rien oublier, la [checklist pratique pour la première semaine](checklist-premiere-semaine.md).
 
-**Tous vos biens professionnels** :
-- Stocks, marchandises, matériel
-- Immeubles professionnels (bureaux, entrepôts)
-- Véhicules de société
-- Fonds de commerce
-- Créances clients
-
-**Vos biens personnels saisissables** :
-- Comptes bancaires personnels (soldes au jour J)
-- Biens immobiliers personnels
-- Véhicules personnels de valeur
-- Objets de valeur
-
-### ✅ Ce qui RESTE HORS de la masse (vous le gardez)
-
-**Biens insaisissables légaux** :
-- ✔️ Vêtements et effets personnels ordinaires
-- ✔️ Literie, linge de maison nécessaire
-- ✔️ Meubles meublants indispensables (table, chaises, lit, réfrigérateur)
-- ✔️ Objets à caractère personnel (photos, souvenirs)
-
-**Revenus futurs** :
-- ✔️ Salaires de votre **nouvelle activité** (après le jugement)
-- ✔️ Revenus de remplacement (chômage, mutuelle) après faillite
-- ✔️ Biens acquis après le jugement (héritage, donation reçue pendant la faillite)
-
-{% hint style="success" %}
-**Votre avenir est préservé** : Tous les revenus que vous gagnerez pendant et après la faillite vous appartiennent. Seuls les biens existants au moment du jugement sont concernés.
-{% endhint %}
+**Connaître vos droits**, ensuite. La faillite ne vous prive pas de tout. Vous pouvez donner votre avis sur la vente de vos actifs, demander un secours alimentaire si vous êtes dans le besoin, contester des créances injustifiées, travailler immédiatement, et recevoir des informations sur l'avancement de votre dossier. Découvrez [les droits que vous conservez malgré la faillite](droits.md).
 
 ---
 
-## Combien de temps dure une faillite ?
+## L'effacement des dettes : votre perspective de nouveau départ
 
-La durée varie **fortement** selon la complexité de votre dossier.
+L'un des aspects les plus importants de la faillite pour les personnes physiques est l'effacement des dettes. À la clôture de la procédure, toutes vos dettes professionnelles impayées sont automatiquement effacées — sans démarche de votre part. Vous repartez sans le poids du passé, libéré des poursuites des anciens créanciers.
 
-### Durées moyennes
-
-| Type de faillite | Durée typique | Exemples |
-|------------------|---------------|----------|
-| **Insuffisance d'actif** | 6 à 12 mois | Aucun bien à vendre, dossier simple |
-| **Faillite simple** | 1 à 2 ans | Quelques actifs mobiliers à liquider |
-| **Faillite moyenne** | 2 à 3 ans | Immeubles, stocks importants |
-| **Faillite complexe** | 3 à 5 ans (ou +) | Procès en cours, going concern, litiges |
-
-### Ce qui influence la durée
-
-📊 **Complexité des actifs** : Vendre un immeuble prend plus de temps que liquider des stocks
-⚖️ **Procès en cours** : Actions en responsabilité contre les dirigeants, contestations de créances
-💼 **Going concern** : Tentative de vente de l'entreprise en activité
-📝 **Nombre de créanciers** : Plus il y a de créances, plus la vérification est longue
+Ce droit n'est pas garanti : il peut être refusé si vous avez commis des fautes graves ou si vous n'avez pas collaboré avec le curateur. Coopérer activement est donc dans votre intérêt direct. Pour tout comprendre sur ce mécanisme, consultez la page sur [l'effacement automatique de vos dettes à la clôture](effacement.md).
 
 ---
 
-## Puis-je sortir d'une faillite ?
+## Reprendre une activité : c'est possible dès maintenant
 
-### Appel du jugement de faillite
-
-Vous pouvez **faire appel** du jugement dans le **mois** suivant le prononcé si vous estimez ne pas être en état de faillite.
-
-{% hint style="warning" %}
-⚠️ **Attention** : L'appel **ne suspend PAS** la procédure. Le curateur continue son travail même si vous faites appel.
-{% endhint %}
-
-Consultez rapidement un avocat si vous souhaitez contester.
-
-### Apurement des dettes (rare en pratique)
-
-Théoriquement, si vous ou un tiers payez **toutes** les dettes et frais de la faillite, celle-ci peut être clôturée rapidement. En pratique, c'est extrêmement rare.
-
-### Issue normale : la clôture
-
-Dans la majorité des cas, vous attendez :
-
-1. ✅ La [**liquidation de tous les actifs**](../comprendre/liquidation-actifs.md)
-2. ✅ Le [**paiement des créanciers**](../creanciers/paiement-dividendes.md)
-3. ✅ Le [**jugement de clôture**](../comprendre/cloture.md)
-4. ✅ L'[**effacement automatique**](effacement.md) de vos dettes restantes (personnes physiques)
-
-➡️ [Comprendre la clôture de la faillite](../comprendre/cloture.md)
+Contrairement à une idée répandue, la faillite ne vous empêche pas de travailler. Vous pouvez vous mettre au service d'un employeur comme salarié dès le lendemain du jugement, lancer une nouvelle activité indépendante ou créer une nouvelle société — à condition de ne pas faire l'objet d'une interdiction de gérer. Consultez la page [reprendre une activité professionnelle dès maintenant](reprendre-activite.md) pour connaître les précautions pratiques à prendre.
 
 ---
 
-## Ce que vous devez faire maintenant
+## Les pages de ce guide
 
-### ⚡ Actions immédiates
+**[Vos obligations immédiates](obligations.md)** détaille tout ce que vous devez faire pendant la procédure : remise des documents, réponse aux convocations, présence à l'inventaire. C'est la page à lire en premier.
 
-1. 📞 **Contacter le curateur** désigné dans le jugement (coordonnées sur [REGSOL](https://www.regsol.be))
-2. 📦 **Rassembler tous vos documents** (comptabilité, contrats, relevés bancaires)
-3. 📋 **Préparer un inventaire** mental de tous vos biens et dettes
-4. ✉️ **Répondre à toutes les convocations** du curateur et du juge-commissaire
+**[La checklist pratique pour la première semaine](checklist-premiere-semaine.md)** vous donne un plan d'action chronologique jour par jour, pour ne rien oublier dans les jours critiques qui suivent le jugement.
 
-➡️ [**Vos obligations détaillées**](obligations.md)
+**[Vos droits](droits.md)** liste les droits que vous conservez malgré la faillite : être entendu sur la vente de vos actifs, demander un secours alimentaire, contester des créances, accéder à votre dossier.
 
-### 📖 Continuer votre lecture
+**[L'effacement des dettes](effacement.md)** explique ce mécanisme essentiel : quelles dettes sont effacées, quelles exceptions existent, et comment préserver votre droit à l'effacement.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📌 Vos obligations</h4>
-      <p>Ce que vous <strong>devez faire</strong> obligatoirement</p>
-      <p><a href="obligations.md">→ Lire</a></p>
-    </td>
-    <td width="50%">
-      <h4>✅ Vos droits</h4>
-      <p>Ce que vous <strong>pouvez demander</strong></p>
-      <p><a href="droits.md">→ Lire</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>💸 Effacement des dettes</h4>
-      <p>Comment bénéficier de l'effacement automatique</p>
-      <p><a href="effacement.md">→ Lire</a></p>
-    </td>
-    <td>
-      <h4>🚀 Reprendre une activité</h4>
-      <p>Vous <strong>pouvez</strong> travailler et créer une nouvelle activité</p>
-      <p><a href="reprendre-activite.md">→ Lire</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>⛔ Interdiction de gérer</h4>
-      <p>Qu'est-ce que c'est et comment l'éviter</p>
-      <p><a href="interdiction.md">→ Lire</a></p>
-    </td>
-    <td>
-      <h4>❓ FAQ</h4>
-      <p>Questions fréquentes des faillis</p>
-      <p><a href="faq.md">→ Lire</a></p>
-    </td>
-  </tr>
-</table>
+**[Reprendre une activité](reprendre-activite.md)** couvre vos possibilités de rebond : emploi salarié, activité indépendante, nouvelle société, droit passerelle pour indépendants.
+
+**[L'interdiction de gérer](interdiction.md)** explique ce qu'est cette sanction, comment elle est prononcée, comment l'éviter, et ce que vous pouvez encore faire si vous en faites l'objet.
+
+**[La foire aux questions](faq.md)** répond aux questions les plus courantes des personnes en faillite.
 
 ---
 
-## Ressources utiles
+## Pour aller plus loin
 
-- 📅 [Délais importants](../delais.md) - Ne ratez aucun délai crucial
-- 📖 [Glossaire](../glossaire.md) - Comprendre le vocabulaire juridique
-- 🔗 [REGSOL](https://www.regsol.be) - Consulter votre dossier de faillite en ligne
-- 📞 [Ressources officielles](../ressources.md) - Contacts et liens utiles
-
----
-
-{% hint style="info" %}
-**Prochaine étape recommandée** : Lisez attentivement vos [**obligations immédiates**](obligations.md) pour savoir exactement ce que vous devez faire dès maintenant.
-{% endhint %}
+- [Le rôle du curateur et des acteurs de la procédure](../comprendre/acteurs.md)
+- [Le déroulement chronologique de la procédure](../comprendre/deroulement-chronologique.md)
+- [Comprendre le dessaisissement](../comprendre/dessaisissement.md)
+- [Les délais importants à ne pas manquer](../delais.md)
+- [Votre dossier sur REGSOL](https://www.regsol.be)

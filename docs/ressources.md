@@ -1,407 +1,147 @@
 ---
-description: Ressources officielles faillite Belgique - Liens REGSOL, tribunaux, SPF Justice, organismes aide, textes légaux
-keywords: ressources faillite belgique, REGSOL lien, tribunaux entreprise, SPF Justice, aide faillite, contact curateur
+description: Ressources officielles et contacts utiles pour la faillite en Belgique - REGSOL, tribunaux, SPF Justice, organismes d'aide, textes légaux
+keywords: ressources faillite belgique, REGSOL, tribunaux entreprise belgique, SPF Justice faillite, aide faillite indépendant, Fonds Fermeture Entreprises
 ---
 
-# Ressources officielles
+# Ressources et organismes utiles
 
-Tous les **liens officiels et contacts utiles** pour naviguer dans une procédure de faillite en Belgique.
-
----
-
-## 🔍 Bases de données et registres officiels
-
-### REGSOL - Registre Central de la Solvabilité
-
-**Site** : [www.regsol.be](https://www.regsol.be)
-
-**Accès** : Gratuit, création compte en ligne
-
-**Fonctionnalités** :
-- ✅ Consulter dossiers faillite (coordonnées curateur, dates PV, rapports)
-- ✅ **Déclarer créance en ligne** (recommandé)
-- ✅ Suivre état vérification créances
-- ✅ Télécharger rapports annuels curateur
-- ✅ Consulter état répartition (dividendes)
-- ✅ Recherche par nom entreprise, n° BCE, nom curateur
-
-{% hint style="success" %}
-💡 **REGSOL = Outil essentiel** pour suivre procédure faillite en temps réel.
-{% endhint %}
+Cette page rassemble les liens officiels, contacts et organismes d'aide utiles pour naviguer dans une procédure de faillite en Belgique — que vous soyez failli ou créancier.
 
 ---
+
+## Les outils essentiels de suivi
+
+### REGSOL — Registre Central de Solvabilité
+
+[REGSOL](https://www.regsol.be) est le registre officiel belge de toutes les procédures de faillite et de réorganisation judiciaire. C'est votre outil de référence tout au long de la procédure. Après création d'un compte gratuit (via eID ou itsme), vous pouvez déclarer votre créance en ligne, consulter les coordonnées du curateur et du juge-commissaire, suivre l'état de vérification de votre créance, télécharger les rapports annuels du curateur et consulter l'état de répartition en fin de procédure.
 
 ### Moniteur belge
 
-**Site** : [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be/cgi/welcome.pl)
+Le [Moniteur belge](https://www.ejustice.just.fgov.be/cgi/welcome.pl) publie les jugements déclaratifs de faillite dans les cinq jours suivant leur prononcé. C'est à partir de cette publication que les délais courent — notamment le délai de trente jours pour déclarer votre créance. Consultez la rubrique "Faillites" en recherchant par nom d'entreprise ou par numéro BCE.
 
-**Utilité** :
-- ✅ Vérifier publications faillites (jugements déclaratifs, clôtures)
-- ✅ Recherche par nom entreprise
-- ✅ Publications dans 5 jours jugement faillite
+### JustBan — Registre des interdictions de gérer
 
----
-
-### JustBan - Registre interdictions de gérer
-
-**Site** : [www.juridat.be](https://www.juridat.be) (section JustBan)
-
-**Utilité** :
-- ✅ Vérifier si personne interdite de gérer
-- ✅ Consultation gratuite
-- ✅ Données conservées 30 ans après fin interdiction
+Le registre [JustBan](https://www.juridat.be) (accessible via juridat.be) vous permet de vérifier si une personne fait l'objet d'une interdiction de gérer. La consultation est gratuite. Les données sont conservées pendant trente ans après la fin de l'interdiction.
 
 ---
 
-## ⚖️ Tribunaux de l'entreprise
+## Tribunaux de l'entreprise
 
-### Liste complète par arrondissement
+Le tribunal de l'entreprise compétent est celui du siège social de l'entreprise faillie (ou du domicile du commerçant personne physique). Vous trouverez les coordonnées de l'ensemble des tribunaux sur [www.rechtbanken-tribunaux.be](https://www.rechtbanken-tribunaux.be).
 
-**Bruxelles (francophone)**
-- Tribunal de l'entreprise francophone de Bruxelles
-- Boulevard de l'Empereur 1, 1000 Bruxelles
-- Tél. : +32 2 508 61 11
-- Site : [www.rechtbanken-tribunaux.be](https://www.rechtbanken-tribunaux.be)
+**Quelques tribunaux principaux :**
 
-**Brabant wallon**
-- Tribunal de l'entreprise du Brabant wallon
-- Place Albert 1er 1, 1400 Nivelles
-- Tél. : +32 67 89 41 11
-
-**Hainaut (divisions)**
-- **Charleroi** : Boulevard Audent 4, 6000 Charleroi - Tél. : +32 71 63 21 11
-- **Mons** : Rue des Droits de l'Homme 1, 7000 Mons - Tél. : +32 65 38 11 11
-- **Tournai** : Rue des Augustins 2, 7500 Tournai - Tél. : +32 69 88 14 11
-
-**Liège (divisions)**
-- **Liège** : Quai Saint-Léonard 8, 4000 Liège - Tél. : +32 4 220 61 11
-- **Verviers** : Rue du Tribunal 4, 4800 Verviers - Tél. : +32 87 32 35 11
-- **Huy** : Quai d'Arona 4, 4500 Huy - Tél. : +32 85 27 64 11
-- **Eupen** : Kaperberg 6, 4700 Eupen - Tél. : +32 87 59 14 00
-
-**Luxembourg**
-- Tribunal de l'entreprise du Luxembourg
-- Place Léopold 1, 6700 Arlon
-- Tél. : +32 63 23 08 11
-
-**Namur**
-- Tribunal de l'entreprise de Namur
-- Place du Palais de Justice 5, 5000 Namur
-- Tél. : +32 81 72 51 11
-
-**Flandre** (néerlandophone)
-- [Liste complète](https://justitie.belgium.be/nl/rechtscolleges/hoven_en_rechtbanken/ondernemingsrechtbanken)
-
-**Compétence territoriale** : Tribunal du siège social entreprise (ou domicile commerçant personne physique).
+- **Bruxelles (francophone)** — Boulevard de l'Empereur 1, 1000 Bruxelles — +32 2 508 61 11
+- **Liège** — Quai Saint-Léonard 8, 4000 Liège — +32 4 220 61 11
+- **Charleroi** — Boulevard Audent 4, 6000 Charleroi — +32 71 63 21 11
+- **Mons** — Rue des Droits de l'Homme 1, 7000 Mons — +32 65 38 11 11
+- **Namur** — Place du Palais de Justice 5, 5000 Namur — +32 81 72 51 11
+- **Arlon** — Place Léopold 1, 6700 Arlon — +32 63 23 08 11
+- **Brabant wallon (Nivelles)** — Place Albert 1er 1, 1400 Nivelles — +32 67 89 41 11
 
 ---
 
-## 🏛️ Autorités et institutions
+## Autorités et organismes publics
 
 ### SPF Justice
 
-**Site** : [justice.belgium.be](https://justice.belgium.be)
-
-**Informations** :
-- Procédures insolvabilité (faillite, RJ)
-- Coordonnées tribunaux
-- Textes légaux
-- Formulaires types
-
-**Contact général** : info.justice@just.fgov.be
-
----
-
-### SPF Économie (BCE)
-
-**Site** : [economie.fgov.be](https://economie.fgov.be)
-
-**Banque-Carrefour Entreprises** :
-- Vérification numéro entreprise (BCE)
-- Statut juridique entreprise
-
-**Lien BCE public** : [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl) (section BCE)
-
----
+Le [SPF Justice](https://justice.belgium.be) publie des informations sur les procédures d'insolvabilité, les coordonnées des tribunaux et les textes légaux applicables. Contact général : info.justice@just.fgov.be.
 
 ### Caisse des Dépôts et Consignations (CDC)
 
-**Site** : [www.cdcdepot.be](https://www.cdcdepot.be)
+La [CDC](https://www.cdcdepot.be) conserve les fonds de la masse faillie déposés par le curateur et verse les dividendes aux créanciers après homologation de l'état de répartition. Si vous n'avez pas reçu votre dividende ou si vous avez perdu votre IBAN, contactez la CDC directement. Les fonds consignés sont conservés trente ans avant prescription.
 
-**Rôle** :
-- Conservation fonds faillite
-- Paiement dividendes créanciers
-
-**Réclamations** :
-- Formulaire en ligne
-- Contact : cdcdepot@minfin.fed.be
+- Site : [www.cdcdepot.be](https://www.cdcdepot.be)
 - Tél. : +32 2 233 75 11
+- Email : cdcdepot@minfin.fed.be
+
+### ONSS — Office National de Sécurité Sociale
+
+L'[ONSS](https://www.onss.be) gère les cotisations sociales dues par les employeurs. En cas de faillite, l'ONSS déclare lui-même sa créance privilégiée. Contact : info@onss.fgov.be — +32 2 509 30 00.
+
+### INASTI — Statut social des indépendants
+
+L'[INASTI](https://www.inasti.be) informe les indépendants sur leur statut social, notamment sur le droit passerelle en cas de faillite. Contact : info@rsvz-inasti.fgov.be — +32 2 546 42 11.
 
 ---
 
-## 💼 Organismes aide et soutien
+## Aide aux travailleurs licenciés
 
-### Pour faillis / Entrepreneurs en difficulté
+### Fonds de Fermeture des Entreprises (FFE)
 
-**1819** (Bruxelles)
-- Site : [www.1819.brussels](https://www.1819.brussels)
-- Conseil gratuit entrepreneurs
-- Aide création/redémarrage activité
-- Formations
-- Tél. : 1819 (gratuit depuis Bruxelles)
+Le FFE intervient rapidement pour payer aux travailleurs licenciés leurs arriérés de salaire (jusqu'à trois mois), leurs indemnités de préavis, leurs pécules de vacances et leurs indemnités de licenciement — sans attendre la clôture de la faillite. Introduisez votre demande dès que possible.
 
-**UCM** (Union Classes Moyennes - Wallonie)
-- Site : [www.ucm.be](https://www.ucm.be)
-- Accompagnement entrepreneurs
-- Conseil juridique, comptable
-- Formations
-
-**UNIZO** (Flandre)
-- Site : [www.unizo.be](https://www.unizo.be)
-- Soutien indépendants et PME flamandes
-
----
-
-### Microcrédit et financement
-
-**MicroStart**
-- Site : [www.microstart.be](https://www.microstart.be)
-- Microcrédit personnes exclues crédit bancaire
-- Montants jusqu'à 25 000 €
-- Accompagnement personnalisé
-- Tél. : +32 2 896 97 00
-
-**Crédal**
-- Site : [www.credal.be](https://www.credal.be)
-- Microfinance éthique
-- Prêts solidaires
-- Tél. : +32 2 511 09 00
-
----
-
-### Coopératives d'activités
-
-**Smart**
-- Site : [www.smartbe.be](https://www.smartbe.be)
-- Coopérative activités (statut salarié tout en étant indépendant)
-- Gestion administrative simplifiée
-- Tél. : +32 2 546 35 00
-
-**Coopcity**
-- Site : [www.coopcity.be](https://www.coopcity.be)
-- Coopérative d'entrepreneur·es
-
----
-
-### Pour travailleurs licenciés
-
-**Fonds Fermeture Entreprises (FFE)**
 - Site : [www.fermeture.belgium.be](https://www.fermeture.belgium.be)
-- Indemnités licenciement, arriérés salaires
-- Préavis, pécule vacances
-- Formulaires en ligne
-- Contact : info.fermeture@rva.be
+- Email : info.fermeture@rva.be
 - Tél. : +32 2 515 44 44
 
-**ONEM** (Office National Emploi)
-- Site : [www.onem.be](https://www.onem.be)
-- Allocations chômage
-- Reclassement professionnel
+### ONEM — Allocations de chômage
+
+Si vous avez perdu votre emploi suite à la faillite, l'[ONEM](https://www.onem.be) traite votre dossier d'allocations de chômage et organise votre reclassement professionnel.
 
 ---
 
-### Formation et réinsertion
+## Aide aux indépendants et entrepreneurs en difficulté
 
-**FOREM** (Wallonie)
-- Site : [www.leforem.be](https://www.leforem.be)
-- Formations professionnelles gratuites
-- Aide recherche emploi
-- Allocations formation
+### 1819 — Conseil aux entrepreneurs (Bruxelles)
 
-**VDAB** (Flandre)
-- Site : [www.vdab.be](https://www.vdab.be)
-- Idem Flandre
+[1819](https://www.1819.brussels) offre un conseil gratuit aux entrepreneurs bruxellois : orientation sur les procédures, accompagnement à la création ou au redémarrage d'activité. Accessible par téléphone au 1819 (gratuit depuis Bruxelles) ou en ligne.
 
-**Actiris** (Bruxelles)
-- Site : [www.actiris.brussels](https://www.actiris.brussels)
-- Idem Bruxelles
+### UCM — Union des Classes Moyennes (Wallonie et Bruxelles)
 
----
+L'[UCM](https://www.ucm.be) accompagne les indépendants et PME wallonnes et bruxelloises : conseil juridique, comptable, administratif, et aide en cas de difficultés financières.
 
-### Aide sociale
+### UNIZO (Flandre)
 
-**CPAS** (Centre Public Action Sociale)
-- Présent dans chaque commune
-- Aide financière (revenu intégration)
-- Accompagnement social
-- Recherche : [www.mi-is.be](https://www.mi-is.be/fr/etudes-et-statistiques/centre-public-daction-sociale-cpas) (liste CPAS)
+[UNIZO](https://www.unizo.be) soutient les indépendants et PME flamandes, notamment en cas de difficulté ou de cessation d'activité.
+
+### Netwerk Ondernemen
+
+[Netwerk Ondernemen](https://www.netwerk-ondernemen.be) propose un accompagnement entrepreneurial et un réseau de soutien pour les entrepreneurs en difficulté.
 
 ---
 
-## 📚 Textes légaux et documentation
+## Formation et réinsertion professionnelle
 
-### Législation principale
-
-**Livre XX Code de droit économique** (Faillite)
-- Articles XX.1 à XX.235
-- Site : [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be)
-- Recherche : "Code droit économique Livre XX"
-
-**Arrêtés d'application** :
-- AR 26 avril 2018 (honoraires curateurs)
-- AR 26 avril 2018 (professions libérales)
-
-**Code judiciaire** (procédure, biens insaisissables)
-- Articles 1408-1412 (insaisissabilité)
+- **FOREM** (Wallonie) — [www.leforem.be](https://www.leforem.be) — Formations gratuites, aide à la recherche d'emploi
+- **VDAB** (Flandre) — [www.vdab.be](https://www.vdab.be) — Équivalent flamand du FOREM
+- **Actiris** (Bruxelles) — [www.actiris.brussels](https://www.actiris.brussels) — Accompagnement vers l'emploi à Bruxelles
 
 ---
 
-### Documentation officielle
+## Aide sociale d'urgence
 
-**Vademecum Tribunal Liège** (technique, pour professionnels)
-- Document référence curateurs/juges (80 pages)
-- Base de ce GitBook
-
-**Circulaires SPF Justice** :
-- Disponibles sur [justice.belgium.be](https://justice.belgium.be)
+Le CPAS (Centre Public d'Action Sociale) de votre commune peut vous apporter une aide financière d'urgence (revenu d'intégration sociale), un accompagnement social et une orientation vers d'autres aides. Vous trouverez les coordonnées de votre CPAS sur [www.mi-is.be](https://www.mi-is.be).
 
 ---
 
-## 👨‍⚖️ Ordres professionnels
+## Microcrédit et financement post-faillite
 
-### Ordre des barreaux francophones et germanophone (OBFG)
+Si vous souhaitez relancer une activité après votre faillite et que les banques classiques refusent de vous financer, des organismes de microfinance peuvent vous aider :
 
-**Site** : [www.obfg.be](https://www.obfg.be)
-
-**Recherche avocat** :
-- Spécialité : Droit insolvabilité
-- Annuaire en ligne
-
-**Bureau assistance juridique** :
-- Aide juridique gratuite (sous conditions revenus)
+- **MicroStart** — [www.microstart.be](https://www.microstart.be) — Prêts jusqu'à 25 000 € avec accompagnement
+- **Crédal** — [www.credal.be](https://www.credal.be) — Microfinance éthique et prêts solidaires
 
 ---
 
-### Barreaux locaux
+## Trouver un avocat spécialisé
 
-**Barreau de Liège** : [www.barreaudeliege.be](https://www.barreaudeliege.be)
-**Barreau de Bruxelles** : [www.barreaudebruxelles.be](https://www.barreaudebruxelles.be)
-**Barreau du Brabant wallon** : [www.barreaubw.be](https://www.barreaubw.be)
-**Barreau de Namur** : [www.barreaudenamur.be](https://www.barreaudenamur.be)
-
-(Liste complète sur site OBFG)
+Pour une situation complexe — contestation de créance, action en responsabilité contre des dirigeants, appel d'un jugement —, un avocat spécialisé en droit de l'insolvabilité est indispensable. L'Ordre des barreaux francophones et germanophone ([www.obfg.be](https://www.obfg.be)) propose un annuaire en ligne permettant de rechercher par spécialité. Si vos revenus sont limités, le bureau d'aide juridique de votre barreau peut vous orienter vers une assistance pro deo.
 
 ---
 
-### Institut Professionnel des Comptables et Fiscalistes agréés (IPCF)
+## Textes légaux de référence
 
-**Site** : [www.ipcf.be](https://www.ipcf.be)
-
-**Recherche comptable** : Annuaire en ligne
-
----
-
-## 🏦 Organismes sociaux
-
-### INASTI (Indépendants)
-
-**Site** : [www.inasti.be](https://www.inasti.be)
-
-**Droit passerelle faillite** :
-- Informations procédure
-- Coordonnées caisses assurances sociales
-
-**Contact** : info@rsvz-inasti.fgov.be
-**Tél.** : +32 2 546 42 11
+- **Livre XX du Code de droit économique** (articles XX.1 à XX.235) — texte applicable à la faillite, accessible sur [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be)
+- **Arrêté royal du 26 avril 2018** — barème des honoraires des curateurs
+- **Code judiciaire, articles 1408-1412** — liste des biens insaisissables
 
 ---
 
-### Caisses d'assurances sociales (liste)
+## Pour aller plus loin
 
-- **Xerius** : [www.xerius.be](https://www.xerius.be)
-- **Acerta** : [www.acerta.be](https://www.acerta.be)
-- **Liantis** : [www.liantis.be](https://www.liantis.be)
-- **Securex** : [www.securex.be](https://www.securex.be)
-- **Partena** : [www.partena-professional.be](https://www.partena-professional.be)
-- **Caisse nationale auxiliaire** (publique) : [www.hziv-casooc.fgov.be](https://www.hziv-casooc.fgov.be)
-
----
-
-### ONSS (Employeurs)
-
-**Site** : [www.onss.be](https://www.onss.be)
-
-**Contact** : info@onss.fgov.be
-**Tél.** : +32 2 509 30 00
-
----
-
-## 📞 Numéros utiles
-
-| Organisme | Numéro | Quand appeler ? |
-|-----------|--------|-----------------|
-| **1819** | 1819 (Bruxelles, gratuit) | Conseil entrepreneurs |
-| **CDC** | +32 2 233 75 11 | Dividendes, consignations |
-| **INASTI** | +32 2 546 42 11 | Droit passerelle indépendants |
-| **FFE** | +32 2 515 44 44 | Travailleurs licenciés |
-| **ONSS** | +32 2 509 30 00 | Cotisations sociales |
-| **SPF Justice** | +32 2 542 65 11 | Informations générales justice |
-
----
-
-## 🌐 Sites juridiques spécialisés
-
-**Juridat** : [www.juridat.be](https://www.juridat.be)
-- Jurisprudence belge
-- Registre JustBan
-
-**Fisconetplus** : [www.fisconetplus.be](https://finances.belgium.be/fr/fisconetplus)
-- Législation fiscale
-- Circulaires SPF Finances
-
----
-
-## 📖 Ce GitBook
-
-**Auteur** : Documentation basée sur vademecum officiel Tribunal Entreprise Liège (2025)
-
-**Mise à jour** : Février 2026
-
-**Objectif** : Vulgarisation procédure faillite pour faillis et créanciers
-
-**Licence** : Usage libre, citation source appréciée
-
-**Contact** : Pour erreurs ou suggestions, contactez [votre email/contact]
-
----
-
-## Navigation GitBook
-
-📖 **Sections principales** :
-- [Je suis en faillite](faillis/README.md)
-- [Je suis créancier](creanciers/README.md)
-- [Comprendre la procédure](comprendre/definition-faillite.md)
-
-📊 **Outils pratiques** :
-- [Délais importants](delais.md)
-- [Glossaire](glossaire.md)
-
-🔗 **Ressources** : Cette page
-
----
-
-{% hint style="info" %}
-💡 **Ressources manquantes ou liens morts ?**
-
-Les sites institutionnels peuvent évoluer. Si lien ne fonctionne plus, recherchez via moteur recherche avec nom exact organisme.
-
-N'hésitez pas à signaler liens obsolètes.
-{% endhint %}
-
-{% hint style="success" %}
-**Les 3 ressources essentielles** :
-
-1. **[REGSOL](https://www.regsol.be)** - Suivi dossier en temps réel
-2. **Votre curateur** - Coordonnées sur REGSOL (interlocuteur principal)
-3. **Avocat spécialisé** - Ordre barreaux (conseil personnalisé)
-{% endhint %}
+- [Comprendre la faillite : définition et conditions](comprendre/definition-faillite.md)
+- [Les acteurs de la faillite : curateur et juge-commissaire](comprendre/acteurs.md)
+- [Déclarer votre créance dans les trente jours](creanciers/declarer-creance.md)
+- [Reprendre une activité professionnelle après votre faillite](faillis/reprendre-activite.md)
+- [Les délais importants à ne pas manquer](delais.md)

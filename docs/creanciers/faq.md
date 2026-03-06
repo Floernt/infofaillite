@@ -1,589 +1,132 @@
 ---
-description: FAQ Créanciers - Questions fréquentes des créanciers de faillite - Réponses pratiques et claires
-keywords: questions créanciers faillite, faq créancier belgique, délai 30 jours, récupérer argent faillite, REGSOL créanciers, dividende faillite
+description: Questions fréquentes des créanciers de faillite en Belgique - Délai déclaration, chances de récupération, caution, honoraires curateur, actifs découverts après clôture
+keywords: questions créanciers faillite, faq créancier belgique, délai 30 jours créance, récupérer argent faillite, REGSOL créanciers, dividende faillite belgique
 ---
 
-# FAQ - Questions fréquentes des créanciers
-
-Vous trouverez ici les réponses aux **10 questions les plus fréquentes** posées par les créanciers d'entreprises en faillite.
-
----
-
-## 1. J'ai raté le délai de 30 jours, puis-je encore déclarer ma créance ?
-
-### Réponse courte
-
-**Oui**, vous pouvez encore déclarer tardivement, mais vous ne participerez pas aux répartitions provisoires éventuelles.
-
-### Explication détaillée
-
-**Délai étendu** : Vous pouvez déclarer jusqu'à la **convocation de l'assemblée générale des créanciers** (souvent 1 an ou plus après le jugement de faillite).
-
-**Conséquence** :
-- Vous **NE participez PAS** aux répartitions provisoires (acomptes)
-- Vous serez payé uniquement lors de la **répartition finale** (clôture)
-
-**Délai absolu de forclusion** : **1 an** après jugement de faillite
-
-**Exception cautions** : Les cautions peuvent déclarer jusqu'à **6 mois après jugement définitif de clôture** (si sûreté personnelle pas déclarée dans 3 mois par créancier garanti).
-
-{% hint style="warning" %}
-⚠️ **En pratique** : Les répartitions provisoires sont **rares** (10-15% des faillites). Donc peu de risque concret si déclaration légèrement tardive (quelques semaines/mois).
-
-**Mais ne tardez quand même pas** :
-- Plus vous attendez, plus risque oubli/perte documents
-- Après 1 an = forclusion totale (vous perdez votre créance)
-{% endhint %}
-
-➡️ [Tout savoir sur la déclaration de créance](declarer-creance.md)
+# Questions fréquentes des créanciers
 
 ---
 
-## 2. Comment savoir si mon client est en faillite ?
+## J'ai raté le délai de 30 jours. Puis-je encore déclarer ma créance ?
 
-### Réponse courte
+Oui, vous pouvez encore déclarer votre créance après le délai de trente jours — mais avec une conséquence concrète : vous ne participerez pas aux éventuelles répartitions provisoires (les acomptes versés avant la clôture). Vous serez payé uniquement lors de la répartition finale. La date limite absolue est fixée à un an après le jugement de faillite : passé ce délai, votre droit est définitivement éteint.
 
-**3 moyens** : (1) REGSOL, (2) Moniteur belge, (3) Signification curateur.
+En pratique, les répartitions provisoires ne concernent que 10 à 15 % des dossiers — ceux avec des actifs significatifs déjà réalisés. Dans la majorité des faillites, une déclaration tardive de quelques semaines ou quelques mois n'a pas de conséquence pratique, mais ne tardez pas pour autant : la perte de documents ou un simple oubli peuvent compromettre définitivement votre droit.
 
-### Moyens de vérification
-
-**1. Consultation REGSOL** ✅ **RECOMMANDÉ**
-
-**Site** : [www.regsol.be](https://www.regsol.be)
-
-**Procédure** :
-- Créer compte gratuit
-- Recherche par nom entreprise ou n° BCE
-- Résultat : Dossier faillite (si existant) avec date jugement, curateur désigné
-
-**Avantage** : Immédiat, fiable, détaillé
+Pour la procédure complète, consultez [déclarer votre créance dans les trente jours](declarer-creance.md).
 
 ---
 
-**2. Publication Moniteur belge**
+## Comment savoir si mon client est en faillite ?
 
-**Site** : [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be/cgi/welcome.pl)
+Le moyen le plus rapide et le plus fiable est [REGSOL](https://www.regsol.be). Après création d'un compte gratuit, vous pouvez rechercher n'importe quelle entreprise par son nom ou son numéro BCE et vérifier instantanément si un dossier de faillite existe. Les jugements de faillite y sont publiés dès le premier jour ouvrable suivant le prononcé.
 
-**Délai** : Publication dans les **5 jours** du jugement de faillite
+Les jugements de faillite sont également publiés au Moniteur belge dans les cinq jours, à la rubrique "Faillites". Si vous êtes un créancier connu de l'entreprise faillie — votre nom figure dans sa comptabilité —, le curateur peut vous notifier directement la faillite, mais ne comptez pas exclusivement sur cette notification. Vérifiez vous-même sur REGSOL dès que vous avez un doute sur la situation d'un client.
 
-**Recherche** : Par nom entreprise (section "Faillites")
-
-**Avantage** : Officiel
-
----
-
-**3. Signification par curateur**
-
-Si vous êtes **créancier connu** (mentionné comptabilité failli, factures en cours), le curateur peut vous signifier directement le jugement.
-
-**Mais ne comptez pas uniquement là-dessus** : Vérifiez vous-même (REGSOL).
-
-{% hint style="success" %}
-💡 **Conseil préventif** : Si vous avez des clients à risque (retards paiement, difficultés connues), surveillez-les **proactivement** sur REGSOL (consultation mensuelle). Vous serez alerté immédiatement en cas de faillite.
-{% endhint %}
+!!! tip "Surveillance préventive"
+    Si vous avez des clients dont vous percevez des signes de fragilité financière — retards de paiement répétés, demandes d'échéanciers, rumeurs de difficultés —, prenez l'habitude de les vérifier mensuellement sur REGSOL. Vous apprendrez une faillite dès le premier jour et pourrez déclarer votre créance sans attendre.
 
 ---
 
-## 3. Ai-je des chances de récupérer mon argent ?
+## Ai-je des chances de récupérer mon argent ?
 
-### Réponse courte
+Cela dépend de deux facteurs : votre rang de priorité et l'actif disponible après déduction des frais de procédure. Les créanciers hypothécaires de premier rang récupèrent généralement l'essentiel de leur créance sur le produit de la vente du bien grevé. Les créanciers gagistes et les créanciers privilégiés (salaires, ONSS, TVA) récupèrent une part souvent significative. Les créanciers chirographaires ordinaires — fournisseurs, sous-traitants, prêteurs sans garantie — récupèrent souvent rien du tout.
 
-**Dépend** de deux facteurs : (1) Votre **rang** (ordre de paiement), (2) L'**actif disponible** (valeur biens vendus).
+La statistique est claire : dans environ 70 % des faillites belges, l'actif est insuffisant pour désintéresser même les frais de procédure. Si vous êtes créancier chirographaire, planifiez vos finances en partant de l'hypothèse d'une perte totale.
 
-### Analyse par rang
-
-| Rang créancier | Chances récupération | Taux moyen |
-|----------------|---------------------|------------|
-| **Hypothécaire 1er rang** | ✅ Excellentes | 90-100% |
-| **Gagiste** | ✅ Bonnes à excellentes | 70-100% |
-| **Privilégié (ONSS, salaires, TVA)** | 🟡 Moyennes | 30-80% |
-| **Chirographaire (ordinaire)** | 🔴 Faibles | 0-10% |
-
-**Réalité statistique belgique** :
-- **70% des faillites** : Insuffisance d'actif (créanciers chirographaires reçoivent **0 €**)
-- **20% des faillites** : Actif faible (dividende 1-10% pour chirographaires)
-- **10% des faillites** : Actif significatif (dividende 10-50% pour chirographaires)
-
-{% hint style="info" %}
-💡 **Comment estimer vos chances ?**
-
-1. Consultez **rapport initial curateur** (mémoire, REGSOL) : estimation actif et passif
-2. Calculez ratio approximatif :
-   - Actif estimé : 100 000 €
-   - Frais justice + curateur : -30 000 € (30% environ)
-   - Créanciers privilégiés : -40 000 €
-   - **Solde chirographaires** : 30 000 €
-   - Total créances chirographaires : 200 000 €
-   - **Dividende estimé** : 30 000 / 200 000 = **15%**
-
-3. Suivez rapports annuels : réajustez estimation selon ventes réelles
-{% endhint %}
-
-➡️ [Comprendre le paiement et les dividendes](paiement-dividendes.md)
+Pour estimer vos chances dans un dossier spécifique, consultez le mémoire initial du curateur sur REGSOL (qui contient une estimation de l'actif et du passif) et suivez les rapports annuels au fil des ventes réalisées. Pour comprendre le calcul du dividende, lisez [le paiement des dividendes aux créanciers](paiement-dividendes.md).
 
 ---
 
-## 4. Puis-je continuer à poursuivre le failli personnellement ?
+## Puis-je encore poursuivre le failli personnellement ?
 
-### Réponse courte
+Non. Dès le jugement de faillite, toutes les poursuites individuelles contre le failli sont suspendues : les saisies en cours sont arrêtées, les procédures judiciaires en cours sont suspendues pour les créances patrimoniales, et les huissiers ne peuvent plus intervenir. Vous devez déclarer votre créance auprès du curateur et attendre la procédure collective.
 
-**Non**, toutes poursuites sont **suspendues**. Vous devez déclarer votre créance au curateur.
-
-### Explication
-
-**Suspension des poursuites** (art. XX.100) :
-
-Dès le jugement de faillite, **toutes poursuites individuelles** contre le failli sont suspendues :
-- Saisies en cours arrêtées (sauf vente déjà ordonnée avant faillite)
-- Huissiers ne peuvent plus agir
-- Tribunaux suspendent procès en cours (créances patrimoniales)
-
-**Votre obligation** : Déclarer créance au curateur (30 jours max)
+En revanche, si des dirigeants ont commis des fautes graves de gestion ayant contribué à la faillite, ils peuvent être tenus personnellement responsables sur leur patrimoine propre — indépendamment de la procédure de faillite de la société. C'est le curateur qui initie ces actions en comblement du passif, mais les créanciers peuvent agir à sa place s'il refuse. Pour les détails, consultez [vos droits dans la procédure de faillite](droits-specifiques.md).
 
 ---
 
-**Exception : Poursuite dirigeants personnellement**
+## Ma créance est garantie par une hypothèque ou un gage. Que faire ?
 
-Si **dirigeant condamné personnellement** pour faute de gestion (comblement de passif), vous pouvez le poursuivre **après** condamnation tribunal.
+Déclarez votre créance dans les trente jours en mentionnant impérativement la nature et les détails de votre garantie : type de sûreté (hypothèque, gage), bien grevé, rang d'inscription et montant garanti. Joignez les preuves d'inscription (copie de l'inscription hypothécaire, acte de gage).
 
-**Mais** : Seul le curateur peut initier action responsabilité (ou créanciers si curateur refuse après sommation 1 mois).
+!!! danger "Ne pas oublier de mentionner votre garantie"
+    Si vous oubliez de mentionner votre garantie dans votre déclaration de créance, vous risquez de la perdre et d'être traité comme créancier chirographaire ordinaire. Déclarez toujours votre créance pour le montant total, en indiquant la part garantie et la part éventuelle non couverte.
 
-➡️ [Vos droits spécifiques](droits-specifiques.md#action-en-remplacement-du-curateur)
+Le curateur vérifie l'existence et la validité de votre garantie. Si votre créance dépasse le produit de la vente du bien grevé, le solde non couvert devient une créance chirographaire ordinaire. Si vous êtes créancier hypothécaire de premier rang et que le curateur tarde à vendre l'immeuble après le premier procès-verbal de vérification, vous pouvez prendre l'initiative de la vente selon les règles de la saisie immobilière.
 
----
-
-## 5. Ma créance est garantie par une hypothèque/un gage, que faire ?
-
-### Réponse courte
-
-**Déclarez-la** en mentionnant votre garantie. Vous êtes **prioritaire** sur le produit de vente du bien grevé.
-
-### Procédure
-
-**1. Déclaration créance** (30 jours max) :
-
-✅ Mentionner **IMPÉRATIVEMENT** :
-- Nature garantie (hypothèque, gage)
-- Bien grevé (adresse immeuble, description bien meuble)
-- Rang hypothèque (1er, 2ème...) ou date constitution gage
-- Montant garanti
-- Preuve inscription (copie inscription hypothécaire, acte gage)
-
-{% hint style="danger" %}
-🚨 **Si vous oubliez de mentionner votre garantie** dans le délai légal : Vous **perdez votre privilège** et passez créancier **chirographaire** (ordinaire).
-
-**Délai crucial** : Garantie doit être déclarée avec créance (30 jours).
-{% endhint %}
+Pour l'ensemble des règles relatives aux sûretés, lisez [les sûretés et cautions dans la faillite](suretes-cautions.md).
 
 ---
 
-**2. Vérification par curateur** :
+## Le failli avait une caution. Puis-je la poursuivre ?
 
-Curateur vérifie existence et validité garantie :
-- Inscription hypothécaire valide ?
-- Gage régulièrement constitué ?
-- Bien identifiable ?
+Oui — la caution (la personne qui s'est portée garante personnellement) reste tenue par son engagement. L'effacement des dettes du failli à la clôture de la faillite ne libère pas la caution : elle reste redevable envers vous pour le montant cautionné.
 
----
+Mais vous devez avoir déclaré cette sûreté personnelle dans les trois mois suivant le jugement de faillite. Si vous ratez ce délai, la caution est automatiquement et définitivement déchargée — vous perdez cette garantie.
 
-**3. Vente du bien grevé** :
+!!! danger "Délai de trois mois pour les sûretés personnelles"
+    La déclaration de la sûreté personnelle est distincte de la déclaration de créance. Même si vous avez déclaré votre créance dans les trente jours, vous devez déclarer séparément l'existence de la caution dans les trois mois. Ce délai est absolu.
 
-**Hypothèque** :
-- Curateur vend immeuble (autorisation juge-commissaire + tribunal si gré à gré)
-- **OU** Vous vendez vous-même si **hypothèque 1er rang** (après 1er PV)
-- Produit vente consigné CDC
-
-**Gage** :
-- Curateur vend bien gagé
-- Produit vente consigné CDC
+Une fois la sûreté déclarée, vous pouvez poursuivre la caution par voie judiciaire ordinaire, sans attendre la clôture de la faillite. Les détails complets sont dans [les sûretés et cautions dans la faillite](suretes-cautions.md).
 
 ---
 
-**4. Paiement prioritaire** :
+## Puis-je assister aux opérations de la faillite ?
 
-Vous êtes payé **en priorité** sur produit vente bien grevé :
-- Hypothèque rang 1 payée d'abord (capital + intérêts)
-- Hypothèque rang 2 ensuite (solde)
-- Etc.
+Vous pouvez assister aux trois procès-verbaux de vérification des créances, même si cela n'est pas obligatoire. Ces audiences vous permettent d'entendre les décisions du curateur sur chaque créance (admission, contestation, réserve), de vérifier les créances des autres créanciers et de poser des questions directement. Les dates et lieux sont publiés sur REGSOL.
 
-**Si produit vente < créance garantie** : Solde impayé devient créance **chirographaire** (ordinaire).
-
-**Exemple** :
-- Créance hypothécaire : 100 000 €
-- Vente immeuble (net) : 75 000 €
-- Vous recevez : 75 000 €
-- Solde 25 000 € = créance chirographaire (faibles chances récupération)
-
-➡️ [Comprendre l'ordre de paiement](paiement-dividendes.md#lordre-de-paiement-cascade)
+Si vous représentez, seul ou avec d'autres créanciers, plus d'un tiers du passif admis, vous pouvez demander au juge-commissaire de convoquer une assemblée générale des créanciers. Cette assemblée permet de débattre des comptes du curateur, d'approuver l'état de répartition et de contester les honoraires. Pour les détails sur l'assemblée générale, consultez [vos droits dans la procédure de faillite](droits-specifiques.md).
 
 ---
 
-## 6. Le failli avait une caution, puis-je la poursuivre ?
+## Le curateur ne répond pas à mes emails. Que faire ?
 
-### Réponse courte
+Commencez par une relance par email avec un délai de réponse explicite (sept jours). Si le silence persiste, envoyez un courrier recommandé. Si vous n'obtenez toujours pas de réponse dans les quinze jours suivants, saisissez le juge-commissaire — ses coordonnées figurent sur REGSOL — en lui expliquant vos démarches et votre demande légitime.
 
-**Oui**, la caution reste tenue (elle ne bénéficie **PAS** de l'effacement du failli).
-
-**MAIS ATTENTION** : Vous devez avoir **déclaré la sûreté personnelle** dans les **3 mois**, sinon la caution est **automatiquement déchargée**.
-
-### Règles importantes
-
-**1. Déclaration sûreté personnelle (DÉLAI : 3 MOIS)** ⚠️
-
-{% hint style="danger" %}
-🚨 **DÉLAI CRUCIAL : 3 MOIS**
-
-Vous devez déclarer votre sûreté personnelle (caution) dans les **3 mois** du jugement de faillite.
-
-**Si vous ratez ce délai de 3 mois** : La caution est **automatiquement déchargée** (libérée). Vous perdez la garantie personnelle.
-{% endhint %}
-
-**Contenu déclaration** :
-- Identité complète caution (nom, prénom, adresse ou dénomination sociale + siège)
-- Montant cautionné
-- Type cautionnement (solidaire, simple, limité)
-- Date acte cautionnement (copie à joindre)
+Dans la plupart des cas, cette démarche suffit à débloquer la situation : les curateurs gèrent souvent cinquante à cent dossiers simultanément et priorisent les urgences. Si le problème est structurel — inaction totale, négligence grave, conflit d'intérêts manifeste —, une requête au tribunal pour demander le remplacement du curateur reste possible, mais c'est une mesure de dernier recours qui nécessite un avocat.
 
 ---
 
-**2. Poursuite de la caution**
+## Puis-je contester les honoraires du curateur ?
 
-**Vous pouvez poursuivre** la caution normalement (procédure civile classique) :
-- Citation devant tribunal
-- Demande paiement créance
-- Saisies sur patrimoine caution
+Oui. À la fin de la liquidation, le curateur dépose son état de frais et d'honoraires au greffe. Vous pouvez formuler des observations écrites au tribunal avant l'audience de taxation, en contestant les honoraires si vous les estimez excessifs au regard du barème légal, en signalant des frais injustifiés ou en relevant un travail insuffisant par rapport aux résultats obtenus. Le tribunal fixe les honoraires définitifs par jugement, susceptible d'appel dans le mois qui suit.
 
-**La caution NE bénéficie PAS** de l'effacement du failli (art. XX.173).
+Le barème légal est défini par l'arrêté royal du 26 avril 2018 : il est dégressif en pourcentage de l'actif brut réalisé. Les honoraires peuvent être réduits si le tribunal estime qu'ils sont disproportionnés, et augmentés (rarement) si le travail a été exceptionnel.
 
 ---
 
-**3. Décharge de la caution (exceptions)**
+## Que se passe-t-il si de nouveaux actifs apparaissent après la clôture ?
 
-La caution peut demander **décharge** (libération) si :
+La réponse dépend du statut du failli. Si le failli est une personne physique qui a obtenu l'effacement de ses dettes à la clôture, les nouveaux actifs découverts lui appartiennent — l'effacement a libéré définitivement ses dettes anciennes, et les actifs futurs ne peuvent plus être réclamés par les créanciers. Exception : si la découverte révèle une fraude (actifs délibérément dissimulés), des actions civiles et pénales restent possibles.
 
-❌ **Créancier n'a pas déclaré** sûreté personnelle dans 3 mois → Décharge **automatique**
+Si le failli n'a pas obtenu l'effacement — parce qu'il a commis des fautes graves ou parce qu'il s'agit d'une société —, les créanciers impayés peuvent réclamer les actifs nouvellement découverts à concurrence de leurs créances non honorées, dans la limite des délais de prescription applicables.
 
-❌ **Cautionnement manifestement disproportionné** :
-- Montant très supérieur revenus/patrimoine caution
-- Aucun avantage personnel caution
-- Déséquilibre flagrant
-
-**Procédure décharge** : Caution demande au tribunal (appréciation souveraine juge)
-
-➡️ [Comprendre la décharge de caution](../comprendre/cloture.md#la-décharge-de-caution)
+Dans tous les cas, si vous avez connaissance d'actifs qui n'ont pas été inventoriés et qui existaient avant le jugement de faillite, signalez-les au curateur ou, si la faillite est clôturée, au juge-commissaire ou au tribunal.
 
 ---
 
-## 7. Puis-je assister aux opérations de la faillite ?
+## Puis-je déduire fiscalement ma perte sur créance ?
 
-### Réponse courte
+Oui, sous certaines conditions. Une créance professionnelle définitivement irrécouvrable à la clôture de la faillite est déductible comme perte dans l'exercice de la clôture, à condition qu'elle soit liée à votre activité professionnelle et que le caractère irrécouvrable soit établi. Sur le plan TVA, vous pouvez émettre une note de crédit et récupérer la TVA précédemment versée à l'État sur la créance impayée.
 
-**Vous pouvez** assister aux **procès-verbaux de vérification** des créances (facultatif). Vous pouvez demander convocation **assemblée générale** (si > 1/3 dettes).
-
-### Détails
-
-**Procès-verbaux vérification créances** :
-
-✅ **Vous POUVEZ** assister (pas obligatoire)
-
-**Lieu** : Bureau curateur ou salle tribunal (précisé REGSOL)
-
-**Dates** :
-- 1er PV : J+35 à J+60
-- 2ème PV : 6 mois après jugement
-- 3ème PV : 12 mois (définitif)
-
-**Intérêt** :
-- Entendre décisions curateur (admissions, contestations, réserves)
-- Vérifier créances concurrentes
-- Poser questions directement
-
-**En pratique** : Peu de créanciers se déplacent (consultation REGSOL suffit).
-
-➡️ [Comprendre la vérification](verification-contestation.md#consultation-des-procès-verbaux)
+Consultez votre comptable pour les formalités exactes : les règles varient selon que vous êtes soumis à l'impôt des personnes physiques ou à l'impôt des sociétés, et selon la nature de la créance.
 
 ---
 
-**Assemblée générale créanciers** :
+## Puis-je poursuivre la société mère si c'est la filiale qui est en faillite ?
 
-✅ **Vous POUVEZ** demander convocation si vous représentez **> 1/3 des dettes** admises
-
-**Procédure** :
-- Requête au juge-commissaire (avec autres créanciers si nécessaire)
-- Juge-commissaire décide (discrétionnaire)
-
-**Objet assemblée** :
-- Débattre comptes curateur
-- Approuver état répartition
-- Contester honoraires
-- Poser questions
-
-**Fréquence** : Rare dans petites faillites. Fréquent si actif important ou contestations.
-
-➡️ [Assemblée générale des créanciers](droits-specifiques.md#droit-de-participer--assemblée-générale-des-créanciers)
+En principe non — chaque société a un patrimoine distinct et il n'y a pas de solidarité automatique entre mère et filiale. Mais des exceptions existent : si la société mère s'est portée caution pour les dettes de la filiale, elle reste poursuivable. Si les patrimoines des deux entités ont été mélangés (confusion patrimoniale), une action en responsabilité peut viser la mère. Si la société mère a exercé une gérance de fait sur la filiale, elle peut également être tenue responsable. Ces situations sont complexes à prouver — consultez un avocat spécialisé si les montants en jeu le justifient.
 
 ---
 
-## 8. Le curateur ne répond pas à mes emails, que faire ?
-
-### Réponse courte
-
-(1) Relancer par **recommandé**, (2) Contacter **juge-commissaire**, (3) Si problème persiste : Requête au tribunal pour remplacement.
-
-### Procédure escalade
-
-**Étape 1 : Relance écrite**
-
-- **Email de relance** : Rappel demande initiale (délai 7 jours)
-- **Recommandé** : Si toujours pas de réponse (délai 15 jours)
-
-**Motifs légitimes non-réponse** :
-- Curateur surchargé (gère souvent 50-100 dossiers simultanément)
-- Demande nécessite vérifications (temps)
-- Question déjà traitée (vérifiez REGSOL, rapports)
-
----
-
-**Étape 2 : Saisir juge-commissaire**
-
-**Coordonnées** : REGSOL (onglet "Organes")
-
-**Email ou courrier** :
-- Expliquer vos démarches (dates emails/recommandés)
-- Exposer demande légitime
-- Demander intervention juge
-
-**Juge-commissaire** :
-- Contacte curateur
-- Exige réponse ou explication
-- Peut ordonner curateur répondre
-
----
-
-**Étape 3 : Requête remplacement curateur (ultima ratio)**
-
-**Si blocage total** et **faute grave** :
-- Requête au tribunal de l'entreprise
-- Avocat obligatoire
-- Demande remplacement curateur
-
-**Conditions** :
-- Négligence caractérisée
-- Absence totale diligence
-- Conflit intérêts
-- Malhonnêteté
-
-**En pratique** : Rare (tribunaux laissent marge manœuvre curateurs). Réservé aux cas graves.
-
-{% hint style="success" %}
-💡 **Conseil** : Soyez **patient mais ferme**. Les curateurs sont généralement professionnels mais surchargés. Une relance polie par recommandé + copie juge-commissaire suffit souvent à débloquer.
-{% endhint %}
-
----
-
-## 9. Puis-je contester les honoraires du curateur ?
-
-### Réponse courte
-
-**Oui**, vous pouvez formuler **observations** lors de la taxation des honoraires par le tribunal (en fin de liquidation).
-
-### Procédure
-
-**1. Taxation honoraires** :
-
-À la fin liquidation, le curateur dépose **état de frais et honoraires** au greffe.
-
-**Barème légal** (AR 26 avril 2018) :
-- % actif brut réalisé (dégressif selon montant)
-- Exemple : 10% sur premiers 10 000 €, 5% sur 10 000-50 000 €, 3% sur 50 000-250 000 €, etc.
-
-**Frais remboursables** :
-- Déplacements
-- Expertises
-- Frais vente (commissaire-priseur, publicité)
-- Frais postaux, téléphone
-
----
-
-**2. Notification créanciers** :
-
-État honoraires déposé au greffe + consultable REGSOL.
-
-**Délai observations** : Variable selon tribunal (généralement 15-30 jours).
-
----
-
-**3. Vos observations écrites** :
-
-Vous pouvez adresser observations au tribunal :
-
-**Motifs contestation fréquents** :
-- Honoraires excessifs (% appliqué trop élevé)
-- Frais injustifiés (déplacements inutiles, expertises douteuses)
-- Travail insuffisant (inaction, dossier mal géré)
-- Erreurs calcul
-
-**Format** : Courrier ou requête au greffe (copie curateur)
-
----
-
-**4. Débat contradictoire** :
-
-Tribunal peut convoquer :
-- Curateur (explications)
-- Créanciers contestataires
-- Juge-commissaire (avis)
-
----
-
-**5. Jugement taxation** :
-
-Tribunal fixe honoraires définitifs :
-- Confirme état curateur
-- Réduit si excessif
-- Augmente si travail exceptionnel (rare)
-
-**Recours** : Appel possible (délai 1 mois) si honoraires manifestement excessifs
-
-➡️ [Contester les honoraires](droits-specifiques.md#contester-les-honoraires-du-curateur)
-
----
-
-## 10. Que se passe-t-il si de nouveaux actifs apparaissent après clôture ?
-
-### Réponse courte
-
-**La faillite ne rouvre pas**. Dépend si failli a obtenu **effacement** ou non.
-
-### Cas 1 : Failli personne physique avec effacement
-
-**Si effacement accordé** (clôture définitive) :
-
-Les nouveaux actifs découverts **appartiennent au failli** (ne retournent pas dans masse).
-
-**Raison** : L'effacement libère le failli de toutes dettes anciennes. Il repart à zéro.
-
-**Exception** : Fraude avérée (dissimulation actifs). Curateur ou créanciers peuvent agir en responsabilité pénale et civile (dommages-intérêts).
-
----
-
-### Cas 2 : Failli personne physique SANS effacement
-
-**Si effacement refusé** (fautes graves) :
-
-Les nouveaux actifs découverts **peuvent** être réclamés par créanciers impayés :
-
-**Procédure** :
-- Actifs consignés Caisse Dépôts et Consignations (CDC)
-- Créanciers impayés lors clôture initiale peuvent réclamer à concurrence créance non payée
-- Distribution selon même ordre paiement (privilèges, chirographaires)
-
-**Délai** : Prescription créances (10 ans en principe)
-
----
-
-### Cas 3 : Société faillie (SPRL, SA...)
-
-**Pas d'effacement** pour sociétés :
-
-Si nouveaux actifs découverts :
-- Créanciers impayés peuvent réclamer
-- Procédure similaire cas 2
-
-**Mais** : Souvent difficile pratique (société dissoute, liquidée, radiée BCE).
-
----
-
-**Comment découvre-t-on nouveaux actifs ?**
-
-**Exemples** :
-- Compte bancaire oublié (découvert ultérieurement)
-- Héritage/donation post-clôture (mais attribué avant faillite)
-- Indemnité assurance (sinistre antérieur faillite, paiement tardif)
-- Action en justice gagnée (intentée avant faillite, jugement post-clôture)
-
-**Devoir du failli** : Signaler au curateur (même après clôture) si actifs antérieurs faillite.
-
-**Sanctions si dissimulation** :
-- Refus effacement (si pas encore prononcé)
-- Révocation effacement (procédure tierce opposition)
-- Poursuites pénales (banqueroute frauduleuse)
-
-{% hint style="success" %}
-💡 **Si vous découvrez actifs cachés** : Signalez immédiatement au curateur (si faillite en cours) ou au juge-commissaire / tribunal (si clôturée). Possibilité rouvrir procédure ou action civile/pénale.
-{% endhint %}
-
----
-
-## Autres questions fréquentes
-
-### Puis-je déduire fiscalement ma perte sur créance ?
-
-**Oui** (sous conditions) :
-
-**Impôt sociétés / revenus professionnels** :
-- Créance professionnelle (liée activité)
-- Créance définitivement irrécouvrable (clôture faillite sans paiement)
-- Déduction comme **perte déductible** (exercice clôture)
-
-**TVA** :
-- Rectification TVA facturée (créance irrécouvrable)
-- Note crédit à émettre
-- Déduction dans déclaration TVA trimestre découverte
-
-**Conseil** : Consultez votre comptable pour formalités exactes.
-
----
-
-### La faillite du débiteur affecte-t-elle mes relations commerciales futures ?
-
-**Non directement**, mais :
-
-**Leçons apprises** :
-- Renforcez vos **garanties** (clauses réserve propriété, acomptes, cautions)
-- Surveillez **solvabilité clients** (assurance-crédit, Graydon, Creditsafe)
-- Diversifiez portefeuille clients (ne pas dépendre d'un gros client)
-
-**Assurance-crédit** : Couvre risque impayés (faillites, retards). Primes selon secteur et clients.
-
----
-
-### Puis-je poursuivre la société mère si filiale en faillite ?
-
-**Principe** : Chaque société = patrimoine distinct (pas de solidarité automatique).
-
-**Exceptions** :
-- Société mère s'est portée **caution** (garantie filiale) → Poursuivable
-- **Confusion patrimoniale** (mélange actifs mère/filiale) → Action responsabilité
-- **Gérance de fait** société mère (ingérence gestion filiale) → Action responsabilité (complexe)
-
-**Conseil** : Consultez avocat spécialisé si enjeu important.
-
----
-
-## Ressources complémentaires
-
-📖 **Pour aller plus loin** :
-- [Vue d'ensemble créanciers](README.md)
-- [Déclarer votre créance](declarer-creance.md)
-- [Vérification et contestation](verification-contestation.md)
-- [Le paiement (dividendes)](paiement-dividendes.md)
-- [Vos droits spécifiques](droits-specifiques.md)
-
-🔗 **Liens utiles** :
-- [REGSOL](https://www.regsol.be) - Consulter dossiers faillite
-- [Moniteur belge](https://www.ejustice.just.fgov.be/cgi/welcome.pl) - Publications officielles
-- [Glossaire](../glossaire.md) - Comprendre termes juridiques
-- [Délais importants](../delais.md) - Tableau récapitulatif
-- [Ressources officielles](../ressources.md) - Contacts et aide
-
----
-
-{% hint style="info" %}
-**Votre question n'est pas dans cette FAQ ?**
-
-- Consultez le [glossaire](../glossaire.md) pour comprendre les termes
-- Contactez le curateur (coordonnées sur REGSOL)
-- Demandez conseil à un avocat spécialisé en droit de l'insolvabilité
-- Consultez votre comptable pour aspects fiscaux et comptables
-{% endhint %}
+## Pour aller plus loin
+
+- [Déclarer votre créance dans les trente jours](declarer-creance.md)
+- [Les sûretés et cautions dans la faillite](suretes-cautions.md)
+- [La vérification des créances et les procès-verbaux](verification-contestation.md)
+- [Le paiement des dividendes aux créanciers](paiement-dividendes.md)
+- [Vos droits dans la procédure de faillite](droits-specifiques.md)
+- [Les droits des créanciers selon leur catégorie](creanciers-categories.md)
+- [Les délais importants à ne pas manquer](../delais.md)
+- [REGSOL](https://www.regsol.be)
