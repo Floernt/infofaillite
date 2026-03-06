@@ -1,539 +1,111 @@
 ---
-description: Droits spécifiques des créanciers - Information, contestation, assemblée générale, recours, actions en responsabilité
-keywords: droits créanciers faillite, REGSOL consultation, assemblée créanciers, action responsabilité dirigeants, contester honoraires curateur
+description: Vos droits dans la procédure de faillite en tant que créancier - Information, contestation, assemblée générale, recours, actions en responsabilité contre les dirigeants
+keywords: droits créanciers faillite, REGSOL consultation créancier, assemblée créanciers faillite, action responsabilité dirigeants, contester honoraires curateur belgique
 ---
 
-# Vos droits spécifiques
+# Vos droits dans la procédure de faillite
 
-En tant que créancier, vous disposez de **droits importants** pour protéger vos intérêts et surveiller le bon déroulement de la faillite.
-
-Cette page détaille :
-- ✅ Votre **droit d'information** (REGSOL, rapports, consultation dossier)
-- ✅ Vos **droits de contestation** (créances, décisions curateur, honoraires)
-- ✅ Votre **droit de participer** (assemblée générale)
-- ✅ Vos **recours** (tribunal, juge-commissaire)
-- ✅ Les **actions en responsabilité** que vous pouvez initier
+La procédure de faillite n'est pas une boîte noire dans laquelle vous déposez votre créance et attendez passivement. En tant que créancier, vous disposez de droits réels : consulter le dossier, contester des décisions, surveiller le curateur, participer aux assemblées, et même engager des actions en justice lorsque vos intérêts sont lésés.
 
 ---
 
-## 1. Droit d'information et de consultation
+## Le droit d'information
 
-### Consultation REGSOL (accès en ligne)
+### REGSOL : votre accès en temps réel
 
-**Site** : [www.regsol.be](https://www.regsol.be)
+[REGSOL](https://www.regsol.be) est le registre central de solvabilité belge. Après création d'un compte gratuit, vous pouvez y consulter les coordonnées du curateur et du juge-commissaire, l'état d'avancement de votre créance (admise, contestée, réservée), les procès-verbaux des trois audiences de vérification, les rapports annuels du curateur sur l'avancement de la liquidation, et l'état de répartition en fin de procédure.
 
-**Accès** : Gratuit, création compte en ligne
+Consultez REGSOL régulièrement — tous les deux à trois mois au minimum. Vous serez ainsi en mesure de réagir rapidement si votre créance est contestée, si un actif est vendu dans des conditions discutables, ou si la procédure stagne.
 
-**Informations consultables** :
+!!! tip "Conseil pratique"
+    Si vous avez changé d'adresse ou d'IBAN depuis votre déclaration de créance, mettez vos coordonnées à jour directement sur REGSOL ou contactez le curateur par écrit. Un IBAN incorrect retarde le paiement de votre dividende et peut conduire à une consignation des fonds à la Caisse des Dépôts et Consignations.
 
-✅ **Données générales** :
-- Coordonnées curateur et juge-commissaire
-- Date jugement faillite
-- État procédure (en cours, clôturée)
+### Le dossier au greffe
 
-✅ **Créances** :
-- Votre déclaration de créance
-- État vérification (admise, contestée, réservée)
-- Montant admis et rang
-- Procès-verbaux vérification (1er, 2ème, 3ème)
+L'intégralité du dossier de faillite est également consultable au greffe du tribunal de l'entreprise compétent, pendant les heures d'ouverture. Vous y trouverez les procès-verbaux originaux signés, les ordonnances du juge-commissaire et les correspondances officielles. La consultation est gratuite ; les copies sont possibles à un coût modique par page.
 
-✅ **Rapports curateur** :
-- Mémoire initial (causes faillite, état actif/passif)
-- Rapports annuels (avancement liquidation, ventes réalisées, montants récupérés)
-- État de répartition (dividendes)
+### Les rapports annuels du curateur
 
-✅ **Délais importants** :
-- Date limite déclaration créance
-- Dates procès-verbaux vérification
-- Convocations assemblées générales
-
-{% hint style="success" %}
-💡 **Conseil** : Consultez REGSOL **régulièrement** (tous les 2-3 mois minimum). Vous serez informé de l'avancement et pourrez réagir rapidement si nécessaire.
-{% endhint %}
+L'article XX.128 du Code de droit économique impose au curateur de déposer un rapport annuel au greffe. Ce rapport décrit les actifs vendus, les montants encaissés, les créances vérifiées, les actions en justice en cours et les perspectives de clôture. Si vous constatez que la liquidation stagne sans explication, ce rapport (ou son absence) est le point de départ pour saisir le juge-commissaire.
 
 ---
 
-### Consultation du dossier au greffe
+## Le droit de contestation
 
-**Où** : Greffe du tribunal de l'entreprise compétent
+### Contester une créance admise par le curateur (contredit)
 
-**Pièces consultables** :
-- Jugement de faillite
-- Procès-verbaux vérification (originaux signés)
-- Déclarations créances
-- Rapports curateur
-- Correspondances officielles
-- Ordonnances juge-commissaire
+Si une créance d'un autre créancier a été admise et que vous estimez qu'elle est injustifiée, mal calculée ou d'un rang trop favorable, vous pouvez former un contredit dans le mois qui suit la publication du procès-verbal au Moniteur belge ou sur REGSOL. La procédure nécessite une signification par huissier au créancier contesté, au curateur et au greffe. Pour le détail de cette procédure, consultez [contester une créance admise dans la faillite](contester-creance.md).
 
-**Accès** : Gratuit, sur place pendant heures ouverture greffe
+### Contester des décisions du curateur
 
-**Copies** : Possibles (payantes, environ 0,25€/page)
-
----
-
-### Rapports annuels du curateur
-
-**Obligation légale** : Le curateur doit déposer rapport annuel au greffe (art. XX.128)
-
-**Contenu rapport** :
-- Avancement liquidation (actifs vendus, montants)
-- Créances vérifiées
-- Actions en cours (procès, revendications)
-- Problèmes rencontrés
-- Perspectives clôture
-
-**Consultation** : REGSOL ou greffe
-
-{% hint style="info" %}
-💡 **Utilité** : Les rapports annuels vous indiquent si la liquidation avance normalement ou si blocages. Vous pouvez réagir si curateur inactif (saisir juge-commissaire).
-{% endhint %}
-
----
-
-## 2. Droit de contestation
-
-### Contester une créance admise (contredit)
-
-**Qui** : Tout créancier peut contester l'admission d'une autre créance
-
-**Pourquoi** : Protéger votre dividende (chaque créance injustifiée réduit votre part)
-
-**Délai** : **1 mois** après insertion PV admettant créance contestée
-
-**Procédure** : Contredit par huissier (signification créancier contesté + curateur + greffe)
-
-➡️ [Détails : Contester une créance admise](verification-contestation.md#contester-ladmission-dune-autre-créance-contredit)
-
----
-
-### Contester décisions du curateur
-
-**Exemples décisions contestables** :
-- Vente actif à prix manifestement insuffisant
-- Refus d'agir en responsabilité contre dirigeants
-- Refus de vendre actif (conservation injustifiée)
-- Paiement illégitime d'une créance
-
-**Procédure** :
-
-1. **Saisir juge-commissaire** (par email ou courrier)
-   - Expliquer grief
-   - Demander intervention
-
-2. **Si juge-commissaire inactif** : Requête au tribunal de l'entreprise
-   - Avocat obligatoire
-   - Demande annulation décision curateur
-   - Demande injonction (ex : vendre actif, agir en responsabilité)
-
-{% hint style="warning" %}
-⚠️ **Charge de la preuve** : Vous devez prouver que décision curateur est **manifestement contraire à l'intérêt des créanciers**.
-
-En pratique, tribunaux laissent grande liberté curateur (gestion "en bon père de famille"). Contestations réussissent rarement sauf faute grave.
-{% endhint %}
-
----
+Le curateur gère la masse faillie, mais ses décisions ne sont pas au-dessus de tout contrôle. Si vous estimez qu'une décision est manifestement contraire à l'intérêt des créanciers — une vente à prix insuffisant, un refus d'agir en responsabilité contre les dirigeants, une inaction prolongée — vous pouvez saisir le juge-commissaire par email ou courrier recommandé, en expliquant votre grief et en demandant son intervention. Si le juge-commissaire ne réagit pas, une requête au tribunal de l'entreprise reste possible, mais elle nécessite un avocat et implique une charge de la preuve élevée : les tribunaux laissent une grande liberté au curateur dans sa gestion.
 
 ### Contester les honoraires du curateur
 
-**Moment** : Lors de la **taxation** des honoraires par le tribunal (en fin de liquidation)
-
-**Procédure** :
-
-1. **Notification** : Curateur dépose état honoraires au greffe
-2. **Consultation** : Créanciers peuvent consulter (REGSOL ou greffe)
-3. **Observations** : Vous pouvez formuler observations **écrites** au tribunal
-   - Honoraires excessifs ?
-   - Frais injustifiés ?
-   - Travail insuffisant ?
-4. **Audition** : Tribunal peut convoquer curateur et créanciers pour explications
-5. **Jugement taxation** : Tribunal fixe honoraires définitifs
-
-**Critères tribunal** :
-- Barème légal (% actif brut)
-- Complexité dossier
-- Temps consacré
-- Résultats obtenus
-
-{% hint style="info" %}
-💡 **Droit d'appel** : Vous pouvez faire appel du jugement de taxation (délai 1 mois) si honoraires manifestement excessifs.
-{% endhint %}
+À la fin de la liquidation, le curateur dépose son état de frais et d'honoraires au greffe. Le tribunal taxe ces honoraires lors d'une audience à laquelle vous pouvez présenter vos observations écrites — notamment si les honoraires vous paraissent excessifs au regard du barème légal, si des frais vous semblent injustifiés, ou si le travail fourni vous semble insuffisant. Le tribunal fixe les honoraires définitifs par jugement, susceptible d'appel dans le mois qui suit si les honoraires sont manifestement disproportionnés.
 
 ---
 
-## 3. Droit de participer : Assemblée générale des créanciers
+## Le droit de participer aux assemblées générales des créanciers
 
-### Qu'est-ce que l'assemblée générale ?
+### Quand une assemblée est-elle convoquée ?
 
-**Définition** : Réunion de tous les créanciers convoqués pour :
-- Débattre des comptes du curateur
-- Approuver état de répartition
-- Émettre avis sur gestion faillite
-- Poser questions au curateur
+L'assemblée générale des créanciers est convoquée par le juge-commissaire — d'office ou sur demande de créanciers représentant plus d'un tiers des dettes admises. Elle permet de débattre des comptes du curateur, d'approuver l'état de répartition, de poser des questions sur la gestion, et d'émettre un avis sur les décisions importantes (comme le choix d'un repreneur dans un going concern). En pratique, les assemblées générales sont rares dans les petites faillites ; elles sont plus fréquentes dans les dossiers à actif significatif ou contestés.
 
-**Convocation** : Par juge-commissaire (facultative)
+### Comment demander une assemblée ?
+
+Si vous représentez, seul ou avec d'autres créanciers, plus d'un tiers du passif total admis, vous pouvez adresser une requête commune au juge-commissaire pour demander la convocation d'une assemblée. Le juge-commissaire apprécie discrétionnairement l'opportunité de la convoquer. La convocation est publiée sur REGSOL et par recommandé au moins quinze jours avant la réunion. Chaque créancier vote proportionnellement à sa créance admise. Vous pouvez vous faire représenter par un avocat ou un mandataire muni d'une procuration écrite.
 
 ---
 
-### Qui peut demander convocation ?
+## Les recours judiciaires
 
-**Créanciers** représentant **plus de 1/3 des dettes** admises
+### Recours contre les ordonnances du juge-commissaire
 
-**Procédure demande** :
-1. Réunir créanciers représentant > 1/3 dettes
-2. Requête commune au juge-commissaire
-3. Juge-commissaire décide (discrétionnaire)
+Si le juge-commissaire rend une ordonnance que vous estimez contraire à vos intérêts — par exemple, une autorisation de vente à un prix que vous jugez insuffisant —, vous pouvez former un référé devant le tribunal de l'entreprise. Ce recours doit être exercé rapidement pour conserver son efficacité pratique. Un avocat est indispensable.
 
-**Initiative juge-commissaire** : Peut convoquer d'office si estime utile
+### Appel des jugements du tribunal
 
----
+Les jugements du tribunal de l'entreprise — jugement déclaratif de faillite, jugement sur contestation de créance, jugement de taxation des honoraires, jugement de clôture — sont susceptibles d'appel devant la cour d'appel dans le mois qui suit leur prononcé. Si le jugement contient une erreur de droit, un pourvoi en cassation reste possible.
 
-### Quand l'assemblée est-elle utile ?
+### Agir à la place du curateur contre les dirigeants
 
-**Situations fréquentes** :
-- Faillite importante (actif significatif)
-- Contestations honoraires curateur
-- Problèmes gestion (inaction curateur, ventes douteuses)
-- Going concern (choix repreneur)
-- Fin liquidation (approbation comptes)
+Si le curateur refuse d'engager une action en responsabilité contre les dirigeants alors que vous disposez d'éléments sérieux de faute grave de gestion ayant contribué à la faillite, vous pouvez agir en substitution. La procédure est la suivante : mettez le curateur en demeure d'agir par courrier recommandé, en lui laissant un délai d'un mois. En cas de refus ou de silence, vous pouvez citer les dirigeants directement devant le tribunal de l'entreprise et demander leur condamnation au comblement du passif. Le curateur sera alors appelé à la cause pour donner son avis.
 
-**En pratique** : Assemblée générale **rare** dans petites faillites (coût, peu d'intérêt). Fréquente dans dossiers complexes.
+!!! warning "Pesez bien les risques avant d'agir"
+    Une action en responsabilité contre des dirigeants est complexe, coûteuse et longue. Ne l'engagez que si vous disposez de preuves solides, si le montant en jeu le justifie, et de préférence en vous associant à d'autres créanciers pour partager les frais. En cas d'échec, vous risquez d'être condamné aux dépens.
 
 ---
 
-### Déroulement assemblée
+## Le droit de revendiquer vos biens propres
 
-**Lieu** : Tribunal ou bureau curateur
+Si des biens vous appartenant se trouvent dans le patrimoine de la masse faillie — marchandises vendues avec clause de réserve de propriété et non payées, matériel en leasing, stock en dépôt —, vous avez le droit de les revendiquer auprès du curateur. La revendication doit être exercée rapidement, idéalement avant l'inventaire ou la première vente des actifs. Après la vente, la revendication ne porte plus que sur le prix identifiable.
 
-**Convocation** : Par REGSOL + recommandé (15 jours avant)
-
-**Présidence** : Juge-commissaire
-
-**Ordre du jour** :
-1. Rapport curateur (état liquidation, comptes)
-2. Questions créanciers
-3. Débat contradictoire
-4. Vote éventuel (approbation comptes, avis sur décisions)
-
-**Vote** : Chaque créancier vote proportionnellement à sa créance admise
-
-**Procès-verbal** : Rédigé par curateur, déposé greffe, consultable REGSOL
+Pour les détails sur les clauses de réserve de propriété et les autres sûretés réelles, consultez [les sûretés et cautions dans la faillite](suretes-cautions.md).
 
 ---
 
-### Puis-je me faire représenter ?
+## Les délais à ne pas manquer
 
-**Oui** :
-- Par avocat (procuration)
-- Par mandataire spécial (procuration écrite)
+| Action | Délai | Point de départ |
+|---|---|---|
+| Déclaration de créance | 30 jours (1 an maximum) | Jugement de faillite |
+| Déclaration de sûreté personnelle (caution) | 3 mois | Jugement de faillite |
+| Contredit contre une créance admise | 1 mois | Publication du procès-verbal |
+| Appel d'un jugement | 1 mois | Prononcé du jugement |
+| Action en responsabilité contre les dirigeants | 3 ans | Clôture de la faillite |
 
-**Procuration** : Joindre à convocation ou remettre au juge-commissaire
-
----
-
-## 4. Recours et actions en justice
-
-### Recours contre ordonnances du juge-commissaire
-
-**Exemple ordonnances** :
-- Autorisation vente gré à gré immeuble
-- Fixation date assemblée générale
-- Décision sur demande failli (secours alimentaire, etc.)
-
-**Recours** : **Référé** devant le tribunal de l'entreprise (procédure urgente)
-
-**Délai** : Pas de délai légal strict, mais réagir rapidement (efficacité recours)
-
-**Avocat** : Obligatoire
+!!! danger "Des délais stricts sans exception"
+    Les délais de la procédure de faillite sont des délais de forclusion : leur expiration entraîne la perte définitive du droit correspondant. Notez chaque délai dans votre agenda dès que vous avez connaissance de l'événement qui le déclenche.
 
 ---
 
-### Recours contre jugements du tribunal
-
-**Appel** : Délai **1 mois** depuis jugement
-
-**Cour compétente** : Cour d'appel
-
-**Jugements appelables** :
-- Jugement déclaratif de faillite
-- Jugement sur contestation créance
-- Jugement taxation honoraires
-- Jugement clôture
-
-**Pourvoi en cassation** : Si erreur de droit (Cour de cassation)
-
----
-
-### Action en remplacement du curateur
-
-**Hypothèse** : Le curateur **refuse** d'agir en responsabilité contre les dirigeants (comblement de passif) alors qu'action fondée
-
-**Procédure** :
-
-1. **Sommation curateur** : Mise en demeure recommandée d'agir (délai 1 mois)
-2. **Refus curateur** : Réponse négative ou silence
-3. **Action substitution** : Vous agissez **à la place** du curateur
-   - Citation dirigeants devant tribunal entreprise
-   - Demande comblement passif ou responsabilité
-   - Curateur intervient (donne avis)
-
-**Conditions** :
-- Faute grave dirigeants ayant contribué à faillite
-- Refus injustifié curateur d'agir
-- Intérêt collectif créanciers (pas seulement votre intérêt personnel)
-
-{% hint style="warning" %}
-⚠️ **Risques** :
-- Frais avocat élevés (procédure complexe)
-- Risque condamnation frais justice si action échoue
-- Durée longue (procédure au fond)
-
-**Conseil** : N'engagez cette action que si :
-- Preuves solides faute dirigeants
-- Montant enjeu significatif
-- Autres créanciers soutiennent (partage frais)
-{% endhint %}
-
----
-
-### Action directe contre dirigeants (cas particuliers)
-
-**Responsabilité personnelle dirigeants** :
-
-1. **Comblement de passif** (art. XX.225 à XX.234)
-   - Faute grave ayant contribué à faillite
-   - Dirigeant condamné combler (partiellement ou totalement) passif
-
-2. **Responsabilité cotisations ONSS** (loi spéciale)
-   - Dirigeant responsable arriérés ONSS sur patrimoine personnel
-
-3. **Wrongful trading** (poursuite déraisonnable activité déficitaire)
-   - Dirigeant savait ou aurait dû savoir faillite inévitable
-   - Poursuite activité aggrave passif
-
-**Qui peut agir ?**
-- Curateur (priorité)
-- Créanciers si curateur refuse (après sommation 1 mois)
-
-➡️ [Comprendre les actions en responsabilité](../comprendre/liquidation-actifs.md#actions-en-responsabilité)
-
----
-
-## 5. Droits spécifiques selon type de créancier
-
-### Créancier hypothécaire (premier rang)
-
-**Droit de vendre vous-même** l'immeuble grevé :
-
-**Conditions** :
-- Hypothèque **premier rang**
-- Après le **1er procès-verbal** de vérification
-- Si curateur n'a pas encore vendu
-
-**Procédure** :
-- Notification curateur et juge-commissaire (intention vendre)
-- Vente publique ou gré à gré (selon règles classiques saisie immobilière)
-- Produit vente consigné à CDC
-- Paiement créancier hypothécaire selon rang
-
-**Intérêt** : Maîtriser calendrier vente (éviter attente curateur)
-
----
-
-### Créancier gagiste
-
-**Droit de revendiquer le bien** si gage régulièrement constitué
-
-**Procédure** :
-- Déclaration créance mentionnant gage
-- Curateur vérifie existence gage
-- Vente bien par curateur (ou créancier gagiste si autorisé)
-- Paiement prioritaire sur produit vente
-
----
-
-### Travailleur salarié
-
-**Super-privilège** sur dernier mois salaire + préavis
-
-**Fonds Fermeture Entreprises (FFE)** :
-- Paie arriérés salaires (max 3 mois)
-- Indemnité préavis
-- Indemnité licenciement
-- Pécule vacances
-
-➡️ [www.fermeture.belgium.be](https://www.fermeture.belgium.be)
-
-**Procédure** :
-- Déclaration créance salariale au curateur
-- Parallèlement : Demande FFE
-- FFE paie (rapide, 2-4 mois)
-- FFE se subroge dans vos droits (devient créancier masse)
-
----
-
-### Bailleur commercial
-
-**Privilège mobilier** sur meubles garnissant lieux loués (2 ans loyers)
-
-**Résiliation bail** : Automatique par faillite (sauf poursuite bail par curateur)
-
-**Revendication meubles** : Si clauses spéciales contrat (droit revendication matériel fourni)
-
----
-
-## 6. Protection contre actes du curateur
-
-### Nullité des paiements (période suspecte)
-
-**Définition période suspecte** : Période avant faillite où certains actes sont annulables
-
-**Durée** : Variable selon acte (6 mois à 10 ans avant faillite)
-
-**Actes annulables** :
-- Paiements préférentiels (favoriser un créancier)
-- Ventes à vil prix à proches
-- Garanties constituées peu avant faillite
-
-**Intérêt créanciers** : Récupération actifs détournés (augmente masse à répartir)
-
-**Qui agit ?** : Curateur d'office ou sur demande créanciers
-
----
-
-### Revendication de biens (propriété tiers)
-
-**Si biens du failli comprennent biens vous appartenant** :
-
-**Exemples** :
-- Marchandises vendues avec clause réserve propriété (impayées)
-- Matériel en leasing
-- Stock en dépôt
-- Marchandises en consignation
-
-**Procédure revendication** :
-1. Déclaration rapide au curateur (idéalement avant inventaire)
-2. Preuves propriété (contrat, factures, clause réserve)
-3. Curateur vérifie et restitue OU conteste
-
-**Si contestation** : Tribunal tranche (procédure contradictoire)
-
-{% hint style="success" %}
-💡 **Agissez VITE** : Revendiquez dès que vous apprenez la faillite. Après vente bien par curateur, trop tard (sauf si prix vente identifiable).
-{% endhint %}
-
----
-
-## 7. Surveillance et contrôle du curateur
-
-### Rôle du juge-commissaire
-
-**Fonction** : Juge désigné pour surveiller et accélér les opérations
-
-**Pouvoirs** :
-- Autorise certains actes curateur (ventes immeubles, transactions)
-- Convoque assemblées créanciers
-- Tranche litiges simples (désaccords curateur/failli)
-- Contrôle respect délais
-
-**Contact** : Email ou courrier (coordonnées REGSOL)
-
-**Quand saisir juge-commissaire ?**
-- Curateur inactif (pas de rapport, pas de ventes)
-- Curateur ne répond pas à vos demandes
-- Décision curateur contestable
-- Demande convocation assemblée
-
----
-
-### Plainte contre le curateur
-
-**Si faute grave curateur** (négligence, conflit intérêts, malhonnêteté) :
-
-1. **Plainte auprès Bâtonnier** (Ordre des avocats)
-   - Faute déontologique
-   - Sanctions : avertissement, suspension, radiation
-
-2. **Demande remplacement curateur** au tribunal
-   - Requête motivée
-   - Tribunal décide (discrétionnaire)
-   - Nouveau curateur désigné si faute établie
-
-3. **Action responsabilité civile** contre curateur
-   - Dommages causés par faute
-   - Indemnisation masse (ou créanciers individuellement si préjudice personnel)
-
----
-
-## 8. Prescription et délais à surveiller
-
-| Action | Délai | Point départ |
-|--------|-------|--------------|
-| **Déclaration créance** | 30 jours (puis 1 an absolu) | Jugement faillite |
-| **Déclaration sûreté personnelle (caution)** | 3 mois | Jugement faillite |
-| **Contredit créance admise** | 1 mois | Insertion PV |
-| **Appel jugement** | 1 mois | Jugement |
-| **Action en responsabilité dirigeants** | 3 ans | Clôture faillite |
-
-{% hint style="danger" %}
-🚨 **Ne ratez aucun délai** : Les délais en droit de la faillite sont **stricts** et **courts**. Forclusion = perte définitive de vos droits.
-
-**Conseil** : Notez tous les délais importants dans votre agenda (alertes).
-{% endhint %}
-
----
-
-## Questions fréquentes
-
-### Puis-je visiter les locaux du failli pour constater état actifs ?
-
-**Non**, vous n'avez pas droit de visite spontanée (propriété curateur).
-
-**Mais** : Vous pouvez demander au juge-commissaire (si motif légitime, rare accord).
-
----
-
-### Puis-je proposer un acheteur pour les actifs ?
-
-**Oui** : Vous pouvez signaler au curateur un acheteur potentiel.
-
-Curateur décide librement (doit vendre au meilleur prix). Votre suggestion sera prise en compte si offre intéressante.
-
----
-
-### Puis-je refuser une répartition provisoire ?
-
-**Non**. Si curateur fait répartition provisoire autorisée, vous recevez votre acompte (pas de refus possible).
-
----
-
-### Puis-je racheter la créance d'un autre créancier ?
-
-**Oui** (cession de créance). Vous augmentez ainsi votre dividende (ou votre influence si assemblée).
-
-**Marché** : Créances faillite se vendent 1-10% valeur nominale (selon rang et actif estimé).
-
----
-
-## Ressources et prochaines étapes
-
-📖 **Lecture recommandée** :
-- [FAQ Créanciers](faq.md) - 10 questions-réponses essentielles
-- [Comprendre les acteurs de la faillite](../comprendre/acteurs.md)
-- [La liquidation des actifs](../comprendre/liquidation-actifs.md)
-
-🔗 **Liens utiles** :
-- [REGSOL](https://www.regsol.be) - Suivi dossier en ligne
-- [Moniteur belge](https://www.ejustice.just.fgov.be/cgi/welcome.pl) - Publications officielles
-- [Délais importants](../delais.md) - Tableau récapitulatif
-
----
-
-{% hint style="success" %}
-**À retenir sur vos droits** :
-
-🔍 **Information** : REGSOL + rapports annuels + greffe
-⚖️ **Contestation** : Créances, décisions curateur, honoraires
-🗣️ **Participation** : Assemblée générale (si > 1/3 dettes)
-🛡️ **Recours** : Juge-commissaire, tribunal, actions responsabilité
-⏰ **Délais stricts** : 30j créance, 3 mois cautions, 1 mois contredit
-{% endhint %}
+## Pour aller plus loin
+
+- [Les droits des créanciers selon leur catégorie](creanciers-categories.md)
+- [Contester une créance admise dans la faillite](contester-creance.md)
+- [Le paiement des dividendes aux créanciers](paiement-dividendes.md)
+- [Les sûretés et cautions dans la faillite](suretes-cautions.md)
+- [La liquidation des actifs et les actions en responsabilité](../comprendre/liquidation-actifs.md)
+- [Les acteurs de la faillite : curateur et juge-commissaire](../comprendre/acteurs.md)
+- [Les délais importants à ne pas manquer](../delais.md)

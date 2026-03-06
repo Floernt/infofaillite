@@ -1,446 +1,109 @@
 ---
-description: Qu'est-ce qu'une faillite - Définition simple, critères état de faillite, qui peut être déclaré failli, objectifs procédure
-keywords: définition faillite belgique, état de faillite, cessation paiements, qui peut être failli, tribunal entreprise faillite
+description: Qu'est-ce qu'une faillite en Belgique - Définition, conditions légales, qui peut être déclaré failli, effets immédiats et objectifs de la procédure
+keywords: définition faillite belgique, état de faillite, cessation paiements, ébranlement de crédit, qui peut être failli, tribunal entreprise faillite
 ---
 
 # Qu'est-ce qu'une faillite ?
 
-La **faillite** est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus payer ses créanciers.
+La faillite est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus faire face à ses obligations. Elle est régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235), entré en vigueur le 1er mai 2018. Sous le contrôle du tribunal de l'entreprise, un curateur désigné par le tribunal vend les biens du failli, paie les créanciers selon un ordre légal strict, et permet aux personnes physiques d'effacer automatiquement leurs dettes impayées à la clôture.
 
 ---
 
-## Définition simple
+## Les trois conditions de l'état de faillite
 
-**Faillite** = Procédure judiciaire qui :
-- ✅ Constate qu'une entreprise ne peut **plus payer ses dettes**
-- ✅ Nomme un **curateur** (avocat) pour gérer la vente des biens
-- ✅ Organise le **paiement des créanciers** selon un ordre légal
-- ✅ Efface les **dettes restantes** (personnes physiques uniquement)
+Pour être déclaré en faillite, trois conditions cumulatives doivent être réunies. L'absence de l'une suffit à écarter la procédure.
 
-{% hint style="info" %}
-💡 **En résumé** : La faillite est une procédure de **liquidation collective** du patrimoine du débiteur défaillant, au profit de ses créanciers, sous contrôle judiciaire.
-{% endhint %}
+### La qualité de commerçant ou d'entreprise
 
----
+La faillite s'applique aux commerçants personnes physiques — indépendants, artisans, restaurateurs, garagistes — aux sociétés commerciales (SRL, SA, SNC, SCS, sociétés coopératives) et, depuis la réforme de 2018, aux professions libérales telles que les avocats, médecins, architectes et comptables. Les notaires et huissiers font l'objet d'un régime disciplinaire distinct.
 
-## Base légale
+En revanche, ne peuvent pas être déclarés en faillite : les salariés (qui ne sont pas commerçants), les agriculteurs (régime spécifique), les ASBL (dissoutes par dissolution judiciaire) et les personnes publiques comme l'État, les communes ou les CPAS.
 
-**Livre XX du Code de droit économique** (CDE)
+### La cessation de paiements
 
-**Articles XX.1 à XX.235** : Règles complètes sur la faillite en Belgique
+Le débiteur doit avoir cessé de payer ses dettes de manière durable. Il ne s'agit pas d'un simple retard ponctuel ou d'une difficulté passagère : l'incapacité doit être structurelle. Les signes les plus fréquents sont les factures fournisseurs restées impayées depuis plusieurs mois, les loyers commerciaux et salaires non honorés, les cotisations ONSS et la TVA en souffrance, et les comptes bancaires bloqués ou à découvert permanent.
 
-**Réforme** : Livre XX entré en vigueur le **1er mai 2018** (remplace ancienne loi 1997)
+### L'ébranlement du crédit
+
+La confiance des partenaires commerciaux doit être rompue. Les fournisseurs exigent désormais le paiement comptant ou refusent de nouvelles livraisons, les banques refusent tout nouveau crédit ou découvert, et les poursuites se multiplient : mises en demeure, commandements de payer, saisies conservatoires. Cette troisième condition distingue les difficultés réversibles — où un redressement reste possible — des difficultés irréversibles qui rendent la faillite inévitable.
 
 ---
 
-## Les 3 conditions de l'état de faillite
+## Comment la faillite est-elle déclarée ?
 
-Pour être déclaré en faillite, **3 conditions cumulatives** doivent être remplies :
+### L'aveu de faillite
 
-### 1. Qualité de commerçant ou d'entreprise
+Le débiteur lui-même peut se déclarer en faillite en déposant une requête auprès du tribunal de l'entreprise compétent. Il n'est pas obligatoire d'être assisté d'un avocat pour cette démarche, même si c'est fortement recommandé.
 
-**Qui peut être déclaré en faillite ?**
+!!! danger "Délai d'un mois pour l'aveu"
+    La loi impose de déposer l'aveu de faillite dans le mois qui suit la cessation de paiements. Dépasser ce délai constitue une faute grave : le tribunal peut refuser l'effacement des dettes et prononcer une interdiction de gérer pour inaction. Agir dans les délais démontre votre bonne foi et joue en votre faveur lors du jugement de clôture.
 
-✅ **Commerçants personnes physiques** :
-- Indépendants
-- Artisans
-- Professions commerciales (garagiste, restaurateur, commerçant...)
+Effectuer l'aveu dans les délais démontre la bonne foi du débiteur, limite l'aggravation du passif et réduit le risque d'interdiction de gérer. Pour les obligations qui s'ensuivent, consultez [vos obligations légales envers le curateur](../faillis/obligations.md).
 
-✅ **Sociétés commerciales** :
-- SPRL/SRL, SA, SNC, SCS, SCA
-- Sociétés coopératives
+### La citation par un créancier
 
-✅ **Professions libérales** (depuis réforme 2018) :
-- Avocats, médecins, architectes, comptables...
-- **SAUF** : Notaires, huissiers (régime spécial)
+Un créancier dont la créance est certaine, liquide et exigible peut citer le débiteur devant le tribunal de l'entreprise pour faire prononcer la faillite. Le débiteur peut se défendre en prouvant qu'il n'est pas en état de faillite, en payant la créance avant le jugement, ou en obtenant un délai de paiement.
 
-❌ **NE peuvent PAS être déclarés en faillite** :
-- Salariés (pas commerçants)
-- Professions agricoles (régime spécial)
-- ASBL (procédure différente : dissolution judiciaire)
-- Personnes publiques (État, communes, CPAS...)
+### La déclaration d'office par le tribunal
+
+Dans des cas plus rares, le tribunal peut prononcer la faillite d'office s'il constate l'état de faillite lors d'une autre procédure — par exemple lorsqu'une réorganisation judiciaire échoue et que le redressement est manifestement impossible.
 
 ---
 
-### 2. Cessation de paiements
+## Le tribunal de l'entreprise : juridiction compétente
 
-**Définition** : Le débiteur a **cessé de payer** ses dettes de manière **durable**.
-
-**Critères concrets** :
-
-🔴 **Dettes échues impayées** :
-- Factures fournisseurs impayées depuis plusieurs mois
-- Loyers commerciaux impayés
-- Salaires impayés
-- Cotisations ONSS impayées
-- TVA impayée
-
-🔴 **Impossibilité de payer** :
-- Comptes bancaires vides ou bloqués
-- Refus de crédit par banques
-- Saisies en cours
-- Protêts (chèques/lettres de change impayés)
-
-{% hint style="warning" %}
-⚠️ **Cessation de paiements ≠ Difficultés passagères**
-
-Un retard de paiement **ponctuel** ou une **difficulté temporaire** ne suffit pas. Il faut une **incapacité durable** à honorer ses engagements.
-{% endhint %}
+Le tribunal de l'entreprise est la juridiction spécialisée qui connaît des faillites, des réorganisations judiciaires et des litiges commerciaux. La compétence territoriale est déterminée par le siège principal de l'entreprise ou le domicile du commerçant personne physique. Une société dont le siège est à Liège relèvera ainsi du tribunal de l'entreprise de Liège-Verviers ; un indépendant domicilié à Bruxelles, du tribunal de l'entreprise francophone de Bruxelles.
 
 ---
 
-### 3. Ébranlement de crédit
+## Les objectifs de la procédure
 
-**Définition** : La confiance des partenaires commerciaux est **rompue**.
-
-**Signes concrets** :
-
-📉 **Fournisseurs n'accordent plus crédit** :
-- Exigent paiement comptant
-- Refusent nouvelles livraisons
-- Résilient contrats
-
-📉 **Banques refusent** :
-- Nouveaux crédits
-- Découverts
-- Garanties
-
-📉 **Poursuites multiples** :
-- Mises en demeure
-- Commandements de payer
-- Saisies conservatoires
-
-{% hint style="info" %}
-💡 **Pourquoi cette condition ?**
-
-L'ébranlement de crédit distingue les difficultés **réversibles** (entreprise peut se redresser) des difficultés **irréversibles** (faillite inévitable).
-{% endhint %}
+La faillite poursuit trois objectifs complémentaires. Elle protège d'abord les créanciers collectivement, en empêchant les courses individuelles où chacun chercherait à saisir avant les autres et en garantissant l'égalité de traitement entre créanciers de même rang. Elle organise ensuite la liquidation ordonnée du patrimoine du failli : vente des stocks, équipements, véhicules, immeubles et fonds de commerce, dont le produit est distribué selon l'ordre légal de priorité. Pour en savoir plus, consultez [la liquidation des actifs et la réalisation du patrimoine](liquidation-actifs.md). Enfin, elle offre aux personnes physiques un nouveau départ en effaçant automatiquement les dettes impayées à la clôture, sans aucune démarche de leur part. Ce mécanisme est décrit en détail dans [l'effacement automatique des dettes à la clôture](../faillis/effacement.md).
 
 ---
 
-## Qui déclare la faillite ?
+## Les effets immédiats du jugement
 
-### Aveu de faillite (déclaration volontaire)
+Dès que le tribunal prononce la faillite, les effets sont immédiats. Le failli est dessaisi de la gestion de son patrimoine professionnel : c'est le curateur qui en prend le contrôle. Les poursuites individuelles des créanciers pour les dettes antérieures sont suspendues : aucune saisie nouvelle ne peut être pratiquée, et chaque créancier doit déclarer sa créance au curateur dans un délai de trente jours. Les actes passés pendant la période suspecte — la période précédant le jugement — peuvent être annulés s'ils ont lésé les créanciers. La faillite est publiée au Moniteur belge et dans [REGSOL](https://www.regsol.be), le registre central de solvabilité, où elle reste accessible au public.
 
-**Qui ?** : Le débiteur **lui-même** (commerçant, gérant société)
-
-**Délai** : Dans le **mois** de la cessation de paiements (obligation légale)
-
-**Procédure** :
-- Requête au tribunal de l'entreprise compétent
-- Formulaire type (disponible greffe ou en ligne)
-- Avec avocat (recommandé) ou seul
-
-**Avantages aveu** :
-- Démontre bonne foi (favorable pour effacement dettes)
-- Évite interdiction de gérer pour inaction
-- Limite aggravation passif
-
-{% hint style="danger" %}
-🚨 **Non-respect délai aveu = Faute grave**
-
-Si vous ne déposez pas aveu dans le mois alors qu'en état de faillite : Risque **interdiction de gérer** (inaction) + **refus effacement** dettes.
-{% endhint %}
-
-➡️ [Obligations du failli](../faillis/obligations.md)
+Pour comprendre pleinement ce que le dessaisissement implique pour vos biens, lisez [les effets du dessaisissement sur votre patrimoine](dessaisissement.md).
 
 ---
 
-### Citation par un créancier
+## Faillite, réorganisation judiciaire et liquidation volontaire
 
-**Qui ?** : Un créancier impayé
-
-**Condition** : Créance **certaine, liquide et exigible** (échue et impayée)
-
-**Procédure** :
-- Citation du débiteur devant tribunal entreprise
-- Avocat obligatoire
-- Preuve créance + état faillite
-
-**Défense débiteur** :
-- Prouver qu'il n'est **pas** en état de faillite
-- Payer créance (avant jugement)
-- Obtenir délai de paiement
+La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre VI) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les associés lorsque la situation est saine : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé et sans effacement de dettes. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
 
 ---
 
-### D'office par le tribunal
+## Le déroulement en cinq phases
 
-**Rare** : Le tribunal peut prononcer faillite d'office (sans demande) si constate état faillite lors autre procédure.
+La procédure suit un enchaînement chronologique prévisible, même si sa durée varie selon la complexité du dossier.
 
-**Exemple** : Procédure réorganisation judiciaire échoue → tribunal prononce faillite d'office
+La première phase couvre les mesures urgentes dans les jours qui suivent le jugement : confirmation du curateur sur REGSOL, descente de faillite, blocage des comptes et apposition des scellés. La deuxième phase est celle de l'inventaire et des déclarations de créances : les créanciers ont trente jours pour déclarer, et le curateur dispose de deux mois pour remettre son rapport au tribunal. La troisième phase est la vérification des créances, organisée en trois procès-verbaux successifs. La quatrième phase est la liquidation des actifs, qui peut durer de six mois à plusieurs années selon les biens à réaliser. La cinquième et dernière phase est la clôture : taxation des honoraires du curateur, état de répartition, paiement des dividendes et jugement de clôture qui efface les dettes des personnes physiques.
 
----
-
-## Quel tribunal est compétent ?
-
-### Tribunal de l'entreprise
-
-**Juridiction spécialisée** : Connaît des faillites, réorganisations judiciaires, litiges commerciaux
-
-**Compétence territoriale** :
-- Siège principal entreprise (siège social société)
-- Domicile commerçant personne physique
-- Principal établissement en Belgique (si siège étranger)
-
-**Exemples** :
-- Société siège à Liège → Tribunal entreprise Liège-Verviers
-- Indépendant domicilié Bruxelles → Tribunal entreprise francophone Bruxelles
-
----
-
-## Objectifs de la faillite
-
-### 1. Protéger les créanciers (collectivement)
-
-**Éviter** :
-- Courses individuelles (chacun saisit = désordre)
-- Paiements préférentiels (favoriser certains créanciers)
-- Dilapidation actifs (destruction patrimoine)
-
-**Garantir** :
-- Paiement **ordonné** (ordre légal)
-- Égalité entre créanciers **même rang** (pari passu)
-- Maximisation actif (vente au meilleur prix)
-
----
-
-### 2. Liquider le patrimoine du failli
-
-**Vendre tous les biens** :
-- Mobilier (stocks, équipements, véhicules)
-- Immobilier (bâtiments, terrains)
-- Fonds de commerce
-- Créances (sommes dues au failli)
-
-**Distribuer produit liquidation** :
-- Selon ordre légal (frais justice, privilégiés, chirographaires)
-- Paiement dividendes (parts proportionnelles)
-
-➡️ [Comprendre la liquidation des actifs](liquidation-actifs.md)
-
----
-
-### 3. Apurer les dettes (effacement)
-
-**Pour personnes physiques uniquement** :
-
-Après clôture faillite, **effacement automatique** dettes impayées :
-- Nouvelle chance (fresh start)
-- Rebondir sans poids du passé
-- Reprendre activité
-
-**Conditions** :
-- Pas de fautes graves caractérisées
-- Collaboration avec curateur
-
-➡️ [L'effacement des dettes (faillis)](../faillis/effacement.md)
-
----
-
-## Différence avec autres procédures
-
-### Faillite vs Liquidation volontaire
-
-| Critère | Faillite | Liquidation volontaire |
-|---------|----------|------------------------|
-| **Nature** | Judiciaire (forcée) | Volontaire (assemblée générale) |
-| **Qui décide** | Tribunal | Associés/actionnaires |
-| **État** | Cessation paiements (difficultés) | Situation saine possible |
-| **Curateur** | Désigné par tribunal | Liquidateur choisi par AG |
-| **Contrôle** | Juge-commissaire + tribunal | Assemblée générale |
-| **Effacement dettes** | Oui (personnes physiques) | Non |
-
----
-
-### Faillite vs Réorganisation judiciaire (RJ)
-
-**Réorganisation judiciaire** (Livre XX, Titre VI) :
-- Procédure **préventive** (avant faillite)
-- Entreprise en difficulté mais **pas encore** cessation paiements
-- Objectif : **Sauver** entreprise (plan apurement, transfert sous autorité justice)
-- Sursis paiements (protection temporaire)
-- Si échec RJ → Faillite
-
-**Faillite** :
-- Procédure **curative** (après cessation paiements)
-- État faillite avéré
-- Objectif : **Liquider** (vendre actifs, payer créanciers)
-- Pas de sauvetage entreprise (sauf going concern exceptionnel)
-
----
-
-## Timeline : Du jugement à la clôture
-
-```
-JOUR J : JUGEMENT DÉCLARATIF DE FAILLITE
-          ⬇
-┌─────────────────────────────────────┐
-│ PHASE 1 : MESURES URGENTES          │
-│ (J+1 à J+15)                         │
-│ - Curateur confirmé (REGSOL)        │
-│ - Descente de faillite              │
-│ - Blocage comptes, scellés          │
-└─────────────────────────────────────┘
-          ⬇
-┌─────────────────────────────────────┐
-│ PHASE 2 : INVENTAIRE + DÉCLARATIONS │
-│ (J+15 à J+60)                        │
-│ - Inventaire biens                  │
-│ - Créanciers déclarent (30 jours)  │
-│ - Mémoire curateur (2 mois)         │
-└─────────────────────────────────────┘
-          ⬇
-┌─────────────────────────────────────┐
-│ PHASE 3 : VÉRIFICATION CRÉANCES     │
-│ (J+30 à J+365)                       │
-│ - 1er PV (J+35-60)                  │
-│ - 2ème PV (6 mois)                  │
-│ - 3ème PV (12 mois, définitif)      │
-└─────────────────────────────────────┘
-          ⬇
-┌─────────────────────────────────────┐
-│ PHASE 4 : LIQUIDATION ACTIFS        │
-│ (6 mois à 3 ans)                     │
-│ - Ventes mobilier/immobilier        │
-│ - Going concern si possible         │
-│ - Actions responsabilité            │
-└─────────────────────────────────────┘
-          ⬇
-┌─────────────────────────────────────┐
-│ PHASE 5 : CLÔTURE                   │
-│ (1 à 4 ans après jugement)           │
-│ - Taxation honoraires curateur      │
-│ - État répartition                  │
-│ - Paiement dividendes (CDC)         │
-│ - Jugement clôture                  │
-│ - Effacement dettes (pers. phys.)   │
-└─────────────────────────────────────┘
-```
-
-➡️ [Le déroulement chronologique détaillé](deroulement-chronologique.md)
-
----
-
-## Effets immédiats du jugement de faillite
-
-### Pour le failli
-
-❌ **Dessaisissement** : Perd droit de gérer ses biens (curateur prend relais)
-
-❌ **Suspension poursuites** : Créanciers ne peuvent plus saisir individuellement
-
-✅ **Protection relative** : Pas de nouvelles saisies (anciennes suspendues)
-
-➡️ [Comprendre le dessaisissement](dessaisissement.md)
-
----
-
-### Pour les créanciers
-
-⏸️ **Suspension poursuites individuelles** : Doivent déclarer créance au curateur
-
-📝 **Déclaration obligatoire** : 30 jours max (délai crucial)
-
-⏳ **Attente paiement** : Dividendes à la clôture (1-4 ans)
-
-➡️ [Guide créanciers](../creanciers/README.md)
-
----
-
-### Pour les tiers
-
-🔒 **Inopposabilité actes période suspecte** : Certains actes avant faillite annulables
-
-🚫 **Interdiction contracter** : Failli ne peut plus engager société (dessaisi)
-
-📢 **Publicité** : Faillite publiée Moniteur belge + REGSOL (public)
-
----
-
-## Statistiques Belgique
-
-**Nombre faillites annuelles** (moyenne 2020-2025) :
-- ~10 000 à 12 000 faillites/an en Belgique
-- Secteurs les plus touchés : Horeca, construction, commerce détail
-
-**Durée moyenne** :
-- Insuffisance d'actif : 6-12 mois
-- Faillite simple : 1-2 ans
-- Faillite complexe : 3-5 ans
-
-**Taux récupération créanciers chirographaires** :
-- 70% des faillites : 0% (aucun dividende)
-- 20% des faillites : 1-10%
-- 10% des faillites : > 10%
+Pour le détail de chaque phase, consultez [le déroulement chronologique de la procédure de faillite](deroulement-chronologique.md).
 
 ---
 
 ## Questions fréquentes
 
-### Peut-on éviter la faillite ?
+**Peut-on éviter la faillite ?** Si les trois conditions sont réunies, la faillite est juridiquement inévitable. En revanche, si vous agissez tôt — avant d'atteindre la cessation de paiements —, plusieurs alternatives existent : réorganisation judiciaire, négociation amiable avec les créanciers, ou apport de capitaux nouveaux. Pour comparer ces options, lisez [les procédures alternatives à la faillite](procedures-alternatives.md).
 
-**Oui**, si vous agissez **à temps** :
+**La faillite figure-t-elle au casier judiciaire ?** Non. La faillite est une procédure civile, pas pénale. Elle est consultable sur REGSOL et une interdiction de gérer éventuelle est inscrite dans le registre JustBan. Seule une condamnation pour banqueroute frauduleuse, qui est une infraction pénale distincte, peut figurer au casier judiciaire.
 
-**Solutions préventives** :
-- **Réorganisation judiciaire** (RJ) : Sursis + plan apurement
-- **Médiation de dettes** (particuliers/indépendants)
-- **Négociation amiable** créanciers (plans paiement)
-- **Apport capital** (nouveaux associés, prêts famille)
-
-**Mais** : Si état faillite **avéré** (3 conditions réunies), faillite devient **inévitable**.
+**Peut-on faire appel du jugement de faillite ?** Oui, dans le mois qui suit le prononcé. Mais l'appel ne suspend pas la procédure : le curateur continue d'agir pendant le délibéré. Si vous êtes réellement en état de faillite, il est souvent plus utile de collaborer pleinement pour préserver votre droit à l'effacement que de tenter un appel voué à l'échec.
 
 ---
 
-### Faillite = Casier judiciaire ?
+## Pour aller plus loin
 
-**Non**, la faillite est une procédure **civile** (pas pénale).
-
-**MAIS** :
-- Faillite consultable sur **REGSOL** (registre public)
-- Interdiction de gérer inscrite **JustBan** (si prononcée)
-- Poursuites **pénales** possibles si **banqueroute** (fraude) → Casier judiciaire
-
----
-
-### Peut-on faire appel du jugement de faillite ?
-
-**Oui**, délai **1 mois** depuis jugement.
-
-**Mais** : Appel **ne suspend PAS** la procédure (curateur continue opérations).
-
-**Chances succès** : Faibles (si vraiment en état faillite). Avocat indispensable.
-
-➡️ [FAQ Faillis](../faillis/faq.md#q7-puis-je-faire-appel-du-jugement-de-faillite)
-
----
-
-## Ressources et prochaines étapes
-
-📖 **Comprendre la procédure complète** :
-- [Les acteurs de la faillite](acteurs.md)
-- [Le déroulement chronologique](deroulement-chronologique.md)
-- [Le dessaisissement](dessaisissement.md)
-- [La liquidation des actifs](liquidation-actifs.md)
-- [La clôture de la faillite](cloture.md)
-
-🔗 **Selon votre profil** :
-- **Je suis en faillite** : [Guide faillis complet](../faillis/README.md)
-- **Je suis créancier** : [Guide créanciers complet](../creanciers/README.md)
-
-🔗 **Outils pratiques** :
-- [REGSOL](https://www.regsol.be) - Consulter dossiers faillite
-- [Glossaire](../glossaire.md) - Termes juridiques expliqués
-- [Délais importants](../delais.md) - Tableau récapitulatif
-
----
-
-{% hint style="success" %}
-**À retenir** :
-
-✅ Faillite = Procédure **liquidation collective** sous contrôle judiciaire
-✅ **3 conditions** : Commerçant + Cessation paiements + Ébranlement crédit
-✅ **Objectifs** : Protéger créanciers + Liquider actifs + Effacer dettes (pers. phys.)
-✅ **Durée** : 1 à 4 ans (moyenne 2 ans)
-✅ **Publicité** : Moniteur belge + REGSOL (dossiers consultables)
-{% endhint %}
+- [Les acteurs de la faillite : curateur, juge-commissaire, tribunal](acteurs.md)
+- [Le déroulement chronologique de la procédure de faillite](deroulement-chronologique.md)
+- [Les effets du dessaisissement sur votre patrimoine](dessaisissement.md)
+- [La liquidation des actifs et la réalisation du patrimoine](liquidation-actifs.md)
+- [La clôture de la faillite et l'effacement automatique des dettes](cloture.md)
+- [Guide pratique : je suis en faillite](../faillis/README.md)
+- [Guide pratique : je suis créancier](../creanciers/README.md)
+- [Les délais importants à ne pas manquer](../delais.md)
+- [REGSOL — registre central de solvabilité](https://www.regsol.be)
