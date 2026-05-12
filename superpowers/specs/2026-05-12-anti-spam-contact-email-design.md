@@ -68,7 +68,7 @@ Choix techniques :
 - **Inline plutôt que fichier séparé** : la promesse « un seul fichier à éditer » serait diluée si le décodage vivait dans `docs/javascripts/`. Inline = tout est dans `contact.md`.
 - **IIFE** : pas de pollution du scope global, pas de dépendance à `defer`/`async` puisque le script s'exécute après le `<span>` dans le flux du document.
 - **`replaceWith`** : remplace le span par le `<a>`, plus net que `innerHTML` (pas de risque d'injection même si l'adresse était modifiée par erreur).
-- **Pas de fallback `try/catch`** : si `atob` échoue, l'utilisateur voit le `<noscript>` indirectement (le span reste vide) — comportement acceptable, mieux que d'afficher une erreur.
+- **`try/catch` autour de la reconstruction** : ajouté lors de la revue de code de Task 1. Le raisonnement initial du spec — « si `atob` échoue, l'utilisateur voit le `<noscript>` indirectement » — était incorrect : `<noscript>` est supprimé par le navigateur dès que JS est actif, donc un échec silencieux laisserait un visiteur avec JS sans aucune indication. Le `try/catch` remplit `el.textContent` avec la phrase obfusquée du `<noscript>` en cas d'échec d'`atob`, garantissant une dégradation visible.
 
 ---
 

@@ -152,7 +152,7 @@ Dans le navigateur, ouvrir `/faillis/checklist-premiere-semaine/`. Scroller en b
 
 Expected : navigation vers `/contact/`. Une fois sur place, le lien obfusqué fonctionne comme dans Step 4.
 
-Note : le CTA actuel dans `checklist-premiere-semaine.md` (ligne 125) affiche le texte `florian@avroy.be` mais pointe vers `../contact.md`. Le texte du CTA est cosmétique (le lien Markdown va vers la page contact, pas vers `mailto:`), donc il reste tel quel. Le texte affiché n'est pas un piège pour scrapers parce qu'il est aussi présent en clair dans le HTML du CTA — c'est un compromis hors scope de ce plan (objet de la généralisation future).
+Note (mise à jour en cours d'exécution) : le CTA initial sur `checklist-premiere-semaine.md` affichait le texte `florian@avroy.be` en clair, ce qui exposait l'adresse dans le HTML servi de la checklist et dans `site/search.json`. La revue de Task 2 a identifié cette fuite. Une étape correctrice (Task 1bis, ajoutée pendant l'exécution) a remplacé le texte du lien par `Posez votre question via la page de contact`, en préservant la cible `../contact.md`. La promesse anti-spam est donc tenue sur l'ensemble du site servi, pas seulement sur la page contact.
 
 ---
 

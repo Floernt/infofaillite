@@ -35,7 +35,7 @@ Site documentaire **Guide de la faillite en Belgique** (infofaillite.be), basé 
 - Les commits récents montrent un style de message court et descriptif en français (« Refonte éditoriale complète… », « SEO & GEO », « analytics »). Suivre ce style.
 - **Toujours journaliser** les modifications de fond (ingest, refonte, passe SEO, lint, etc.) dans [log.md](log.md) avec le préfixe `## [YYYY-MM-DD] <type> | <titre>`.
 
-## Mémoire de travail
+## Historique récent
 
-- Une session active porte sur la **refonte éditoriale complète de la documentation** (commit `aad0a0f`). Voir [log.md](log.md) pour la chronologie détaillée.
+- La refonte éditoriale globale (`aad0a0f`) a restructuré l'ensemble de la documentation ; voir [log.md](log.md) pour la chronologie détaillée des évolutions ultérieures.
 - Le dossier [infofaillite/](infofaillite/) à la racine est apparu récemment (untracked) — vérifier son rôle avant d'y toucher.

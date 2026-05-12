@@ -34,3 +34,9 @@ Vérifications manuelles restant à effectuer côté navigateur (non automatisab
 - ouvrir `/contact/` avec JS activé → vérifier le lien cliquable reconstruit ;
 - désactiver JS → vérifier le fallback `<noscript>` lisible ;
 - cliquer le CTA depuis `/faillis/checklist-premiere-semaine/` → vérifier la navigation vers `/contact/`.
+
+## [2026-05-12] note | Alignement spec et plan sur l'implémentation effective
+
+Mise à jour de [superpowers/specs/2026-05-12-anti-spam-contact-email-design.md](superpowers/specs/2026-05-12-anti-spam-contact-email-design.md) et [superpowers/plans/2026-05-12-anti-spam-contact-email.md](superpowers/plans/2026-05-12-anti-spam-contact-email.md) pour refléter ce qui a été effectivement construit : (1) le `try/catch` ajouté lors de la revue de Task 1 (le spec disait « pas de try/catch » avec un raisonnement incorrect) ; (2) la correction du CTA pilote (Task 1bis) qui n'apparaissait dans le plan que comme « hors scope ».
+
+Reformulation de la section « Mémoire de travail » de [CLAUDE.md](CLAUDE.md) en « Historique récent » pour éviter qu'elle devienne périmée à la fin de la session.
