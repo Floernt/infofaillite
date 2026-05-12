@@ -54,11 +54,15 @@ Un scraper qui matche `\b[\w.+-]+@[\w.-]+\.\w+\b` ne trouve rien. Un humain lit 
   (function () {
     var el = document.getElementById('contact-email');
     if (!el) return;
-    var addr = atob(el.dataset.u) + '@' + atob(el.dataset.d);
-    var a = document.createElement('a');
-    a.href = 'mailto:' + addr;
-    a.textContent = addr;
-    el.replaceWith(a);
+    try {
+      var addr = atob(el.dataset.u) + '@' + atob(el.dataset.d);
+      var a = document.createElement('a');
+      a.href = 'mailto:' + addr;
+      a.textContent = addr;
+      el.replaceWith(a);
+    } catch (e) {
+      el.textContent = 'florian [arobase] avroy [point] be';
+    }
   })();
 </script>
 ```
@@ -83,17 +87,23 @@ Le bloc remplace cette ligne actuelle (ligne 13 environ) :
 Par :
 
 ```markdown
-**Courriel** : <span id="contact-email" data-u="Zmxvcmlhbg==" data-d="YXZyb3kuYmU="></span><noscript>Écrivez à <strong>florian</strong> [arobase] <strong>avroy</strong> [point] be.</noscript>
+<!-- To change the address: encode new local-part and domain in base64 and update data-u / data-d. See superpowers/specs/2026-05-12-anti-spam-contact-email-design.md -->
+**Courriel** : <span id="contact-email" data-u="Zmxvcmlhbg==" data-d="YXZyb3kuYmU="></span>
+<noscript>Écrivez à <strong>florian</strong> [arobase] <strong>avroy</strong> [point] be.</noscript>
 
 <script>
   (function () {
     var el = document.getElementById('contact-email');
     if (!el) return;
-    var addr = atob(el.dataset.u) + '@' + atob(el.dataset.d);
-    var a = document.createElement('a');
-    a.href = 'mailto:' + addr;
-    a.textContent = addr;
-    el.replaceWith(a);
+    try {
+      var addr = atob(el.dataset.u) + '@' + atob(el.dataset.d);
+      var a = document.createElement('a');
+      a.href = 'mailto:' + addr;
+      a.textContent = addr;
+      el.replaceWith(a);
+    } catch (e) {
+      el.textContent = 'florian [arobase] avroy [point] be';
+    }
   })();
 </script>
 ```
@@ -109,8 +119,9 @@ Pour basculer vers, par exemple, `infofaillite@avroy.be` :
 1. Encoder `infofaillite` en base64 → `aW5mb2ZhaWxsaXRl`, mettre dans `data-u`.
 2. Si le domaine change aussi, encoder en base64, mettre dans `data-d`. Sinon laisser.
 3. Mettre à jour le `<noscript>` : remplacer `<strong>florian</strong>` par `<strong>infofaillite</strong>`.
+4. Mettre à jour la phrase de secours dans le `catch` du script : remplacer `'florian [arobase] avroy [point] be'` par `'infofaillite [arobase] avroy [point] be'`. Cette phrase ne s'affiche que si `atob` échoue (cas marginal), mais elle doit rester cohérente avec l'adresse en vigueur.
 
-Trois modifications, un seul fichier, aucune autre partie du site n'est touchée. Commandes pour encoder en PowerShell :
+Quatre modifications, un seul fichier, aucune autre partie du site n'est touchée. Commandes pour encoder en PowerShell :
 
 ```powershell
 [Convert]::ToBase64String([Text.Encoding]::UTF8.GetBytes("infofaillite"))
