@@ -120,3 +120,7 @@ Chacun de ces comportements peut entraîner le refus de l'effacement de vos dett
 - [Les ressources et organismes d'aide en Belgique](../ressources.md)
 - [Le déroulement de la faillite : du jugement à l'inventaire](../comprendre/deroulement-phase-1-3.md)
 - [REGSOL — suivre votre dossier en ligne](https://www.regsol.be)
+
+---
+
+Une étape de cette checklist reste floue dans votre situation, ou un point manque ? [Posez votre question via la page de contact](../contact.md) — les questions reçues nourrissent les prochaines révisions du guide.
