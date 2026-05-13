@@ -65,7 +65,10 @@ def update_front_matter(content: str, updated: str) -> tuple[str, bool]:
                 "Front matter YAML doit être un mapping, "
                 f"trouvé : {type(data).__name__}"
             )
-        if data.get("updated") == updated:
+        existing = data.get("updated")
+        if hasattr(existing, "isoformat"):
+            existing = existing.isoformat()
+        if existing == updated:
             return content, False
         data["updated"] = updated
         new_yaml = _dump_yaml(data)
@@ -102,6 +105,7 @@ def process_file(file: Path, repo_root: Path) -> bool:
 
 
 def _iter_markdown(docs_root: Path):
+    # sorted() : ordre déterministe sur le log et le sitemap, indépendant du FS.
     yield from sorted(docs_root.rglob("*.md"))
 
 

@@ -197,3 +197,12 @@ def test_main_check_mode_returns_0_when_nothing_to_do(
 
     exit_code = main(["--check"])
     assert exit_code == 0
+
+
+def test_update_front_matter_is_idempotent_with_unquoted_date() -> None:
+    """Garantit l'idempotence quand la date existante est non-quotée dans le YAML
+    (PyYAML la parse alors comme un datetime.date au lieu d'une str)."""
+    content = "---\ntitle: Page\nupdated: 2025-03-15\n---\n\n# Hello\n"
+    new_content, changed = update_front_matter(content, "2025-03-15")
+    assert changed is False
+    assert new_content == content
