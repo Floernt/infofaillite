@@ -70,9 +70,9 @@ Le conjoint ou cohabitant légal du failli qui s'est porté caution pour ses det
 
 ## La fin du dessaisissement
 
-Le dessaisissement frappe les biens qui composaient le patrimoine du failli au moment du jugement déclaratif et ceux dont la cause est antérieure à la faillite. Les biens et revenus acquis **postérieurement** au jugement échappent en revanche au dessaisissement et restent à la libre disposition du failli — c'est le principe du « fresh start » consacré par le Livre XX. Concrètement, dès le lendemain du jugement déclaratif, le failli peut **relancer une activité distincte** et différente, moyennant les régularisations administratives habituelles (inscription à la Banque-Carrefour des Entreprises, affiliation à une caisse d'assurances sociales, identification TVA si applicable). Les revenus de cette nouvelle activité lui appartiennent intégralement.
+Le dessaisissement frappe les biens qui composaient le patrimoine du failli au moment du jugement déclaratif et ceux dont la cause est antérieure à la faillite. Les biens et revenus acquis **postérieurement** au jugement échappent en revanche au dessaisissement et restent à la libre disposition du failli — c'est le principe du « fresh start » consacré par le Livre XX. Concrètement, dès le lendemain du jugement déclaratif, le failli peut **relancer une activité distincte** et différente, moyennant les régularisations administratives habituelles (inscription à la Banque-Carrefour des Entreprises, affiliation à une caisse d'assurances sociales, identification TVA ). Les revenus de cette nouvelle activité lui appartiennent intégralement.
 
-À la clôture, le dessaisissement prend fin pour le solde du patrimoine antérieur. Le failli retrouve la pleine liberté de disposer de tout ce qui n'a pas été liquidé par le curateur — sauf s'il fait encore l'objet d'une [interdiction de gérer](../faillis/interdiction.md), sanction distincte et indépendante de la clôture.
+À la clôture, le dessaisissement prend fin pour le solde du patrimoine antérieur. Le failli retrouve la pleine liberté de disposer sauf s'il fait encore l'objet d'une [interdiction de gérer](../faillis/interdiction.md), sanction distincte et indépendante de la clôture.
 
 Les biens vendus pendant la procédure ne reviennent évidemment pas au failli — ils ont été réalisés au profit de la masse des créanciers. Pour reprendre ou poursuivre une activité dans les meilleures conditions, lisez [reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md).
 
@@ -82,7 +82,7 @@ Les biens vendus pendant la procédure ne reviennent évidemment pas au failli �
 
 L'effacement des dettes ne fait pas disparaître la trace de la faillite. Votre dossier reste consultable sur [REGSOL](https://www.regsol.be) pendant trente ans à compter du jugement de clôture. Les établissements financiers peuvent en tenir compte lors de l'examen de demandes de crédit, et certains partenaires commerciaux peuvent consulter REGSOL avant de contracter avec vous. Cela ne vous empêche pas de reconstruire, mais il faut en être conscient.
 
-Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'à son terme, indépendamment de la clôture. Elle peut toutefois être levée anticipativement sur requête, après avoir purgé un tiers de sa durée. Pour tout le détail, consultez [l'interdiction de gérer et comment l'éviter](../faillis/interdiction.md).
+Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'à son terme, indépendamment de la clôture. Elle peut toutefois être levée anticipativement sur requête. Pour tout le détail, consultez [l'interdiction de gérer et comment l'éviter](../faillis/interdiction.md).
 
 ---
 
@@ -92,7 +92,7 @@ Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'
 
 **La faillite disparaît-elle de REGSOL après la clôture ?** Non. Elle reste consultable trente ans. Les données sont supprimées après ce délai de prescription des archives.
 
-**Puis-je obtenir un crédit après la clôture ?** Théoriquement oui, mais en pratique les banques consultent REGSOL et la Centrale des Crédits de la Banque Nationale. Les organismes de microfinance comme MicroStart ou Crédal sont souvent mieux adaptés dans les premières années qui suivent la clôture.
+**Puis-je obtenir un crédit après la clôture ?** Théoriquement oui, mais en pratique les banques consultent REGSOL et la Centrale des Crédits de la Banque Nationale. Les organismes de microfinance comme MicroStart ou Crédal sont souvent mieux adaptés dans les premières années qui suivent la faillite.
 
 **L'effacement efface-t-il mon interdiction de gérer ?** Non. L'effacement porte sur les dettes. L'interdiction de gérer est une sanction distincte qui continue de courir jusqu'à son terme ou jusqu'à une levée anticipée prononcée par le tribunal.
 

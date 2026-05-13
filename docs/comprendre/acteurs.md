@@ -30,7 +30,7 @@ Dès sa désignation, le curateur se rend sur place pour la descente de faillite
 
 La mission centrale du curateur est de transformer les actifs en liquidités pour rembourser les créanciers. Il est tenu légalement de vendre au meilleur prix dans un délai raisonnable — ni brader, ni s'éterniser.
 
-Pour le mobilier (matériel, stocks, véhicules, équipements), il choisit librement les modalités : vente publique via commissaire-priseur ou vente de gré à gré. Pour les immeubles, il doit obtenir l'autorisation préalable du juge-commissaire et, si la vente se fait de gré à gré, faire établir une expertise. Lorsqu'une activité économique peut être cédée en bloc à un repreneur tout en restant en activité (going concern), le curateur cherchera cette option en priorité, car elle préserve les emplois et maximise généralement le prix de cession. Pour tout le détail sur la réalisation du patrimoine, consultez [la liquidation des actifs et la réalisation du patrimoine](liquidation-actifs.md).
+Pour le mobilier (matériel, stocks, véhicules, équipements), il choisit librement les modalités : vente publique via commissaire-priseur ou vente de gré à gré. Pour les immeubles, il doit obtenir la désignation d'un Notaire et l'autorisation préalable du juge-commissaire et, si la vente se fait de gré à gré, faire établir une expertise. Lorsqu'une activité économique peut être cédée en bloc à un repreneur tout en restant en activité (going concern), le curateur cherchera cette option en priorité, car elle préserve les emplois et maximise généralement le prix de cession. Pour tout le détail sur la réalisation du patrimoine, consultez [la liquidation des actifs et la réalisation du patrimoine](liquidation-actifs.md).
 
 ### La vérification des créances
 
@@ -44,7 +44,7 @@ Le curateur peut agir en justice pour récupérer des actifs dissimulés ou tran
 
 ### Les rapports au juge-commissaire
 
-Le curateur rend compte régulièrement de l'avancement de la procédure. Dans les deux mois suivant sa désignation, il dépose un mémoire initial exposant les causes de la faillite, l'état des actifs et du passif. Il remet ensuite des rapports annuels, et peut être appelé à produire des rapports spéciaux en cas de situation particulière. Cette obligation de reporting garantit la transparence de la gestion et permet au juge-commissaire d'intervenir en cas de problème.
+Le curateur rend compte de l'avancement de la procédure. Dans les deux mois suivant sa désignation, il dépose un mémoire initial exposant les causes de la faillite, l'état des actifs et du passif. Ce mémoire est commenté et signé par le Juge-Commissaire pour transfert au Procureur du Roi? Il remet ensuite des rapports annuels, et peut être appelé à produire des rapports spéciaux en cas de situation particulière. Cette obligation de rapport garantit la transparence de la gestion et permet au juge-commissaire d'intervenir en cas de problème.
 
 ### La répartition et la clôture
 
@@ -52,20 +52,20 @@ Une fois les actifs vendus, le curateur établit l'état de répartition qui dé
 
 ### Les pouvoirs du curateur
 
-Le curateur dispose de pouvoirs étendus, encadrés par la loi. Il peut agir seul — sans autorisation préalable — pour vendre le mobilier, encaisser les créances dues au failli, ouvrir le courrier professionnel, introduire ou défendre des actions en justice, et résilier les contrats en cours. Pour les actes les plus importants — vente d'immeubles, transactions significatives, poursuite de l'activité au-delà de quelques jours, emprunts au nom de la masse —, il doit obtenir une ordonnance d'autorisation du juge-commissaire.
+Le curateur dispose de pouvoirs étendus, encadrés par la loi. Il peut agir pour vendre le mobilier, encaisser les créances dues au failli, ouvrir le courrier professionnel, introduire ou défendre des actions en justice, et résilier les contrats en cours. Pour les actes les plus importants — vente d'immeubles, transactions significatives, poursuite de l'activité au-delà de quelques jours, il doit obtenir une ordonnance d'autorisation du juge-commissaire.
 
 Le curateur ne peut jamais favoriser certains créanciers au détriment des autres, s'enrichir personnellement ou se placer en situation de conflit d'intérêts.
 
 ### La rémunération du curateur
 
-Les honoraires du curateur sont encadrés par un barème légal fixé par l'arrêté royal du 26 avril 2018. Ils sont calculés en pourcentage dégressif de l'actif brut réalisé : environ 10 % sur les premières tranches, diminuant progressivement au fur et à mesure que l'actif augmente. Les frais réels engagés (déplacements, expertises, publications) s'y ajoutent. Le montant définitif est fixé par le tribunal après un débat contradictoire auquel les créanciers peuvent participer. Les honoraires et frais du curateur sont prioritaires sur tout le reste et payés avant même les créanciers privilégiés.
+Les honoraires du curateur sont encadrés par un barème légal fixé par l'arrêté royal du 26 avril 2018. Ils sont calculés en pourcentage dégressif de l'actif brut réalisé. Le montant définitif est fixé par le tribunal après un débat contradictoire auquel les créanciers peuvent participer. Les honoraires et frais du curateur sont prioritaires sur tout le reste et payés avant même les créanciers privilégiés.
 
 ### Contacter le curateur
 
-Les coordonnées du curateur de votre dossier sont disponibles sur [REGSOL](https://www.regsol.be), dans l'onglet "Organes". Privilégiez l'email pour conserver une trace écrite. Le courrier recommandé est préférable pour toute communication formelle ou urgente. Le délai de réponse habituel est de trois à sept jours ouvrables.
+Les coordonnées du curateur de votre dossier sont disponibles sur [REGSOL](https://www.regsol.be)". Privilégiez l'email pour conserver une trace écrite. 
 
 !!! warning "Si le curateur ne répond pas"
-    Relancez d'abord par recommandé. Si le silence persiste, contactez le juge-commissaire par courrier en exposant les faits et les tentatives de contact. En dernier recours, une requête en remplacement du curateur peut être déposée devant le tribunal, mais ce recours est réservé aux cas de négligence grave avérée.
+    Relancez d'abord. Si le silence persiste, contactez le juge-commissaire par courriel en exposant les faits et les tentatives de contact. En dernier recours, une requête en remplacement du curateur peut être déposée devant le tribunal, mais ce recours est réservé aux cas de négligence grave avérée.
 
 ---
 
@@ -81,7 +81,7 @@ Le juge-commissaire exerce un contrôle de légalité et d'opportunité sur les 
 
 ### L'autorisation des actes importants
 
-Pour les actes les plus significatifs, le curateur ne peut pas agir seul : il doit obtenir une ordonnance d'autorisation du juge-commissaire. Cette autorisation est requise pour vendre des immeubles, poursuivre l'activité au-delà de quelques jours, conclure des transactions importantes, ou emprunter au nom de la masse. Cette supervision protège les créanciers contre des décisions hâtives ou contraires à leurs intérêts.
+Pour les actes les plus significatifs, le curateur ne peut pas agir seul : il doit obtenir une ordonnance d'autorisation du juge-commissaire. Cette autorisation est requise pour vendre des immeubles, poursuivre l'activité au-delà de quelques jours, conclure des transactions importantes. Cette supervision protège les créanciers contre des décisions hâtives ou contraires à leurs intérêts.
 
 ### L'accélération de la procédure
 
@@ -91,21 +91,21 @@ Une faillite peut s'enliser si personne ne pousse à avancer. Le juge-commissair
 
 Le juge-commissaire est le recours de première instance pour toutes les parties qui estiment que leurs droits ne sont pas respectés. Pour le failli, il statue sur les demandes de secours alimentaire, autorise l'ouverture du courrier personnel par le curateur et reçoit les réclamations contre la gestion. Pour les créanciers, il reçoit les plaintes contre un curateur inactif ou défaillant. Pour les travailleurs, il veille à la protection des emplois en cas de poursuite d'activité et à la priorité des salaires impayés.
 
-Ses décisions prennent la forme d'ordonnances — des décisions écrites et motivées. Les ordonnances du juge-commissaire peuvent faire l'objet d'un recours devant le tribunal de l'entreprise par voie de référé.
+Ses décisions prennent la forme d'ordonnances — des décisions écrites et motivées.
 
 ### Contacter le juge-commissaire
 
-Les coordonnées du juge-commissaire figurent sur [REGSOL](https://www.regsol.be), dans l'onglet "Organes". Le contact s'effectue par email ou courrier via le greffe du tribunal. Sollicitez le juge-commissaire lorsque le curateur est inactif depuis trop longtemps, lorsqu'une décision du curateur vous paraît contraire à vos intérêts, ou lorsque vous avez besoin d'une autorisation urgente.
+Les coordonnées du juge-commissaire figurent sur [REGSOL](https://www.regsol.be). Le contact s'effectue par email. Sollicitez le juge-commissaire lorsque le curateur est inactif depuis trop longtemps, lorsqu'une décision du curateur vous paraît contraire à vos intérêts, ou lorsque vous avez besoin d'une autorisation urgente.
 
 ---
 
 ## Questions fréquentes
 
-**Puis-je choisir mon curateur ?** Non. Le curateur est désigné par le tribunal à partir d'une liste de curateurs agréés. Si vous déposez l'aveu de faillite, vous pouvez suggérer un nom, mais le tribunal reste libre de suivre ou non cette suggestion.
+**Puis-je choisir mon curateur ?** Non. Le curateur est désigné par le tribunal à partir d'une liste de curateurs. Si vous déposez l'aveu de faillite, le tribunal reste libre dans sa décision.
 
 **Puis-je demander le remplacement du curateur ?** Oui, en cas de faute grave — négligence manifeste, conflit d'intérêts, malhonnêteté. La démarche nécessite un avocat et des preuves solides. Les tribunaux laissent en général une large marge de manœuvre aux curateurs et n'accèdent à ces demandes que dans des cas sérieux.
 
-**Le juge-commissaire peut-il refuser d'autoriser une vente immobilière ?** Oui, s'il estime que le prix est insuffisant, que l'acheteur est douteux ou que le moment est inopportun. Le curateur peut alors contester ce refus devant le tribunal par voie de référé.
+**Le juge-commissaire peut-il refuser d'autoriser une vente immobilière ?** Oui, s'il estime que le prix est insuffisant, que l'acheteur est douteux ou que le moment est inopportun. 
 
 ---
 

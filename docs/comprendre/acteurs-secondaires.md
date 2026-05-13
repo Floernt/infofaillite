@@ -86,18 +86,11 @@ Les créanciers sont les personnes physiques ou morales à qui le failli devait 
 
 Déclarer sa créance dans les trente jours qui suivent la publication du jugement au Moniteur belge est la démarche la plus importante pour tout créancier. Sans déclaration, aucun remboursement n'est possible. La déclaration doit comporter tous les documents justificatifs et mentionner explicitement toute sûreté détenue — hypothèque, gage, privilège, caution, réserve de propriété.
 
-Le délai de trente jours n'est cependant pas un couperet absolu : une déclaration tardive reste recevable tant que le curateur n'a pas déposé le **troisième procès-verbal de vérification** (en pratique environ douze mois après le jugement). Vous perdez en revanche le droit aux éventuelles répartitions provisoires antérieures à votre déclaration. Au-delà du 3ᵉ procès-verbal, la créance est forclose. Pour le détail de la procédure et des conséquences pratiques, consultez [déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md) et [la vérification des créances et les procès-verbaux](../creanciers/verification-contestation.md).
+Le délai de trente jours n'est cependant pas un couperet absolu : une déclaration tardive reste recevable tant que le curateur n'a pas déposé le **troisième procès-verbal de vérification** (en pratique environ douze mois après le jugement). Au-delà du 3ᵉ procès-verbal, la créance est forclose. Pour le détail de la procédure et des conséquences pratiques, consultez [déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md) et [la vérification des créances et les procès-verbaux](../creanciers/verification-contestation.md).
 
 ### L'ordre de priorité entre créanciers
 
 Tous les créanciers ne sont pas remboursés de la même façon. La loi établit un ordre de priorité strict, et si l'actif est insuffisant, les créanciers de rang inférieur peuvent ne rien récupérer.
-
-| Rang | Type de créancier | Priorité |
-|---|---|---|
-| 0 | Frais de justice et honoraires du curateur | Absolue — avant tous |
-| 1 | Créanciers hypothécaires et gagistes | Sur le bien donné en garantie |
-| 2 | Créanciers privilégiés (ONSS, salaires, TVA) | Sur l'ensemble de l'actif |
-| 3 | Créanciers chirographaires (ordinaires) | Sur le solde — souvent nul |
 
 !!! warning "Réalité des dividendes"
     Dans la grande majorité des faillites, les créanciers chirographaires — fournisseurs, sous-traitants — ne récupèrent rien ou quasi rien. La meilleure protection reste la prévention : exiger des garanties avant de contracter avec une entreprise en difficulté.
@@ -118,11 +111,11 @@ Les ventes publiques de mobilier — matériel, stocks, véhicules, équipements
 
 ### Le repreneur (going concern)
 
-Lorsqu'une activité économique peut être cédée en bloc, un repreneur peut acquérir le fonds de commerce avec ses actifs, ses contrats, parfois ses salariés. Cette cession sous autorité de justice préserve les emplois et maximise généralement le prix de vente. Elle doit être autorisée par le tribunal, et les droits des travailleurs sont protégés par la convention collective n°32bis.
+Lorsqu'une activité économique peut être cédée en bloc, un repreneur peut acquérir le fonds de commerce avec ses actifs, ses contrats, parfois ses salariés. Cette cession préserve les emplois et maximise généralement le prix de vente. Elle doit être autorisée par le tribunal, et les droits des travailleurs sont protégés par la convention collective n°32bis.
 
 ### Le Fonds Fermeture d'Entreprises (FFE)
 
-Le FFE indemnise les travailleurs licenciés lors d'une faillite : arriérés de salaires, indemnité de préavis, indemnité de licenciement. Financé par les cotisations patronales, il se subroge ensuite dans les droits des travailleurs et devient créancier privilégié de la masse. Pour plus d'informations : [www.fermeture.belgium.be](https://www.fermeture.belgium.be).
+Le FFE indemnise les travailleurs licenciés lors d'une faillite : arriérés de salaires, indemnité de préavis, indemnité de licenciement. Financé par les cotisations patronales, il se subroge ensuite dans les droits des travailleurs et devient créancier privilégié de la masse. Pour plus d'informations : [FFE](https://www.onem.be/ffe/que-faire-en-cas-de-faillite-).
 
 ---
 
