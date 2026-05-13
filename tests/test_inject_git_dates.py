@@ -1,6 +1,7 @@
 """Tests du script inject_git_dates."""
 from __future__ import annotations
 
+from datetime import date
 from pathlib import Path
 
 import pytest
@@ -25,3 +26,16 @@ def test_git_last_modified_date_returns_iso_date_of_last_commit(
     result = git_last_modified_date(file, repo_root=git_repo)
 
     assert result == "2025-03-15"
+
+
+def test_git_last_modified_date_falls_back_to_mtime_when_uncommitted(
+    git_repo: Path,
+) -> None:
+    file = git_repo / "draft.md"
+    file.write_text("# Draft\n", encoding="utf-8")
+    # On ne commit pas. mtime doit être utilisé.
+
+    result = git_last_modified_date(file, repo_root=git_repo)
+
+    expected = date.fromtimestamp(file.stat().st_mtime).isoformat()
+    assert result == expected
