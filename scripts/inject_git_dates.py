@@ -24,7 +24,7 @@ def git_last_modified_date(file: Path, repo_root: Path) -> str:
     """
     relative = file.relative_to(repo_root)
     result = subprocess.run(
-        ["git", "log", "-1", "--format=%aI", "--", str(relative)],
+        ["git", "log", "-1", "--format=%cI", "--", str(relative)],
         cwd=repo_root,
         capture_output=True,
         text=True,
