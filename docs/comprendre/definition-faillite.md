@@ -7,7 +7,7 @@ updated: '2026-05-13'
 ---
 # Qu'est-ce qu'une faillite ?
 
-La faillite est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus faire face à ses obligations. Elle est régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235), entré en vigueur le 1er mai 2018. Sous le contrôle du tribunal de l'entreprise, un curateur désigné par le tribunal vend les biens du failli, paie les créanciers selon un ordre légal strict, et permet aux personnes physiques d'effacer automatiquement leurs dettes impayées à la clôture.
+La faillite est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'une entreprise qui ne peut plus faire face à ses obligations. Elle est régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235), entré en vigueur le 1er mai 2018. Sous le contrôle du tribunal de l'entreprise, un curateur désigné par le tribunal vend les biens du failli, paie les créanciers selon un ordre légal, et permet aux personnes physiques d'effacer automatiquement leurs dettes impayées à la clôture.
 
 ---
 
@@ -15,19 +15,19 @@ La faillite est une procédure judiciaire collective qui organise le règlement 
 
 Pour être déclaré en faillite, trois conditions cumulatives doivent être réunies. L'absence de l'une suffit à écarter la procédure.
 
-### La qualité de commerçant ou d'entreprise
+### La qualité d'entreprise
 
-La faillite s'applique aux commerçants personnes physiques — indépendants, artisans, restaurateurs, garagistes — aux sociétés commerciales (SRL, SA, SNC, SCS, sociétés coopératives) et, depuis la réforme de 2018, aux professions libérales telles que les avocats, médecins, architectes et comptables. Les notaires et huissiers font l'objet d'un régime disciplinaire distinct.
+La faillite s'applique aux commerçants personnes physiques (indépendants) aux sociétés (SRL, SA, SNC, SCS, sociétés coopératives) et, depuis la réforme de 2018, aux professions libérales telles que les avocats, médecins, architectes et comptables. 
 
-En revanche, ne peuvent pas être déclarés en faillite : les salariés (qui ne sont pas commerçants), les agriculteurs (régime spécifique), les ASBL (dissoutes par dissolution judiciaire) et les personnes publiques comme l'État, les communes ou les CPAS.
+En revanche, ne peuvent pas être déclarés en faillite : les salariés (qui ne sont pas entreprise), l'adminstrateurs de société (sauf si certaines conditions sont remplies) et les personnes publiques comme l'État, les communes ou les CPAS.
 
 ### La cessation de paiements
 
-Le débiteur doit avoir cessé de payer ses dettes de manière durable. Il ne s'agit pas d'un simple retard ponctuel ou d'une difficulté passagère : l'incapacité doit être structurelle. Les signes les plus fréquents sont les factures fournisseurs restées impayées depuis plusieurs mois, les loyers commerciaux et salaires non honorés, les cotisations ONSS et la TVA en souffrance, et les comptes bancaires bloqués ou à découvert permanent.
+Le débiteur doit avoir cessé de payer ses dettes de manière durable. Il ne s'agit pas d'un simple retard ponctuel ou d'une difficulté passagère : l'incapacité doit être structurelle. Les signes les plus fréquents sont les factures fournisseurs restées impayées depuis plusieurs mois, les loyers et salaires non honorés, les cotisations ONSS et la TVA en souffrance, et les comptes bancaires bloqués ou à découvert permanent.
 
 ### L'ébranlement du crédit
 
-La confiance des partenaires commerciaux doit être rompue. Les fournisseurs exigent désormais le paiement comptant ou refusent de nouvelles livraisons, les banques refusent tout nouveau crédit ou découvert, et les poursuites se multiplient : mises en demeure, commandements de payer, saisies conservatoires. Cette troisième condition distingue les difficultés réversibles — où un redressement reste possible — des difficultés irréversibles qui rendent la faillite inévitable.
+Le « crédit » dont parle la loi est ici à entendre au sens étymologique (du latin *credere*, croire) : c'est la **confiance** que les partenaires commerciaux accordent à l'entreprise, et non le crédit bancaire au sens financier. Cette confiance doit être rompue de manière manifeste. Les fournisseurs exigent désormais le paiement comptant ou refusent de nouvelles livraisons, les clients hésitent à signer de nouveaux contrats, les poursuites se multiplient — mises en demeure, commandements de payer, saisies conservatoires —, et accessoirement, les banques retirent les lignes de crédit existantes. Cette troisième condition distingue les difficultés réversibles, où un redressement reste possible, des difficultés irréversibles qui rendent la faillite inévitable.
 
 ---
 
