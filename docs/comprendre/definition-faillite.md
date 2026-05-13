@@ -27,7 +27,9 @@ Le débiteur doit avoir cessé de payer ses dettes de manière durable. Il ne s'
 
 ### L'ébranlement du crédit
 
-Le « crédit » dont parle la loi est ici à entendre au sens étymologique (du latin *credere*, croire) : c'est la **confiance** que les partenaires commerciaux accordent à l'entreprise, et non le crédit bancaire au sens financier. Cette confiance doit être rompue de manière manifeste. Les fournisseurs exigent désormais le paiement comptant ou refusent de nouvelles livraisons, les clients hésitent à signer de nouveaux contrats, les poursuites se multiplient — mises en demeure, commandements de payer, saisies conservatoires —, et accessoirement, les banques retirent les lignes de crédit existantes. Cette troisième condition distingue les difficultés réversibles, où un redressement reste possible, des difficultés irréversibles qui rendent la faillite inévitable.
+Le « crédit » dont parle la loi est ici à entendre au sens étymologique (du latin *credere*, croire) : c'est la **confiance** que les partenaires commerciaux accordent à l'entreprise, et non le crédit bancaire au sens financier. Cette confiance doit être rompue de manière manifeste. 
+
+Les fournisseurs exigent désormais le paiement comptant ou refusent de nouvelles livraisons, les clients hésitent à signer de nouveaux contrats, les poursuites se multiplient — mises en demeure, commandements de payer, saisies conservatoires —, et accessoirement, les banques retirent les lignes de crédit existantes. Lorsque l'ébranlement du crédit est avéré, certains créanciers passent à l'étape suivante et engagent de véritables **mesures d'exécution forcée** : saisies-exécutions mobilières au siège ou au domicile du débiteur, saisies-exécutions immobilières sur les biens dont il est propriétaire, voire ventes publiques organisées par un huissier de justice. C'est souvent ce stade qui précipite la déclaration de faillite, soit à l'initiative du débiteur lui-même (aveu), soit sur citation d'un créancier qui constate que ses voies d'exécution n'aboutissent pas à un paiement intégral. Cette troisième condition distingue les difficultés réversibles, où un redressement reste possible, des difficultés irréversibles qui rendent la faillite inévitable.
 
 ---
 
@@ -35,10 +37,10 @@ Le « crédit » dont parle la loi est ici à entendre au sens étymologique (du
 
 ### L'aveu de faillite
 
-Le débiteur lui-même peut se déclarer en faillite en déposant une requête auprès du tribunal de l'entreprise compétent. Il n'est pas obligatoire d'être assisté d'un avocat pour cette démarche, même si c'est fortement recommandé.
+Le débiteur lui-même peut se déclarer en faillite en déposant un aveu auprès du tribunal de l'entreprise compétent. Il n'est pas obligatoire d'être assisté d'un avocat pour cette démarche, même si c'est recommandé.
 
 !!! danger "Délai d'un mois pour l'aveu"
-    La loi impose de déposer l'aveu de faillite dans le mois qui suit la cessation de paiements. Dépasser ce délai constitue une faute grave : le tribunal peut refuser l'effacement des dettes et prononcer une interdiction de gérer pour inaction. Agir dans les délais démontre votre bonne foi et joue en votre faveur lors du jugement de clôture.
+    La loi impose de déposer l'aveu de faillite dans le mois qui suit la cessation de paiements. Dépasser ce délai peut constituer une faute grave : le tribunal peut refuser l'effacement des dettes et prononcer une interdiction de gérer pour inaction. Agir dans les délais démontre votre bonne foi et joue en votre faveur lors du jugement de clôture.
 
 Effectuer l'aveu dans les délais démontre la bonne foi du débiteur, limite l'aggravation du passif et réduit le risque d'interdiction de gérer. Pour les obligations qui s'ensuivent, consultez [vos obligations légales envers le curateur](../faillis/obligations.md).
 
