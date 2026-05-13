@@ -48,15 +48,12 @@ Effectuer l'aveu dans les délais démontre la bonne foi du débiteur, limite l'
 
 Un créancier dont la créance est certaine, liquide et exigible peut citer le débiteur devant le tribunal de l'entreprise pour faire prononcer la faillite. En pratique, cette voie n'est utilisée que lorsque l'exécution forcée individuelle s'est révélée **inefficace ou inopérante** — saisie mobilière qui ne couvre pas la créance, saisie immobilière qui se heurte à d'autres rangs prioritaires, débiteur insolvable au sens où aucune voie d'exécution ne permet plus d'obtenir paiement. La citation en faillite devient alors le moyen d'obtenir un traitement collectif et égalitaire entre tous les créanciers, à défaut de pouvoir être désintéressé individuellement. Le débiteur peut se défendre en prouvant qu'il n'est pas en état de faillite, en payant la créance avant le jugement, ou en obtenant un délai de paiement.
 
-### La déclaration d'office par le tribunal
-
-Dans des cas plus rares, le tribunal peut prononcer la faillite d'office s'il constate l'état de faillite lors d'une autre procédure — par exemple lorsqu'une réorganisation judiciaire échoue et que le redressement est manifestement impossible.
-
 ---
+
 
 ## Le tribunal de l'entreprise : juridiction compétente
 
-Le tribunal de l'entreprise est la juridiction spécialisée qui connaît des faillites, des réorganisations judiciaires et des litiges commerciaux. La compétence territoriale est déterminée par le siège principal de l'entreprise ou le domicile du commerçant personne physique. Une société dont le siège est à Liège relèvera ainsi du tribunal de l'entreprise de Liège-Verviers ; un indépendant domicilié à Bruxelles, du tribunal de l'entreprise francophone de Bruxelles.
+Le tribunal de l'entreprise est la juridiction spécialisée qui connaît des faillites, des réorganisations judiciaires et des litiges commerciaux. La compétence territoriale est déterminée par le siège principal de l'entreprise ou le domicile de l'entreprise personne physique. 
 
 ---
 
@@ -68,7 +65,7 @@ La faillite poursuit trois objectifs complémentaires. Elle protège d'abord les
 
 ## Les effets immédiats du jugement
 
-Dès que le tribunal prononce la faillite, les effets sont immédiats. Le failli est dessaisi de la gestion de son patrimoine professionnel : c'est le curateur qui en prend le contrôle. Les poursuites individuelles des créanciers pour les dettes antérieures sont suspendues : aucune saisie nouvelle ne peut être pratiquée, et chaque créancier doit déclarer sa créance au curateur dans un délai de trente jours. Les actes passés pendant la période suspecte — la période précédant le jugement — peuvent être annulés s'ils ont lésé les créanciers. La faillite est publiée au Moniteur belge et dans [REGSOL](https://www.regsol.be), le registre central de solvabilité, où elle reste accessible au public.
+Dès que le tribunal prononce la faillite, les effets sont immédiats. Le failli est dessaisi de la gestion de son patrimoine : c'est le curateur qui en prend le contrôle. Les poursuites individuelles des créanciers pour les dettes antérieures sont suspendues : aucune saisie nouvelle ne peut être pratiquée, et chaque créancier doit déclarer sa créance au curateur. Les actes passés pendant la période suspecte — la période précédant le jugement — peuvent être annulés s'ils ont lésé les créanciers. La faillite est publiée au Moniteur belge et dans [REGSOL](https://www.regsol.be), le registre central de solvabilité, où elle reste accessible au public.
 
 Pour comprendre pleinement ce que le dessaisissement implique pour vos biens, lisez [les effets du dessaisissement sur votre patrimoine](dessaisissement.md).
 
@@ -76,7 +73,7 @@ Pour comprendre pleinement ce que le dessaisissement implique pour vos biens, li
 
 ## Faillite, réorganisation judiciaire et liquidation volontaire
 
-La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre VI) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les associés lorsque la situation est saine : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé et sans effacement de dettes. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
+La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre VI) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les actionnaires : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
 
 ---
 
@@ -94,9 +91,9 @@ Pour le détail de chaque phase, consultez [le déroulement chronologique de la 
 
 **Peut-on éviter la faillite ?** Si les trois conditions sont réunies, la faillite est juridiquement inévitable. En revanche, si vous agissez tôt — avant d'atteindre la cessation de paiements —, plusieurs alternatives existent : réorganisation judiciaire, négociation amiable avec les créanciers, ou apport de capitaux nouveaux. Pour comparer ces options, lisez [les procédures alternatives à la faillite](procedures-alternatives.md).
 
-**La faillite figure-t-elle au casier judiciaire ?** Non. La faillite est une procédure civile, pas pénale. Elle est consultable sur REGSOL et une interdiction de gérer éventuelle est inscrite dans le registre JustBan. Seule une condamnation pour banqueroute frauduleuse, qui est une infraction pénale distincte, peut figurer au casier judiciaire.
+**La faillite figure-t-elle au casier judiciaire ?** Non. La faillite est une procédure civile, pas pénale. Elle est consultable sur REGSOL et une interdiction de gérer éventuelle est inscrite dans le registre JustBan. Seule une condamnation pénale peut figurer au casier judiciaire.
 
-**Peut-on faire appel du jugement de faillite ?** Oui, dans le mois qui suit le prononcé. Mais l'appel ne suspend pas la procédure : le curateur continue d'agir pendant le délibéré. Si vous êtes réellement en état de faillite, il est souvent plus utile de collaborer pleinement pour préserver votre droit à l'effacement que de tenter un appel voué à l'échec.
+**Peut-on faire appel du jugement de faillite ?** Oui, mais à des conditions strictes. Le Livre XX prévoit des **délais spécifiques à peine de forclusion** — courts et qui varient selon que vous êtes le failli, un créancier ou un tiers, et selon le mode de notification du jugement. Faites-vous assister par un avocat sans tarder : passé le délai applicable, le jugement devient irrévocable. Sur le fond, l'appel suppose de démontrer que les **conditions de la faillite n'étaient pas réunies à la date du jugement** qui l'a prononcée (qualité d'entreprise, cessation de paiements, ébranlement du crédit). C'est une démonstration exigeante : si vous étiez réellement en état de faillite à cette date, l'appel a peu de chances d'aboutir, et il est souvent plus utile de collaborer pleinement pour préserver votre droit à l'effacement. Attention : l'appel ne suspend pas la procédure — le curateur continue d'agir pendant le délibéré.
 
 ---
 
