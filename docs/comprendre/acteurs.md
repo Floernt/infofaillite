@@ -5,7 +5,7 @@ keywords: curateur faillite belgique, juge-commissaire faillite, rôle curateur,
 
 # Le curateur et le juge-commissaire
 
-Dans une procédure de faillite, deux acteurs jouent un rôle central au quotidien : le curateur, qui gère concrètement la liquidation, et le juge-commissaire, qui surveille son travail et protège les droits de toutes les parties. Le tribunal de l'entreprise, le procureur du Roi, le failli et les créanciers complètent le tableau — ils sont présentés dans [les autres acteurs de la faillite](acteurs-secondaires.md).
+Dans une procédure de faillite, deux acteurs jouent un rôle central au quotidien : le curateur, qui gère concrètement la faillite et la vente des actifs, et le juge-commissaire, qui surveille son travail et protège les droits de toutes les parties. Le tribunal de l'entreprise, le procureur du Roi, le failli et les créanciers complètent le tableau — ils sont présentés dans [les autres acteurs de la faillite](acteurs-secondaires.md).
 
 ---
 
@@ -15,7 +15,7 @@ Dans une procédure de faillite, deux acteurs jouent un rôle central au quotidi
 
 Le curateur est un avocat spécialisé en droit de l'insolvabilité, désigné par le tribunal au moment du jugement déclaratif de faillite. C'est lui qui prend en charge la gestion concrète de la procédure : il sécurise les actifs, les vend, vérifie les créances et répartit les fonds entre les créanciers.
 
-Une image utile : imaginez le curateur comme un liquidateur mandaté par la justice. Il n'est ni l'avocat du failli, ni celui des créanciers en particulier — il représente la masse des créanciers dans leur ensemble, dans l'intérêt collectif. Il est inscrit au barreau, exerce sa mission en indépendant (il n'est pas employé par le tribunal ni par les créanciers), et répond de sa gestion devant le juge-commissaire et le tribunal.
+Une image utile : imaginez le curateur comme un liquidateur mandaté par la justice. Il n'est ni l'avocat du failli, ni celui des créanciers en particulier — il représente la masse des créanciers dans leur ensemble, dans l'intérêt collectif. Il est inscrit au barreau, exerce sa mission en indépendance (il n'est pas employé par le tribunal ni par les créanciers), et répond de sa gestion devant le juge-commissaire et le tribunal.
 
 !!! note "Le curateur n'est pas votre adversaire"
     Le curateur est souvent perçu comme un adversaire par le failli. C'est inexact. Son rôle est d'organiser la liquidation de la manière la plus équitable possible, pour maximiser ce que les créanciers pourront récupérer — pas de punir le failli. Un failli qui collabore activement facilite le travail du curateur et préserve ses propres droits.

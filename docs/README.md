@@ -5,13 +5,13 @@ keywords: faillite belgique, insolvabilité belgique, faillis droits obligations
 
 # Guide de la faillite en Belgique
 
-Ce guide explique la procédure de faillite belge en termes clairs et pratiques, fondés sur le Livre XX du Code de droit économique. Il s'adresse aux faillis et dirigeants qui doivent traverser la procédure, aux créanciers qui veulent défendre leurs droits, et à toute personne qui cherche à comprendre le fonctionnement de l'insolvabilité en droit belge.
+Ce guide explique la procédure de faillite belge en termes clairs et pratiques, fondés sur le Livre XX du Code de droit économique. Il s'adresse aux faillis et dirigeants qui doivent traverser la procédure, aux créanciers qui veulent défendre leurs droits, et à toute personne qui cherche à comprendre le fonctionnement de des procédures d'insolvabilité (faillite) en droit belge.
 
 ---
 
 ## Vous êtes failli ou dirigeant d'une entreprise en faillite
 
-Le jugement de faillite déclenche des effets immédiats : vous perdez le droit de gérer vos biens professionnels, un curateur prend en charge la liquidation, et un juge-commissaire surveille la procédure. Vos obligations légales sont strictes, mais vos droits aussi sont réels — notamment le droit à l'effacement automatique de vos dettes à la clôture.
+Le jugement de faillite déclenche des effets immédiats : vous êtes désaissi du droit de gérer vos biens, un curateur prend en charge la liquidation, et un juge-commissaire surveille la procédure. Vos obligations légales sont strictes, mais vos droits aussi sont réels — notamment le droit à l'effacement automatique de vos dettes à la clôture.
 
 - [Ce que vous devez faire dans les premiers jours](faillis/checklist-premiere-semaine.md)
 - [Vos obligations légales envers le curateur](faillis/obligations.md)

@@ -9,7 +9,7 @@ La faillite n'est pas la seule issue pour une entreprise en difficulté. Selon l
 
 ---
 
-## La réorganisation judiciaire (RJ)
+## La procédure de réorganisation judiciaire (PRJ)
 
 ### Qu'est-ce que c'est ?
 
