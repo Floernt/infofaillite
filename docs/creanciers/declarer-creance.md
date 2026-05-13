@@ -18,7 +18,7 @@ Pour tout ce qui concerne les garanties spécifiques — hypothèques, gages, ca
 Le jugement déclaratif de faillite est publié au Moniteur belge dans les cinq jours qui suivent son prononcé. Dès cette publication, le délai de trente jours commence à courir. Ces trente jours sont des jours calendrier — les week-ends et jours fériés comptent. Si le trentième jour tombe un samedi, un dimanche ou un jour férié, le délai est prorogé au premier jour ouvrable suivant.
 
 !!! danger "Ne manquez pas le délai de trente jours"
-    Une déclaration effectuée après le trentième jour peut encore être acceptée, mais vous serez exclu de toutes les répartitions provisoires. Passé un an depuis le jugement, toute déclaration est définitivement irrecevable. La date limite est indiquée clairement dans l'onglet "Délais" de votre dossier sur REGSOL.
+    Une déclaration effectuée après le trentième jour peut encore être acceptée, mais vous serez exclu de toutes les répartitions provisoires. La déclaration tardive reste recevable jusqu'au dépôt du troisième procès-verbal de vérification (environ douze mois après le jugement) ; au-delà, elle est irrecevable. La date limite des trente jours est indiquée clairement dans l'onglet "Délais" de votre dossier sur REGSOL.
 
 Le curateur publie également les coordonnées de votre dossier sur [REGSOL](https://www.regsol.be) dès le premier jour ouvrable suivant le jugement. Vérifiez-y la date limite exacte avant d'agir.
 
@@ -99,7 +99,7 @@ Vous pouvez modifier votre déclaration après envoi, à condition de contacter 
 
 **Le curateur peut-il refuser ma déclaration ?** Non. Il ne peut pas refuser d'enregistrer une déclaration reçue dans les délais. Il peut en revanche contester votre créance lors de la vérification — ce qui est une démarche distincte.
 
-**J'ai dépassé le délai de trente jours. Est-il trop tard ?** Pas nécessairement. Une déclaration tardive reste recevable jusqu'à l'assemblée générale des créanciers (généralement un an ou plus après le jugement), mais vous ne participerez pas aux répartitions provisoires éventuelles. Au-delà d'un an, la forclusion est totale.
+**J'ai dépassé le délai de trente jours. Est-il trop tard ?** Pas nécessairement. Une déclaration tardive reste recevable jusqu'au dépôt du troisième procès-verbal de vérification (environ douze mois après le jugement), mais vous ne participerez pas aux répartitions provisoires éventuelles. Une fois le 3ᵉ procès-verbal déposé, la forclusion est acquise. Voir [la vérification des créances et les procès-verbaux](verification-contestation.md) pour le détail.
 
 ---
 
