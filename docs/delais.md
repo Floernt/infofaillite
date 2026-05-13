@@ -3,7 +3,7 @@ description: Tableau récapitulatif de tous les délais de la procédure de fail
   en Belgique - Créanciers, faillis, curateur, recours judiciaires
 keywords: délais faillite belgique, 30 jours déclaration créance, 3 mois caution faillite,
   délai appel jugement faillite, procès-verbaux vérification dates
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # Les délais importants à ne pas manquer
 
@@ -12,13 +12,15 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 !!! danger "Des délais de forclusion sans tolérance"
     Les délais en droit de la faillite sont des délais de forclusion : une fois écoulés, le droit correspondant est perdu définitivement. Il n'existe pas de prolongation, pas de régularisation, pas de bonne volonté qui compense un retard. Notez chaque délai dans votre agenda dès que vous en avez connaissance, avec une alarme plusieurs jours avant l'échéance.
 
+    Une exception notable concerne la **déclaration de créance** : passé le délai de trente jours, une déclaration tardive reste recevable jusqu'au dépôt du troisième procès-verbal de vérification (environ douze mois après le jugement). Voir le détail dans la section [Déclaration de créance](#déclaration-de-créance) plus bas.
+
 ---
 
 ## Les cinq délais les plus critiques
 
 | Délai | Action | Pour qui | Conséquence du non-respect |
 |---|---|---|---|
-| **30 jours** | Déclarer sa créance | Créanciers | Exclusion des répartitions provisoires ; forclusion totale après 1 an |
+| **30 jours** | Déclarer sa créance | Créanciers | Exclusion des répartitions provisoires ; forclusion au dépôt du 3ᵉ PV (≈ 12 mois) |
 | **3 mois** | Déclarer les sûretés personnelles (cautions) | Créanciers | Décharge automatique de la caution |
 | **1 mois** | Déposer l'aveu de faillite | Débiteur | Risque d'interdiction de gérer pour inaction |
 | **1 mois** | Former un contredit | Créanciers | La créance contestée devient définitive |
@@ -30,14 +32,14 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 
 ### Déclaration de créance
 
-Le délai de trente jours court à compter de la publication du jugement déclaratif au Moniteur belge — et non à compter du moment où vous en prenez connaissance. Une déclaration tardive reste possible jusqu'à un an après le jugement, mais exclut la participation aux éventuelles répartitions provisoires. Au-delà d'un an, la créance est définitivement perdue.
+Le délai de trente jours court à compter de la publication du jugement déclaratif au Moniteur belge — et non à compter du moment où vous en prenez connaissance. Une déclaration tardive reste recevable jusqu'au dépôt du **troisième procès-verbal de vérification** (environ douze mois après le jugement, voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)) ; elle est alors examinée au 2ᵉ ou au 3ᵉ procès-verbal. Vous perdez en revanche le droit aux éventuelles répartitions provisoires. Au-delà du 3ᵉ procès-verbal, la créance est forclose.
 
 Si votre créance est garantie par une caution ou un codébiteur solidaire, vous devez déclarer cette sûreté personnelle séparément, dans les trois mois suivant le jugement. Passé ce délai, la caution est automatiquement et définitivement déchargée — elle ne doit plus rien, même si vous la poursuivez en justice. Pour les détails, consultez [les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md).
 
 | Délai | Point de départ | Action | Conséquence du non-respect |
 |---|---|---|---|
 | 30 jours | Jugement de faillite | Déclarer la créance | Exclusion des répartitions provisoires |
-| 1 an | Jugement de faillite | Délai absolu de déclaration | Forclusion totale |
+| Dépôt du 3ᵉ PV (≈ 12 mois) | Jugement de faillite | Délai pratique de déclaration | Forclusion |
 | 3 mois | Jugement de faillite | Déclarer les sûretés personnelles | Décharge automatique de la caution |
 
 ### Contestation
@@ -107,7 +109,7 @@ Le curateur est lui-même soumis à des obligations temporelles définies par le
 |---|---|---|
 | 1er PV | J+35 à J+60 (après expiration du délai de 30 jours) | Provisoire |
 | 2e PV | 6 mois | Provisoire |
-| 3e PV | 12 mois | Définitif |
+| 3e PV | 12 mois | Définitif — c'est aussi la date limite pratique pour qu'une déclaration de créance tardive soit examinée |
 
 Pour comprendre le déroulement des procès-verbaux, consultez [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md).
 

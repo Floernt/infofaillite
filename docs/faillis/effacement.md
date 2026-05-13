@@ -3,7 +3,7 @@ description: L'effacement automatique des dettes après faillite - Conditions, p
   exceptions et refus
 keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
   graves faillite, contestation effacement
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # L'effacement des dettes
 
@@ -14,6 +14,8 @@ Pour les personnes physiques déclarées en faillite, l'effacement des dettes es
 ## Le principe : automatique et sans demande
 
 L'effacement intervient au moment du jugement de clôture. Vous n'avez aucune procédure à lancer, aucun formulaire à remplir, aucun frais à payer. Dès que le tribunal prononce la clôture, vous êtes libéré de toutes les dettes concernées. Les créanciers ne peuvent plus vous poursuivre pour les montants effacés, et vos revenus futurs ne peuvent plus être saisis au titre de ces anciennes dettes.
+
+Ce bénéfice n'est cependant pas automatiquement garanti : le tribunal peut le refuser à la demande du procureur du Roi, du curateur, d'un créancier impayé ou d'office, en cas de fautes graves et caractérisées ayant contribué à la faillite. Voir plus bas : [Quand l'effacement peut-il être refusé ?](#quand-leffacement-peut-il-etre-refuse).
 
 C'est une rupture nette avec le passé. Elle vous permet de repartir sur de nouvelles bases, d'emprunter à nouveau, d'entreprendre, de reconstruire — sans porter indéfiniment le poids d'obligations nées d'une activité qui n'existe plus.
 
@@ -43,6 +45,9 @@ Certaines dettes échappent toutefois à l'effacement :
 !!! warning "Attention aux dettes nées après le jugement"
     Tous les engagements que vous prenez après la date du jugement déclaratif — achats, abonnements, crédits — restent entièrement à votre charge personnelle. L'effacement ne concerne que les dettes antérieures à ce jugement.
 
+!!! note "Le refus d'effacement est possible"
+    Même quand vos dettes entrent dans le périmètre ci-dessus, l'effacement n'est pas garanti. Si vous avez commis des fautes graves et caractérisées ayant contribué à la faillite, le tribunal peut le refuser à la demande du curateur, du procureur du Roi, d'un créancier impayé ou d'office. Voir plus bas : [Quand l'effacement peut-il être refusé ?](#quand-leffacement-peut-il-etre-refuse).
+
 ---
 
 ## Votre conjoint ou cohabitant en bénéficie aussi
@@ -69,6 +74,22 @@ Le tribunal peut refuser totalement ou partiellement l'effacement si vous avez c
 Les faillites répétées — deux, trois, quatre faillites successives — ou des condamnations pour banqueroute frauduleuse sont également des motifs de refus.
 
 Le refus peut être total (toutes vos dettes restent dues) ou partiel (seule une catégorie ou un montant spécifique reste dû). La demande de refus peut être formulée par le curateur, le procureur du Roi, un créancier impayé, ou soulevée d'office par le tribunal. Le délai pour une demande préventive est de quatre ans après le jugement déclaratif ; après la publication du jugement de clôture, le délai pour former une tierce opposition est de trois mois.
+
+### La requête en refus d'effacement
+
+Le refus n'est jamais prononcé automatiquement par le tribunal : il faut qu'une partie en fasse la demande, ou que le tribunal s'en saisisse d'office. **Quatre voies** mènent à un examen du refus.
+
+Le **procureur du Roi** (le parquet) est l'acteur central. Il peut déposer une **requête en refus d'effacement** devant le tribunal de l'entreprise lorsqu'il estime qu'une faute grave et caractérisée a contribué à la faillite. Cette requête peut être déposée à tout moment de la procédure, jusqu'à quatre ans après le jugement déclaratif. Elle est généralement motivée par les éléments transmis au parquet par le curateur dans son rapport sur les causes de la faillite, ou par une plainte qui aboutit à un signalement.
+
+Le **curateur** peut lui aussi former une demande, dans le cadre de son rapport au juge-commissaire ; il agit en représentant des intérêts de la masse des créanciers.
+
+Un **créancier impayé** peut former une demande individuelle s'il dispose d'éléments concrets démontrant une faute grave. Cette voie reste rare en pratique parce qu'elle suppose une connaissance approfondie du dossier.
+
+Enfin, le **tribunal de l'entreprise** peut soulever la question d'office, sur la base des éléments versés au dossier.
+
+Dans tous les cas, le tribunal organise une **audience contradictoire** à laquelle vous êtes convoqué. La représentation par un avocat n'est pas obligatoire mais est fortement recommandée — c'est votre statut futur de débiteur libéré qui est en jeu. L'audience porte exclusivement sur la matérialité des fautes invoquées et leur lien causal avec la faillite. Si le tribunal écarte la requête, votre droit à l'effacement est confirmé ; s'il l'accueille, le refus peut être total ou partiel selon la gravité.
+
+Après le jugement de clôture, le seul recours subsiste est la **tierce opposition** dans les trois mois suivant la publication. Au-delà, l'effacement est définitif.
 
 ---
 

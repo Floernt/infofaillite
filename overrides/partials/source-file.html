@@ -1,21 +1,33 @@
 {#-
   Override du partial source-file de Zensical.
-  Ajoute le support de page.meta.updated (injecté par
-  scripts/inject_git_dates.py) en plus de git_revision_date_localized.
+  Affiche page.meta.updated (injecté par scripts/inject_git_dates.py) en
+  format français « 13 mai 2026 ». Accepte aussi une str ISO ou un objet
+  date (selon que PyYAML l'a parsé quoted ou non).
 -#}
+{% set _mois_fr = {
+  '01': 'janvier', '02': 'février', '03': 'mars',
+  '04': 'avril',   '05': 'mai',     '06': 'juin',
+  '07': 'juillet', '08': 'août',    '09': 'septembre',
+  '10': 'octobre', '11': 'novembre','12': 'décembre',
+} %}
+{% macro format_fr(value) -%}
+  {%- set iso = value|string -%}
+  {%- set parts = iso|split('-') -%}
+  {{- (parts[2]|int) }} {{ _mois_fr[parts[1]] }} {{ parts[0] -}}
+{%- endmacro %}
 {% macro render_updated(date) %}
   <span class="md-source-file__fact">
     <span class="md-icon" title="{{ lang.t('source.file.date.updated') }}">
       {% include ".icons/material/clock-edit-outline.svg" %}
     </span>
-    {{ date }}
+    Dernière mise à jour : {{ date }}
   </span>
 {% endmacro %}
 {% if page.meta %}
   {% if page.meta.git_revision_date_localized %}
     {% set updated = page.meta.git_revision_date_localized %}
   {% elif page.meta.updated %}
-    {% set updated = page.meta.updated %}
+    {% set updated = format_fr(page.meta.updated) %}
   {% elif page.meta.revision_date %}
     {% set updated = page.meta.revision_date %}
   {% endif %}

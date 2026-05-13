@@ -3,7 +3,7 @@ description: Reprendre une activité après faillite - Droits, restrictions, dro
   indépendants, nouvelle entreprise
 keywords: travailler après faillite, reprendre activité faillite, droit passerelle
   belgique, créer entreprise après faillite, salarié failli
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # Reprendre une activité après votre faillite
 

@@ -3,7 +3,7 @@ description: Qu'est-ce qu'une faillite en Belgique - Définition, conditions lé
   qui peut être déclaré failli, effets immédiats et objectifs de la procédure
 keywords: définition faillite belgique, état de faillite, cessation paiements, ébranlement
   de crédit, qui peut être failli, tribunal entreprise faillite
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # Qu'est-ce qu'une faillite ?
 

@@ -3,7 +3,7 @@ description: La vérification des créances dans la faillite - Les trois procès
   comment le curateur examine votre créance, admission et réserve
 keywords: vérification créance faillite, procès verbal créance faillite, admission
   créance faillite belgique, réserve créance faillite, REGSOL créances
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # La vérification des créances et les procès-verbaux
 
@@ -23,11 +23,13 @@ Les décisions de ce premier procès-verbal sont provisoires. Le curateur peut r
 
 ### Le deuxième procès-verbal (vers six mois, provisoire)
 
-Le deuxième procès-verbal intervient environ six mois après le jugement. Il porte principalement sur les créances déclarées tardivement — entre la clôture du premier et la clôture du deuxième procès-verbal — ainsi que sur les créances laissées en réserve lors du premier. Les décisions restent provisoires.
+Le deuxième procès-verbal intervient environ six mois après le jugement. Il porte principalement sur les créances déclarées tardivement — entre la clôture du premier et la clôture du deuxième procès-verbal — ainsi que sur les créances laissées en réserve lors du premier. Les déclarations parvenues au curateur entre le 2ᵉ et le 3ᵉ procès-verbal sont, elles, examinées lors du 3ᵉ. Les décisions restent provisoires.
 
 ### Le troisième procès-verbal (à douze mois, définitif)
 
 Le troisième procès-verbal intervient environ douze mois après le jugement. Il a un caractère définitif : les réserves doivent être levées, sauf si un litige judiciaire est encore pendant ou si une créance conditionnelle n'est pas encore réalisée. Après ce procès-verbal, les créances admises ne peuvent plus être contestées sauf en cas de fraude avérée ou d'erreur matérielle manifeste.
+
+Le dépôt du 3ᵉ procès-verbal est aussi la **date limite pratique pour qu'une déclaration de créance tardive soit recevable** : une déclaration parvenue au curateur après ce dépôt n'est plus traitée, même si elle arrive avant le délai légal d'un an.
 
 ---
 

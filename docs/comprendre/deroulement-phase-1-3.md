@@ -3,7 +3,7 @@ description: Le déroulement de la faillite de A à Z - Jugement déclaratif, de
   de faillite, inventaire et déclarations de créances (phases 1 à 3)
 keywords: déroulement faillite belgique, jugement déclaratif faillite, descente faillite,
   inventaire faillite, déclarer créance délai, phases faillite
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # Le déroulement de la faillite : du jugement à l'inventaire
 
@@ -74,7 +74,7 @@ Le failli doit être convoqué pour assister à l'inventaire. C'est son droit, m
 La publication du jugement au Moniteur belge déclenche le délai de trente jours pendant lequel les créanciers doivent déclarer leurs créances auprès du curateur.
 
 !!! danger "Le délai de trente jours est impératif pour les créanciers"
-    Une créance non déclarée dans les trente jours ne peut pas bénéficier des répartitions provisoires. Les déclarations tardives restent acceptées jusqu'à un an après le jugement, mais vous perdez le droit aux dividendes intermédiaires. La déclaration via REGSOL est le moyen le plus rapide et le plus sûr.
+    Une créance non déclarée dans les trente jours ne peut pas bénéficier des répartitions provisoires. Les déclarations tardives restent acceptées jusqu'au dépôt du troisième procès-verbal de vérification (en pratique environ douze mois après le jugement), mais vous perdez le droit aux dividendes intermédiaires. La déclaration via REGSOL est le moyen le plus rapide et le plus sûr.
 
 La déclaration doit indiquer l'identité du créancier, le montant exact de la créance (capital, intérêts, frais), la cause de la dette (factures, prêt, loyers, etc.), les garanties détenues (hypothèque, gage, privilège, caution, réserve de propriété) et les justificatifs correspondants.
 
