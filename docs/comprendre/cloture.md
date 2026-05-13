@@ -7,7 +7,7 @@ updated: '2026-05-13'
 ---
 # La clôture de la faillite
 
-La clôture marque la fin officielle de la procédure de faillite. Elle intervient une fois que les actifs ont été liquidés et les créanciers payés — ou une fois qu'il est établi qu'il n'existe aucun actif suffisant pour couvrir les frais de la procédure. Pour les personnes physiques, la clôture déclenche l'effacement automatique des dettes impayées et met fin au dessaisissement.
+La clôture marque la fin officielle de la procédure de faillite. Elle intervient une fois que les actifs ont été liquidés et les créanciers payés — ou une fois qu'il est établi qu'il n'existe aucun actif suffisant pour couvrir les frais de la procédure. Pour les personnes physiques, la clôture déclenche l'effacement automatique des dettes impayées.
 
 ---
 
@@ -15,7 +15,7 @@ La clôture marque la fin officielle de la procédure de faillite. Elle intervie
 
 ### La clôture pour insuffisance d'actif
 
-C'est le cas le plus fréquent : environ 70 % des faillites en Belgique se terminent ainsi. Le curateur constate que le patrimoine du failli est insuffisant pour couvrir ne serait-ce que les frais de justice et ses propres honoraires. Il dresse un procès-verbal de carence et dépose une requête en clôture. Le tribunal prononce le jugement dans un délai de six à douze mois après le jugement déclaratif. Les créanciers ne reçoivent rien — le dividende est nul —, mais les dettes des personnes physiques sont effacées tout de même.
+C'est le cas le plus fréquent. Le curateur constate que le patrimoine du failli est insuffisant pour couvrir ne serait-ce que les frais de justice et ses propres honoraires. Il dresse un procès-verbal de carence et dépose une requête en clôture. Les créanciers ne reçoivent rien — le dividende est nul —, mais les dettes des personnes physiques sont effacées tout de même, sauf faute grave et caractérisée et requête en refus.
 
 L'État belge avance un forfait minimum pour couvrir les honoraires du curateur dans ces dossiers sans actifs, afin de permettre l'aboutissement de la procédure.
 
@@ -43,7 +43,7 @@ Prévu par l'article XX.173 du Code de droit économique, l'effacement s'appliqu
 
 Le tribunal peut refuser totalement ou partiellement l'effacement si le failli a commis des fautes graves et caractérisées ayant contribué à la faillite. Les fautes les plus fréquentes sont l'absence ou la falsification de la comptabilité, la poursuite délibérée d'une activité manifestement déficitaire sans espoir raisonnable, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs au profit de proches. Les faillites répétées — deux, trois faillites successives — constituent également un motif de refus.
 
-La demande de refus peut être formulée avant la clôture par le curateur, le procureur du Roi ou un créancier, ou après la clôture via une tierce opposition dans les trois mois qui suivent la publication du jugement.
+La demande de refus peut être formulée avant la clôture par le curateur, [le procureur du Roi](acteurs-secondaires.md#le-procureur-du-roi) ou un créancier impayé, ou soulevée d'office par le tribunal. Le parquet la dépose sous la forme d'une [requête en refus d'effacement](../faillis/effacement.md#la-requete-en-refus-deffacement) — c'est son arme procédurale principale dans les dossiers où une faute grave a contribué à la faillite. Après la clôture, le seul recours subsiste est la tierce opposition dans les trois mois qui suivent la publication du jugement.
 
 ---
 
