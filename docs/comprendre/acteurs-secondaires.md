@@ -3,7 +3,7 @@ description: Le tribunal de l'entreprise, le procureur du Roi, le failli et les 
   dans la procédure de faillite - Rôles et droits
 keywords: tribunal entreprise faillite, procureur roi faillite, failli obligations
   droits, créanciers faillite catégories, fonds fermeture entreprises
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # Les autres acteurs de la faillite
 
@@ -13,7 +13,7 @@ La faillite mobilise bien plus que le curateur et le juge-commissaire. Le tribun
 
 ## Le tribunal de l'entreprise
 
-Le tribunal de l'entreprise est la juridiction spécialisée qui connaît des faillites, des réorganisations judiciaires et des litiges commerciaux. Il est composé de magistrats professionnels siégeant aux côtés de juges consulaires — des chefs d'entreprise expérimentés élus par leurs pairs — dont l'expertise pratique complète la formation juridique des magistrats.
+Le tribunal de l'entreprise est la juridiction qui connaît des faillites, des réorganisations judiciaires et des litiges entre entreprises. Il est composé de magistrats professionnels siégeant aux côtés de juges consulaires — des chefs d'entreprise expérimentés — dont l'expertise pratique complète la formation juridique des magistrats.
 
 ### Prononcer la faillite
 

@@ -4,7 +4,7 @@ description: Vos droits dans la procédure de faillite en tant que créancier - 
   dirigeants
 keywords: droits créanciers faillite, REGSOL consultation créancier, assemblée créanciers
   faillite, action responsabilité dirigeants, contester honoraires curateur belgique
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # Vos droits dans la procédure de faillite
 

@@ -3,7 +3,7 @@ description: Le dessaisissement en faillite - Perte du droit de gérer ses biens
   de la masse faillie, biens insaisissables, revendications des tiers
 keywords: dessaisissement faillite belgique, masse faillie, biens insaisissables faillite,
   curateur gestion biens, revendication propriété faillite
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # Le dessaisissement
 

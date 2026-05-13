@@ -3,7 +3,7 @@ description: Vue d'ensemble pour les personnes en faillite - Ce que cela signifi
   vos biens, durée de la procédure
 keywords: failli belgique, dessaisissement, biens faillite, durée faillite, que faire
   faillite
-updated: '2026-03-06'
+updated: '2026-05-13'
 ---
 # Je suis en faillite : par où commencer ?
 

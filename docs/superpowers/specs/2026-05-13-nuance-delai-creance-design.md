@@ -2,8 +2,8 @@
 title: Nuancer le délai de 30 jours pour les déclarations de créance
 date: 2026-05-13
 status: draft
+updated: '2026-05-13'
 ---
-
 # Spec — Nuancer le délai de 30 jours pour les déclarations de créance
 
 ## Contexte
