@@ -58,21 +58,21 @@ Le mot « failli » désigne juridiquement la personne — physique ou morale �
 
 ### Le failli personne physique
 
-Lorsque l'entreprise est exploitée en nom propre — indépendant, artisan, profession libérale —, c'est la personne physique qui est déclarée en faillite. Le jugement déclaratif emporte deux conséquences majeures pour elle : un **dessaisissement** de la gestion de son patrimoine professionnel, et un faisceau d'obligations vis-à-vis du curateur et du tribunal.
+Lorsque l'entreprise est exploitée en nom propre — indépendant, artisan, profession libérale —, c'est la personne physique qui est déclarée en faillite. Le jugement déclaratif emporte deux conséquences majeures pour elle : un **dessaisissement** de la gestion de son patrimoine, et un faisceau d'obligations vis-à-vis du curateur et du tribunal.
 
 Le dessaisissement porte sur les biens et les revenus qui composaient le patrimoine au moment du jugement et sur ceux qui en sont le prolongement direct. Le failli conserve en revanche l'intégralité de ses **droits personnels** : il peut travailler, percevoir et disposer librement de nouveaux revenus issus d'une activité postérieure au jugement, contracter, défendre ses intérêts en justice. Pour les contours exacts de ce dessaisissement, voir [le dessaisissement](dessaisissement.md).
 
-Ses **obligations** — remettre tous les documents comptables, assister à la descente de faillite, répondre aux convocations dans les 48 heures, signaler tout changement de situation — sont décrites en détail dans [vos obligations légales envers le curateur](../faillis/obligations.md). Le manquement à ces obligations peut entraîner le refus de l'effacement des dettes, une interdiction de gérer et des poursuites pénales.
+Ses **obligations** — remettre tous les documents comptables, assister à la descente de faillite, répondre aux convocations du curateur, signaler tout changement de situation — sont décrites en détail dans [vos obligations légales envers le curateur](../faillis/obligations.md). Le manquement à ces obligations peut entraîner le refus de l'effacement des dettes, une interdiction de gérer et des poursuites pénales.
 
-Il dispose également de **droits** que beaucoup ignorent : être entendu sur la réalisation des actifs, bénéficier d'un secours alimentaire en cas d'indigence, contester les créances déclarées par des tiers, accéder à son dossier sur REGSOL. Ces droits sont détaillés dans [vos droits pendant la procédure de faillite](../faillis/droits.md). À la clôture, il bénéficie en principe de l'effacement automatique des dettes professionnelles impayées — c'est la grande différence avec le dirigeant d'une société, voir [l'effacement des dettes](../faillis/effacement.md).
+Il dispose également de **droits** que beaucoup ignorent : être entendu sur la réalisation des actifs, bénéficier d'un secours alimentaire en cas d'indigence, contester les créances déclarées par des tiers, accéder à son dossier sur REGSOL. Ces droits sont détaillés dans [vos droits pendant la procédure de faillite](../faillis/droits.md). À la clôture, il bénéficie en principe de l'effacement automatique des dettes impayées — c'est la grande différence avec le dirigeant d'une société, voir [l'effacement des dettes](../faillis/effacement.md).
 
 ### Le dirigeant d'une société faillie
 
 Lorsque l'entreprise est exploitée en société (SRL, SA, SNC, etc.), la **personne morale** est seule faillie. Le dirigeant — gérant, administrateur, associé actif — n'est pas juridiquement en faillite à titre personnel ; il conserve son patrimoine propre, ses revenus, sa capacité à contracter et à entreprendre. Aucun dessaisissement personnel n'intervient.
 
-Il reste néanmoins **l'interlocuteur du curateur** pour tout ce qui concerne la société. Il doit remettre les livres comptables, les statuts, les contrats sociaux, donner accès aux locaux, expliquer la situation financière et la chronologie des difficultés, et collaborer aux audiences. Ces obligations le rattachent à la procédure même s'il n'en est pas le sujet personnel.
+Il reste néanmoins **l'interlocuteur du curateur** pour tout ce qui concerne la société. Il doit remettre les livres comptables, les contrats sociaux, donner accès aux locaux, expliquer la situation financière et la chronologie des difficultés, et collaborer. Ces obligations le rattachent à la procédure même s'il n'en est pas le sujet personnel.
 
-Sa situation personnelle peut toutefois être **engagée par ricochet** dans plusieurs cas. S'il a signé une **caution personnelle** pour la société, les créanciers peuvent le poursuivre directement après la faillite. Le tribunal peut être saisi d'une action en **comblement de passif** s'il est démontré qu'une faute de gestion grave a contribué à l'insuffisance d'actif. Le procureur du Roi peut demander une **interdiction de gérer** en cas de fautes graves répétées ou de faillites successives — voir [le procureur du Roi](#le-procureur-du-roi) plus haut. Enfin, des poursuites pénales pour banqueroute ou abus de biens sociaux sont possibles lorsque les faits le justifient.
+Sa situation personnelle peut toutefois être **engagée par ricochet** dans plusieurs cas. S'il a signé une **caution personnelle** pour la société, les créanciers peuvent le poursuivre directement après la faillite. Le tribunal peut être saisi d'une action en **comblement de passif** s'il est démontré qu'une faute de gestion grave a contribué à l'insuffisance d'actif. Le procureur du Roi peut demander une **interdiction de gérer** en cas de fautes graves répétées ou de faillites successives — voir [le procureur du Roi](#le-procureur-du-roi) plus haut. Enfin, des poursuites pénales pour abus de biens sociaux sont possibles lorsque les faits le justifient.
 
 Le dirigeant d'une société faillie ne bénéficie **pas** de l'effacement des dettes : ce mécanisme est réservé aux personnes physiques. Ses engagements personnels — cautions, dettes propres — restent dus selon le droit commun.
 
@@ -84,18 +84,13 @@ Les créanciers sont les personnes physiques ou morales à qui le failli devait 
 
 ### L'obligation de déclarer sa créance
 
-Déclarer sa créance dans les trente jours qui suivent la publication du jugement au Moniteur belge est la démarche la plus importante pour tout créancier. Sans déclaration, aucun remboursement n'est possible. La déclaration doit comporter tous les documents justificatifs et mentionner explicitement toute sûreté détenue — hypothèque, gage, privilège, caution, réserve de propriété. Pour le détail de la procédure, consultez [déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md).
+Déclarer sa créance dans les trente jours qui suivent la publication du jugement au Moniteur belge est la démarche la plus importante pour tout créancier. Sans déclaration, aucun remboursement n'est possible. La déclaration doit comporter tous les documents justificatifs et mentionner explicitement toute sûreté détenue — hypothèque, gage, privilège, caution, réserve de propriété.
+
+Le délai de trente jours n'est cependant pas un couperet absolu : une déclaration tardive reste recevable tant que le curateur n'a pas déposé le **troisième procès-verbal de vérification** (en pratique environ douze mois après le jugement). Au-delà du 3ᵉ procès-verbal, la créance est forclose. Pour le détail de la procédure et des conséquences pratiques, consultez [déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md) et [la vérification des créances et les procès-verbaux](../creanciers/verification-contestation.md).
 
 ### L'ordre de priorité entre créanciers
 
 Tous les créanciers ne sont pas remboursés de la même façon. La loi établit un ordre de priorité strict, et si l'actif est insuffisant, les créanciers de rang inférieur peuvent ne rien récupérer.
-
-| Rang | Type de créancier | Priorité |
-|---|---|---|
-| 0 | Frais de justice et honoraires du curateur | Absolue — avant tous |
-| 1 | Créanciers hypothécaires et gagistes | Sur le bien donné en garantie |
-| 2 | Créanciers privilégiés (ONSS, salaires, TVA) | Sur l'ensemble de l'actif |
-| 3 | Créanciers chirographaires (ordinaires) | Sur le solde — souvent nul |
 
 !!! warning "Réalité des dividendes"
     Dans la grande majorité des faillites, les créanciers chirographaires — fournisseurs, sous-traitants — ne récupèrent rien ou quasi rien. La meilleure protection reste la prévention : exiger des garanties avant de contracter avec une entreprise en difficulté.
@@ -116,11 +111,11 @@ Les ventes publiques de mobilier — matériel, stocks, véhicules, équipements
 
 ### Le repreneur (going concern)
 
-Lorsqu'une activité économique peut être cédée en bloc, un repreneur peut acquérir le fonds de commerce avec ses actifs, ses contrats, parfois ses salariés. Cette cession sous autorité de justice préserve les emplois et maximise généralement le prix de vente. Elle doit être autorisée par le tribunal, et les droits des travailleurs sont protégés par la convention collective n°32bis.
+Lorsqu'une activité économique peut être cédée en bloc, un repreneur peut acquérir le fonds de commerce avec ses actifs, ses contrats, parfois ses salariés. Cette cession préserve les emplois et maximise généralement le prix de vente. Elle doit être autorisée par le tribunal, et les droits des travailleurs sont protégés par la convention collective n°32bis.
 
 ### Le Fonds Fermeture d'Entreprises (FFE)
 
-Le FFE indemnise les travailleurs licenciés lors d'une faillite : arriérés de salaires, indemnité de préavis, indemnité de licenciement. Financé par les cotisations patronales, il se subroge ensuite dans les droits des travailleurs et devient créancier privilégié de la masse. Pour plus d'informations : [www.fermeture.belgium.be](https://www.fermeture.belgium.be).
+Le FFE indemnise les travailleurs licenciés lors d'une faillite : arriérés de salaires, indemnité de préavis, indemnité de licenciement. Financé par les cotisations patronales, il se subroge ensuite dans les droits des travailleurs et devient créancier privilégié de la masse. Pour plus d'informations : [FFE](https://www.onem.be/ffe/que-faire-en-cas-de-faillite-).
 
 ---
 

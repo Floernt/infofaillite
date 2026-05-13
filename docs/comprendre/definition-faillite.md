@@ -7,7 +7,7 @@ updated: '2026-05-13'
 ---
 # Qu'est-ce qu'une faillite ?
 
-La faillite est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus faire face à ses obligations. Elle est régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235), entré en vigueur le 1er mai 2018. Sous le contrôle du tribunal de l'entreprise, un curateur désigné par le tribunal vend les biens du failli, paie les créanciers selon un ordre légal strict, et permet aux personnes physiques d'effacer automatiquement leurs dettes impayées à la clôture.
+La faillite est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'une entreprise qui ne peut plus faire face à ses obligations. Elle est régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235), entré en vigueur le 1er mai 2018. Sous le contrôle du tribunal de l'entreprise, un curateur désigné par le tribunal vend les biens du failli, paie les créanciers selon un ordre légal, et permet aux personnes physiques d'effacer automatiquement leurs dettes impayées à la clôture.
 
 ---
 
@@ -15,19 +15,21 @@ La faillite est une procédure judiciaire collective qui organise le règlement 
 
 Pour être déclaré en faillite, trois conditions cumulatives doivent être réunies. L'absence de l'une suffit à écarter la procédure.
 
-### La qualité de commerçant ou d'entreprise
+### La qualité d'entreprise
 
-La faillite s'applique aux commerçants personnes physiques — indépendants, artisans, restaurateurs, garagistes — aux sociétés commerciales (SRL, SA, SNC, SCS, sociétés coopératives) et, depuis la réforme de 2018, aux professions libérales telles que les avocats, médecins, architectes et comptables. Les notaires et huissiers font l'objet d'un régime disciplinaire distinct.
+La faillite s'applique aux commerçants personnes physiques (indépendants) aux sociétés (SRL, SA, SNC, SCS, sociétés coopératives) et, depuis la réforme de 2018, aux professions libérales telles que les avocats, médecins, architectes et comptables. 
 
-En revanche, ne peuvent pas être déclarés en faillite : les salariés (qui ne sont pas commerçants), les agriculteurs (régime spécifique), les ASBL (dissoutes par dissolution judiciaire) et les personnes publiques comme l'État, les communes ou les CPAS.
+En revanche, ne peuvent pas être déclarés en faillite : les salariés (qui ne sont pas entreprise), l'adminstrateurs de société (sauf si certaines conditions sont remplies) et les personnes publiques comme l'État, les communes ou les CPAS.
 
 ### La cessation de paiements
 
-Le débiteur doit avoir cessé de payer ses dettes de manière durable. Il ne s'agit pas d'un simple retard ponctuel ou d'une difficulté passagère : l'incapacité doit être structurelle. Les signes les plus fréquents sont les factures fournisseurs restées impayées depuis plusieurs mois, les loyers commerciaux et salaires non honorés, les cotisations ONSS et la TVA en souffrance, et les comptes bancaires bloqués ou à découvert permanent.
+Le débiteur doit avoir cessé de payer ses dettes de manière durable. Il ne s'agit pas d'un simple retard ponctuel ou d'une difficulté passagère : l'incapacité doit être structurelle. Les signes les plus fréquents sont les factures fournisseurs restées impayées depuis plusieurs mois, les loyers et salaires non honorés, les cotisations ONSS et la TVA en souffrance, et les comptes bancaires bloqués ou à découvert permanent.
 
 ### L'ébranlement du crédit
 
-La confiance des partenaires commerciaux doit être rompue. Les fournisseurs exigent désormais le paiement comptant ou refusent de nouvelles livraisons, les banques refusent tout nouveau crédit ou découvert, et les poursuites se multiplient : mises en demeure, commandements de payer, saisies conservatoires. Cette troisième condition distingue les difficultés réversibles — où un redressement reste possible — des difficultés irréversibles qui rendent la faillite inévitable.
+Le « crédit » dont parle la loi est ici à entendre au sens étymologique (du latin *credere*, croire) : c'est la **confiance** que les partenaires commerciaux accordent à l'entreprise, et non le crédit bancaire au sens financier. Cette confiance doit être rompue de manière manifeste. 
+
+Les fournisseurs exigent désormais le paiement comptant ou refusent de nouvelles livraisons, les clients hésitent à signer de nouveaux contrats, les poursuites se multiplient — mises en demeure, commandements de payer, saisies conservatoires —, et accessoirement, les banques retirent les lignes de crédit existantes. Lorsque l'ébranlement du crédit est avéré, certains créanciers passent à l'étape suivante et engagent de véritables **mesures d'exécution forcée** : saisies-exécutions mobilières au siège ou au domicile du débiteur, saisies-exécutions immobilières sur les biens dont il est propriétaire, voire ventes publiques organisées par un huissier de justice. C'est souvent ce stade qui précipite la déclaration de faillite, soit à l'initiative du débiteur lui-même (aveu), soit sur citation d'un créancier qui constate que ses voies d'exécution n'aboutissent pas à un paiement intégral. Cette troisième condition distingue les difficultés réversibles, où un redressement reste possible, des difficultés irréversibles qui rendent la faillite inévitable.
 
 ---
 
@@ -35,26 +37,23 @@ La confiance des partenaires commerciaux doit être rompue. Les fournisseurs exi
 
 ### L'aveu de faillite
 
-Le débiteur lui-même peut se déclarer en faillite en déposant une requête auprès du tribunal de l'entreprise compétent. Il n'est pas obligatoire d'être assisté d'un avocat pour cette démarche, même si c'est fortement recommandé.
+Le débiteur lui-même peut se déclarer en faillite en déposant un aveu auprès du tribunal de l'entreprise compétent. Il n'est pas obligatoire d'être assisté d'un avocat pour cette démarche, même si c'est recommandé.
 
 !!! danger "Délai d'un mois pour l'aveu"
-    La loi impose de déposer l'aveu de faillite dans le mois qui suit la cessation de paiements. Dépasser ce délai constitue une faute grave : le tribunal peut refuser l'effacement des dettes et prononcer une interdiction de gérer pour inaction. Agir dans les délais démontre votre bonne foi et joue en votre faveur lors du jugement de clôture.
+    La loi impose de déposer l'aveu de faillite dans le mois qui suit la cessation de paiements. Dépasser ce délai peut constituer une faute grave : le tribunal peut refuser l'effacement des dettes et prononcer une interdiction de gérer pour inaction. Agir dans les délais démontre votre bonne foi et joue en votre faveur lors du jugement de clôture.
 
 Effectuer l'aveu dans les délais démontre la bonne foi du débiteur, limite l'aggravation du passif et réduit le risque d'interdiction de gérer. Pour les obligations qui s'ensuivent, consultez [vos obligations légales envers le curateur](../faillis/obligations.md).
 
 ### La citation par un créancier
 
-Un créancier dont la créance est certaine, liquide et exigible peut citer le débiteur devant le tribunal de l'entreprise pour faire prononcer la faillite. Le débiteur peut se défendre en prouvant qu'il n'est pas en état de faillite, en payant la créance avant le jugement, ou en obtenant un délai de paiement.
-
-### La déclaration d'office par le tribunal
-
-Dans des cas plus rares, le tribunal peut prononcer la faillite d'office s'il constate l'état de faillite lors d'une autre procédure — par exemple lorsqu'une réorganisation judiciaire échoue et que le redressement est manifestement impossible.
+Un créancier dont la créance est certaine, liquide et exigible peut citer le débiteur devant le tribunal de l'entreprise pour faire prononcer la faillite. En pratique, cette voie n'est utilisée que lorsque l'exécution forcée individuelle s'est révélée **inefficace ou inopérante** — saisie mobilière qui ne couvre pas la créance, saisie immobilière qui se heurte à d'autres rangs prioritaires, débiteur insolvable au sens où aucune voie d'exécution ne permet plus d'obtenir paiement. La citation en faillite devient alors le moyen d'obtenir un traitement collectif et égalitaire entre tous les créanciers, à défaut de pouvoir être désintéressé individuellement. Le débiteur peut se défendre en prouvant qu'il n'est pas en état de faillite, en payant la créance avant le jugement, ou en obtenant un délai de paiement.
 
 ---
 
+
 ## Le tribunal de l'entreprise : juridiction compétente
 
-Le tribunal de l'entreprise est la juridiction spécialisée qui connaît des faillites, des réorganisations judiciaires et des litiges commerciaux. La compétence territoriale est déterminée par le siège principal de l'entreprise ou le domicile du commerçant personne physique. Une société dont le siège est à Liège relèvera ainsi du tribunal de l'entreprise de Liège-Verviers ; un indépendant domicilié à Bruxelles, du tribunal de l'entreprise francophone de Bruxelles.
+Le tribunal de l'entreprise est la juridiction spécialisée qui connaît des faillites, des réorganisations judiciaires et des litiges commerciaux. La compétence territoriale est déterminée par le siège principal de l'entreprise ou le domicile de l'entreprise personne physique. 
 
 ---
 
@@ -66,7 +65,7 @@ La faillite poursuit trois objectifs complémentaires. Elle protège d'abord les
 
 ## Les effets immédiats du jugement
 
-Dès que le tribunal prononce la faillite, les effets sont immédiats. Le failli est dessaisi de la gestion de son patrimoine professionnel : c'est le curateur qui en prend le contrôle. Les poursuites individuelles des créanciers pour les dettes antérieures sont suspendues : aucune saisie nouvelle ne peut être pratiquée, et chaque créancier doit déclarer sa créance au curateur dans un délai de trente jours. Les actes passés pendant la période suspecte — la période précédant le jugement — peuvent être annulés s'ils ont lésé les créanciers. La faillite est publiée au Moniteur belge et dans [REGSOL](https://www.regsol.be), le registre central de solvabilité, où elle reste accessible au public.
+Dès que le tribunal prononce la faillite, les effets sont immédiats. Le failli est dessaisi de la gestion de son patrimoine : c'est le curateur qui en prend le contrôle. Les poursuites individuelles des créanciers pour les dettes antérieures sont suspendues : aucune saisie nouvelle ne peut être pratiquée, et chaque créancier doit déclarer sa créance au curateur. Les actes passés pendant la période suspecte — la période précédant le jugement — peuvent être annulés s'ils ont lésé les créanciers. La faillite est publiée au Moniteur belge et dans [REGSOL](https://www.regsol.be), le registre central de solvabilité, où elle reste accessible au public.
 
 Pour comprendre pleinement ce que le dessaisissement implique pour vos biens, lisez [les effets du dessaisissement sur votre patrimoine](dessaisissement.md).
 
@@ -74,7 +73,7 @@ Pour comprendre pleinement ce que le dessaisissement implique pour vos biens, li
 
 ## Faillite, réorganisation judiciaire et liquidation volontaire
 
-La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre VI) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les associés lorsque la situation est saine : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé et sans effacement de dettes. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
+La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre VI) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les actionnaires : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
 
 ---
 
@@ -92,9 +91,9 @@ Pour le détail de chaque phase, consultez [le déroulement chronologique de la 
 
 **Peut-on éviter la faillite ?** Si les trois conditions sont réunies, la faillite est juridiquement inévitable. En revanche, si vous agissez tôt — avant d'atteindre la cessation de paiements —, plusieurs alternatives existent : réorganisation judiciaire, négociation amiable avec les créanciers, ou apport de capitaux nouveaux. Pour comparer ces options, lisez [les procédures alternatives à la faillite](procedures-alternatives.md).
 
-**La faillite figure-t-elle au casier judiciaire ?** Non. La faillite est une procédure civile, pas pénale. Elle est consultable sur REGSOL et une interdiction de gérer éventuelle est inscrite dans le registre JustBan. Seule une condamnation pour banqueroute frauduleuse, qui est une infraction pénale distincte, peut figurer au casier judiciaire.
+**La faillite figure-t-elle au casier judiciaire ?** Non. La faillite est une procédure civile, pas pénale. Elle est consultable sur REGSOL et une interdiction de gérer éventuelle est inscrite dans le registre JustBan. Seule une condamnation pénale peut figurer au casier judiciaire.
 
-**Peut-on faire appel du jugement de faillite ?** Oui, dans le mois qui suit le prononcé. Mais l'appel ne suspend pas la procédure : le curateur continue d'agir pendant le délibéré. Si vous êtes réellement en état de faillite, il est souvent plus utile de collaborer pleinement pour préserver votre droit à l'effacement que de tenter un appel voué à l'échec.
+**Peut-on faire appel du jugement de faillite ?** Oui, mais à des conditions strictes. Le Livre XX prévoit des **délais spécifiques à peine de forclusion** — courts et qui varient selon que vous êtes le failli, un créancier ou un tiers, et selon le mode de notification du jugement. Faites-vous assister par un avocat sans tarder : passé le délai applicable, le jugement devient irrévocable. Sur le fond, l'appel suppose de démontrer que les **conditions de la faillite n'étaient pas réunies à la date du jugement** qui l'a prononcée (qualité d'entreprise, cessation de paiements, ébranlement du crédit). C'est une démonstration exigeante. Attention : l'appel ne suspend pas la procédure — le curateur continue d'agir pendant le délibéré.
 
 ---
 

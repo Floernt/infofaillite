@@ -7,7 +7,7 @@ updated: '2026-05-13'
 ---
 # La clôture de la faillite
 
-La clôture marque la fin officielle de la procédure de faillite. Elle intervient une fois que les actifs ont été liquidés et les créanciers payés — ou une fois qu'il est établi qu'il n'existe aucun actif suffisant pour couvrir les frais de la procédure. Pour les personnes physiques, la clôture déclenche l'effacement automatique des dettes impayées et met fin au dessaisissement.
+La clôture marque la fin officielle de la procédure de faillite. Elle intervient une fois que les actifs ont été liquidés et les créanciers payés — ou une fois qu'il est établi qu'il n'existe aucun actif suffisant pour couvrir les frais de la procédure. Pour les personnes physiques, la clôture déclenche l'effacement automatique des dettes impayées.
 
 ---
 
@@ -15,21 +15,19 @@ La clôture marque la fin officielle de la procédure de faillite. Elle intervie
 
 ### La clôture pour insuffisance d'actif
 
-C'est le cas le plus fréquent : environ 70 % des faillites en Belgique se terminent ainsi. Le curateur constate que le patrimoine du failli est insuffisant pour couvrir ne serait-ce que les frais de justice et ses propres honoraires. Il dresse un procès-verbal de carence et dépose une requête en clôture. Le tribunal prononce le jugement dans un délai de six à douze mois après le jugement déclaratif. Les créanciers ne reçoivent rien — le dividende est nul —, mais les dettes des personnes physiques sont effacées tout de même.
-
-L'État belge avance un forfait minimum pour couvrir les honoraires du curateur dans ces dossiers sans actifs, afin de permettre l'aboutissement de la procédure.
+C'est le cas le plus fréquent. Le curateur constate que le patrimoine du failli est insuffisant pour couvrir ne serait-ce que les frais de justice et ses propres honoraires. Il dresse un procès-verbal de carence et dépose une requête en clôture. Les créanciers ne reçoivent rien — le dividende est nul —, mais [les dettes des personnes physiques sont effacées](../faillis/effacement.md) tout de même, sauf [faute grave et caractérisée](#les-causes-de-refus) ayant donné lieu à une [requête en refus d'effacement](../faillis/effacement.md#la-requete-en-refus-deffacement) du parquet, du curateur ou d'un créancier.
 
 ### La clôture après liquidation complète
 
-Dans les 30 % de faillites restants, le curateur a pu vendre des actifs, encaisser des créances et payer tout ou partie des créanciers. La procédure est plus longue — d'un à quatre ans selon la complexité du dossier — et suit un enchaînement précis : le tribunal fixe le montant définitif des honoraires du curateur lors d'une audience contradictoire, puis approuve l'état de répartition qui détaille les dividendes à verser à chaque créancier. La Caisse des Dépôts et Consignations (CDC) exécute les paiements dans le mois qui suit. Le curateur dépose ensuite sa demande de clôture avec son rapport final, et le tribunal prononce le jugement de clôture.
+Dans les faillites restants, le curateur a pu vendre des actifs, encaisser des créances et payer tout ou partie des créanciers. La procédure est plus longue selon la complexité du dossier et suit un enchaînement précis : le tribunal fixe le montant définitif des honoraires du curateur lors d'une audience contradictoire, puis approuve l'état de répartition qui détaille les dividendes à verser à chaque créancier. La Caisse des Dépôts et Consignations (CDC) exécute les paiements dans le mois qui suit. Le curateur dépose ensuite sa demande de clôture avec son rapport final, et le tribunal prononce le jugement de clôture.
 
 ---
 
 ## Les effets du jugement de clôture
 
-Le jugement de clôture produit quatre effets simultanés.
+Le jugement de clôture produit trois effets simultanés.
 
-Il met fin à la faillite et publie cette fin au Moniteur belge ainsi que sur REGSOL dans les quinze jours. Il prononce la décharge du curateur, qui est libéré de son mandat et de sa responsabilité. Pour les personnes physiques, il efface automatiquement les dettes impayées sans qu'aucune démarche ne soit nécessaire. Et il lève le dessaisissement : le failli retrouve la pleine capacité de gérer ses biens futurs, de contracter librement et d'entreprendre à nouveau.
+Il met fin à la faillite et publie cette fin au Moniteur belge ainsi que sur REGSOL. Il prononce la décharge du curateur, qui est libéré de son mandat. Pour les personnes physiques, il efface automatiquement les dettes impayées sans qu'aucune démarche ne soit nécessaire. 
 
 ---
 
@@ -41,9 +39,9 @@ Prévu par l'article XX.173 du Code de droit économique, l'effacement s'appliqu
 
 ### Les causes de refus
 
-Le tribunal peut refuser totalement ou partiellement l'effacement si le failli a commis des fautes graves et caractérisées ayant contribué à la faillite. Les fautes les plus fréquentes sont l'absence ou la falsification de la comptabilité, la poursuite délibérée d'une activité manifestement déficitaire sans espoir raisonnable, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs au profit de proches. Les faillites répétées — deux, trois faillites successives — constituent également un motif de refus.
+Le tribunal peut refuser totalement ou partiellement l'effacement si le failli a commis des fautes graves et caractérisées ayant contribué à la faillite. Les fautes les plus fréquentes sont l'absence ou la falsification de la comptabilité, la poursuite délibérée d'une activité manifestement déficitaire sans espoir raisonnable, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs. Les faillites répétées — deux, trois faillites successives — constituent également un motif de refus.
 
-La demande de refus peut être formulée avant la clôture par le curateur, le procureur du Roi ou un créancier, ou après la clôture via une tierce opposition dans les trois mois qui suivent la publication du jugement.
+La demande de refus peut être formulée avant la clôture par le curateur, [le procureur du Roi](acteurs-secondaires.md#le-procureur-du-roi) ou un créancier impayé. Cette demande est déposée sous la forme d'une [requête en refus d'effacement](../faillis/effacement.md#la-requete-en-refus-deffacement). C'est l'arme procédurale principale dans les dossiers où une faute grave a contribué à la faillite. 
 
 ---
 
@@ -72,9 +70,11 @@ Le conjoint ou cohabitant légal du failli qui s'est porté caution pour ses det
 
 ## La fin du dessaisissement
 
-À la clôture, le dessaisissement prend fin. Vous retrouvez la pleine liberté de gérer vos biens futurs : acheter, vendre, contracter, créer une nouvelle société — sauf si vous faites encore l'objet d'une interdiction de gérer, qui est une sanction distincte et indépendante de la clôture.
+Le dessaisissement frappe les biens qui composaient le patrimoine du failli au moment du jugement déclaratif et ceux dont la cause est antérieure à la faillite. Les biens et revenus acquis **postérieurement** au jugement échappent en revanche au dessaisissement et restent à la libre disposition du failli — c'est le principe du « fresh start » consacré par le Livre XX. Concrètement, dès le lendemain du jugement déclaratif, le failli peut **relancer une activité distincte** et différente, moyennant les régularisations administratives habituelles (inscription à la Banque-Carrefour des Entreprises, affiliation à une caisse d'assurances sociales, identification TVA ). Les revenus de cette nouvelle activité lui appartiennent intégralement.
 
-Les biens vendus pendant la procédure sont définitivement perdus. Seuls les biens que vous acquérez à partir de la clôture vous appartiennent librement. Pour reprendre une activité dans les meilleures conditions, lisez [reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md).
+À la clôture, le dessaisissement prend fin pour le solde du patrimoine antérieur. Le failli retrouve la pleine liberté de disposer sauf s'il fait encore l'objet d'une [interdiction de gérer](../faillis/interdiction.md), sanction distincte et indépendante de la clôture.
+
+Les biens vendus pendant la procédure ne reviennent évidemment pas au failli — ils ont été réalisés au profit de la masse des créanciers. Pour reprendre ou poursuivre une activité dans les meilleures conditions, lisez [reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md).
 
 ---
 
@@ -82,7 +82,7 @@ Les biens vendus pendant la procédure sont définitivement perdus. Seuls les bi
 
 L'effacement des dettes ne fait pas disparaître la trace de la faillite. Votre dossier reste consultable sur [REGSOL](https://www.regsol.be) pendant trente ans à compter du jugement de clôture. Les établissements financiers peuvent en tenir compte lors de l'examen de demandes de crédit, et certains partenaires commerciaux peuvent consulter REGSOL avant de contracter avec vous. Cela ne vous empêche pas de reconstruire, mais il faut en être conscient.
 
-Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'à son terme, indépendamment de la clôture. Elle peut toutefois être levée anticipativement sur requête, après avoir purgé un tiers de sa durée. Pour tout le détail, consultez [l'interdiction de gérer et comment l'éviter](../faillis/interdiction.md).
+Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'à son terme, indépendamment de la clôture. Elle peut toutefois être levée anticipativement sur requête. Pour tout le détail, consultez [l'interdiction de gérer et comment l'éviter](../faillis/interdiction.md).
 
 ---
 
@@ -92,7 +92,7 @@ Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'
 
 **La faillite disparaît-elle de REGSOL après la clôture ?** Non. Elle reste consultable trente ans. Les données sont supprimées après ce délai de prescription des archives.
 
-**Puis-je obtenir un crédit après la clôture ?** Théoriquement oui, mais en pratique les banques consultent REGSOL et la Centrale des Crédits de la Banque Nationale. Les organismes de microfinance comme MicroStart ou Crédal sont souvent mieux adaptés dans les premières années qui suivent la clôture.
+**Puis-je obtenir un crédit après la clôture ?** Théoriquement oui, mais en pratique les banques consultent REGSOL et la Centrale des Crédits de la Banque Nationale. Les organismes de microfinance comme MicroStart ou Crédal sont souvent mieux adaptés dans les premières années qui suivent la faillite.
 
 **L'effacement efface-t-il mon interdiction de gérer ?** Non. L'effacement porte sur les dettes. L'interdiction de gérer est une sanction distincte qui continue de courir jusqu'à son terme ou jusqu'à une levée anticipée prononcée par le tribunal.
 
