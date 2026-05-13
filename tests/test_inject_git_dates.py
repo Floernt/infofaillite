@@ -8,6 +8,7 @@ import pytest
 
 from scripts.inject_git_dates import git_last_modified_date
 from scripts.inject_git_dates import update_front_matter
+from scripts.inject_git_dates import process_file
 
 
 def test_git_last_modified_date_returns_iso_date_of_last_commit(
@@ -73,3 +74,44 @@ def test_update_front_matter_creates_block_when_absent() -> None:
     assert new_content.startswith("---\n")
     assert "updated:" in new_content
     assert "# Hello" in new_content
+
+
+def test_process_file_updates_markdown_with_git_date(
+    git_repo: Path, run_git
+) -> None:
+    md = git_repo / "page.md"
+    md.write_text("---\ntitle: Page\n---\n\n# Hello\n", encoding="utf-8")
+    run_git("add", "page.md")
+    run_git(
+        "commit",
+        "-m",
+        "init",
+        "--date=2025-03-15T10:00:00",
+        env={"GIT_COMMITTER_DATE": "2025-03-15T10:00:00"},
+    )
+
+    changed = process_file(md, repo_root=git_repo)
+
+    assert changed is True
+    content = md.read_text(encoding="utf-8")
+    assert "updated: '2025-03-15'" in content or "updated: 2025-03-15" in content
+
+
+def test_process_file_is_idempotent_on_second_run(
+    git_repo: Path, run_git
+) -> None:
+    md = git_repo / "page.md"
+    md.write_text("---\ntitle: Page\n---\n\n# Hello\n", encoding="utf-8")
+    run_git("add", "page.md")
+    run_git(
+        "commit",
+        "-m",
+        "init",
+        "--date=2025-03-15T10:00:00",
+        env={"GIT_COMMITTER_DATE": "2025-03-15T10:00:00"},
+    )
+
+    process_file(md, repo_root=git_repo)
+    changed = process_file(md, repo_root=git_repo)
+
+    assert changed is False

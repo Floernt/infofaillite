@@ -84,3 +84,16 @@ def _dump_yaml(data: dict) -> str:
         default_flow_style=False,
     )
     return buffer.getvalue()
+
+
+def process_file(file: Path, repo_root: Path) -> bool:
+    """Met à jour le front matter d'un fichier Markdown si nécessaire.
+
+    Retourne True si le fichier a été réécrit, False sinon.
+    """
+    updated = git_last_modified_date(file, repo_root=repo_root)
+    original = file.read_text(encoding="utf-8")
+    new_content, changed = update_front_matter(original, updated)
+    if changed:
+        file.write_text(new_content, encoding="utf-8")
+    return changed
