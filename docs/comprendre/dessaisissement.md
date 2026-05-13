@@ -56,7 +56,7 @@ Il est tenu d'exercer ces pouvoirs avec prudence et loyauté, en cherchant à ma
 
 ## La fin du dessaisissement
 
-Le dessaisissement prend fin avec le jugement de clôture de la faillite. À ce moment, vous retrouvez la pleine liberté de gérer vos biens futurs. Les biens vendus pendant la procédure sont définitivement perdus, mais vous repartez libéré de vos dettes grâce à [l'effacement automatique des dettes à la clôture](../faillis/effacement.md).
+Le dessaisissement prend fin avec le jugement de clôture de la faillite. À ce moment, vous retrouvez la pleine liberté de disposer du solde du patrimoine antérieur qui n'aurait pas été liquidé. Les biens réalisés par le curateur ont, eux, été affectés au paiement des créanciers et ne reviennent pas dans votre patrimoine — c'est la contrepartie de la procédure. Vous repartez libéré de vos dettes grâce à [l'effacement automatique des dettes à la clôture](../faillis/effacement.md), avec votre activité postérieure intacte et les biens et revenus acquis depuis le jugement déclaratif.
 
 ---
 

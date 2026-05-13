@@ -25,9 +25,9 @@ Dans les faillites restants, le curateur a pu vendre des actifs, encaisser des c
 
 ## Les effets du jugement de clôture
 
-Le jugement de clôture produit quatre effets simultanés.
+Le jugement de clôture produit trois effets simultanés.
 
-Il met fin à la faillite et publie cette fin au Moniteur belge ainsi que sur REGSOL dans les quinze jours. Il prononce la décharge du curateur, qui est libéré de son mandat et de sa responsabilité. Pour les personnes physiques, il efface automatiquement les dettes impayées sans qu'aucune démarche ne soit nécessaire. Et il lève le dessaisissement : le failli retrouve la pleine capacité de gérer ses biens futurs, de contracter librement et d'entreprendre à nouveau.
+Il met fin à la faillite et publie cette fin au Moniteur belge ainsi que sur REGSOL. Il prononce la décharge du curateur, qui est libéré de son mandat. Pour les personnes physiques, il efface automatiquement les dettes impayées sans qu'aucune démarche ne soit nécessaire. 
 
 ---
 
@@ -39,9 +39,9 @@ Prévu par l'article XX.173 du Code de droit économique, l'effacement s'appliqu
 
 ### Les causes de refus
 
-Le tribunal peut refuser totalement ou partiellement l'effacement si le failli a commis des fautes graves et caractérisées ayant contribué à la faillite. Les fautes les plus fréquentes sont l'absence ou la falsification de la comptabilité, la poursuite délibérée d'une activité manifestement déficitaire sans espoir raisonnable, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs au profit de proches. Les faillites répétées — deux, trois faillites successives — constituent également un motif de refus.
+Le tribunal peut refuser totalement ou partiellement l'effacement si le failli a commis des fautes graves et caractérisées ayant contribué à la faillite. Les fautes les plus fréquentes sont l'absence ou la falsification de la comptabilité, la poursuite délibérée d'une activité manifestement déficitaire sans espoir raisonnable, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs. Les faillites répétées — deux, trois faillites successives — constituent également un motif de refus.
 
-La demande de refus peut être formulée avant la clôture par le curateur, [le procureur du Roi](acteurs-secondaires.md#le-procureur-du-roi) ou un créancier impayé, ou soulevée d'office par le tribunal. Le parquet la dépose sous la forme d'une [requête en refus d'effacement](../faillis/effacement.md#la-requete-en-refus-deffacement) — c'est son arme procédurale principale dans les dossiers où une faute grave a contribué à la faillite. Après la clôture, le seul recours subsiste est la tierce opposition dans les trois mois qui suivent la publication du jugement.
+La demande de refus peut être formulée avant la clôture par le curateur, [le procureur du Roi](acteurs-secondaires.md#le-procureur-du-roi) ou un créancier impayé. Cette demande est déposée sous la forme d'une [requête en refus d'effacement](../faillis/effacement.md#la-requete-en-refus-deffacement). C'est l'arme procédurale principale dans les dossiers où une faute grave a contribué à la faillite. 
 
 ---
 
@@ -70,9 +70,11 @@ Le conjoint ou cohabitant légal du failli qui s'est porté caution pour ses det
 
 ## La fin du dessaisissement
 
-À la clôture, le dessaisissement prend fin. Vous retrouvez la pleine liberté de gérer vos biens futurs : acheter, vendre, contracter, créer une nouvelle société — sauf si vous faites encore l'objet d'une interdiction de gérer, qui est une sanction distincte et indépendante de la clôture.
+Le dessaisissement frappe les biens qui composaient le patrimoine du failli au moment du jugement déclaratif et ceux dont la cause est antérieure à la faillite. Les biens et revenus acquis **postérieurement** au jugement échappent en revanche au dessaisissement et restent à la libre disposition du failli — c'est le principe du « fresh start » consacré par le Livre XX. Concrètement, dès le lendemain du jugement déclaratif, le failli peut **relancer une activité distincte** et différente, moyennant les régularisations administratives habituelles (inscription à la Banque-Carrefour des Entreprises, affiliation à une caisse d'assurances sociales, identification TVA si applicable). Les revenus de cette nouvelle activité lui appartiennent intégralement.
 
-Les biens vendus pendant la procédure sont définitivement perdus. Seuls les biens que vous acquérez à partir de la clôture vous appartiennent librement. Pour reprendre une activité dans les meilleures conditions, lisez [reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md).
+À la clôture, le dessaisissement prend fin pour le solde du patrimoine antérieur. Le failli retrouve la pleine liberté de disposer de tout ce qui n'a pas été liquidé par le curateur — sauf s'il fait encore l'objet d'une [interdiction de gérer](../faillis/interdiction.md), sanction distincte et indépendante de la clôture.
+
+Les biens vendus pendant la procédure ne reviennent évidemment pas au failli — ils ont été réalisés au profit de la masse des créanciers. Pour reprendre ou poursuivre une activité dans les meilleures conditions, lisez [reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md).
 
 ---
 
