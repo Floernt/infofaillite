@@ -85,7 +85,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 **Faillite** — Procédure judiciaire collective organisant le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus faire face à ses engagements. Régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235).
 
-**Forclusion** — Perte définitive et irréversible d'un droit en raison du dépassement d'un délai légal impératif. La forclusion ne peut pas être régularisée après coup.
+**Forclusion** — Perte définitive et irréversible d'un droit en raison du dépassement d'un délai légal impératif. La forclusion ne peut pas être régularisée après coup. Pour la déclaration de créance dans une faillite, la forclusion intervient au dépôt du 3ᵉ procès-verbal de vérification (voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)).
 
 ---
 
