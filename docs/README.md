@@ -30,7 +30,7 @@ Le jugement de faillite déclenche des effets immédiats : vous êtes désaissi 
 Votre première priorité est de déclarer votre créance dans les trente jours suivant la publication du jugement au Moniteur belge. Sans cette déclaration, vous ne pouvez pas être payé, quelle que soit la validité de votre dette.
 
 !!! danger "Délai de 30 jours pour déclarer votre créance"
-    Le délai de trente jours court dès la publication du jugement de faillite au Moniteur belge — et non à partir du moment où vous en prenez connaissance. Passé un an, votre créance est définitivement perdue.
+    Le délai de trente jours court dès la publication du jugement de faillite au Moniteur belge — et non à partir du moment où vous en prenez connaissance. Une déclaration tardive reste recevable tant que le curateur n'a pas déposé le troisième procès-verbal de vérification (en pratique environ douze mois après le jugement), mais vous perdez le droit aux éventuelles répartitions provisoires. Au-delà, la créance est forclose.
 
 - [Déclarer votre créance dans les trente jours](creanciers/declarer-creance.md)
 - [Les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md)
