@@ -6,6 +6,10 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-05-13] edit | Format date français au pied de page
+
+Suite directe du commit `lastmod automatique`. Le pied de page affichait la date au format ISO brut (`2026-05-13`) ; il l'affiche désormais en français — « Dernière mise à jour : 13 mai 2026 ». Géré dans [overrides/partials/source-file.html](overrides/partials/source-file.html) via une macro Jinja qui mappe les mois (compatible MiniJinja). Le sitemap garde le format ISO requis par sitemap.org.
+
 ## [2026-05-13] config | lastmod automatique dérivé de Git
 
 Ajout d'une chaîne pré-build qui injecte la date du dernier commit Git dans le front matter de chaque page (`updated:`), avec deux templates Zensical overridés :
