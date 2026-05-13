@@ -46,7 +46,7 @@ Effectuer l'aveu dans les délais démontre la bonne foi du débiteur, limite l'
 
 ### La citation par un créancier
 
-Un créancier dont la créance est certaine, liquide et exigible peut citer le débiteur devant le tribunal de l'entreprise pour faire prononcer la faillite. Le débiteur peut se défendre en prouvant qu'il n'est pas en état de faillite, en payant la créance avant le jugement, ou en obtenant un délai de paiement.
+Un créancier dont la créance est certaine, liquide et exigible peut citer le débiteur devant le tribunal de l'entreprise pour faire prononcer la faillite. En pratique, cette voie n'est utilisée que lorsque l'exécution forcée individuelle s'est révélée **inefficace ou inopérante** — saisie mobilière qui ne couvre pas la créance, saisie immobilière qui se heurte à d'autres rangs prioritaires, débiteur insolvable au sens où aucune voie d'exécution ne permet plus d'obtenir paiement. La citation en faillite devient alors le moyen d'obtenir un traitement collectif et égalitaire entre tous les créanciers, à défaut de pouvoir être désintéressé individuellement. Le débiteur peut se défendre en prouvant qu'il n'est pas en état de faillite, en payant la créance avant le jugement, ou en obtenant un délai de paiement.
 
 ### La déclaration d'office par le tribunal
 
