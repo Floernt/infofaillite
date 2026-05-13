@@ -34,6 +34,7 @@ Site documentaire **Guide de la faillite en Belgique** (infofaillite.be), basé 
 - Modifier les sources dans `docs/`, vérifier au besoin avec un build local Zensical.
 - Les commits récents montrent un style de message court et descriptif en français (« Refonte éditoriale complète… », « SEO & GEO », « analytics »). Suivre ce style.
 - **Toujours journaliser** les modifications de fond (ingest, refonte, passe SEO, lint, etc.) dans [log.md](log.md) avec le préfixe `## [YYYY-MM-DD] <type> | <titre>`.
+- **Avant chaque build** (ou avant de commiter une modification de contenu) : lancer `python scripts/inject_git_dates.py` pour rafraîchir la clé `updated:` dans le front matter. Cette date alimente `<lastmod>` du sitemap et le pied de page « Dernière mise à jour » côté lecteur. Le script est idempotent et ne touche que les fichiers dont la date a changé. Mode `--check` disponible pour CI (exit 1 si des fichiers nécessiteraient une mise à jour).
 
 ## Historique récent
 

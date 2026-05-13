@@ -1,8 +1,10 @@
 ---
-description: La clôture de la faillite - Types de clôture, effacement automatique des dettes pour personnes physiques, décharge de caution, fin du dessaisissement
-keywords: clôture faillite belgique, fin faillite, effacement dettes faillite, insuffisance actif, décharge caution faillite, jugement clôture
+description: La clôture de la faillite - Types de clôture, effacement automatique
+  des dettes pour personnes physiques, décharge de caution, fin du dessaisissement
+keywords: clôture faillite belgique, fin faillite, effacement dettes faillite, insuffisance
+  actif, décharge caution faillite, jugement clôture
+updated: '2026-03-06'
 ---
-
 # La clôture de la faillite
 
 La clôture marque la fin officielle de la procédure de faillite. Elle intervient une fois que les actifs ont été liquidés et les créanciers payés — ou une fois qu'il est établi qu'il n'existe aucun actif suffisant pour couvrir les frais de la procédure. Pour les personnes physiques, la clôture déclenche l'effacement automatique des dettes impayées et met fin au dessaisissement.

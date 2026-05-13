@@ -2,8 +2,8 @@
 title: lastmod automatique dérivé de Git
 date: 2026-05-13
 status: draft
+updated: '2026-05-13'
 ---
-
 # Spec — `lastmod` automatique dérivé de Git
 
 ## Contexte

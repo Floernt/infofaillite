@@ -1,8 +1,10 @@
 ---
-description: Le curateur et le juge-commissaire dans la faillite - Rôles, pouvoirs, obligations et rémunération des acteurs principaux de la procédure
-keywords: curateur faillite belgique, juge-commissaire faillite, rôle curateur, pouvoirs curateur, acteurs faillite, avocat faillite
+description: Le curateur et le juge-commissaire dans la faillite - Rôles, pouvoirs,
+  obligations et rémunération des acteurs principaux de la procédure
+keywords: curateur faillite belgique, juge-commissaire faillite, rôle curateur, pouvoirs
+  curateur, acteurs faillite, avocat faillite
+updated: '2026-05-13'
 ---
-
 # Le curateur et le juge-commissaire
 
 Dans une procédure de faillite, deux acteurs jouent un rôle central au quotidien : le curateur, qui gère concrètement la faillite et la vente des actifs, et le juge-commissaire, qui surveille son travail et protège les droits de toutes les parties. Le tribunal de l'entreprise, le procureur du Roi, le failli et les créanciers complètent le tableau — ils sont présentés dans [les autres acteurs de la faillite](acteurs-secondaires.md).

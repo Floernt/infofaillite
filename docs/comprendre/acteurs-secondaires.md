@@ -1,8 +1,10 @@
 ---
-description: Le tribunal de l'entreprise, le procureur du Roi, le failli et les créanciers dans la procédure de faillite - Rôles et droits
-keywords: tribunal entreprise faillite, procureur roi faillite, failli obligations droits, créanciers faillite catégories, fonds fermeture entreprises
+description: Le tribunal de l'entreprise, le procureur du Roi, le failli et les créanciers
+  dans la procédure de faillite - Rôles et droits
+keywords: tribunal entreprise faillite, procureur roi faillite, failli obligations
+  droits, créanciers faillite catégories, fonds fermeture entreprises
+updated: '2026-03-06'
 ---
-
 # Les autres acteurs de la faillite
 
 La faillite mobilise bien plus que le curateur et le juge-commissaire. Le tribunal de l'entreprise en est l'autorité souveraine, le procureur du Roi en surveille la dimension pénale, et les créanciers — réunis derrière leur curateur — sont les bénéficiaires ultimes de la liquidation. Pour un aperçu global de tous les intervenants et de leurs interactions, consultez d'abord [les acteurs principaux de la faillite : curateur et juge-commissaire](acteurs.md).

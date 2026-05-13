@@ -1,0 +1,27 @@
+{#-
+  Override du partial source-file de Zensical.
+  Ajoute le support de page.meta.updated (injecté par
+  scripts/inject_git_dates.py) en plus de git_revision_date_localized.
+-#}
+{% macro render_updated(date) %}
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="{{ lang.t('source.file.date.updated') }}">
+      {% include ".icons/material/clock-edit-outline.svg" %}
+    </span>
+    {{ date }}
+  </span>
+{% endmacro %}
+{% if page.meta %}
+  {% if page.meta.git_revision_date_localized %}
+    {% set updated = page.meta.git_revision_date_localized %}
+  {% elif page.meta.updated %}
+    {% set updated = page.meta.updated %}
+  {% elif page.meta.revision_date %}
+    {% set updated = page.meta.revision_date %}
+  {% endif %}
+{% endif %}
+{% if updated %}
+  <aside class="md-source-file">
+    {{ render_updated(updated) }}
+  </aside>
+{% endif %}

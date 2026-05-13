@@ -1,8 +1,10 @@
 ---
-description: Les sûretés et cautions dans la faillite - Hypothèques, gages, privilèges, cautions personnelles, décharge automatique et délais de déclaration
-keywords: hypothèque faillite belgique, gage faillite, caution faillite décharge, sûreté réelle faillite, privilège créancier faillite, délai 3 mois caution
+description: Les sûretés et cautions dans la faillite - Hypothèques, gages, privilèges,
+  cautions personnelles, décharge automatique et délais de déclaration
+keywords: hypothèque faillite belgique, gage faillite, caution faillite décharge,
+  sûreté réelle faillite, privilège créancier faillite, délai 3 mois caution
+updated: '2026-03-06'
 ---
-
 # Les sûretés et cautions dans la faillite
 
 Si votre créance est garantie par une sûreté réelle ou personnelle — hypothèque, gage, privilège ou caution —, vous bénéficiez d'un traitement préférentiel dans la procédure de faillite. Mais ces droits ne s'appliquent que si vous les déclarez correctement et dans les délais. Cette page couvre l'ensemble des sûretés et leur régime dans la faillite.

@@ -1,8 +1,11 @@
 ---
-description: Les alternatives à la faillite en Belgique - Réorganisation judiciaire, liquidation volontaire, dissolution judiciaire ASBL, négociation amiable - Comparaison et choix
-keywords: éviter faillite belgique, réorganisation judiciaire vs faillite, liquidation volontaire belgique, alternatives faillite, prévention insolvabilité belgique
+description: Les alternatives à la faillite en Belgique - Réorganisation judiciaire,
+  liquidation volontaire, dissolution judiciaire ASBL, négociation amiable - Comparaison
+  et choix
+keywords: éviter faillite belgique, réorganisation judiciaire vs faillite, liquidation
+  volontaire belgique, alternatives faillite, prévention insolvabilité belgique
+updated: '2026-05-13'
 ---
-
 # Les procédures alternatives à la faillite
 
 La faillite n'est pas la seule issue pour une entreprise en difficulté. Selon le stade des difficultés, le type de structure juridique et les objectifs poursuivis, plusieurs alternatives existent. Certaines permettent de sauver l'activité, d'autres d'organiser une liquidation ordonnée sans les contraintes de la procédure judiciaire collective. Cette page vous aide à identifier la procédure la mieux adaptée à votre situation.

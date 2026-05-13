@@ -1,8 +1,10 @@
 ---
-description: La vérification des créances dans la faillite - Les trois procès-verbaux, comment le curateur examine votre créance, admission et réserve
-keywords: vérification créance faillite, procès verbal créance faillite, admission créance faillite belgique, réserve créance faillite, REGSOL créances
+description: La vérification des créances dans la faillite - Les trois procès-verbaux,
+  comment le curateur examine votre créance, admission et réserve
+keywords: vérification créance faillite, procès verbal créance faillite, admission
+  créance faillite belgique, réserve créance faillite, REGSOL créances
+updated: '2026-03-06'
 ---
-
 # La vérification des créances et les procès-verbaux
 
 Après avoir déclaré votre créance, vous entrez dans la phase de vérification. Le curateur examine chaque créance déclarée lors de trois procès-verbaux successifs, en vérifiant son existence réelle, son montant exact et son rang de priorité. Cette page couvre le déroulement de ces procès-verbaux et les décisions possibles. Pour tout ce qui concerne la contestation, consultez [contester une créance admise dans la faillite](contester-creance.md).

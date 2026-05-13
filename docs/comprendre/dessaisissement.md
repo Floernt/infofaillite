@@ -1,8 +1,10 @@
 ---
-description: Le dessaisissement en faillite - Perte du droit de gérer ses biens, composition de la masse faillie, biens insaisissables, revendications des tiers
-keywords: dessaisissement faillite belgique, masse faillie, biens insaisissables faillite, curateur gestion biens, revendication propriété faillite
+description: Le dessaisissement en faillite - Perte du droit de gérer ses biens, composition
+  de la masse faillie, biens insaisissables, revendications des tiers
+keywords: dessaisissement faillite belgique, masse faillie, biens insaisissables faillite,
+  curateur gestion biens, revendication propriété faillite
+updated: '2026-03-06'
 ---
-
 # Le dessaisissement
 
 Dès que le tribunal prononce le jugement déclaratif de faillite, le failli perd de plein droit l'administration et la disposition de l'ensemble de ses biens. Ce mécanisme, prévu par l'article XX.101 du Code de droit économique, s'appelle le dessaisissement. Il ne signifie pas que vous perdez la propriété de vos biens : vous en restez juridiquement propriétaire. Mais c'est le curateur qui les gère désormais, les vend et encaisse les créances, dans l'intérêt collectif des créanciers.

@@ -1,8 +1,10 @@
 ---
-description: Vérification des créances, liquidation des actifs et clôture de la faillite - Phases 4 et 5 de la procédure de faillite en Belgique
-keywords: vérification créances faillite, liquidation actifs faillite, clôture faillite, procès-verbal créances, dividendes faillite belgique
+description: Vérification des créances, liquidation des actifs et clôture de la faillite
+  - Phases 4 et 5 de la procédure de faillite en Belgique
+keywords: vérification créances faillite, liquidation actifs faillite, clôture faillite,
+  procès-verbal créances, dividendes faillite belgique
+updated: '2026-03-06'
 ---
-
 # La vérification des créances, la liquidation et la clôture
 
 La deuxième moitié de la procédure de faillite est consacrée à l'organisation du passif et à la réalisation du patrimoine. Après l'inventaire et les déclarations de créances — couverts dans [le déroulement des phases 1 à 3](deroulement-phase-1-3.md) —, le curateur vérifie chaque créance déclarée, vend les actifs et répartit les fonds entre les créanciers selon leur rang de priorité.

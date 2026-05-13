@@ -1,0 +1,18 @@
+{#-
+  Override du sitemap par défaut de Zensical.
+  Ajoute <lastmod> quand page.meta.updated est défini par
+  scripts/inject_git_dates.py.
+-#}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- for page in pages -%}
+    {%- if page.canonical_url %}
+      <url>
+        <loc>{{ page.canonical_url }}</loc>
+        {%- if page.meta and page.meta.updated %}
+        <lastmod>{{ page.meta.updated }}</lastmod>
+        {%- endif %}
+      </url>
+    {%- endif -%}
+  {%- endfor %}
+</urlset>

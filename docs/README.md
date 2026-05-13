@@ -1,8 +1,11 @@
 ---
-description: Guide complet et accessible sur la faillite en Belgique - Information pratique pour faillis, dirigeants et créanciers - Livre XX Code de droit économique
-keywords: faillite belgique, insolvabilité belgique, faillis droits obligations, créanciers faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance, tribunal entreprise
+description: Guide complet et accessible sur la faillite en Belgique - Information
+  pratique pour faillis, dirigeants et créanciers - Livre XX Code de droit économique
+keywords: faillite belgique, insolvabilité belgique, faillis droits obligations, créanciers
+  faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance,
+  tribunal entreprise
+updated: '2026-05-13'
 ---
-
 # Guide de la faillite en Belgique
 
 Ce guide explique la procédure de faillite belge en termes clairs et pratiques, fondés sur le Livre XX du Code de droit économique. Il s'adresse aux faillis et dirigeants qui doivent traverser la procédure, aux créanciers qui veulent défendre leurs droits, et à toute personne qui cherche à comprendre le fonctionnement de des procédures d'insolvabilité (faillite) en droit belge.

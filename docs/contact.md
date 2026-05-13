@@ -1,8 +1,10 @@
 ---
-description: Contacter Info-Faillite - Poser une question sur la procédure de faillite en Belgique, signaler une imprécision, suggérer un sujet
-keywords: contact infofaillite, question faillite belgique, signaler erreur guide faillite, contact Florian Ernotte
+description: Contacter Info-Faillite - Poser une question sur la procédure de faillite
+  en Belgique, signaler une imprécision, suggérer un sujet
+keywords: contact infofaillite, question faillite belgique, signaler erreur guide
+  faillite, contact Florian Ernotte
+updated: '2026-05-12'
 ---
-
 # Contact
 
 Ce guide est rédigé et maintenu par **Florian Ernotte**, avocat, praticien du droit de l'insolvabilité. Vous pouvez écrire pour :

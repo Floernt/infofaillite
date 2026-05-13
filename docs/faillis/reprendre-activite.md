@@ -1,8 +1,10 @@
 ---
-description: Reprendre une activité après faillite - Droits, restrictions, droit passerelle indépendants, nouvelle entreprise
-keywords: travailler après faillite, reprendre activité faillite, droit passerelle belgique, créer entreprise après faillite, salarié failli
+description: Reprendre une activité après faillite - Droits, restrictions, droit passerelle
+  indépendants, nouvelle entreprise
+keywords: travailler après faillite, reprendre activité faillite, droit passerelle
+  belgique, créer entreprise après faillite, salarié failli
+updated: '2026-03-06'
 ---
-
 # Reprendre une activité après votre faillite
 
 La faillite ne vous interdit pas de travailler. Dès le jugement déclaratif, vous pouvez chercher un emploi salarié, démarrer une nouvelle activité indépendante ou créer une nouvelle société — sauf si vous faites l'objet d'une interdiction de gérer. Vos revenus futurs vous appartiennent entièrement et ne tombent pas dans la masse faillie.
