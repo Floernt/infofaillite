@@ -1,8 +1,10 @@
 ---
-description: L'effacement automatique des dettes après faillite - Conditions, portée, exceptions et refus
-keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes graves faillite, contestation effacement
+description: L'effacement automatique des dettes après faillite - Conditions, portée,
+  exceptions et refus
+keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
+  graves faillite, contestation effacement
+updated: '2026-03-06'
 ---
-
 # L'effacement des dettes
 
 Pour les personnes physiques déclarées en faillite, l'effacement des dettes est l'un des aspects les plus importants de la procédure. Prévu par l'article XX.173 du Code de droit économique, il offre une véritable seconde chance : à la clôture de la faillite, les dettes impayées sont effacées automatiquement, sans démarche de votre part.

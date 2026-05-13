@@ -1,8 +1,10 @@
 ---
-description: Le déroulement de la faillite de A à Z - Jugement déclaratif, descente de faillite, inventaire et déclarations de créances (phases 1 à 3)
-keywords: déroulement faillite belgique, jugement déclaratif faillite, descente faillite, inventaire faillite, déclarer créance délai, phases faillite
+description: Le déroulement de la faillite de A à Z - Jugement déclaratif, descente
+  de faillite, inventaire et déclarations de créances (phases 1 à 3)
+keywords: déroulement faillite belgique, jugement déclaratif faillite, descente faillite,
+  inventaire faillite, déclarer créance délai, phases faillite
+updated: '2026-03-06'
 ---
-
 # Le déroulement de la faillite : du jugement à l'inventaire
 
 La procédure de faillite se déroule en cinq grandes phases successives, du jugement déclaratif jusqu'à la clôture. Cette page couvre les trois premières — le jugement, les mesures urgentes, et l'inventaire avec les déclarations de créances. Les phases de vérification des créances, de liquidation et de clôture sont décrites dans [la vérification des créances, la liquidation et la clôture](deroulement-phase-4-5.md).

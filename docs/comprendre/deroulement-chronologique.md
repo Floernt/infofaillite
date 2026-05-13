@@ -1,8 +1,10 @@
 ---
-description: Déroulement chronologique de la faillite en Belgique - Vue d'ensemble des cinq phases et délais clés
-keywords: déroulement faillite belgique, phases faillite, timeline faillite, étapes faillite, procédure faillite chronologie
+description: Déroulement chronologique de la faillite en Belgique - Vue d'ensemble
+  des cinq phases et délais clés
+keywords: déroulement faillite belgique, phases faillite, timeline faillite, étapes
+  faillite, procédure faillite chronologie
+updated: '2026-03-06'
 ---
-
 # Le déroulement chronologique de la faillite
 
 La procédure de faillite est organisée en cinq phases successives. Pour faciliter la consultation, le déroulement a été découpé en deux pages détaillées :

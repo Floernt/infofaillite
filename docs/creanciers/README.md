@@ -1,8 +1,10 @@
 ---
-description: Guide complet pour les créanciers d'une faillite en Belgique - Déclarer votre créance, comprendre la vérification, recevoir votre dividende
-keywords: créancier faillite belgique, déclarer créance faillite, délai 30 jours créance, dividende faillite, rang créanciers belgique
+description: Guide complet pour les créanciers d'une faillite en Belgique - Déclarer
+  votre créance, comprendre la vérification, recevoir votre dividende
+keywords: créancier faillite belgique, déclarer créance faillite, délai 30 jours créance,
+  dividende faillite, rang créanciers belgique
+updated: '2026-03-06'
 ---
-
 # Je suis créancier d'une entreprise en faillite
 
 Votre client, locataire ou partenaire commercial a été déclaré en faillite ? Vous êtes désormais créancier de la masse faillie. Cette section vous explique concrètement les démarches à effectuer, les délais à respecter et les droits dont vous disposez.

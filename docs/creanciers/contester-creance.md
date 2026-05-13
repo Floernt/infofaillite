@@ -1,8 +1,10 @@
 ---
-description: Contester une créance dans la faillite - Défendre votre créance contestée par le curateur, former un contredit contre une créance admise, délais et procédure
-keywords: contester créance faillite belgique, contredit faillite, défense créance contestée, procédure contestation créancier, délai 1 mois contredit faillite
+description: Contester une créance dans la faillite - Défendre votre créance contestée
+  par le curateur, former un contredit contre une créance admise, délais et procédure
+keywords: contester créance faillite belgique, contredit faillite, défense créance
+  contestée, procédure contestation créancier, délai 1 mois contredit faillite
+updated: '2026-03-06'
 ---
-
 # Contester une créance dans la faillite
 
 Dans la procédure de faillite, deux types de contestations de créances coexistent : la défense de votre créance lorsque le curateur la conteste, et le contredit lorsque vous souhaitez vous opposer à l'admission d'une créance d'un autre créancier. Cette page couvre ces deux mécanismes.

@@ -1,8 +1,10 @@
 ---
-description: Glossaire de la faillite en Belgique - Définitions simples de tous les termes juridiques de la procédure de faillite et d'insolvabilité
-keywords: glossaire faillite, termes juridiques faillite belgique, définitions faillite, vocabulaire insolvabilité belgique
+description: Glossaire de la faillite en Belgique - Définitions simples de tous les
+  termes juridiques de la procédure de faillite et d'insolvabilité
+keywords: glossaire faillite, termes juridiques faillite belgique, définitions faillite,
+  vocabulaire insolvabilité belgique
+updated: '2026-03-06'
 ---
-
 # Glossaire de la faillite
 
 Tous les termes juridiques de la procédure de faillite expliqués simplement, classés par ordre alphabétique.

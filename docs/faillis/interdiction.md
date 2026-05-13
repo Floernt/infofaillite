@@ -1,8 +1,10 @@
 ---
-description: L'interdiction de gérer en Belgique - Causes, durée, conséquences, comment l'éviter, registre JustBan
-keywords: interdiction de gérer belgique, interdiction gérer faillite, JustBan, fautes graves faillite, durée interdiction, contestation interdiction
+description: L'interdiction de gérer en Belgique - Causes, durée, conséquences, comment
+  l'éviter, registre JustBan
+keywords: interdiction de gérer belgique, interdiction gérer faillite, JustBan, fautes
+  graves faillite, durée interdiction, contestation interdiction
+updated: '2026-03-06'
 ---
-
 # L'interdiction de gérer
 
 L'interdiction de gérer est une sanction civile prononcée par le tribunal de l'entreprise à l'encontre de personnes ayant commis des fautes graves dans la gestion de leur entreprise ou n'ayant pas respecté leurs obligations légales pendant la faillite. Elle vous empêche de créer ou diriger une société pendant une durée déterminée. C'est une mesure sérieuse, mais largement évitable si vous collaborez correctement tout au long de la procédure.

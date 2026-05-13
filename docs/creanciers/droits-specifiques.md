@@ -1,8 +1,11 @@
 ---
-description: Vos droits dans la procédure de faillite en tant que créancier - Information, contestation, assemblée générale, recours, actions en responsabilité contre les dirigeants
-keywords: droits créanciers faillite, REGSOL consultation créancier, assemblée créanciers faillite, action responsabilité dirigeants, contester honoraires curateur belgique
+description: Vos droits dans la procédure de faillite en tant que créancier - Information,
+  contestation, assemblée générale, recours, actions en responsabilité contre les
+  dirigeants
+keywords: droits créanciers faillite, REGSOL consultation créancier, assemblée créanciers
+  faillite, action responsabilité dirigeants, contester honoraires curateur belgique
+updated: '2026-03-06'
 ---
-
 # Vos droits dans la procédure de faillite
 
 La procédure de faillite n'est pas une boîte noire dans laquelle vous déposez votre créance et attendez passivement. En tant que créancier, vous disposez de droits réels : consulter le dossier, contester des décisions, surveiller le curateur, participer aux assemblées, et même engager des actions en justice lorsque vos intérêts sont lésés.

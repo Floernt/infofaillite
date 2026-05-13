@@ -1,8 +1,12 @@
 ---
-description: Les droits des créanciers selon leur catégorie - Salarié, bailleur, banque, fournisseur, ONSS, administration fiscale - Ce que la loi prévoit pour chaque type de créancier
-keywords: créancier salarié faillite, bailleur commercial faillite, banque hypothèque faillite, fournisseur chirographaire faillite, ONSS privilège faillite, administration fiscale faillite
+description: Les droits des créanciers selon leur catégorie - Salarié, bailleur, banque,
+  fournisseur, ONSS, administration fiscale - Ce que la loi prévoit pour chaque type
+  de créancier
+keywords: créancier salarié faillite, bailleur commercial faillite, banque hypothèque
+  faillite, fournisseur chirographaire faillite, ONSS privilège faillite, administration
+  fiscale faillite
+updated: '2026-03-06'
 ---
-
 # Les droits des créanciers selon leur catégorie
 
 Tous les créanciers ne sont pas dans la même situation face à une faillite. La loi belge établit des règles spécifiques selon le type de créancier — règles qui déterminent non seulement votre rang dans la cascade de paiement, mais aussi vos droits procéduraux, vos garanties et vos chances réelles de récupération.

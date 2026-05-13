@@ -1,8 +1,10 @@
 ---
-description: Ressources officielles et contacts utiles pour la faillite en Belgique - REGSOL, tribunaux, SPF Justice, organismes d'aide, textes légaux
-keywords: ressources faillite belgique, REGSOL, tribunaux entreprise belgique, SPF Justice faillite, aide faillite indépendant, Fonds Fermeture Entreprises
+description: Ressources officielles et contacts utiles pour la faillite en Belgique
+  - REGSOL, tribunaux, SPF Justice, organismes d'aide, textes légaux
+keywords: ressources faillite belgique, REGSOL, tribunaux entreprise belgique, SPF
+  Justice faillite, aide faillite indépendant, Fonds Fermeture Entreprises
+updated: '2026-05-13'
 ---
-
 # Ressources et organismes utiles
 
 Cette page rassemble les liens officiels, contacts et organismes d'aide utiles pour naviguer dans une procédure de faillite en Belgique — que vous soyez failli ou créancier.

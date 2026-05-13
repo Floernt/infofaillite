@@ -1,8 +1,10 @@
 ---
-description: FAQ Créanciers - Questions fréquentes des créanciers de faillite - Réponses pratiques et claires
-keywords: questions créanciers faillite, faq créancier belgique, délai 30 jours, récupérer argent faillite, REGSOL créanciers, dividende faillite
+description: FAQ Créanciers - Questions fréquentes des créanciers de faillite - Réponses
+  pratiques et claires
+keywords: questions créanciers faillite, faq créancier belgique, délai 30 jours, récupérer
+  argent faillite, REGSOL créanciers, dividende faillite
+updated: '2026-03-06'
 ---
-
 # Questions fréquentes : je suis créancier
 
 Vous êtes créancier d'une entreprise déclarée en faillite et vous vous interrogez sur vos droits, vos démarches ou vos chances de récupérer vos fonds. Cette page rassemble les questions que nous recevons le plus souvent, avec des réponses claires et directement actionnables.

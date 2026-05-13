@@ -1,8 +1,10 @@
 ---
-description: La liquidation des actifs en faillite - Vente du mobilier et des immeubles, going concern, actions en responsabilité des dirigeants, revendications des tiers
-keywords: liquidation actifs faillite, vente actifs faillite belgique, going concern faillite, comblement passif, période suspecte nullité, revendication tiers faillite
+description: La liquidation des actifs en faillite - Vente du mobilier et des immeubles,
+  going concern, actions en responsabilité des dirigeants, revendications des tiers
+keywords: liquidation actifs faillite, vente actifs faillite belgique, going concern
+  faillite, comblement passif, période suspecte nullité, revendication tiers faillite
+updated: '2026-03-06'
 ---
-
 # La liquidation des actifs et la réalisation du patrimoine
 
 La liquidation est le cœur opérationnel de la procédure de faillite. Une fois l'inventaire dressé et les créances déclarées, le curateur vend l'ensemble des actifs de la masse pour constituer les fonds qui seront distribués aux créanciers. Son objectif légal est de maximiser le produit de la liquidation — vendre au meilleur prix dans un délai raisonnable, sans brader ni s'éterniser.

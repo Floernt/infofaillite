@@ -1,3 +1,7 @@
+---
+updated: '2026-05-12'
+---
+
 # Table des matières
 
 * [Accueil](README.md)

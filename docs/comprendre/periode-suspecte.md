@@ -1,8 +1,10 @@
 ---
-description: La période suspecte en faillite belgique - Nullités de plein droit et facultatives, délais d'action, conséquences pour les tiers et les dirigeants
-keywords: période suspecte faillite belgique, nullité actes faillite, paiements préférentiels annulation, actes suspects faillite, protection créanciers faillite
+description: La période suspecte en faillite belgique - Nullités de plein droit et
+  facultatives, délais d'action, conséquences pour les tiers et les dirigeants
+keywords: période suspecte faillite belgique, nullité actes faillite, paiements préférentiels
+  annulation, actes suspects faillite, protection créanciers faillite
+updated: '2026-03-06'
 ---
-
 # La période suspecte et les nullités en faillite
 
 La période suspecte est l'une des armes les plus puissantes dont dispose le curateur pour protéger la masse des créanciers. Elle désigne la période qui précède le jugement déclaratif de faillite, pendant laquelle certains actes posés par le failli peuvent être annulés si l'objectif était de favoriser certains créanciers ou de soustraire des actifs aux créanciers collectifs. Ces mécanismes sont prévus par les articles XX.111 à XX.119 du Code de droit économique.

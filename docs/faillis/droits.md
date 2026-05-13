@@ -1,8 +1,10 @@
 ---
-description: Droits du failli - Être entendu, secours alimentaire, contester créances, travailler, ouvrir courrier
-keywords: droits failli, secours alimentaire, être entendu, contester créances, travailler faillite, effets personnels
+description: Droits du failli - Être entendu, secours alimentaire, contester créances,
+  travailler, ouvrir courrier
+keywords: droits failli, secours alimentaire, être entendu, contester créances, travailler
+  faillite, effets personnels
+updated: '2026-03-06'
 ---
-
 # Vos droits pendant la procédure de faillite
 
 La faillite ne vous prive pas de tous vos droits. Même dessaisi de la gestion de vos biens, vous conservez un ensemble de droits légaux que vous pouvez — et devez — exercer activement. Les connaître vous permet de participer utilement à la procédure, de protéger vos intérêts et de préparer votre rebond.

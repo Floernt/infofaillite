@@ -1,8 +1,10 @@
 ---
-description: À propos d'Info-Faillite - Guide de référence sur la faillite en Belgique par Florian Ernotte, basé sur le Vademecum du Tribunal d'Entreprise de Liège
-keywords: à propos infofaillite, Florian Ernotte, vademecum tribunal entreprise liège, guide faillite belgique, sources légales faillite
+description: À propos d'Info-Faillite - Guide de référence sur la faillite en Belgique
+  par Florian Ernotte, basé sur le Vademecum du Tribunal d'Entreprise de Liège
+keywords: à propos infofaillite, Florian Ernotte, vademecum tribunal entreprise liège,
+  guide faillite belgique, sources légales faillite
+updated: '2026-05-13'
 ---
-
 # À propos
 
 ## Ce guide

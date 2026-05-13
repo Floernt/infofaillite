@@ -1,8 +1,10 @@
 ---
-description: Obligations légales du failli - Documents à fournir, convocations, inventaire, collaboration avec le curateur
-keywords: obligations failli, documents faillite, inventaire, descente faillite, collaboration curateur, banqueroute
+description: Obligations légales du failli - Documents à fournir, convocations, inventaire,
+  collaboration avec le curateur
+keywords: obligations failli, documents faillite, inventaire, descente faillite, collaboration
+  curateur, banqueroute
+updated: '2026-03-06'
 ---
-
 # Vos obligations légales en tant que failli
 
 Dès le prononcé du jugement déclaratif, vous êtes soumis à un ensemble d'obligations légales précises, définies par l'article XX.146 du Code de droit économique. Ces obligations ne sont pas facultatives : les manquer expose à des sanctions qui peuvent compromettre votre droit à l'effacement des dettes et votre capacité à exercer une activité à l'avenir.

@@ -1,8 +1,10 @@
 ---
-description: Le paiement des dividendes aux créanciers dans la faillite - Ordre de priorité, calcul du dividende, Caisse des Dépôts et Consignations, délais de paiement
-keywords: dividende faillite belgique, paiement créanciers faillite, ordre paiement faillite, CDC caisse dépôts faillite, chirographaire privilégié dividende
+description: Le paiement des dividendes aux créanciers dans la faillite - Ordre de
+  priorité, calcul du dividende, Caisse des Dépôts et Consignations, délais de paiement
+keywords: dividende faillite belgique, paiement créanciers faillite, ordre paiement
+  faillite, CDC caisse dépôts faillite, chirographaire privilégié dividende
+updated: '2026-03-06'
 ---
-
 # Le paiement des dividendes aux créanciers
 
 À la clôture de la faillite, le produit de la liquidation des actifs est distribué aux créanciers selon un ordre de priorité strict défini par la loi. Votre dividende — la part qui vous revient — dépend de votre rang de priorité et du montant des actifs disponibles après déduction des frais de procédure.

@@ -1,8 +1,10 @@
 ---
-description: Vue d'ensemble pour les personnes en faillite - Ce que cela signifie, vos biens, durée de la procédure
-keywords: failli belgique, dessaisissement, biens faillite, durée faillite, que faire faillite
+description: Vue d'ensemble pour les personnes en faillite - Ce que cela signifie,
+  vos biens, durée de la procédure
+keywords: failli belgique, dessaisissement, biens faillite, durée faillite, que faire
+  faillite
+updated: '2026-03-06'
 ---
-
 # Je suis en faillite : par où commencer ?
 
 Le jugement vient d'être prononcé. Vous avez probablement de nombreuses questions : qu'est-ce que cela change concrètement ? Que va-t-il se passer ? Que pouvez-vous encore faire ? Ce guide vous explique l'essentiel pour comprendre votre situation et prendre les bonnes décisions dès maintenant.

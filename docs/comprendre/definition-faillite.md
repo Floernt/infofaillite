@@ -1,8 +1,10 @@
 ---
-description: Qu'est-ce qu'une faillite en Belgique - Définition, conditions légales, qui peut être déclaré failli, effets immédiats et objectifs de la procédure
-keywords: définition faillite belgique, état de faillite, cessation paiements, ébranlement de crédit, qui peut être failli, tribunal entreprise faillite
+description: Qu'est-ce qu'une faillite en Belgique - Définition, conditions légales,
+  qui peut être déclaré failli, effets immédiats et objectifs de la procédure
+keywords: définition faillite belgique, état de faillite, cessation paiements, ébranlement
+  de crédit, qui peut être failli, tribunal entreprise faillite
+updated: '2026-03-06'
 ---
-
 # Qu'est-ce qu'une faillite ?
 
 La faillite est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus faire face à ses obligations. Elle est régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235), entré en vigueur le 1er mai 2018. Sous le contrôle du tribunal de l'entreprise, un curateur désigné par le tribunal vend les biens du failli, paie les créanciers selon un ordre légal strict, et permet aux personnes physiques d'effacer automatiquement leurs dettes impayées à la clôture.
