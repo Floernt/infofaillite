@@ -13,7 +13,7 @@ Vous êtes créancier d'une entreprise déclarée en faillite et vous vous inter
 
 ## J'ai manqué le délai de 30 jours. Puis-je encore déclarer ?
 
-Oui, vous pouvez encore déclarer votre créance après l'expiration du délai de 30 jours. La loi vous autorise à le faire jusqu'à un an après le jugement de faillite, mais cette déclaration tardive a une conséquence concrète : vous ne participez pas aux éventuelles répartitions provisoires déjà effectuées avant votre déclaration. Passé ce délai d'un an, c'est la forclusion absolue — votre créance est définitivement perdue.
+Oui, vous pouvez encore déclarer votre créance après l'expiration du délai de 30 jours. Une déclaration tardive reste recevable jusqu'au dépôt du **troisième procès-verbal de vérification** par le curateur (en pratique environ douze mois après le jugement). Elle a cependant une conséquence concrète : vous ne participez pas aux éventuelles répartitions provisoires déjà effectuées avant votre déclaration. Une fois le 3ᵉ procès-verbal déposé, c'est la forclusion — votre créance est définitivement perdue. Voir [la vérification des créances et les procès-verbaux](verification-contestation.md) pour le déroulement complet.
 
 !!! warning "Déclarez sans attendre"
     En pratique, les répartitions provisoires sont rares (elles concernent moins de 15 % des faillites), donc le risque de manquer un acompte est limité. Mais chaque semaine perdue vous rapproche du seuil de forclusion. Si vous êtes en retard, déclarez immédiatement, même sans tous vos documents : vous pourrez les compléter ultérieurement.
