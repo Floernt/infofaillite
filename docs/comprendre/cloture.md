@@ -15,13 +15,11 @@ La clôture marque la fin officielle de la procédure de faillite. Elle intervie
 
 ### La clôture pour insuffisance d'actif
 
-C'est le cas le plus fréquent. Le curateur constate que le patrimoine du failli est insuffisant pour couvrir ne serait-ce que les frais de justice et ses propres honoraires. Il dresse un procès-verbal de carence et dépose une requête en clôture. Les créanciers ne reçoivent rien — le dividende est nul —, mais les dettes des personnes physiques sont effacées tout de même, sauf faute grave et caractérisée et requête en refus.
-
-L'État belge avance un forfait minimum pour couvrir les honoraires du curateur dans ces dossiers sans actifs, afin de permettre l'aboutissement de la procédure.
+C'est le cas le plus fréquent. Le curateur constate que le patrimoine du failli est insuffisant pour couvrir ne serait-ce que les frais de justice et ses propres honoraires. Il dresse un procès-verbal de carence et dépose une requête en clôture. Les créanciers ne reçoivent rien — le dividende est nul —, mais [les dettes des personnes physiques sont effacées](../faillis/effacement.md) tout de même, sauf [faute grave et caractérisée](#les-causes-de-refus) ayant donné lieu à une [requête en refus d'effacement](../faillis/effacement.md#la-requete-en-refus-deffacement) du parquet, du curateur ou d'un créancier.
 
 ### La clôture après liquidation complète
 
-Dans les 30 % de faillites restants, le curateur a pu vendre des actifs, encaisser des créances et payer tout ou partie des créanciers. La procédure est plus longue — d'un à quatre ans selon la complexité du dossier — et suit un enchaînement précis : le tribunal fixe le montant définitif des honoraires du curateur lors d'une audience contradictoire, puis approuve l'état de répartition qui détaille les dividendes à verser à chaque créancier. La Caisse des Dépôts et Consignations (CDC) exécute les paiements dans le mois qui suit. Le curateur dépose ensuite sa demande de clôture avec son rapport final, et le tribunal prononce le jugement de clôture.
+Dans les faillites restants, le curateur a pu vendre des actifs, encaisser des créances et payer tout ou partie des créanciers. La procédure est plus longue selon la complexité du dossier et suit un enchaînement précis : le tribunal fixe le montant définitif des honoraires du curateur lors d'une audience contradictoire, puis approuve l'état de répartition qui détaille les dividendes à verser à chaque créancier. La Caisse des Dépôts et Consignations (CDC) exécute les paiements dans le mois qui suit. Le curateur dépose ensuite sa demande de clôture avec son rapport final, et le tribunal prononce le jugement de clôture.
 
 ---
 
