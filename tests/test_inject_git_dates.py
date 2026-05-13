@@ -9,6 +9,7 @@ import pytest
 from scripts.inject_git_dates import git_last_modified_date
 from scripts.inject_git_dates import update_front_matter
 from scripts.inject_git_dates import process_file
+from scripts.inject_git_dates import main
 
 
 def test_git_last_modified_date_returns_iso_date_of_last_commit(
@@ -115,3 +116,84 @@ def test_process_file_is_idempotent_on_second_run(
     changed = process_file(md, repo_root=git_repo)
 
     assert changed is False
+
+
+def test_main_processes_all_markdown_files_under_docs(
+    git_repo: Path, run_git, monkeypatch, capsys
+) -> None:
+    docs = git_repo / "docs"
+    docs.mkdir()
+    (docs / "a.md").write_text("---\ntitle: A\n---\n\n# A\n", encoding="utf-8")
+    (docs / "sub").mkdir()
+    (docs / "sub" / "b.md").write_text(
+        "---\ntitle: B\n---\n\n# B\n", encoding="utf-8"
+    )
+    run_git("add", "docs")
+    run_git(
+        "commit",
+        "-m",
+        "init",
+        "--date=2025-03-15T10:00:00",
+        env={"GIT_COMMITTER_DATE": "2025-03-15T10:00:00"},
+    )
+
+    monkeypatch.chdir(git_repo)
+    exit_code = main([])
+
+    assert exit_code == 0
+    captured = capsys.readouterr().out
+    assert "2 fichier" in captured  # log "2 fichiers mis à jour"
+    assert "updated:" in (docs / "a.md").read_text(encoding="utf-8")
+    assert "updated:" in (docs / "sub" / "b.md").read_text(encoding="utf-8")
+
+
+def test_main_check_mode_returns_1_when_changes_needed(
+    git_repo: Path, run_git, monkeypatch
+) -> None:
+    docs = git_repo / "docs"
+    docs.mkdir()
+    (docs / "a.md").write_text("---\ntitle: A\n---\n\n# A\n", encoding="utf-8")
+    run_git("add", "docs")
+    run_git(
+        "commit",
+        "-m",
+        "init",
+        "--date=2025-03-15T10:00:00",
+        env={"GIT_COMMITTER_DATE": "2025-03-15T10:00:00"},
+    )
+
+    monkeypatch.chdir(git_repo)
+    exit_code = main(["--check"])
+
+    assert exit_code == 1
+    # En mode --check on n'écrit pas
+    assert "updated:" not in (docs / "a.md").read_text(encoding="utf-8")
+
+
+def test_main_check_mode_returns_0_when_nothing_to_do(
+    git_repo: Path, run_git, monkeypatch
+) -> None:
+    docs = git_repo / "docs"
+    docs.mkdir()
+    (docs / "a.md").write_text("---\ntitle: A\n---\n\n# A\n", encoding="utf-8")
+    run_git("add", "docs")
+    run_git(
+        "commit",
+        "-m",
+        "init",
+        "--date=2025-03-15T10:00:00",
+        env={"GIT_COMMITTER_DATE": "2025-03-15T10:00:00"},
+    )
+
+    monkeypatch.chdir(git_repo)
+    main([])  # premier run : applique les modifs
+    run_git("add", "docs")
+    run_git(
+        "commit",
+        "-m",
+        "dates",
+        env={"GIT_COMMITTER_DATE": "2025-03-15T10:00:00"},
+    )
+
+    exit_code = main(["--check"])
+    assert exit_code == 0
