@@ -206,3 +206,17 @@ def test_update_front_matter_is_idempotent_with_unquoted_date() -> None:
     new_content, changed = update_front_matter(content, "2025-03-15")
     assert changed is False
     assert new_content == content
+
+
+def test_process_file_raises_with_file_path_when_yaml_invalid(
+    git_repo: Path,
+) -> None:
+    """Quand le front matter est mal formé, l'erreur doit citer le chemin."""
+    bad = git_repo / "broken.md"
+    # Front matter dont la racine est une liste, pas un mapping.
+    bad.write_text(
+        "---\n- not a mapping\n- still not\n---\n\n# Body\n",
+        encoding="utf-8",
+    )
+    with pytest.raises(ValueError, match=r"broken\.md"):
+        process_file(bad, repo_root=git_repo)

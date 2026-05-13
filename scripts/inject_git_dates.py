@@ -95,10 +95,15 @@ def process_file(file: Path, repo_root: Path) -> bool:
     """Met à jour le front matter d'un fichier Markdown si nécessaire.
 
     Retourne True si le fichier a été réécrit, False sinon.
+    En cas de front matter YAML invalide, l'erreur est ré-émise avec le
+    chemin du fichier pour aider l'utilisateur à identifier le coupable.
     """
     updated = git_last_modified_date(file, repo_root=repo_root)
     original = file.read_text(encoding="utf-8")
-    new_content, changed = update_front_matter(original, updated)
+    try:
+        new_content, changed = update_front_matter(original, updated)
+    except Exception as exc:
+        raise type(exc)(f"{file}: {exc}") from exc
     if changed:
         file.write_text(new_content, encoding="utf-8")
     return changed
@@ -127,6 +132,14 @@ def main(argv: list[str] | None = None) -> int:
     if not docs_root.is_dir():
         print(f"Aucun dossier docs/ trouvé sous {repo_root}", file=sys.stderr)
         return 2
+
+    if (repo_root / ".git" / "shallow").exists():
+        print(
+            "Avertissement : repo en shallow clone — la date de certains "
+            "fichiers tombera en fallback mtime (probablement la date du "
+            "build et non de l'édition).",
+            file=sys.stderr,
+        )
 
     changed = 0
     unchanged = 0
