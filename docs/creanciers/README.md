@@ -10,7 +10,7 @@ updated: '2026-03-06'
 Votre client, locataire ou partenaire commercial a été déclaré en faillite ? Vous êtes désormais créancier de la masse faillie. Cette section vous explique concrètement les démarches à effectuer, les délais à respecter et les droits dont vous disposez.
 
 !!! danger "Priorité absolue : déclarez votre créance dans les 30 jours"
-    Vous avez trente jours à compter de la publication du jugement au Moniteur belge pour déclarer votre créance auprès du curateur. Passé ce délai, vous ne participez plus aux répartitions provisoires. Passé un an, votre droit est définitivement éteint. Commencez par [déclarer votre créance dans les trente jours](declarer-creance.md).
+    Vous avez trente jours à compter de la publication du jugement au Moniteur belge pour déclarer votre créance auprès du curateur. Passé ce délai, vous ne participez plus aux répartitions provisoires. Une déclaration tardive reste cependant recevable tant que le curateur n'a pas déposé le troisième procès-verbal de vérification (en pratique environ douze mois après le jugement) ; au-delà, votre droit est forclos. Commencez par [déclarer votre créance dans les trente jours](declarer-creance.md).
 
 ---
 
