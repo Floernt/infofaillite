@@ -11,9 +11,13 @@ Pour chaque fichier ``docs/**/*.md`` :
 """
 from __future__ import annotations
 
+import io
+import re
 import subprocess
 from datetime import date, datetime, timezone
 from pathlib import Path
+
+import yaml
 
 
 def git_last_modified_date(file: Path, repo_root: Path) -> str:
@@ -36,3 +40,47 @@ def git_last_modified_date(file: Path, repo_root: Path) -> str:
     # Fallback : mtime
     mtime = datetime.fromtimestamp(file.stat().st_mtime, tz=timezone.utc)
     return mtime.date().isoformat()
+
+
+_FRONT_MATTER_RE = re.compile(r"\A---\s*\n(.*?\n)---\s*\n", re.DOTALL)
+
+
+def update_front_matter(content: str, updated: str) -> tuple[str, bool]:
+    """Retourne (nouveau_contenu, a_change).
+
+    - Si le bloc front matter existe et contient déjà ``updated == updated``,
+      renvoie le contenu inchangé et ``False``.
+    - Sinon, met à jour ou ajoute la clé ``updated`` et renvoie ``True``.
+    - Si aucun front matter n'existe, en crée un minimal.
+    """
+    match = _FRONT_MATTER_RE.match(content)
+    if match:
+        yaml_block = match.group(1)
+        body = content[match.end():]
+        data = yaml.safe_load(yaml_block) or {}
+        if not isinstance(data, dict):
+            raise ValueError(
+                "Front matter YAML doit être un mapping, "
+                f"trouvé : {type(data).__name__}"
+            )
+        if data.get("updated") == updated:
+            return content, False
+        data["updated"] = updated
+        new_yaml = _dump_yaml(data)
+        return f"---\n{new_yaml}---\n{body}", True
+    else:
+        data = {"updated": updated}
+        new_yaml = _dump_yaml(data)
+        return f"---\n{new_yaml}---\n\n{content.lstrip()}", True
+
+
+def _dump_yaml(data: dict) -> str:
+    buffer = io.StringIO()
+    yaml.safe_dump(
+        data,
+        buffer,
+        allow_unicode=True,
+        sort_keys=False,
+        default_flow_style=False,
+    )
+    return buffer.getvalue()
