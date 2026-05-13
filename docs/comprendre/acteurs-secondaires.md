@@ -21,7 +21,7 @@ C'est le tribunal qui, dans son jugement déclaratif, constate l'état de failli
 
 ### Contrôler la procédure et trancher les litiges
 
-Le tribunal exerce un contrôle global sur le respect de la loi par le curateur. Il peut remplacer un curateur défaillant sur demande motivée. Il statue sur les contestations de créances que le curateur et les parties n'ont pas pu résoudre, sur les actions en responsabilité des dirigeants (comblement de passif), et sur les litiges liés à la vente des actifs. Ces procédures sont contradictoires et nécessitent un avocat.
+Le tribunal exerce un contrôle global sur le respect de la loi par le curateur. Il peut remplacer un curateur défaillant sur demande motivée. Il statue sur les contestations de créances que le curateur et les parties n'ont pas pu résoudre, sur les actions en responsabilité des dirigeants (comblement de passif), et sur les litiges liés à la vente des actifs. Ces procédures sont contradictoires et nécessitent l'intervention d'un avocat au vu de leur complexité et technicité.
 
 ### Fixer les honoraires et prononcer la clôture
 
@@ -37,16 +37,18 @@ Les jugements du tribunal de l'entreprise peuvent faire l'objet d'un appel devan
 
 Le procureur du Roi représente le ministère public dans la procédure de faillite. Son rôle est distinct de celui de toutes les autres parties : il ne défend ni le failli ni les créanciers, mais veille au respect de l'ordre public et peut déclencher des poursuites pénales si des infractions sont commises à l'occasion de la faillite.
 
-### Les poursuites pour banqueroute
-
-Certaines faillites s'accompagnent d'infractions pénales. La banqueroute frauduleuse — détournement d'actifs, falsification ou destruction de la comptabilité, fuite de capitaux à l'étranger — est passible d'un emprisonnement pouvant aller jusqu'à cinq ans. La banqueroute simple, caractérisée par des fautes graves de gestion, est passible d'un an. D'autres infractions peuvent se greffer : faux en écritures, escroquerie, abus de confiance ou abus de biens sociaux. Ces poursuites sont indépendantes de la procédure civile de faillite : même si les dettes sont effacées à la clôture, une condamnation pénale reste possible.
-
 ### La demande d'interdiction de gérer
 
 Indépendamment de toute poursuite pénale, le procureur peut demander au tribunal de prononcer une interdiction de gérer à l'encontre d'un dirigeant si des fautes graves ont été commises de manière répétée, si le dirigeant a été impliqué dans plusieurs faillites successives, ou si son comportement témoigne d'une malhonnêteté manifeste.
 
+### La requête en refus d'effacement
+
+Le procureur du Roi peut également déposer une requête en refus d'effacement des dettes lorsqu'un failli personne physique a commis des fautes graves et caractérisées ayant contribué à la faillite. Cette requête est l'arme procédurale principale du parquet pour empêcher la « seconde chance » dans les dossiers qui ne le méritent pas. Voir [l'effacement des dettes](../faillis/effacement.md#la-requete-en-refus-deffacement) pour le détail de la mécanique.
+
 !!! danger "Collaborez pour éviter les poursuites pénales"
     Remettez tous vos documents au curateur, soyez transparent sur les causes de la faillite et abstenez-vous de tout acte sur les actifs après le jugement. La banqueroute laisse une trace durable au casier judiciaire et peut compromettre toute reprise d'activité future.
+
+
 
 ---
 
