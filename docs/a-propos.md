@@ -28,7 +28,7 @@ Ce guide repose sur :
 
 **Florian Ernotte**
 
-Juriste et praticien du droit de l'insolvabilité, basé en Belgique.
+Avocat et praticien du droit de l'insolvabilité, basé en Belgique.
 
 Ce guide a été élaboré à partir de la documentation officielle des tribunaux de l'entreprise belges, avec pour objectif de fournir une ressource de référence fiable, à jour et librement accessible.
 
@@ -48,7 +48,7 @@ Pour toute situation spécifique, consultez :
 
 ## Mise à jour
 
-**Dernière mise à jour** : Février 2025
+**Dernière mise à jour** : Avril 2026
 
 **Base légale** : Livre XX CDE modifié par la loi du 7 juin 2023
 

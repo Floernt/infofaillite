@@ -45,3 +45,4 @@
 * [Glossaire](glossaire.md)
 * [Ressources et organismes utiles](ressources.md)
 * [À propos](a-propos.md)
+* [Contact](contact.md)

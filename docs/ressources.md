@@ -77,7 +77,7 @@ Le FFE intervient rapidement pour payer aux travailleurs licenciés leurs arrié
 
 ### ONEM — Allocations de chômage
 
-Si vous avez perdu votre emploi suite à la faillite, l'[ONEM](https://www.onem.be) traite votre dossier d'allocations de chômage et organise votre reclassement professionnel.
+Si vous avez perdu votre emploi suite à la faillite, l'[ONEM](https://www.onem.be) traite votre dossier d'allocations de chômage.
 
 ---
 
@@ -91,13 +91,6 @@ Si vous avez perdu votre emploi suite à la faillite, l'[ONEM](https://www.onem.
 
 L'[UCM](https://www.ucm.be) accompagne les indépendants et PME wallonnes et bruxelloises : conseil juridique, comptable, administratif, et aide en cas de difficultés financières.
 
-### UNIZO (Flandre)
-
-[UNIZO](https://www.unizo.be) soutient les indépendants et PME flamandes, notamment en cas de difficulté ou de cessation d'activité.
-
-### Netwerk Ondernemen
-
-[Netwerk Ondernemen](https://www.netwerk-ondernemen.be) propose un accompagnement entrepreneurial et un réseau de soutien pour les entrepreneurs en difficulté.
 
 ---
 
@@ -126,7 +119,7 @@ Si vous souhaitez relancer une activité après votre faillite et que les banque
 
 ## Trouver un avocat spécialisé
 
-Pour une situation complexe — contestation de créance, action en responsabilité contre des dirigeants, appel d'un jugement —, un avocat spécialisé en droit de l'insolvabilité est indispensable. L'Ordre des barreaux francophones et germanophone ([www.obfg.be](https://www.obfg.be)) propose un annuaire en ligne permettant de rechercher par spécialité. Si vos revenus sont limités, le bureau d'aide juridique de votre barreau peut vous orienter vers une assistance pro deo.
+Pour une situation complexe — contestation de créance, action en responsabilité contre des dirigeants, appel d'un jugement —, un avocat spécialisé en droit de l'insolvabilité est indispensable. L'Ordre des barreaux francophones et germanophone ([www.avocats.be](https://www.avocats.be)) propose un annuaire en ligne permettant de rechercher par spécialité. Si vos revenus sont limités, le bureau d'aide juridique peut vous orienter vers une assistance pro deo.
 
 ---
 
