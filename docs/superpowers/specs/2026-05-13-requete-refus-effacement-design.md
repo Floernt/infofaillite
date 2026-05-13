@@ -2,8 +2,8 @@
 title: Requête en refus d'effacement (acte du parquet) — page pilier effacement.md
 date: 2026-05-13
 status: draft
+updated: '2026-05-13'
 ---
-
 # Spec — Requête en refus d'effacement du parquet
 
 ## Contexte
