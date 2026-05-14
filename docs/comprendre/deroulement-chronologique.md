@@ -3,7 +3,7 @@ description: Déroulement chronologique de la faillite en Belgique - Vue d'ensem
   des cinq phases et délais clés
 keywords: déroulement faillite belgique, phases faillite, timeline faillite, étapes
   faillite, procédure faillite chronologie
-updated: '2026-05-13'
+updated: '2026-05-14'
 ---
 # Le déroulement chronologique de la faillite
 
@@ -30,10 +30,8 @@ La procédure de faillite est organisée en cinq phases successives. Pour facili
 
 | Délai | Acteur | Conséquence si dépassé |
 |---|---|---|
-| 1 mois : aveu de faillite | Débiteur | Faute grave, risque interdiction de gérer |
-| 30 jours : déclaration de créance | Créanciers | Exclusion des répartitions provisoires |
-| 3 mois : déclaration des cautions | Créanciers | Décharge automatique de la caution |
-| 2 mois : mémoire du curateur | Curateur | Retard de procédure |
+| 1 mois : faire aveu de faillite endéans le mois de la cessation de paiement | Débiteur | Faute grave, risque interdiction de gérer |
+| 30 jours : déclaration de créance (conseillé) | Créanciers | Exclusion des répartitions provisoires |
 | 1 mois après PV : contredit | Créanciers | Perte du droit de contester |
 
 Pour le tableau complet de tous les délais, consultez [les délais importants à ne pas manquer](../delais.md).

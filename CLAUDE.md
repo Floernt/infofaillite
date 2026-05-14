@@ -47,6 +47,20 @@ Pour toute modification du corps de texte du site (relecture, nuance, ajout de s
 - Après une passe qui touche plusieurs fichiers : `python scripts/inject_git_dates.py` puis entrée dans [log.md](log.md), commités ensemble.
 - Le workflow spec→plan→exécution (skills `brainstorming` / `writing-plans` / `subagent-driven-development`) reste réservé aux **chantiers techniques** : code, scripts, configuration, automatisations CI, refontes architecturales.
 
+### Procédure de clôture de session de relecture
+
+Lorsque l'utilisateur annonce qu'il clôture la session (« je termine », « clôture », « on arrête »), dérouler les étapes suivantes — l'ordre importe car le script de dates lit le dernier commit Git :
+
+1. **Inventaire** : `git status` + `git diff --stat` pour identifier toutes les pages modifiées (y compris celles modifiées hors session via l'éditeur).
+2. **Vérifier les diffs non vus** : `git diff <fichier>` pour chaque page modifiée qui n'a pas été éditée explicitement dans la session.
+3. **Commits éditoriaux** : un commit court par page (ou groupe cohérent), en français, style du projet. Pas encore le log.
+4. **Bump des dates** : `.venv/Scripts/python.exe scripts/inject_git_dates.py` — le script ne touche que les pages dont la date Git a changé. Mode `--check` disponible pour vérifier sans écrire.
+5. **Entrée [log.md](log.md)** : `## [YYYY-MM-DD] edit | <titre synthétique>` en tête du journal, avec une puce par page touchée et un renvoi explicite si une correction factuelle importante a été faite.
+6. **Commit final** groupant le bump des dates et l'entrée du log : message type `log + lastmod : relecture du <date>`.
+7. **Confirmation** : `git log --oneline -10` pour vérifier la chaîne de commits ; ne pas pousser sauf demande explicite.
+
+Si une page a été modifiée mais que le script ne la bumpe pas, c'est qu'elle n'a pas encore été commitée : repasser à l'étape 3 d'abord.
+
 ## Historique récent
 
 - La refonte éditoriale globale (`aad0a0f`) a restructuré l'ensemble de la documentation ; voir [log.md](log.md) pour la chronologie détaillée des évolutions ultérieures.

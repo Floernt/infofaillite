@@ -6,6 +6,21 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-05-14] edit | Relecture des pages « Comprendre » (déroulement, dessaisissement, période suspecte, liquidation)
+
+Passe de relecture sur six pages du dossier [docs/comprendre/](docs/comprendre/), à partir de remarques et précisions dictées en session :
+
+- [deroulement-chronologique.md](docs/comprendre/deroulement-chronologique.md) — tableau des délais clés allégé (mois pour l'aveu reformulé, déclaration de créance marquée « conseillé »).
+- [deroulement-phase-1-3.md](docs/comprendre/deroulement-phase-1-3.md) — aveu déposé entièrement en ligne sur REGSOL ; citation par créancier ou Ministère public (échec des voies d'exécution, créanciers institutionnels SPF/ONSS/caisses sociales) ; blocage des comptes bancaires repositionné comme effet automatique de la publication au Moniteur belge, pas une démarche du curateur ; lien vers [definition-faillite.md](docs/comprendre/definition-faillite.md).
+- [deroulement-phase-4-5.md](docs/comprendre/deroulement-phase-4-5.md) — section « actions en justice » enrichie : responsabilité des administrateurs pour manquements au CSA (comptabilité, dépôt des comptes annuels, sonnette d'alarme, poursuite déraisonnable), action contre les actionnaires n'ayant pas libéré leur capital souscrit ; encadré sur la voie ONSS autonome (faillites successives) avec lien externe vers l'article blog [avroy.be](https://avroy.be/demission-responsabilite-faillite-adminsitrateur/).
+- [dessaisissement.md](docs/comprendre/dessaisissement.md) — admonition `warning` sur l'unicité du patrimoine pour les indépendants personnes physiques (privé + investissements + professionnel) ; règle de la cause pour les héritages et donations (le fait générateur, pas la date d'encaissement) ; admonition `danger` sur le délai de forclusion de l'action en revendication (avant le dépôt du premier PV de vérification).
+- [periode-suspecte.md](docs/comprendre/periode-suspecte.md) — **correction factuelle importante** : suppression des sous-délais erronés (« 10 jours » pour les paiements anormaux, « 6 mois » pour les sûretés et les paiements de dettes non échues) ; les nullités de plein droit s'appliquent sur **toute la période suspecte**, dont la durée maximale est de 6 mois. Ajout en amont d'une section sur le préalable indispensable du report judiciaire de la date de cessation des paiements (sans report, pas de nullités), et d'une sous-section sur l'exception de l'**action paulienne** (Livre XX CDE, inopposabilité indépendamment de la date, charge probatoire de la fraude).
+- [liquidation-actifs.md](docs/comprendre/liquidation-actifs.md) — alignement avec [periode-suspecte.md](docs/comprendre/periode-suspecte.md) (retrait des mêmes sous-délais 10j/6m), précision sur l'article XX.225, nettoyage rédactionnel.
+
+Sources vérifiées : ancien article 17 de la loi du 8 août 1997 sur les faillites (repris au Livre XX CDE) — confirmation que les trois catégories de nullités de plein droit visent l'ensemble de la période suspecte, et non des fenêtres distinctes plus courtes.
+
+Dates `updated:` du front-matter rafraîchies via `python scripts/inject_git_dates.py` après les commits éditoriaux.
+
 ## [2026-05-13] edit | Requête en refus d'effacement : page pilier
 
 Enrichi [docs/faillis/effacement.md](docs/faillis/effacement.md) avec une sous-section dédiée à la **requête en refus d'effacement** déposée par le parquet (et les autres demandeurs : curateur, créancier impayé, tribunal d'office). Détaille la procédure : juridiction (tribunal de l'entreprise), audience contradictoire, défense, tierce opposition après clôture. Ajout d'un paragraphe correspondant dans [docs/comprendre/acteurs-secondaires.md](docs/comprendre/acteurs-secondaires.md) côté procureur du Roi, qui pointe vers la page pilier. Spec et plan dans [docs/superpowers/](docs/superpowers/).
