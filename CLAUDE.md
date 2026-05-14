@@ -46,6 +46,7 @@ Pour toute modification du corps de texte du site (relecture, nuance, ajout de s
 - Un commit court par modification cohérente, message en français suivant le style du projet.
 - Après une passe qui touche plusieurs fichiers : `python scripts/inject_git_dates.py` puis entrée dans [log.md](log.md), commités ensemble.
 - Le workflow spec→plan→exécution (skills `brainstorming` / `writing-plans` / `subagent-driven-development`) reste réservé aux **chantiers techniques** : code, scripts, configuration, automatisations CI, refontes architecturales.
+- **Emplacement des specs et plans** : toujours à la racine du repo, dans [superpowers/specs/](superpowers/specs/) et [superpowers/plans/](superpowers/plans/). **Jamais sous `docs/`** : tout fichier `.md` placé dans `docs/` est publié sur infofaillite.be et indexé dans le sitemap. Les specs et plans sont des artefacts internes au workflow et ne doivent pas être servis.
 
 ### Procédure de clôture de session de relecture
 

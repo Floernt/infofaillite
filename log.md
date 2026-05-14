@@ -23,11 +23,11 @@ Dates `updated:` du front-matter rafraîchies via `python scripts/inject_git_dat
 
 ## [2026-05-13] edit | Requête en refus d'effacement : page pilier
 
-Enrichi [docs/faillis/effacement.md](docs/faillis/effacement.md) avec une sous-section dédiée à la **requête en refus d'effacement** déposée par le parquet (et les autres demandeurs : curateur, créancier impayé, tribunal d'office). Détaille la procédure : juridiction (tribunal de l'entreprise), audience contradictoire, défense, tierce opposition après clôture. Ajout d'un paragraphe correspondant dans [docs/comprendre/acteurs-secondaires.md](docs/comprendre/acteurs-secondaires.md) côté procureur du Roi, qui pointe vers la page pilier. Spec et plan dans [docs/superpowers/](docs/superpowers/).
+Enrichi [docs/faillis/effacement.md](docs/faillis/effacement.md) avec une sous-section dédiée à la **requête en refus d'effacement** déposée par le parquet (et les autres demandeurs : curateur, créancier impayé, tribunal d'office). Détaille la procédure : juridiction (tribunal de l'entreprise), audience contradictoire, défense, tierce opposition après clôture. Ajout d'un paragraphe correspondant dans [docs/comprendre/acteurs-secondaires.md](docs/comprendre/acteurs-secondaires.md) côté procureur du Roi, qui pointe vers la page pilier. Spec et plan dans [superpowers/](superpowers/).
 
 ## [2026-05-13] edit | Nuancer le délai de 30 jours (déclarations de créance)
 
-Aligné toutes les mentions du délai de 30 jours pour la déclaration de créance sur une formulation type qui nomme explicitement le **3ᵉ procès-verbal de vérification** comme verrou de forclusion (≈ 12 mois après le jugement), au lieu de l'imprécis « passé un an ». Touche 8 fichiers : [docs/README.md](docs/README.md), [docs/creanciers/README.md](docs/creanciers/README.md), [docs/delais.md](docs/delais.md), [docs/creanciers/declarer-creance.md](docs/creanciers/declarer-creance.md), [docs/creanciers/faq.md](docs/creanciers/faq.md), [docs/comprendre/deroulement-phase-1-3.md](docs/comprendre/deroulement-phase-1-3.md), [docs/creanciers/verification-contestation.md](docs/creanciers/verification-contestation.md), [docs/glossaire.md](docs/glossaire.md). Spec et plan dans [docs/superpowers/](docs/superpowers/).
+Aligné toutes les mentions du délai de 30 jours pour la déclaration de créance sur une formulation type qui nomme explicitement le **3ᵉ procès-verbal de vérification** comme verrou de forclusion (≈ 12 mois après le jugement), au lieu de l'imprécis « passé un an ». Touche 8 fichiers : [docs/README.md](docs/README.md), [docs/creanciers/README.md](docs/creanciers/README.md), [docs/delais.md](docs/delais.md), [docs/creanciers/declarer-creance.md](docs/creanciers/declarer-creance.md), [docs/creanciers/faq.md](docs/creanciers/faq.md), [docs/comprendre/deroulement-phase-1-3.md](docs/comprendre/deroulement-phase-1-3.md), [docs/creanciers/verification-contestation.md](docs/creanciers/verification-contestation.md), [docs/glossaire.md](docs/glossaire.md). Spec et plan dans [superpowers/](superpowers/).
 
 ## [2026-05-13] edit | Format date français au pied de page
 
@@ -40,7 +40,7 @@ Ajout d'une chaîne pré-build qui injecte la date du dernier commit Git dans le
 - [overrides/sitemap.xml](overrides/sitemap.xml) : `<lastmod>` par URL pour signaler la fraîcheur aux moteurs de recherche.
 - [overrides/partials/source-file.html](overrides/partials/source-file.html) : pied de page « Dernière mise à jour » côté lecteur.
 
-Script associé : [scripts/inject_git_dates.py](scripts/inject_git_dates.py), idempotent, mode `--check` pour CI. Spec et plan dans [docs/superpowers/](docs/superpowers/).
+Script associé : [scripts/inject_git_dates.py](scripts/inject_git_dates.py), idempotent, mode `--check` pour CI. Spec et plan dans [superpowers/](superpowers/).
 
 ## [2026-05-12] config | Création de CLAUDE.md et log.md
 
