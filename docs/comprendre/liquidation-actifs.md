@@ -3,7 +3,7 @@ description: La liquidation des actifs en faillite - Vente du mobilier et des im
   going concern, actions en responsabilité des dirigeants, revendications des tiers
 keywords: liquidation actifs faillite, vente actifs faillite belgique, going concern
   faillite, comblement passif, période suspecte nullité, revendication tiers faillite
-updated: '2026-05-13'
+updated: '2026-05-14'
 ---
 # La liquidation des actifs et la réalisation du patrimoine
 
