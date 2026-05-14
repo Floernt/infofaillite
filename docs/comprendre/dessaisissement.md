@@ -3,20 +3,20 @@ description: Le dessaisissement en faillite - Perte du droit de gérer ses biens
   de la masse faillie, biens insaisissables, revendications des tiers
 keywords: dessaisissement faillite belgique, masse faillie, biens insaisissables faillite,
   curateur gestion biens, revendication propriété faillite
-updated: '2026-05-13'
+updated: '2026-05-14'
 ---
 # Le dessaisissement
 
-Dès que le tribunal prononce le jugement déclaratif de faillite, le failli perd de plein droit l'administration et la disposition de l'ensemble de ses biens. Ce mécanisme, prévu par l'article XX.101 du Code de droit économique, s'appelle le dessaisissement. Il ne signifie pas que vous perdez la propriété de vos biens : vous en restez juridiquement propriétaire. Mais c'est le curateur qui les gère désormais, les vend et encaisse les créances, dans l'intérêt collectif des créanciers.
+Dès que le tribunal prononce le jugement déclaratif de faillite, le failli perd de plein droit l'administration et la disposition de l'ensemble de ses biens. Ce mécanisme, prévu par le Code de droit économique, s'appelle le dessaisissement. Il ne signifie pas que vous perdez la propriété de vos biens : vous en restez juridiquement propriétaire. Mais c'est le curateur qui les gère désormais, les vend et encaisse les créances, dans l'intérêt collectif des créanciers.
 
 ---
 
 ## Ce que le dessaisissement signifie concrètement
 
-À compter du jugement, vous ne pouvez plus vendre, donner, hypothéquer ou encaisser aucun bien de votre patrimoine professionnel. Vous ne pouvez plus contracter au nom de l'entreprise faillie ni ester en justice pour défendre ses intérêts patrimoniaux — c'est le curateur qui agit à votre place. Tout acte que vous poseriez seul sur les biens de la masse serait nul et inopposable aux créanciers.
+À compter du jugement, vous ne pouvez plus vendre, donner, hypothéquer ou encaisser aucun bien de votre patrimoine. Vous ne pouvez plus contracter au nom de l'entreprise faillie ni ester en justice pour défendre ses intérêts patrimoniaux — c'est le curateur qui agit à votre place. Tout acte que vous poseriez seul sur les biens de la masse serait nul et inopposable aux créanciers.
 
 !!! danger "Toute opération sur les actifs après le jugement est nulle"
-    À partir du moment où la faillite est prononcée, vous ne pouvez plus retirer d'argent des comptes professionnels, vendre du matériel ou régler des fournisseurs. Un acte accompli sans l'accord du curateur peut être qualifié de détournement d'actif et exposer à des poursuites pour banqueroute.
+    À partir du moment où la faillite est prononcée, vous ne pouvez plus retirer d'argent des comptes, vendre du matériel ou régler des fournisseurs. Un acte accompli sans l'accord du curateur peut être qualifié de détournement d'actif et exposer à des poursuites pénales.
 
 En revanche, le dessaisissement ne touche pas à votre vie personnelle. Vous pouvez travailler, ouvrir un compte bancaire personnel pour vos nouveaux revenus, gérer librement les biens que vous acquérez après le jugement, et ester en justice pour vos droits personnels — divorce, filiation, indemnisation d'un dommage corporel. Pour en savoir plus sur la reprise d'activité, consultez [reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md).
 
@@ -24,7 +24,10 @@ En revanche, le dessaisissement ne touche pas à votre vie personnelle. Vous pou
 
 ## Les biens qui entrent dans la masse faillie
 
-La masse faillie regroupe l'ensemble des biens existants au jour du jugement. Cela comprend tout le mobilier professionnel — stocks, équipements, véhicules, matériel informatique, outillage —, les immeubles professionnels et personnels saisissables, les créances clients impayées, les indemnités dues au failli, et les droits incorporels comme le fonds de commerce, les marques, les brevets ou les parts sociales détenues dans d'autres sociétés. Les soldes des comptes bancaires — professionnels et personnels — au jour du jugement entrent également dans la masse.
+La masse faillie regroupe l'ensemble des biens existants au jour du jugement. Cela comprend tout le mobilier — stocks, équipements, véhicules, matériel informatique, outillage —, les immeubles professionnels et personnels saisissables, les créances clients impayées, les indemnités dues au failli, et les droits incorporels comme le fonds de commerce, les marques, les brevets ou les parts sociales détenues dans d'autres sociétés. Les soldes des comptes bancaires — professionnels et personnels — au jour du jugement entrent également dans la masse.
+
+!!! warning "Indépendants personnes physiques : un seul patrimoine, privé et professionnel confondus"
+    Si vous exercez en personne physique (indépendant en nom propre, sans société), vous n'avez juridiquement qu'un seul patrimoine. La distinction entre « biens privés » et « biens professionnels » n'existe pas en droit : **l'ensemble de vos biens tombe dans la masse faillie, quelle que soit leur affectation**. Concrètement, cela inclut aussi bien le matériel utilisé pour votre activité que les biens à usage strictement privé — la télévision du salon, l'ordinateur familial, les meubles — et les actifs d'investissement personnels comme les crypto-actifs, les actions, obligations, fonds, et autres produits financiers détenus à titre privé. Seuls les biens légalement insaisissables (voir ci-dessous) échappent à la masse. Cette absence de cloisonnement est l'une des différences majeures avec la faillite d'une société, où seul le patrimoine social est concerné.
 
 Après le jugement, la masse peut encore s'accroître par le biais des actions en récupération menées par le curateur : annulation de paiements effectués pendant la période suspecte, recouvrement de créances dues au failli, ou encaissement d'indemnités d'assurance pour des sinistres antérieurs à la faillite.
 
@@ -34,7 +37,9 @@ Après le jugement, la masse peut encore s'accroître par le biais des actions e
 
 Certains biens sont légalement insaisissables et ne peuvent jamais faire partie de la masse faillie. Vos vêtements, votre literie et les objets personnels sans valeur marchande significative — photos de famille, médailles, diplômes, objets de culte — restent les vôtres. Le mobilier ménager strictement indispensable à votre vie quotidienne (lit, table, chaises, ustensiles de cuisine de base) est également protégé.
 
-Sont également hors de la masse tous les biens que vous acquérez après le jugement. Les revenus tirés d'un emploi salarié ou d'une nouvelle activité indépendante vous appartiennent entièrement — le curateur ne peut pas les saisir. Un héritage ou une donation reçus après le jugement vous appartiennent personnellement. Les indemnités pour dommages corporels (accident, invalidité) liées à votre personne sont également hors d'atteinte.
+Sont également hors de la masse tous les biens que vous acquérez après le jugement. Les revenus tirés d'un emploi salarié ou d'une nouvelle activité indépendante vous appartiennent entièrement — le curateur ne peut pas les saisir. Les indemnités pour dommages corporels (accident, invalidité) liées à votre personne sont également hors d'atteinte.
+
+Pour les héritages et donations, ce n'est pas la date d'encaissement qui compte, mais **la cause** de l'acquisition. Si la cause est antérieure au jugement déclaratif — typiquement parce que le décès qui ouvre la succession est intervenu avant la faillite, même si l'héritage n'est liquidé et perçu qu'après —, le bien tombe dans la masse faillie : la créance successorale existait déjà au jour du jugement. À l'inverse, un héritage dont le décès survient après le jugement, ou une donation effectivement consentie après le jugement, vous appartient personnellement et reste hors de la masse. Le même raisonnement s'applique de manière générale aux sommes reçues après le jugement : c'est la cause juridique (le fait générateur de la créance) qui détermine si elles entrent ou non dans la masse, pas le moment du paiement.
 
 ---
 
@@ -42,7 +47,10 @@ Sont également hors de la masse tous les biens que vous acquérez après le jug
 
 La constitution de la masse n'est pas définitive. Certains tiers ont le droit de revendiquer des biens qui se trouvent en possession du failli mais qui ne lui appartiennent pas réellement. Les fournisseurs qui ont livré des marchandises avec une clause de réserve de propriété et qui n'ont pas encore été payés peuvent en demander la restitution. Les sociétés de leasing restent propriétaires du matériel qu'elles ont financé. Les biens déposés ou confiés en consignation appartiennent à leurs propriétaires légitimes.
 
-Pour faire valoir ces droits, le tiers doit déclarer rapidement sa revendication au curateur, avec les preuves de propriété — contrat, factures, clause contractuelle. Le curateur examine la demande et restitue le bien si les droits sont établis. En cas de contestation, c'est le tribunal qui tranche. La célérité est essentielle : plus la revendication intervient tôt, plus les biens ont de chances d'être encore identifiables.
+Pour faire valoir ces droits, le tiers doit déclarer rapidement sa revendication au curateur, avec les preuves de propriété — contrat, factures, clause contractuelle. Le curateur examine la demande et restitue le bien si les droits sont établis. En cas de contestation, c'est le tribunal qui tranche.
+
+!!! danger "Un délai de forclusion s'applique à la revendication"
+    L'action en revendication doit être introduite **avant le dépôt du premier procès-verbal de vérification des créances** (Livre XX, CDE). Passé ce délai, le tiers est forclos : il perd définitivement son droit de réclamer le bien en nature, même s'il en est resté juridiquement propriétaire. Tout au plus pourra-t-il, le cas échéant, faire valoir une créance dans la procédure pour la valeur du bien, sans privilège ni séparation. La célérité est donc essentielle, d'autant que plus la revendication intervient tôt, plus les biens ont de chances d'être encore identifiables et physiquement présents.
 
 ---
 
@@ -56,7 +64,7 @@ Il est tenu d'exercer ces pouvoirs avec prudence et loyauté, en cherchant à ma
 
 ## La fin du dessaisissement
 
-Le dessaisissement prend fin avec le jugement de clôture de la faillite. À ce moment, vous retrouvez la pleine liberté de disposer du solde du patrimoine antérieur qui n'aurait pas été liquidé. Les biens réalisés par le curateur ont, eux, été affectés au paiement des créanciers et ne reviennent pas dans votre patrimoine — c'est la contrepartie de la procédure. Vous repartez libéré de vos dettes grâce à [l'effacement automatique des dettes à la clôture](../faillis/effacement.md), avec votre activité postérieure intacte et les biens et revenus acquis depuis le jugement déclaratif.
+Le dessaisissement prend fin avec le jugement de clôture de la faillite. À ce moment, vous retrouvez la pleine liberté de disposer. Les biens réalisés par le curateur ont, eux, été affectés au paiement des créanciers et ne reviennent pas dans votre patrimoine — c'est la contrepartie de la procédure. Vous repartez libéré de vos dettes grâce à [l'effacement automatique des dettes à la clôture](../faillis/effacement.md).
 
 ---
 
@@ -68,7 +76,7 @@ Le dessaisissement prend fin avec le jugement de clôture de la faillite. À ce 
 
 **Puis-je hériter pendant ma faillite ?** Un héritage ouvert avant le jugement de faillite entre en principe dans la masse. Un héritage ouvert après le jugement vous appartient personnellement, mais des discussions juridiques sont possibles selon les circonstances. En cas de doute, consultez un avocat.
 
-**Le curateur peut-il vendre ma résidence principale ?** Oui, en principe, si elle est saisissable. La protection de la résidence principale dans le cadre de la faillite est possible dans des conditions très strictes (article 1408bis du Code judiciaire), mais reste rare en pratique. Si vous êtes dans cette situation, consultez [vos droits pendant la procédure de faillite](../faillis/droits.md).
+**Le curateur peut-il vendre ma résidence principale ?** Oui, en principe, si elle est saisissable. La protection de la résidence principale dans le cadre de la faillite est possible dans des conditions très strictes, mais reste rare en pratique. Si vous êtes dans cette situation, consultez [vos droits pendant la procédure de faillite](../faillis/droits.md).
 
 ---
 
