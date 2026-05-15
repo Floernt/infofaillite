@@ -6,6 +6,15 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-05-15] edit | Contact & À propos : refonte autour de « information gratuite, conseil payant »
+
+Reformulation des deux pages institutionnelles autour d'une même ligne assumée à la première personne.
+
+- [docs/contact.md](docs/contact.md) : remplacement de la section négative « Ce que ce contact n'est pas » par **« L'information est gratuite, le conseil est payant »**. Distinction explicite entre échanges ponctuels (signalement, question générale — n'ouvrent pas de relation client) et demande d'accompagnement (consultation à organiser à la même adresse, rendez-vous au cabinet ou à distance, cadre d'honoraires défini en amont, relation avocat-client ouverte). Curateur / autre avocat / juge-commissaire repositionnés comme alternatives si la consultation à mes côtés n'est pas la bonne porte.
+- [docs/a-propos.md](docs/a-propos.md) : « Ce guide » remplacé par **« Pourquoi ce site »**, conviction assumée (l'info juridique doit circuler librement, pas être verrouillée derrière une consultation). Nouvelle section **« Information gratuite, conseil payant »** alignée sur la page contact, avec renvoi vers [contact.md](docs/contact.md) pour organiser une consultation. Bloc Auteur : miniature à droite (photo depuis avroy.be) + reformulation (« à titre personnel, à partir de ma propre pratique »). Bloc Mise à jour épuré (suppression de la date figée « Avril 2026 », la date de pied de page sert déjà à ça).
+
+---
+
 ## [2026-05-15] edit | Passe « faillis » : effacement, interdiction, reprise d'activité, FAQ, terminologie pénale
 
 Deuxième session du 15 mai, sur les pages [docs/faillis/](docs/faillis/) principalement, avec quelques retombées dans [docs/comprendre/](docs/comprendre/) et [docs/glossaire.md](docs/glossaire.md). Six axes :

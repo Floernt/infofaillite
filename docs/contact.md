@@ -3,7 +3,7 @@ description: Contacter Info-Faillite - Poser une question sur la procédure de f
   en Belgique, signaler une imprécision, suggérer un sujet
 keywords: contact infofaillite, question faillite belgique, signaler erreur guide
   faillite, contact Florian Ernotte
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # Contact
 
