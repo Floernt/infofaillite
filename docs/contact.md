@@ -7,11 +7,11 @@ updated: '2026-05-13'
 ---
 # Contact
 
-Ce guide est rédigé et maintenu par **Florian Ernotte**, avocat, praticien du droit de l'insolvabilité. Vous pouvez écrire pour :
+Ce guide est rédigé et maintenu par **Florian Ernotte**, avocat, praticien du droit de l'insolvabilité. Vous pouvez nous écrire pour :
 
 - signaler une imprécision, une coquille ou une information périmée sur ce site,
 - suggérer un sujet à traiter ou une question à ajouter aux FAQ,
-- poser une question d'ordre général sur la procédure que ce guide n'aborde pas encore.
+
 
 <!-- To change the address: encode new local-part and domain in base64 and update data-u / data-d. See superpowers/specs/2026-05-12-anti-spam-contact-email-design.md -->
 **Courriel** : <span id="contact-email" data-u="Zmxvcmlhbg==" data-d="YXZyb3kuYmU="></span>
@@ -35,14 +35,20 @@ Ce guide est rédigé et maintenu par **Florian Ernotte**, avocat, praticien du 
 
 ---
 
-## Ce que ce contact n'est pas
+## L'information est gratuite, le conseil est payant
 
-Info-Faillite est un guide d'information. Les messages reçus à cette adresse **ne constituent pas une demande de conseil juridique** et n'ouvrent aucune relation client. 
+Info-Faillite existe parce que je suis convaincu qu'**une information juridique claire doit circuler librement et gratuitement**. Comprendre comment fonctionne une faillite, ce qu'on est en droit d'attendre du curateur, ce qu'implique l'effacement des dettes : tout cela relève de la connaissance générale et n'a pas à être conditionné à la signature d'une convention d'honoraires.
 
-Pour une situation personnelle, adressez-vous :
+C'est la logique du site : **un contenu en libre accès, vérifié par un praticien**, qu'un failli, un créancier ou un avocat peut consulter sans rendez-vous.
 
-- à votre **curateur** (coordonnées publiées sur [REGSOL](https://www.regsol.be) dès le lendemain du jugement) ;
-- à un **avocat spécialisé en droit de l'insolvabilité** — le [bureau d'aide juridique](ressources.md) de votre arrondissement peut vous orienter vers une assistance pro deo si vos revenus sont limités ;
-- au **juge-commissaire** désigné dans votre jugement, pour les questions liées au déroulement de la procédure.
+**Le conseil, c'est autre chose.** Analyser une situation précise, lire des pièces, arbitrer entre plusieurs options, défendre un dossier devant le tribunal : c'est un travail personnalisé, qui engage la responsabilité d'avocat et qui se rémunère. 
+
+Si vous souhaitez être accompagné sur votre situation, **vous pouvez tout à fait m'écrire à cette même adresse pour organiser une consultation**. Nous conviendrons d'un rendez-vous (au cabinet ou à distance) et d'un cadre d'honoraires clair en amont. 
+
+Si une consultation à mes côtés n'est pas la bonne porte pour vous, d'autres relais existent :
+
+- votre **curateur** (coordonnées sur [REGSOL](https://www.regsol.be) dès le lendemain du jugement), pour tout ce qui touche au déroulement de votre dossier ;
+- un **autre avocat spécialisé en droit de l'insolvabilité** ; le [bureau d'aide juridique](ressources.md) de votre arrondissement peut orienter vers une assistance pro deo si vos revenus sont limités ;
+- le **juge-commissaire** désigné dans votre jugement, pour les questions de procédure.
 
 Voir aussi : [À propos](a-propos.md) · [Ressources et organismes utiles](ressources.md).
