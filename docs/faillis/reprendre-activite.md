@@ -13,12 +13,12 @@ La faillite ne vous interdit pas de travailler. Dès le jugement déclaratif, vo
 
 ## Ce que vous pouvez faire immédiatement
 
-L'article XX.149 du Code de droit économique pose un principe clair : les revenus de votre nouvelle activité, commencée après le jugement de faillite, vous appartiennent entièrement. Le curateur ne peut pas les saisir. Cela s'applique aux salaires d'un emploi salarié, aux honoraires d'une activité indépendante, aux bénéfices d'une nouvelle entreprise et aux allocations de chômage ou d'incapacité de travail.
+Les revenus de votre nouvelle activité, commencée après le jugement de faillite, vous appartiennent entièrement. Le curateur ne peut pas les saisir. Cela s'applique aux salaires d'un emploi salarié, aux honoraires d'une activité indépendante, aux bénéfices d'une nouvelle entreprise et aux allocations de chômage ou d'incapacité de travail.
 
 !!! tip "Reprenez une activité le plus vite possible"
     Un failli qui retrouve rapidement une source de revenus démontre sa volonté de rebondir. Cette attitude est favorablement appréciée par le tribunal au moment de statuer sur [l'effacement automatique des dettes à la clôture](effacement.md) et contribue à éviter une interdiction de gérer.
 
-Dès que vous avez une nouvelle source de revenus, ouvrez un compte bancaire strictement personnel dans un établissement différent de vos anciens comptes professionnels. Cette séparation nette facilite la gestion et évite toute confusion avec la masse faillie.
+Dès que vous avez une nouvelle source de revenus, ouvrez un compte bancaire dans un établissement différent de vos anciens comptes professionnels. Cette séparation nette facilite la gestion et évite toute confusion avec la masse faillie.
 
 ---
 
@@ -32,9 +32,12 @@ Dans certains secteurs sensibles — finance, comptabilité, fonctions fiduciair
 
 ## Devenir indépendant
 
-Si vous souhaitez repartir à votre compte, vous pouvez vous inscrire comme indépendant et lancer une nouvelle activité, à condition de ne pas faire l'objet d'une [interdiction de gérer et ses conséquences pratiques](interdiction.md). Il n'est pas obligatoire de choisir un secteur différent de votre ancienne activité, mais c'est fortement recommandé dans un premier temps.
+Si vous souhaitez repartir à votre compte, vous pouvez vous inscrire comme indépendant et lancer une nouvelle activité, à condition de ne pas faire l'objet d'une [interdiction de gérer et ses conséquences pratiques](interdiction.md). La nouvelle activité doit toutefois être **réellement distincte** de l'ancienne.
 
-Prenez soin de séparer totalement l'ancienne et la nouvelle activité : nouveau numéro d'entreprise, nouveau compte bancaire, nouveaux fournisseurs si possible. Évitez les apparences de continuité — même enseigne commerciale, même local, même clientèle — car un curateur ou un créancier pourrait demander la réintégration des actifs ou une extension de la faillite si la continuité est avérée. Informez le curateur de votre nouvelle activité et prouvez qu'elle est distincte de l'ancienne.
+!!! danger "Vous ne pouvez pas reprendre l'activité faillie"
+    Tant que le curateur n'a pas régulièrement cédé le fonds de commerce, la clientèle, l'enseigne, le savoir-faire commercial et les contrats en cours appartiennent à la **masse faillie**. Les exploiter à votre profit dans une nouvelle structure — même sous un autre nom — revient à vous approprier sans contrepartie des actifs qui devaient être réalisés au bénéfice des créanciers. Cette appropriation est un **détournement d'actifs**, susceptible d'entraîner [des poursuites pénales](obligations.md#les-poursuites-penales), le [refus de l'effacement des dettes](effacement.md#quand-leffacement-peut-il-etre-refuse), et la réintégration des actifs détournés dans la masse au profit des créanciers. Si vous voulez réellement poursuivre l'activité, la seule voie est de **racheter le fonds de commerce auprès du curateur**, dans les formes prévues, en payant un prix dont l'origine des fonds est démontrable.
+
+Concrètement, votre nouvelle activité doit donc être lancée dans un autre secteur ou à tout le moins clairement séparée : nouveau compte bancaire, nouveau local, nouveaux fournisseurs si possible, nouvelle clientèle constituée à partir d'efforts commerciaux postérieurs au jugement. Évitez toute apparence de continuité — même enseigne, même téléphone, même site internet, démarchage des anciens clients — car ces indices suffisent en pratique pour qu'un curateur ou un créancier établisse la reprise déguisée. Informez le curateur de votre nouvelle activité et prouvez qu'elle est distincte de l'ancienne.
 
 ---
 
@@ -44,30 +47,21 @@ Si vous n'êtes pas frappé d'interdiction de gérer, vous pouvez créer une SRL
 
 ---
 
-## Exercer une profession libérale
-
-Les avocats, comptables, architectes, médecins et autres professions réglementées peuvent en principe reprendre leur activité après une faillite. Certains ordres professionnels examinent toutefois la situation au cas par cas, peuvent demander des explications sur les causes de la faillite, et imposent parfois des conditions temporaires — par exemple, l'interdiction de gérer des fonds de tiers pendant une période déterminée. Renseignez-vous auprès de votre ordre ou institut professionnel.
-
----
-
 ## Le droit passerelle pour les indépendants faillis
 
-Si vous étiez indépendant avant la faillite, vous pouvez bénéficier du droit passerelle : une prestation mensuelle d'environ 1 000 à 1 500 euros selon votre situation familiale, maintenue pendant douze mois au maximum, accompagnée du maintien de vos droits aux soins de santé.
+Si vous étiez indépendant avant la faillite, vous pouvez bénéficier du droit passerelle : une prestation mensuelle selon votre situation familiale, maintenue pendant douze mois au maximum, accompagnée du maintien de vos droits aux soins de santé.
 
-!!! danger "Délai de forclusion : fin du 2e trimestre suivant la faillite"
-    La demande doit être déposée au plus tard le dernier jour du deuxième trimestre civil qui suit le trimestre au cours duquel la faillite a été prononcée. Exemple : si la faillite est prononcée en février 2026 (1er trimestre), la date limite est le 30 juin 2026. Passé ce délai, le droit est définitivement perdu.
-
-Pour en bénéficier, vous devez avoir été assujetti au statut social des indépendants pendant au moins quatre trimestres avant la faillite, ne pas avoir été condamné pour banqueroute, et résider principalement en Belgique. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena, ou la caisse publique nationale auxiliaire) pour démarrer la procédure. Ils vous guideront dans la constitution du dossier.
+Pour en bénéficier, vous devez avoir été assujetti au statut social des indépendants pendant au moins quatre trimestres avant la faillite, ne pas avoir fait l'objet de poursuites pénales en lien avec la faillite ou avec vos cotisations sociales, et résider principalement en Belgique. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena, ou la caisse publique nationale auxiliaire) pour démarrer la procédure. Ils vous guideront dans la constitution du dossier.
 
 ---
 
 ## Questions fréquentes
 
-**Puis-je racheter les actifs de ma propre faillite ?** Théoriquement oui, à condition de participer à la vente publique comme tout acquéreur, de justifier l'origine légale des fonds, et d'obtenir l'accord du curateur et du juge-commissaire. En pratique, cette démarche est rare et souvent déconseillée. Il est généralement préférable de partir sur de nouvelles bases.
+**Puis-je racheter les actifs de ma propre faillite ?** Théoriquement oui, à condition de participer à la vente publique comme tout acquéreur, de justifier l'origine légale des fonds, et d'obtenir l'accord du curateur et du juge-commissaire. En pratique, cette démarche est fréquente et depend des actifs. 
 
-**Puis-je reprendre exactement la même activité ?** Il n'existe pas d'interdiction légale stricte, sauf si vous faites l'objet d'une interdiction de gérer. Mais exercez une grande prudence : reprendre la même activité au même endroit, avec les mêmes clients et la même enseigne, peut être assimilé à une continuité et exposer votre nouvelle activité à une demande d'extension de faillite. Attendez au moins la clôture de la procédure et créez une séparation nette.
+**Puis-je reprendre exactement la même activité ?** Non — pas en réutilisant les éléments de l'activité faillie. Le fonds de commerce, la clientèle, l'enseigne, le savoir-faire commercial et les contrats en cours appartiennent à la masse tant que le curateur ne les a pas régulièrement cédés. S'en servir dans une nouvelle structure constitue un **détournement d'actifs**, qui expose à des poursuites pénales, au refus de l'effacement des dettes et à la réintégration des actifs détournés dans la masse. Si vous voulez réellement poursuivre cette activité, la seule voie légale est de **racheter le fonds auprès du curateur** (voir la question précédente). À défaut de rachat, votre nouvelle activité doit être réellement distincte : autre secteur ou, à tout le moins, autre local, autre clientèle constituée par vos efforts postérieurs au jugement, autre identité commerciale.
 
-**Mon conjoint peut-il créer une société à ma place ?** Votre conjoint peut tout à fait créer et gérer sa propre société. Vous pouvez y travailler comme salarié. En revanche, si vous participez effectivement à la gestion — même sans titre officiel — vous exercez une direction de fait, ce qui constitue une violation de l'interdiction si vous en faites l'objet.
+
 
 ---
 
