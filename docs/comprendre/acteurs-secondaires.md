@@ -3,7 +3,7 @@ description: Le tribunal de l'entreprise, le procureur du Roi, le failli et les 
   dans la procédure de faillite - Rôles et droits
 keywords: tribunal entreprise faillite, procureur roi faillite, failli obligations
   droits, créanciers faillite catégories, fonds fermeture entreprises
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # Les autres acteurs de la faillite
 

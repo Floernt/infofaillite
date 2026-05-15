@@ -3,7 +3,7 @@ description: L'interdiction de gérer en Belgique - Causes, durée, conséquence
   l'éviter, registre JustBan
 keywords: interdiction de gérer belgique, interdiction gérer faillite, JustBan, fautes
   graves faillite, durée interdiction, contestation interdiction
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # L'interdiction de gérer
 
