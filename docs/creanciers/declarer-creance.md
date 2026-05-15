@@ -3,7 +3,7 @@ description: Comment déclarer votre créance dans une faillite - Délai de 30 j
   procédure REGSOL, contenu obligatoire, déclarations tardives
 keywords: déclarer créance faillite, délai 30 jours belgique, REGSOL créance, formulaire
   déclaration créance faillite, procédure déclaration faillite
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # Déclarer votre créance dans les trente jours
 

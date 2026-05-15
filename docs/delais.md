@@ -1,9 +1,9 @@
 ---
 description: Tableau récapitulatif de tous les délais de la procédure de faillite
   en Belgique - Créanciers, faillis, curateur, recours judiciaires
-keywords: délais faillite belgique, 30 jours déclaration créance,
-  délai appel jugement faillite, procès-verbaux vérification dates
-updated: '2026-05-13'
+keywords: délais faillite belgique, 30 jours déclaration créance, délai appel jugement
+  faillite, procès-verbaux vérification dates
+updated: '2026-05-15'
 ---
 # Les délais importants à ne pas manquer
 

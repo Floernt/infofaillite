@@ -3,7 +3,7 @@ description: Checklist pratique après le jugement de faillite - Ce qu'il faut f
   dans les 7 premiers jours et dans les premières semaines
 keywords: que faire après jugement faillite, checklist faillite belgique, premières
   actions faillite, priorités failli, semaine faillite
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # La checklist pratique pour la première semaine
 
