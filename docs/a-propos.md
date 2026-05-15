@@ -7,11 +7,13 @@ updated: '2026-05-13'
 ---
 # À propos
 
-## Ce guide
+## Pourquoi ce site
 
-**Info-Faillite** est un guide pratique sur la procédure de faillite en Belgique, destiné aux faillis, dirigeants d'entreprises en difficulté et créanciers.
+**Info-Faillite** est un guide pratique sur la procédure de faillite en Belgique, destiné aux faillis, aux dirigeants d'entreprises en difficulté, aux créanciers — et à tout praticien qui cherche une porte d'entrée claire dans le Livre XX.
 
-L'objectif est de rendre accessible une matière juridique complexe — sans jargon inutile, sans simplification excessive.
+Je l'ai construit parce que je suis convaincu qu'**une information juridique claire doit circuler librement et gratuitement**. Comprendre comment se déroule une faillite, ce que fait un curateur, ce qu'implique l'effacement des dettes : tout cela relève de la connaissance générale. Ça n'a pas à être verrouillé derrière une consultation, ni à se reconstruire péniblement à partir de forums et de bouts de jurisprudence.
+
+L'objectif du site, c'est donc de mettre la matière à plat, sans jargon inutile et sans simplification trompeuse, pour que chacun puisse au minimum **comprendre sa propre situation** avant d'aller, si nécessaire, chercher un conseil personnalisé.
 
 ---
 
@@ -19,45 +21,50 @@ L'objectif est de rendre accessible une matière juridique complexe — sans jar
 
 Ce guide repose sur :
 
-- **Livre XX du Code de droit économique** (CDE), articles XX.1 à XX.235
-- **Vademecum de la faillite** édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025)
-- La législation applicable aux faillites déclarées depuis le **1er septembre 2023** (réforme loi du 7 juin 2023)
-- La jurisprudence du **Tribunal de l'Entreprise de Liège-Verviers**
+- le **Livre XX du Code de droit économique** (CDE), articles XX.1 à XX.235 ;
+- le **Vademecum de la faillite** édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025) ;
+- la législation applicable aux faillites déclarées depuis le **1er septembre 2023** (réforme issue de la loi du 7 juin 2023).
 
 ---
 
 ## Auteur
 
-**Florian Ernotte**
+<img src="https://avroy.be/wp-content/uploads/2026/03/Avroy-avocats-3-scaled.jpg" alt="Florian Ernotte, avocat" width="160" style="float: right; margin: 0 0 1rem 1.5rem; border-radius: 4px;" />
 
-Avocat et praticien du droit de l'insolvabilité, basé en Belgique.
+**Florian Ernotte**, avocat, praticien du droit de l'insolvabilité.
 
-Ce guide a été élaboré à partir de la documentation officielle des tribunaux de l'entreprise belges, avec pour objectif de fournir une ressource de référence fiable, à jour et librement accessible.
+Je rédige et tiens à jour Info-Faillite à titre personnel, à partir de la documentation officielle des tribunaux de l'entreprise belges et de ma propre pratique des dossiers de faillite.
+
+L'objectif n'est pas de remplacer un avocat, ni de remplacer le curateur. C'est de fournir une **ressource de référence fiable, à jour et librement accessible**, à laquelle on peut renvoyer un client, un proche ou un confrère sans devoir tout réexpliquer à zéro.
 
 ---
 
-## Avertissement
+## Information gratuite, conseil payant
 
-Ce guide fournit des informations générales sur la procédure de faillite en Belgique. Il ne constitue **pas un conseil juridique personnalisé**.
+Le contenu de ce site est **libre, gratuit, sans inscription et sans suivi commercial**. On peut le lire, le citer, en renvoyer un lien à quelqu'un : c'est fait pour.
 
-Pour toute situation spécifique, consultez :
+En revanche, dès qu'il s'agit d'**analyser une situation précise** — lire des pièces, arbitrer entre plusieurs options, défendre un dossier devant le tribunal — on sort du champ de l'information générale pour entrer dans celui du conseil juridique. C'est un travail personnalisé, qui engage la responsabilité de l'avocat et qui se rémunère.
 
-- Votre curateur (coordonnées sur [REGSOL](https://www.regsol.be))
-- Un avocat spécialisé en droit de l'insolvabilité
-- Le juge-commissaire de votre dossier
+Ce guide, à lui seul, ne constitue donc **pas un conseil juridique personnalisé**. Pour une situation propre, on peut se tourner vers :
+
+- son **curateur** (coordonnées sur [REGSOL](https://www.regsol.be) dès le lendemain du jugement) ;
+- un **avocat spécialisé en droit de l'insolvabilité** — voir [Ressources et organismes utiles](ressources.md) et, pour les revenus limités, le bureau d'aide juridique ;
+- le **juge-commissaire** désigné dans le jugement, pour les questions de procédure.
+
+Pour organiser une consultation directement avec moi, voir la [page Contact](contact.md).
 
 ---
 
 ## Mise à jour
 
-**Dernière mise à jour** : Avril 2026
+Le site est tenu à jour en continu ; la date affichée en pied de chaque page reflète sa dernière révision.
 
-**Base légale** : Livre XX CDE modifié par la loi du 7 juin 2023
+**Base légale de référence** : Livre XX CDE, modifié par la loi du 7 juin 2023.
 
-La législation peut évoluer. Vérifiez toujours l'actualité des informations pour votre situation.
+La législation et la jurisprudence évoluent. Avant d'agir sur une situation précise, vérifier que l'information consultée est toujours d'actualité, et au besoin la confronter à un avis professionnel.
 
 ---
 
 ## Utilisation du contenu
 
-Le contenu de ce site est librement consultable. Toute reproduction ou citation doit mentionner la source : **infofaillite.be**.
+Le contenu d'Info-Faillite est librement consultable et peut être cité. Toute reproduction ou citation doit mentionner la source : **infofaillite.be**.
