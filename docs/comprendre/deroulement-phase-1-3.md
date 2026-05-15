@@ -102,9 +102,8 @@ Le courrier professionnel adressé au failli peut être automatiquement redirig�
 | Confirmation du curateur sur REGSOL | 1er jour ouvrable | Curateur |
 | Descente de faillite | 1 à 7 jours | Curateur + Juge-commissaire |
 | Blocage des comptes bancaires | 1 à 5 jours | Curateur |
-| Déclaration des créances | 30 jours  | Créanciers |
-| Déclaration des sûretés personnelles (cautions) | 3 mois  | Créanciers |
-| Mémoire initial du curateur | 2 mois  | Curateur |
+| Déclaration des créances | 30 jours | Créanciers |
+| Mémoire initial du curateur | 2 mois | Curateur |
 
 ---
 

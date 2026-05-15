@@ -93,7 +93,6 @@ Pour les détails sur les clauses de réserve de propriété et les autres sûre
 | Action | Délai | Point de départ |
 |---|---|---|
 | Déclaration de créance | 30 jours (1 an maximum) | Jugement de faillite |
-| Déclaration de sûreté personnelle (caution) | 3 mois | Jugement de faillite |
 | Contredit contre une créance admise | 1 mois | Publication du procès-verbal |
 | Appel d'un jugement | 1 mois | Prononcé du jugement |
 | Action en responsabilité contre les dirigeants | 3 ans | Clôture de la faillite |

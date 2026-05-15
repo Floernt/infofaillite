@@ -18,7 +18,7 @@ Votre client, locataire ou partenaire commercial a été déclaré en faillite ?
 
 La déclaration de créance est la démarche la plus importante. Sans elle, vous ne pouvez pas être payé, quelle que soit la validité de votre dette. Vous devez déclarer via [REGSOL](https://www.regsol.be) ou par courrier recommandé au curateur dont les coordonnées figurent sur REGSOL. La déclaration doit mentionner le montant exact, la cause de la dette, toutes vos garanties éventuelles (hypothèque, gage, privilège) et l'IBAN sur lequel vous souhaitez recevoir votre dividende.
 
-Si votre créance est garantie par une caution — une personne qui s'est portée garante personnellement —, vous avez un délai distinct de trois mois pour déclarer cette sûreté personnelle. Si vous l'oubliez, la caution est automatiquement déchargée.
+Si votre créance est garantie par une caution, votre droit contre elle subsiste indépendamment de la procédure de faillite, sans délai spécifique ni décharge automatique liée à un défaut de mention. Il reste utile de mentionner la caution dans votre déclaration de créance pour assurer le suivi des paiements partiels et leur imputation correcte sur votre créance admise.
 
 ---
 

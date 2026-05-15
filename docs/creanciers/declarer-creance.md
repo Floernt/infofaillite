@@ -85,7 +85,7 @@ Vous pouvez modifier votre déclaration après envoi, à condition de contacter 
 
 **Oublier de mentionner les garanties.** Si vous oubliez de déclarer une hypothèque, un gage ou un privilège, vous perdez votre rang préférentiel et devenez créancier chirographaire ordinaire.
 
-**Ne pas déclarer les cautions dans les trois mois.** Le délai pour déclarer les sûretés personnelles est distinct du délai pour la créance principale. Pour tout le détail sur ce mécanisme, lisez [les sûretés et cautions dans la faillite](suretes-cautions.md).
+**Oublier de mentionner une caution.** Il n'y a pas de délai spécifique pour la mention et aucune décharge automatique attachée à son absence, mais mentionner la caution dans votre déclaration permet au curateur de suivre les paiements partiels et de les imputer correctement sur votre créance admise. Pour le régime des cautions, lisez [les sûretés et cautions dans la faillite](suretes-cautions.md).
 
 **Ne pas communiquer son IBAN.** Le dividende est versé par virement. Sans IBAN, le paiement sera retardé et le montant éventuellement consigné.
 

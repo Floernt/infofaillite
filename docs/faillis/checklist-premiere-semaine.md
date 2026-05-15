@@ -72,7 +72,7 @@ Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéfi
 
 ### Informez vos proches ou associés qui se sont portés caution
 
-Si des membres de votre famille, des amis ou des associés se sont portés caution pour vos dettes professionnelles, informez-les immédiatement. Ils doivent savoir que l'effacement de vos dettes ne les libère pas automatiquement. En revanche, si un créancier omet de déclarer sa sûreté personnelle (la caution) dans les trois mois suivant le jugement, la caution est automatiquement déchargée. Pour les détails, lisez [l'effacement automatique des dettes](effacement.md).
+Si des membres de votre famille, des amis ou des associés se sont portés caution pour vos dettes professionnelles, informez-les immédiatement. Ils doivent savoir que l'effacement de vos dettes ne les libère pas automatiquement : les créanciers peuvent continuer à les poursuivre après la clôture. Deux mécanismes peuvent néanmoins les libérer : la cohabitation depuis plus de six mois avec vous pour le conjoint ou cohabitant légal, et la décharge judiciaire pour cautionnement manifestement disproportionné. Pour les détails, lisez [l'effacement automatique des dettes](effacement.md).
 
 ### Consultez les ressources d'aide disponibles
 
