@@ -1,8 +1,10 @@
 ---
-description: Les alternatives à la faillite en Belgique - Réorganisation judiciaire,
-  liquidation volontaire, dissolution judiciaire ASBL, négociation amiable - Comparaison
-  et choix
-keywords: éviter faillite belgique, réorganisation judiciaire vs faillite, liquidation
+description: Les alternatives à la faillite en Belgique - Réorganisation judiciaire
+  (mesures amiables, PRJ privée, PRJ publique, régime des grandes entreprises),
+  liquidation volontaire, dissolution judiciaire ASBL - Comparaison et choix après
+  la réforme de 2023
+keywords: éviter faillite belgique, réorganisation judiciaire vs faillite, PRJ privée,
+  PRJ publique, mesures amiables insolvabilité, réforme PRJ 2023, liquidation
   volontaire belgique, alternatives faillite, prévention insolvabilité belgique
 updated: '2026-05-13'
 ---
@@ -16,41 +18,51 @@ La faillite n'est pas la seule issue pour une entreprise en difficulté. Selon l
 
 ### Qu'est-ce que c'est ?
 
-La réorganisation judiciaire (Livre XX, Titre VI du Code de droit économique) est la grande alternative à la faillite. C'est une procédure préventive — elle s'adresse aux entreprises en difficulté qui ne sont pas encore en état de faillite déclaré. Son objectif est de sauver l'activité, les emplois et la valeur économique, là où la faillite se contente de liquider.
+La [réorganisation judiciaire](https://florianernotte.be/matieres/prj/) (Livre XX, Titre V du Code de droit économique) est la grande alternative à la faillite. C'est une procédure préventive — elle s'adresse aux entreprises en difficulté dont la continuité est menacée, mais qui ne sont pas encore en état de faillite déclaré. Son objectif est de sauver l'activité, les emplois et la valeur économique, là où la faillite se contente de liquider.
 
-La RJ accorde au débiteur un sursis de paiement pendant lequel il est protégé des poursuites individuelles de ses créanciers. Ce répit lui permet de négocier un plan d'apurement avec ses créanciers, de trouver un investisseur ou un repreneur, ou d'organiser un transfert d'activité.
+Selon la voie choisie, le débiteur peut bénéficier d'un sursis de paiement qui le protège des poursuites individuelles de ses créanciers. Ce répit permet de négocier un plan d'apurement, de trouver un investisseur ou un repreneur, ou de restructurer la dette de manière confidentielle.
+
+### La réforme du 7 juin 2023 : un paysage entièrement reconfiguré
+
+Depuis l'entrée en vigueur de la loi du 7 juin 2023 (transposition de la directive européenne 2019/1023), applicable depuis le 1er septembre 2023, le paysage de la réorganisation judiciaire a été profondément remanié. Quatre voies coexistent désormais — confidentielles ou publiques, souples ou contraignantes — chacune calibrée pour un profil de difficulté différent. Par ailleurs, le **transfert sous autorité de justice** n'est plus une modalité de la PRJ : il est devenu une procédure de liquidation distincte. Le choix de la bonne voie est devenu une question stratégique qui mérite généralement [l'analyse d'un avocat spécialisé en insolvabilité](https://florianernotte.be/matieres/prj/).
 
 ### Qui peut y avoir recours ?
 
-Toute entreprise au sens du Livre XX — commerçants, sociétés commerciales, professions libérales — peut demander une RJ à condition d'être en continuité menacée mais pas encore en cessation de paiements durables. Si l'état de faillite est déjà avéré, la RJ est irrecevable.
+Toute entreprise au sens du Livre XX — entreprises au sens large (anciennement commerçants), sociétés, professions libérales, ASBL — peut demander une procédure de réorganisation à condition que la continuité de l'entreprise soit menacée. Si l'état de faillite est déjà avéré, la PRJ peut, sous certaines conditions, être envisagées ; les mesures amiables et la PRJ privée peuvent eaussi être envisagées dans certains cas, mais la fenêtre se referme.
 
-### Les trois voies de la réorganisation judiciaire
+### Les quatre voies de la réorganisation
 
-**L'accord amiable** est la voie la plus souple. Le débiteur négocie confidentiellement avec deux créanciers au moins, sous la supervision d'un médiateur désigné par le tribunal, pour conclure un accord d'apurement. La procédure est discrète et rapide, mais l'accord ne lie que les créanciers signataires.
+**[Les mesures amiables](https://florianernotte.be/matieres/prj/mesures-amiables/)** regroupent la médiation, l'accord amiable extrajudiciaire et l'accord collectif extrajudiciaire. Renforcées par la réforme de 2023, elles permettent de restructurer la dette en toute confidentialité, sans publication au Moniteur belge ni audience publique — même lorsque l'accord est ultérieurement homologué. Elles conviennent aux entreprises qui veulent agir tôt, préserver leur image commerciale, et négocier avec un nombre limité de créanciers stratégiques. L'accord ne lie que les créanciers signataires.
 
-**L'accord collectif** permet d'imposer un plan d'apurement à l'ensemble des créanciers chirographaires, à condition qu'une majorité en nombre et en montant le valide. Le tribunal homologue le plan, qui devient obligatoire pour tous les créanciers visés — même les opposants.
+**[La PRJ privée](https://florianernotte.be/prj-privee/)** est la grande nouveauté de la réforme 2023. Elle ouvre une procédure judiciaire entièrement confidentielle, sans publication au Moniteur belge ni audience publique, dans laquelle seuls les créanciers impliqués dans les négociations sont informés. Son principal compromis : elle **ne suspend pas automatiquement les poursuites** de l'ensemble des créanciers — les créanciers non impliqués conservent leurs droits d'exécution. Elle convient aux difficultés financières précoces, lorsque la situation reste gérable et la crédibilité commerciale intacte.
 
-**Le transfert sous autorité de justice** permet de céder tout ou partie de l'activité à un repreneur, de manière organisée et sous contrôle judiciaire, afin de préserver les emplois et la valeur économique. Contrairement au going concern en faillite, le débiteur garde davantage de contrôle sur le processus.
+**[La PRJ publique](https://florianernotte.be/prj-publique/)** est la procédure historique, ouverte par le tribunal de l'entreprise et publiée. Elle offre un **moratoire général** sur l'ensemble des poursuites, d'une durée initiale de **quatre mois**, prorogeable mais strictement encadrée par la réforme de 2023. Dans ce cadre, le débiteur peut négocier un accord amiable judiciaire ou un accord collectif (plan d'apurement homologué imposable aux créanciers minoritaires). C'est la voie indiquée lorsque la pression des créanciers est forte et qu'un moratoire général est indispensable pour structurer la restructuration.
+
+**[Le régime spécial des grandes entreprises](https://florianernotte.be/grandes-entreprises/)** s'applique aux entreprises qui dépassent au moins deux des trois seuils : 50 travailleurs ETP, 4,5 M€ de total bilantaire, 9 M€ de chiffre d'affaires hors TVA. Inspiré du droit américain et de la directive 2019/1023, il organise un vote par **classes de créanciers** (gagistes, chirographaires, subordonnés, etc.) et permet un **cram-down inter-classes** — l'homologation judiciaire d'un plan malgré l'opposition d'une ou plusieurs classes, sous conditions strictes de priorité et de soutien d'au moins une classe. Les PME peuvent volontairement opter pour ce régime lorsque la structure de leur passif le justifie, par exemple.
 
 ### La durée et les conditions
 
-Le sursis initial est accordé pour six mois, renouvelable jusqu'à dix-huit mois au maximum. Pendant cette période, le débiteur est protégé : aucun créancier ne peut le poursuivre ou le saisir. En contrepartie, le débiteur doit collaborer avec le praticien de la réorganisation nommé par le tribunal, qui surveille les opérations et reporte au tribunal.
+Le sursis attaché à la **PRJ publique** est désormais accordé pour une durée initiale de **quatre mois**, les prorogations étant strictement encadrées. Pendant cette période, le débiteur est protégé : aucun créancier visé par le moratoire ne peut le poursuivre ou le saisir.
+
+La **PRJ privée** et les **mesures amiables** ne comportent pas de moratoire général : les négociations ont lieu créancier par créancier, dans la confidentialité, sans suspension automatique des poursuites des autres créanciers.
 
 !!! warning "Si la réorganisation judiciaire échoue"
-    Si le plan d'apurement est rejeté par les créanciers, si le transfert ne se réalise pas dans les délais, ou si le débiteur manque à ses obligations pendant le sursis, le tribunal peut mettre fin à la procédure et prononcer la faillite d'office.
+    Si le plan d'apurement est rejeté par les créanciers, si la procédure ne débouche sur aucun accord dans les délais, ou si le débiteur manque à ses obligations pendant le sursis, le tribunal peut mettre fin à la procédure et prononcer la faillite d'office. C'est l'une des raisons pour lesquelles il est nécessaire de préparer son dossier avec [un avocat spécialisé](https://florianernotte.be/matieres/prj/) avant le dépôt de la requête.
 
-### RJ ou faillite — comment choisir ?
+### PRJ ou faillite — comment choisir ?
 
 | Critère | Réorganisation judiciaire | Faillite |
 |---|---|---|
-| Stade des difficultés | Avant la cessation de paiements | État de faillite avéré |
-| Objectif | Sauver l'activité | Liquider les actifs |
+| Stade des difficultés | Continuité menacée, avant la cessation de paiements durable | État de faillite avéré |
+| Objectif | Sauver l'activité, restructurer la dette | Liquider les actifs |
 | Sort du dirigeant | Reste aux commandes (supervisé) | Dessaisi |
+| Confidentialité | Possible (mesures amiables, PRJ privée) | Procédure publique |
+| Moratoire général | Oui en PRJ publique (4 mois, prorogeable) ; non en PRJ privée (sauf exceptions) et en mesures amiables | Sans objet — actifs liquidés |
 | Effacement des dettes | Non (plan d'apurement) | Oui (personnes physiques) |
-| Durée | 6 à 18 mois | 6 mois à 4 ans |
-| Coût | Honoraires praticien | Honoraires curateur |
+| Durée | 4 mois (sursis PRJ publique) à plusieurs mois selon la voie | 6 mois à plusieurs années |
+| Coût | Honoraires praticien / médiateur | Honoraires curateur |
 
-La réorganisation judiciaire n'a de sens que si l'activité est économiquement viable et qu'un accord avec les créanciers est réellement possible. Si les dettes sont insolvables quelle que soit la durée du plan, la faillite offre la seule perspective d'un véritable nouveau départ grâce à l'effacement automatique.
+La réorganisation judiciaire n'a de sens que si l'activité est économiquement viable et qu'un accord avec les créanciers est réellement possible. Si l'entreprise est insolvable quelle que soit la durée du plan, la faillite offre la seule perspective d'un véritable nouveau départ grâce à l'effacement automatique (pour la personne physique). Pour un diagnostic adapté à la situation concrète de votre entreprise, [un avocat spécialisé en réorganisation judiciaire](https://florianernotte.be/matieres/prj/) peut comparer les quatre voies et arbitrer entre PRJ et faillite.
 
 ---
 
@@ -58,23 +70,13 @@ La réorganisation judiciaire n'a de sens que si l'activité est économiquement
 
 ### Principe
 
-Une société dont les associés décident de mettre fin à son existence peut se dissoudre volontairement, sans passer par la faillite, à condition que la situation financière soit saine ou du moins que l'actif soit suffisant pour couvrir le passif.
+Une société dont les associés décident de mettre fin à son existence peut se dissoudre volontairement, sans passer par la faillite, à condition que la situation financière soit saine ou du moins que l'actif soit suffisant pour couvrir le passif. Il est possible de liquider volontairement une entreprise dont la liquidation semble déficitaire mais dans ce cadre, des règles plus strictes sont à respecter.
 
 La dissolution est décidée en assemblée générale à la majorité requise par les statuts (généralement les trois quarts). Les associés désignent un liquidateur — qui peut être l'un d'eux ou un tiers —, qui inventorie les actifs, vend les biens, rembourse les créanciers et distribue le solde éventuel entre les associés.
 
 ### Différences clés avec la faillite
 
-La liquidation volontaire est décidée par les associés, pas imposée par le tribunal. Le liquidateur est choisi par eux. Il n'y a pas de dessaisissement, pas de juge-commissaire, pas de suspension automatique des poursuites. L'absence de dettes impayées ou l'existence d'un actif net suffisant sont les conditions implicites : si les dettes excèdent les actifs, le liquidateur a l'obligation de demander la faillite.
-
-La liquidation volontaire ne donne pas droit à l'effacement des dettes — parce qu'il n'y a normalement pas de dettes résiduelles dans une liquidation régulièrement conduite.
-
----
-
-## La dissolution judiciaire d'une ASBL
-
-Les associations sans but lucratif ne peuvent pas être déclarées en faillite. Lorsqu'une ASBL est insolvable ou a cessé toute activité sans se conformer à ses obligations légales, le tribunal de l'entreprise peut prononcer sa dissolution judiciaire à la demande du ministère public, d'un membre, d'un créancier ou de toute personne intéressée.
-
-Le tribunal désigne un liquidateur judiciaire qui liquide les actifs selon les règles qui s'appliquent à la dissolution. Si le passif excède l'actif, les dettes subsistantes restent à charge des organes de l'ASBL dans les cas prévus par la loi. Il n'y a pas d'effacement automatique.
+La liquidation volontaire est décidée par les associés, pas imposée par le tribunal. Le liquidateur est choisi par eux. Il y a dessaisissement au bénéfice du liquidateur mais pas de juge-commissaire. 
 
 ---
 
@@ -86,38 +88,22 @@ La solution la plus simple et la moins coûteuse est la négociation directe. Si
 
 Cette approche fonctionne mieux lorsque le nombre de créanciers est limité, que les montants sont raisonnables, et que les difficultés sont clairement temporaires et explicables. Un comptable ou un conseiller financier peut vous aider à structurer la démarche et à présenter un plan crédible.
 
-### La médiation de dettes pour les indépendants
-
-Pour les indépendants et les personnes physiques qui ne peuvent plus faire face à leurs dettes professionnelles et personnelles, des services de médiation de dettes — CPAS, organismes d'aide agréés — peuvent intervenir pour faciliter la négociation avec les créanciers et mettre en place un plan d'apurement adapté à la situation réelle.
-
 ---
 
 ## Comment choisir la bonne procédure
 
 Le choix dépend d'abord de votre situation concrète :
 
-**L'activité est économiquement viable mais vous traversez une crise de trésorerie.** La réorganisation judiciaire est faite pour vous. Agissez tôt, avant d'atteindre la cessation de paiements, pour avoir accès à tous ses outils.
+**L'activité est économiquement viable mais vous traversez une crise de trésorerie.** La réorganisation judiciaire est faite pour vous. Agissez tôt, avant d'atteindre la cessation de paiements, pour avoir accès à tous ses outils — confidentiels ([mesures amiables](https://florianernotte.be/matieres/prj/mesures-amiables/), [PRJ privée](https://florianernotte.be/prj-privee/)) ou avec moratoire ([PRJ publique](https://florianernotte.be/prj-publique/)).
 
 **Vous avez cessé de payer vos dettes de façon durable et le crédit est rompu.** Vous êtes en état de faillite. La réorganisation judiciaire n'est plus accessible. Déposez l'aveu au plus vite pour préserver votre droit à l'effacement des dettes.
 
-**Vous souhaitez fermer votre société de manière ordonnée alors que la situation est équilibrée.** La liquidation volontaire est la voie appropriée — moins contraignante, moins coûteuse, sans intervention judiciaire lourde.
+**Vous souhaitez fermer votre société de manière ordonnée alors que la situation est équilibrée.** La liquidation volontaire est la voie appropriée sans intervention judiciaire lourde.
 
-**Vous êtes indépendant avec des dettes ingérables.** La faillite vous donnera accès à l'effacement automatique de vos dettes professionnelles à la clôture, vous permettant un véritable nouveau départ.
+**Vous êtes indépendant avec des dettes ingérables.** La faillite vous donnera accès à l'effacement automatique de vos dettes à la clôture, vous permettant un véritable nouveau départ.
 
 !!! tip "Agissez le plus tôt possible"
-    Le principal regret des entrepreneurs en difficulté est d'avoir attendu trop longtemps avant d'agir. Plus tôt vous consultez un avocat spécialisé en insolvabilité, plus vous avez d'options. Passé l'état de faillite avéré, les alternatives disparaissent une à une.
-
----
-
-## Ressources d'accompagnement
-
-Plusieurs organismes peuvent vous aider à choisir la bonne procédure et à vous y préparer :
-
-- [Unizo](https://www.unizo.be) — accompagnement des indépendants en difficulté (Flandre)
-- [UCM](https://www.ucm.be) — accompagnement des indépendants et PME (Wallonie et Bruxelles)
-- [1819](https://www.1819.brussels) — conseil aux entrepreneurs, Bruxelles
-- [Netwerk Ondernemen](https://www.netwerk-ondernemen.be) — réseau d'accompagnement entrepreneurial
-- [CESAM](https://www.cesam.be) — gestion et prévention des difficultés d'entreprises
+    Le principal regret des entrepreneurs en difficulté est d'avoir attendu trop longtemps avant d'agir. Plus tôt vous consultez [un avocat spécialisé en insolvabilité et en réorganisation judiciaire](https://florianernotte.be/matieres/prj/), plus vous avez d'options. Passé l'état de faillite avéré, les alternatives disparaissent une à une.
 
 ---
 
@@ -128,3 +114,11 @@ Plusieurs organismes peuvent vous aider à choisir la bonne procédure et à vou
 - [L'effacement automatique des dettes à la clôture](../faillis/effacement.md)
 - [Reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md)
 - [Les délais importants à ne pas manquer](../delais.md)
+
+### Approfondir la réorganisation judiciaire après la réforme 2023
+
+- [La procédure de réorganisation judiciaire — vue d'ensemble](https://florianernotte.be/matieres/prj/) (florianernotte.be)
+- [Les mesures amiables en insolvabilité](https://florianernotte.be/matieres/prj/mesures-amiables/) (florianernotte.be)
+- [La PRJ privée — réorganisation confidentielle](https://florianernotte.be/prj-privee/) (florianernotte.be)
+- [La PRJ publique — obtenir un moratoire pour restructurer](https://florianernotte.be/prj-publique/) (florianernotte.be)
+- [Le régime spécial de PRJ pour les grandes entreprises](https://florianernotte.be/grandes-entreprises/) (florianernotte.be)
