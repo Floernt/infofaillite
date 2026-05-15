@@ -13,7 +13,7 @@ Pour les personnes physiques déclarées en faillite, l'effacement des dettes es
 
 ## Le principe : automatique et sans demande
 
-L'effacement intervient au moment du jugement de clôture. Vous n'avez aucune procédure à lancer, aucun formulaire à remplir, aucun frais à payer. Dès que le tribunal prononce la clôture, vous êtes libéré de toutes les dettes concernées. Les créanciers ne peuvent plus vous poursuivre pour les montants effacés, et vos revenus futurs ne peuvent plus être saisis au titre de ces anciennes dettes.
+L'effacement intervient au moment de la clôture, mais il ne se confond pas avec elle : le tribunal statue sur votre effacement par une **décision distincte** du jugement de clôture, prononcée le même jour ou peu après. Cette décision propre vous concerne personnellement en tant que personne physique, là où le jugement de clôture met fin à la procédure collective elle-même. Vous n'avez aucune procédure à lancer, aucun formulaire à remplir, aucun frais à payer. Dès que le tribunal prononce l'effacement, vous êtes libéré de toutes les dettes concernées. Les créanciers ne peuvent plus vous poursuivre pour les montants effacés, et vos revenus futurs ne peuvent plus être saisis au titre de ces anciennes dettes.
 
 Ce bénéfice n'est cependant pas automatiquement garanti : le tribunal peut le refuser à la demande du procureur du Roi, du curateur, d'un créancier impayé ou d'office, en cas de fautes graves et caractérisées ayant contribué à la faillite. Voir plus bas : [Quand l'effacement peut-il être refusé ?](#quand-leffacement-peut-il-etre-refuse).
 
@@ -25,13 +25,15 @@ C'est une rupture nette avec le passé. Elle vous permet de repartir sur de nouv
 
 L'effacement s'applique uniquement aux **personnes physiques** : les indépendants, les artisans, les professions libérales qui exercent en nom propre. Les sociétés (SRL, SA, SNC, etc.) n'en bénéficient pas : leurs dettes restent dues après la clôture, même si la société est dissoute.
 
-Si vous étiez gérant ou administrateur d'une société faillie, vous pouvez bénéficier de l'effacement pour vos engagements personnels — comme les cautions personnelles que vous avez données — sauf si vous êtes condamné pour comblement de passif.
+Si vous étiez gérant ou administrateur d'une société faillie, **vous ne bénéficiez pas de l'effacement** : c'est la société qui est en faillite, pas vous. Vos engagements personnels — cautions données aux banques ou aux fournisseurs, codébitions solidaires, prêts personnels injectés dans l'entreprise — restent intégralement à votre charge après la clôture. Si vous êtes en outre condamné en [comblement de passif](../comprendre/liquidation-actifs.md) ou en responsabilité au titre du Code des sociétés et des associations (manquements au CSA, sonnette d'alarme, poursuite déraisonnable d'une activité déficitaire), cette condamnation s'ajoute à vos dettes personnelles. 
+
+L'effacement de l'article XX.173 est réservé au failli personne physique ; le seul moyen d'y accéder en tant que dirigeant de société faillie est d'être vous-même déclaré en faillite à titre personnel, lorsque les conditions en sont réunies (généralement à raison d'une activité indépendante distincte).
 
 ---
 
 ## Quelles dettes sont effacées ?
 
-Sont effacées à la clôture toutes les dettes commerciales et professionnelles encore impayées : factures fournisseurs, prêts bancaires professionnels, dettes fiscales (TVA, impôts sur les revenus de l'activité), cotisations sociales (ONSS), loyers commerciaux, acomptes de clients non remboursés. Les prêts personnels que vous avez contractés et utilisés pour financer votre activité, ainsi que les cautions personnelles données pour l'entreprise, entrent également dans le champ de l'effacement.
+Sont effacées à la clôture toutes les dettes encore impayées que vous portiez personnellement : factures fournisseurs, prêts bancaires professionnels, dettes fiscales (TVA, impôts sur les revenus de l'activité), cotisations sociales (ONSS), loyers commerciaux, acomptes de clients non remboursés. Les dettes "privées" et personnelles que vous avez contractés entrent également dans le champ de l'effacement.
 
 Certaines dettes échappent toutefois à l'effacement :
 
@@ -52,7 +54,7 @@ Certaines dettes échappent toutefois à l'effacement :
 
 ## Votre conjoint ou cohabitant en bénéficie aussi
 
-L'article XX.173§5 étend le bénéfice de l'effacement à votre conjoint ou cohabitant légal, à condition qu'il soit codébiteur ou garant des dettes professionnelles concernées et que vous cohabitiez ensemble depuis plus de six mois avant le jugement de faillite. Si votre régime matrimonial implique une communauté de biens, cette condition est généralement remplie.
+L'article XX.173 étend le bénéfice de l'effacement à votre conjoint ou cohabitant légal, à condition qu'il soit codébiteur ou garant des dettes professionnelles concernées et que vous cohabitiez ensemble depuis plus de six mois avant le jugement de faillite. 
 
 En revanche, si la cohabitation est inférieure à six mois avant la faillite, ou si votre conjoint est en séparation de biens totale et n'a souscrit aucun engagement personnel, il ne bénéficie pas de l'effacement.
 
@@ -71,13 +73,15 @@ Deux mécanismes peuvent néanmoins libérer une caution. D'une part, le conjoin
 
 Le tribunal peut refuser totalement ou partiellement l'effacement si vous avez commis des **fautes graves et caractérisées** ayant contribué à la faillite. Ces fautes peuvent concerner la comptabilité (absence totale, falsification, destruction de documents), la gestion (poursuite d'une activité manifestement déficitaire sans espoir raisonnable, prélèvements excessifs, train de vie somptuaire financé par l'entreprise), les paiements (non-paiement systématique des cotisations ONSS et de la TVA, paiements préférentiels de certains créanciers en période suspecte), ou les actifs (détournement, ventes à prix dérisoire à des proches, dilapidation du patrimoine).
 
-Les faillites répétées — deux, trois, quatre faillites successives — ou des condamnations pour banqueroute frauduleuse sont également des motifs de refus.
+Les faillites répétées — deux, trois, quatre faillites successives — ou des condamnations pénales liées à la gestion de l'entreprise (organisation frauduleuse d'insolvabilité, abus de biens sociaux, faux comptables, etc.) sont également des motifs de refus.
 
 Le refus peut être total (toutes vos dettes restent dues) ou partiel (seule une catégorie ou un montant spécifique reste dû). La demande de refus peut être formulée par le curateur, le procureur du Roi, un créancier impayé, ou soulevée d'office par le tribunal. Le délai pour une demande préventive est de quatre ans après le jugement déclaratif ; après la publication du jugement de clôture, le délai pour former une tierce opposition est de trois mois.
 
 ### La requête en refus d'effacement
 
-Le refus n'est jamais prononcé automatiquement par le tribunal : il faut qu'une partie en fasse la demande, ou que le tribunal s'en saisisse d'office. **Quatre voies** mènent à un examen du refus.
+Le refus n'est jamais prononcé automatiquement par le tribunal : il faut qu'une partie en fasse la demande. 
+
+**Trois voies** mènent à un examen du refus.
 
 Le **procureur du Roi** (le parquet) est l'acteur central. Il peut déposer une **requête en refus d'effacement** devant le tribunal de l'entreprise lorsqu'il estime qu'une faute grave et caractérisée a contribué à la faillite. Cette requête peut être déposée à tout moment de la procédure, jusqu'à quatre ans après le jugement déclaratif. Elle est généralement motivée par les éléments transmis au parquet par le curateur dans son rapport sur les causes de la faillite, ou par une plainte qui aboutit à un signalement.
 
@@ -85,11 +89,8 @@ Le **curateur** peut lui aussi former une demande, dans le cadre de son rapport 
 
 Un **créancier impayé** peut former une demande individuelle s'il dispose d'éléments concrets démontrant une faute grave. Cette voie reste rare en pratique parce qu'elle suppose une connaissance approfondie du dossier.
 
-Enfin, le **tribunal de l'entreprise** peut soulever la question d'office, sur la base des éléments versés au dossier.
 
 Dans tous les cas, le tribunal organise une **audience contradictoire** à laquelle vous êtes convoqué. La représentation par un avocat n'est pas obligatoire mais est fortement recommandée — c'est votre statut futur de débiteur libéré qui est en jeu. L'audience porte exclusivement sur la matérialité des fautes invoquées et leur lien causal avec la faillite. Si le tribunal écarte la requête, votre droit à l'effacement est confirmé ; s'il l'accueille, le refus peut être total ou partiel selon la gravité.
-
-Après le jugement de clôture, le seul recours subsiste est la **tierce opposition** dans les trois mois suivant la publication. Au-delà, l'effacement est définitif.
 
 ---
 
@@ -100,7 +101,7 @@ La réponse tient en deux mots : collaboration et transparence. Coopérez active
 !!! tip "Reconnaître ses erreurs joue en votre faveur"
     Si vous avez commis des erreurs de gestion, il vaut mieux les reconnaître et les expliquer clairement — crise économique, impayés clients en cascade, inexpérience, maladie — plutôt que de les minimiser ou les cacher. L'honnêteté et la bonne foi sont des facteurs que le tribunal prend concrètement en compte.
 
-À l'inverse, cacher des actifs, vendre des biens à bas prix à des proches juste avant la faillite, retirer de l'argent des comptes professionnels après le jugement, ou refuser de collaborer avec le curateur sont autant de comportements qui risquent de vous faire perdre le bénéfice de l'effacement.
+À l'inverse, cacher des actifs, vendre des biens à bas prix à des proches juste avant la faillite, retirer de l'argent des comptes après le jugement, ou refuser de collaborer avec le curateur sont autant de comportements qui risquent de vous faire perdre le bénéfice de l'effacement.
 
 ---
 
@@ -117,9 +118,15 @@ Après l'effacement, aucun créancier ne peut plus vous réclamer les dettes con
 
 **Les dettes fiscales sont-elles effacées ?** Oui, les dettes de TVA et d'impôts sur les revenus de l'activité faillie sont effacées à la clôture, sauf refus partiel du tribunal. En revanche, les nouvelles dettes fiscales liées aux revenus que vous générez après le jugement restent entièrement à votre charge.
 
-**Mes dettes personnelles non liées à l'activité sont-elles effacées ?** Cela dépend du lien avec l'activité. Un prêt personnel que vous avez injecté dans votre entreprise entre en principe dans le champ de l'effacement. Un crédit consommation contracté pour des achats privés est, en principe, hors champ. En pratique, la frontière est souvent floue et le tribunal apprécie au cas par cas.
+**Mes dettes personnelles non liées à l'activité sont-elles effacées ?** Oui pour les personnes physiques en faillite. Un crédit consommation contracté pour des achats privés est une dette dans la masse faillie. 
 
 **Puis-je refuser l'effacement ?** Non. L'effacement est automatique et d'ordre public. Vous ne pouvez pas y renoncer formellement. Vous pouvez toutefois, de votre propre initiative, rembourser volontairement vos anciens créanciers après la clôture — mais vous n'y êtes juridiquement pas tenu.
+
+---
+
+## Un doute sur votre situation ?
+
+Une dette particulière dont vous ne savez pas si elle sera effacée, une crainte de refus dans votre cas, un point que cette page n'éclaire pas suffisamment ? [Posez votre question via la page de contact](../contact.md) — les questions reçues nourrissent les prochaines révisions du guide.
 
 ---
 
