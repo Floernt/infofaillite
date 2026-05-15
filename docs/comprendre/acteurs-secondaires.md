@@ -46,7 +46,7 @@ Indépendamment de toute poursuite pénale, le procureur peut demander au tribun
 Le procureur du Roi peut également déposer une requête en refus d'effacement des dettes lorsqu'un failli personne physique a commis des fautes graves et caractérisées ayant contribué à la faillite. Cette requête est l'arme procédurale principale du parquet pour empêcher la « seconde chance » dans les dossiers qui ne le méritent pas. Voir [l'effacement des dettes](../faillis/effacement.md#la-requete-en-refus-deffacement) pour le détail de la mécanique.
 
 !!! danger "Collaborez pour éviter les poursuites pénales"
-    Remettez tous vos documents au curateur, soyez transparent sur les causes de la faillite et abstenez-vous de tout acte sur les actifs après le jugement. La banqueroute laisse une trace durable au casier judiciaire et peut compromettre toute reprise d'activité future.
+    Remettez tous vos documents au curateur, soyez transparent sur les causes de la faillite et abstenez-vous de tout acte sur les actifs après le jugement. Une condamnation pénale laisse une trace durable au casier judiciaire et peut compromettre toute reprise d'activité future.
 
 
 
