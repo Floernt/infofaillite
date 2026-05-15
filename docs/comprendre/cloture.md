@@ -3,11 +3,11 @@ description: La clôture de la faillite - Types de clôture, effacement automati
   des dettes pour personnes physiques, décharge de caution, fin du dessaisissement
 keywords: clôture faillite belgique, fin faillite, effacement dettes faillite, insuffisance
   actif, décharge caution faillite, jugement clôture
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # La clôture de la faillite
 
-La clôture marque la fin officielle de la procédure de faillite. Elle intervient une fois que les actifs ont été liquidés et les créanciers payés — ou une fois qu'il est établi qu'il n'existe aucun actif suffisant pour couvrir les frais de la procédure. Pour les personnes physiques, la clôture déclenche l'effacement automatique des dettes impayées.
+La clôture marque la fin officielle de la procédure de faillite. Elle intervient une fois que les actifs ont été liquidés et les créanciers payés — ou une fois qu'il est établi qu'il n'existe aucun actif suffisant pour couvrir les frais de la procédure. Pour les personnes physiques, la clôture déclenche l'effacement automatique des dettes impayées (sauf requête en refus d'effacement).
 
 ---
 
@@ -19,7 +19,7 @@ C'est le cas le plus fréquent. Le curateur constate que le patrimoine du failli
 
 ### La clôture après liquidation complète
 
-Dans les faillites restants, le curateur a pu vendre des actifs, encaisser des créances et payer tout ou partie des créanciers. La procédure est plus longue selon la complexité du dossier et suit un enchaînement précis : le tribunal fixe le montant définitif des honoraires du curateur lors d'une audience contradictoire, puis approuve l'état de répartition qui détaille les dividendes à verser à chaque créancier. La Caisse des Dépôts et Consignations (CDC) exécute les paiements dans le mois qui suit. Le curateur dépose ensuite sa demande de clôture avec son rapport final, et le tribunal prononce le jugement de clôture.
+Dans les faillites où un actif suffisant est présent, le curateur a pu vendre des actifs, encaisser des créances et payer tout ou partie des créanciers. La procédure est plus longue selon la complexité du dossier et suit un enchaînement précis : le tribunal fixe le montant définitif des honoraires du curateur lors d'une audience contradictoire, puis approuve l'état de répartition qui détaille les dividendes à verser à chaque créancier. Le curateur exécute les paiements dans le mois qui suit. Le curateur dépose ensuite sa demande de clôture avec son rapport final, et le tribunal prononce le jugement de clôture.
 
 ---
 
@@ -51,16 +51,9 @@ La demande de refus peut être formulée avant la clôture par le curateur, [le 
 
 Les personnes qui se sont portées caution pour les dettes du failli ne bénéficient pas de son effacement. Les créanciers peuvent continuer à les poursuivre normalement après la clôture de la faillite — la caution reste engagée pour les montants impayés.
 
-### La décharge automatique pour non-déclaration
-
-L'article XX.173§4 prévoit une exception importante : si un créancier n'a pas déclaré sa sûreté personnelle — c'est-à-dire la caution — dans les trois mois suivant le jugement déclaratif de faillite, la caution est automatiquement déchargée.
-
-!!! danger "Créanciers : déclarez vos cautions dans les trois mois"
-    Si vous êtes créancier et que l'un de vos débiteurs est en faillite, vous devez déclarer non seulement votre créance principale mais aussi toute sûreté personnelle (caution, garantie) dont vous disposez. Le délai est de trois mois à compter du jugement déclaratif. Passé ce délai, la caution est libérée de plein droit, même si votre créance a été admise.
-
 ### La décharge pour cautionnement disproportionné
 
-Une caution peut également demander sa décharge au tribunal si le montant cautionné était manifestement disproportionné à ses revenus et à son patrimoine au moment de la signature. Le tribunal apprécie souverainement la disproportion. Cette décharge doit être demandée dans les six mois qui suivent le jugement de clôture définitif, une fois les délais d'appel épuisés.
+Une caution peut demander sa décharge au tribunal si le montant cautionné était manifestement disproportionné à ses revenus et à son patrimoine au moment de la signature. Le tribunal apprécie souverainement la disproportion. Cette décharge doit être demandée dans les six mois qui suivent le jugement de clôture définitif, une fois les délais d'appel épuisés.
 
 ### Le cas du conjoint ou cohabitant
 
@@ -72,7 +65,7 @@ Le conjoint ou cohabitant légal du failli qui s'est porté caution pour ses det
 
 Le dessaisissement frappe les biens qui composaient le patrimoine du failli au moment du jugement déclaratif et ceux dont la cause est antérieure à la faillite. Les biens et revenus acquis **postérieurement** au jugement échappent en revanche au dessaisissement et restent à la libre disposition du failli — c'est le principe du « fresh start » consacré par le Livre XX. Concrètement, dès le lendemain du jugement déclaratif, le failli peut **relancer une activité distincte** et différente, moyennant les régularisations administratives habituelles (inscription à la Banque-Carrefour des Entreprises, affiliation à une caisse d'assurances sociales, identification TVA ). Les revenus de cette nouvelle activité lui appartiennent intégralement.
 
-À la clôture, le dessaisissement prend fin pour le solde du patrimoine antérieur. Le failli retrouve la pleine liberté de disposer sauf s'il fait encore l'objet d'une [interdiction de gérer](../faillis/interdiction.md), sanction distincte et indépendante de la clôture.
+À la clôture, le failli retrouve la pleine liberté de disposer sauf s'il fait encore l'objet d'une [interdiction de gérer](../faillis/interdiction.md), sanction distincte et indépendante de la clôture.
 
 Les biens vendus pendant la procédure ne reviennent évidemment pas au failli — ils ont été réalisés au profit de la masse des créanciers. Pour reprendre ou poursuivre une activité dans les meilleures conditions, lisez [reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md).
 
@@ -80,7 +73,7 @@ Les biens vendus pendant la procédure ne reviennent évidemment pas au failli �
 
 ## Ce que la clôture ne fait pas disparaître
 
-L'effacement des dettes ne fait pas disparaître la trace de la faillite. Votre dossier reste consultable sur [REGSOL](https://www.regsol.be) pendant trente ans à compter du jugement de clôture. Les établissements financiers peuvent en tenir compte lors de l'examen de demandes de crédit, et certains partenaires commerciaux peuvent consulter REGSOL avant de contracter avec vous. Cela ne vous empêche pas de reconstruire, mais il faut en être conscient.
+L'effacement des dettes ne fait pas disparaître la trace de la faillite. Votre dossier reste consultable sur [REGSOL](https://www.regsol.be). Les établissements financiers peuvent en tenir compte lors de l'examen de demandes de crédit, et certains partenaires commerciaux peuvent consulter REGSOL avant de contracter avec vous. Cela ne vous empêche pas de reconstruire, mais il faut en être conscient.
 
 Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'à son terme, indépendamment de la clôture. Elle peut toutefois être levée anticipativement sur requête. Pour tout le détail, consultez [l'interdiction de gérer et comment l'éviter](../faillis/interdiction.md).
 
@@ -90,7 +83,7 @@ Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'
 
 **Puis-je reprendre une activité avant la clôture ?** Oui. Vous n'avez pas besoin d'attendre la clôture pour travailler. Dès le jugement déclaratif, vos revenus d'une nouvelle activité vous appartiennent entièrement et ne tombent pas dans la masse faillie.
 
-**La faillite disparaît-elle de REGSOL après la clôture ?** Non. Elle reste consultable trente ans. Les données sont supprimées après ce délai de prescription des archives.
+**La faillite disparaît-elle de REGSOL après la clôture ?** Non. Elle reste consultable.
 
 **Puis-je obtenir un crédit après la clôture ?** Théoriquement oui, mais en pratique les banques consultent REGSOL et la Centrale des Crédits de la Banque Nationale. Les organismes de microfinance comme MicroStart ou Crédal sont souvent mieux adaptés dans les premières années qui suivent la faillite.
 

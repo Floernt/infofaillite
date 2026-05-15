@@ -3,7 +3,7 @@ description: Le déroulement de la faillite de A à Z - Jugement déclaratif, de
   de faillite, inventaire et déclarations de créances (phases 1 à 3)
 keywords: déroulement faillite belgique, jugement déclaratif faillite, descente faillite,
   inventaire faillite, déclarer créance délai, phases faillite
-updated: '2026-05-14'
+updated: '2026-05-15'
 ---
 # Le déroulement de la faillite : du jugement à l'inventaire
 
@@ -102,9 +102,8 @@ Le courrier professionnel adressé au failli peut être automatiquement redirig�
 | Confirmation du curateur sur REGSOL | 1er jour ouvrable | Curateur |
 | Descente de faillite | 1 à 7 jours | Curateur + Juge-commissaire |
 | Blocage des comptes bancaires | 1 à 5 jours | Curateur |
-| Déclaration des créances | 30 jours  | Créanciers |
-| Déclaration des sûretés personnelles (cautions) | 3 mois  | Créanciers |
-| Mémoire initial du curateur | 2 mois  | Curateur |
+| Déclaration des créances | 30 jours | Créanciers |
+| Mémoire initial du curateur | 2 mois | Curateur |
 
 ---
 

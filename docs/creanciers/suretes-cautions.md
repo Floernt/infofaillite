@@ -1,9 +1,9 @@
 ---
 description: Les sûretés et cautions dans la faillite - Hypothèques, gages, privilèges,
-  cautions personnelles, décharge automatique et délais de déclaration
-keywords: hypothèque faillite belgique, gage faillite, caution faillite décharge,
-  sûreté réelle faillite, privilège créancier faillite, délai 3 mois caution
-updated: '2026-05-13'
+  cautions personnelles et leur déclaration dans la procédure
+keywords: hypothèque faillite belgique, gage faillite, caution faillite, sûreté réelle
+  faillite, privilège créancier faillite, déclaration créance
+updated: '2026-05-15'
 ---
 # Les sûretés et cautions dans la faillite
 
@@ -53,16 +53,13 @@ Un privilège spécial s'exerce sur un bien déterminé. L'exemple le plus coura
 
 La caution est une personne — physique ou morale — qui s'est engagée à payer la dette du failli si celui-ci ne le fait pas. La faillite du débiteur principal n'éteint pas l'obligation de la caution : les créanciers peuvent continuer à la poursuivre pour les montants non remboursés, même après la clôture de la faillite et l'effacement des dettes du failli.
 
-### Le délai de trois mois pour déclarer la caution
+### L'exercice de votre droit contre la caution
 
-!!! danger "Déclarez votre sûreté personnelle dans les trois mois — délai impératif"
-    Si votre créance est garantie par une caution et que vous omettez de déclarer cette sûreté personnelle dans les trois mois qui suivent le jugement déclaratif de faillite, la caution est automatiquement déchargée de plein droit. Vous perdez définitivement votre garantie personnelle, même si votre créance principale a été parfaitement déclarée et admise.
+Le droit du créancier contre la caution est indépendant de la procédure de faillite. Vous pouvez la poursuivre dès que le failli est en défaut, sans attendre la clôture, et conserver ce droit après l'effacement des dettes du failli. Aucun délai spécifique n'est imposé pour « déclarer » la caution au curateur : il n'y a pas de décharge automatique attachée à un défaut de mention dans la déclaration de créance.
 
-Ce délai de trois mois est distinct du délai de trente jours pour la créance principale. Vous pouvez donc déclarer votre créance dans les trente jours et déclarer votre caution dans les trois mois — mais vous ne pouvez pas déclarer votre caution après le délai de trois mois.
+Il reste néanmoins utile de mentionner la caution dans votre déclaration de créance — nom, adresse, montant cautionné, nature du cautionnement (solidaire ou simple), date de l'acte, copie jointe. Cela permet au curateur d'organiser correctement les répartitions et évite des discussions ultérieures sur les paiements partiels obtenus de la caution, qui doivent être imputés sur la créance admise.
 
-Pour déclarer la caution, mentionnez dans votre déclaration de créance (ou dans un courrier complémentaire au curateur) : le nom complet et l'adresse de la caution, le montant cautionné, le type de cautionnement (solidaire ou simple, à première demande), la date de l'acte de cautionnement, et joignez une copie de l'acte.
-
-### La décharge pour cautionnement disproportionné
+### La décharge judiciaire pour cautionnement disproportionné
 
 Une caution peut demander sa décharge judiciaire si le montant cautionné était manifestement disproportionné à ses revenus et à son patrimoine au moment de la signature. Le tribunal apprécie souverainement la disproportion. Cette démarche doit être initiée par la caution elle-même, dans les six mois suivant le jugement de clôture définitif.
 
@@ -78,7 +75,7 @@ Si la caution est le conjoint ou cohabitant légal du failli, et que cette perso
 
 **Privilège non déclaré :** vous perdez votre droit préférentiel légal et passez au rang chirographaire.
 
-**Caution non déclarée dans les trois mois :** la caution est automatiquement libérée de toute obligation. Vous ne pouvez plus vous retourner contre elle, même si votre créance principale a été admise.
+**Caution non mentionnée :** votre droit contre la caution n'est pas perdu — il n'existe pas de décharge automatique liée à un défaut de mention dans la déclaration de créance. Vous pouvez toujours poursuivre la caution. Mais la mention reste utile pour assurer le suivi des paiements partiels et leur imputation correcte sur votre créance admise.
 
 ---
 
@@ -86,9 +83,11 @@ Si la caution est le conjoint ou cohabitant légal du failli, et que cette perso
 
 **Je suis banque et j'ai une hypothèque sur un immeuble du failli. Comment la faire valoir ?** Déclarez votre créance en mentionnant l'hypothèque avec tous les détails (adresse, rang, montant, date d'inscription). Après le premier procès-verbal de vérification, vous pouvez opter pour la vente directe de l'immeuble selon les règles de la saisie immobilière si vous êtes en premier rang.
 
-**La caution que j'ai obtenue est une société. Le même mécanisme s'applique-t-il ?** Oui. Les sûretés personnelles données par des personnes morales (sociétés) doivent également être déclarées dans les trois mois pour éviter la décharge automatique.
+**Dois-je déclarer la caution dans un délai particulier pour qu'elle reste tenue ?** Non. Il n'existe pas de délai spécifique pour mentionner la caution au curateur, ni de décharge automatique pour défaut de mention. Votre droit contre la caution subsiste indépendamment de la procédure de faillite. La mention dans la déclaration de créance reste néanmoins utile pour le bon suivi des paiements partiels et leur imputation.
 
 **Puis-je poursuivre la caution avant même la clôture de la faillite ?** Oui. Votre droit contre la caution est indépendant de la procédure de faillite. Vous pouvez agir contre la caution dès que le failli est en défaut de paiement — la faillite ne vous oblige pas à attendre la clôture.
+
+**La caution peut-elle obtenir une décharge ?** Oui, dans deux cas : si elle s'est engagée à titre gratuit et que son engagement est manifestement disproportionné à ses revenus et son patrimoine au moment de la signature, elle peut demander sa décharge judiciaire au tribunal ; et le conjoint ou cohabitant légal du failli qui s'est porté caution pour ses dettes professionnelles bénéficie de l'effacement de plein droit s'il cohabitait depuis plus de six mois avant le jugement.
 
 ---
 

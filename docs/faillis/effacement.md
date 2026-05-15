@@ -3,7 +3,7 @@ description: L'effacement automatique des dettes après faillite - Conditions, p
   exceptions et refus
 keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
   graves faillite, contestation effacement
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # L'effacement des dettes
 
@@ -63,7 +63,7 @@ En revanche, si la cohabitation est inférieure à six mois avant la faillite, o
 !!! danger "Les personnes qui vous ont cautionné restent engagées"
     Les parents, amis ou associés qui se sont portés caution pour vos dettes professionnelles ne bénéficient pas de votre effacement. Les créanciers peuvent continuer à les poursuivre normalement après la clôture de votre faillite.
 
-Il existe toutefois une exception : si un créancier n'a pas déclaré sa sûreté personnelle dans les trois mois suivant le jugement de faillite, la caution est automatiquement déchargée. Par ailleurs, une caution manifestement disproportionnée peut être contestée en justice. Pour en savoir plus sur ce mécanisme, consultez la page sur [la décharge de caution en cas de faillite](../comprendre/cloture.md).
+Deux mécanismes peuvent néanmoins libérer une caution. D'une part, le conjoint ou cohabitant légal qui s'est porté caution pour vos dettes professionnelles bénéficie de l'effacement à condition d'avoir cohabité avec vous depuis plus de six mois avant le jugement. D'autre part, une caution dont l'engagement était manifestement disproportionné à ses revenus et son patrimoine au moment de la signature peut demander sa décharge judiciaire au tribunal. Pour en savoir plus, consultez la page sur [la décharge de caution en cas de faillite](../comprendre/cloture.md).
 
 ---
 

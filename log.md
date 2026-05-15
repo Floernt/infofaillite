@@ -6,6 +6,16 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-05-15] edit | Caution : retirer la fausse « décharge automatique » + refonte PRJ post-réforme 2023
+
+Deux corrections de fond menées dans la même session.
+
+**1. Caution non déclarée — correction factuelle majeure.** L'ensemble du site affirmait qu'à défaut de déclaration de la sûreté personnelle dans les trois mois suivant le jugement, la caution était automatiquement déchargée. C'est faux : le droit du créancier contre la caution est indépendant de la procédure de faillite, il n'existe ni délai spécifique ni décharge automatique pour défaut de mention. L'affirmation a été retirée et remplacée par une formulation cohérente (mention utile mais non sanctionnée, seuls mécanismes réels conservés : cohabitation 6 mois pour le conjoint/cohabitant caution, décharge judiciaire pour cautionnement disproportionné) sur 12 fichiers : [docs/comprendre/cloture.md](docs/comprendre/cloture.md), [docs/creanciers/suretes-cautions.md](docs/creanciers/suretes-cautions.md), [docs/faillis/effacement.md](docs/faillis/effacement.md), [docs/delais.md](docs/delais.md), [docs/README.md](docs/README.md), [docs/glossaire.md](docs/glossaire.md), [docs/creanciers/README.md](docs/creanciers/README.md), [docs/creanciers/declarer-creance.md](docs/creanciers/declarer-creance.md), [docs/creanciers/droits-specifiques.md](docs/creanciers/droits-specifiques.md), [docs/creanciers/creanciers-categories.md](docs/creanciers/creanciers-categories.md), [docs/comprendre/deroulement-phase-1-3.md](docs/comprendre/deroulement-phase-1-3.md), [docs/faillis/checklist-premiere-semaine.md](docs/faillis/checklist-premiere-semaine.md).
+
+**2. PRJ — refonte de [procedures-alternatives.md](docs/comprendre/procedures-alternatives.md) sur la base de la réforme du 7 juin 2023** (transposition de la directive 2019/1023, applicable depuis le 1er septembre 2023). Les « trois voies » de l'ancien régime sont remplacées par les quatre voies actuelles : **mesures amiables** (médiation, accord amiable extrajudiciaire, accord collectif extrajudiciaire — confidentielles), **PRJ privée** (confidentielle, sans moratoire général — nouveauté 2023), **PRJ publique** (moratoire de 4 mois prorogeable, strictement encadré), **régime spécial des grandes entreprises** (vote par classes, cram-down inter-classes, seuils 50 ETP / 4,5 M€ bilan / 9 M€ CA). Signalé : le **transfert sous autorité de justice n'est plus une modalité de la PRJ** mais une procédure de liquidation distincte. Sursis de la PRJ publique recalibré (4 mois au lieu des « 6 à 18 mois » de l'ancien régime). Liens externes ajoutés (SEO/GEO) vers [florianernotte.be/matieres/prj/](https://florianernotte.be/matieres/prj/) et ses sous-pages (mesures-amiables, prj-privee, prj-publique, grandes-entreprises) à plusieurs endroits opportuns (chaque voie, admonitions, paragraphe de conclusion, bloc dédié dans « Pour aller plus loin »).
+
+Dates `updated:` rafraîchies via `python scripts/inject_git_dates.py`.
+
 ## [2026-05-14] edit | Relecture des pages « Comprendre » (déroulement, dessaisissement, période suspecte, liquidation)
 
 Passe de relecture sur six pages du dossier [docs/comprendre/](docs/comprendre/), à partir de remarques et précisions dictées en session :

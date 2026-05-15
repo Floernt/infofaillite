@@ -4,7 +4,7 @@ description: Guide complet et accessible sur la faillite en Belgique - Informati
 keywords: faillite belgique, insolvabilité belgique, faillis droits obligations, créanciers
   faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance,
   tribunal entreprise
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # Guide de la faillite en Belgique
 
@@ -58,7 +58,6 @@ Votre première priorité est de déclarer votre créance dans les trente jours 
 | Qui | Action | Délai |
 |---|---|---|
 | Créanciers | Déclarer sa créance | 30 jours depuis le jugement |
-| Créanciers | Déclarer les cautions (sûretés personnelles) | 3 mois depuis le jugement |
 | Failli indépendant | Demander le droit passerelle | Fin du 2e trimestre suivant la faillite |
 | Toutes parties | Appel d'un jugement | 1 mois depuis le prononcé |
 

@@ -5,7 +5,7 @@ description: Les droits des créanciers selon leur catégorie - Salarié, baille
 keywords: créancier salarié faillite, bailleur commercial faillite, banque hypothèque
   faillite, fournisseur chirographaire faillite, ONSS privilège faillite, administration
   fiscale faillite
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # Les droits des créanciers selon leur catégorie
 
@@ -89,7 +89,7 @@ La démarche reste néanmoins toujours utile : déclarez votre créance dans les
 
 ### Les options pour améliorer votre situation
 
-Si vous avez inséré des [clauses de réserve de propriété](suretes-cautions.md) dans vos conditions générales, déclarez-les impérativement avec votre créance et revendiquez vos marchandises rapidement avant qu'elles ne soient vendues par le curateur. Si vous aviez obtenu une [caution personnelle](suretes-cautions.md) d'un dirigeant ou d'un tiers, déclarez cette sûreté personnelle dans les trois mois — sans quoi la caution est automatiquement déchargée.
+Si vous avez inséré des [clauses de réserve de propriété](suretes-cautions.md) dans vos conditions générales, déclarez-les impérativement avec votre créance et revendiquez vos marchandises rapidement avant qu'elles ne soient vendues par le curateur. Si vous aviez obtenu une [caution personnelle](suretes-cautions.md) d'un dirigeant ou d'un tiers, votre droit contre elle subsiste indépendamment de la faillite : il est utile de la mentionner dans votre déclaration de créance pour le suivi des paiements partiels, mais il n'y a ni délai spécifique ni décharge automatique pour défaut de mention.
 
 !!! note "La déductibilité fiscale de la perte"
     La créance non recouvrée à la clôture de la faillite constitue une perte définitivement irrécouvrable, déductible fiscalement sous certaines conditions. Consultez votre comptable pour la déduction de la perte, la rectification de la TVA facturée (note de crédit) et la récupération éventuelle de la TVA versée à l'État sur la créance impayée.
