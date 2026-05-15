@@ -6,6 +6,26 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-05-15] edit | Passe « faillis » : effacement, interdiction, reprise d'activité, FAQ, terminologie pénale
+
+Deuxième session du 15 mai, sur les pages [docs/faillis/](docs/faillis/) principalement, avec quelques retombées dans [docs/comprendre/](docs/comprendre/) et [docs/glossaire.md](docs/glossaire.md). Six axes :
+
+**1. Banqueroute → poursuites pénales.** La qualification autonome de banqueroute (simple/frauduleuse) est en pratique très peu utilisée ; les faits sont aujourd'hui poursuivis sous des qualifications de droit pénal commun (abus de biens sociaux, faux et usage, organisation frauduleuse d'insolvabilité, escroquerie). Reformulation cohérente sur [docs/faillis/obligations.md](docs/faillis/obligations.md) (titre de section, paragraphe transparence, keyword du front matter), [docs/comprendre/acteurs-secondaires.md](docs/comprendre/acteurs-secondaires.md) (admonition), [docs/faillis/effacement.md](docs/faillis/effacement.md) (causes de refus), [docs/faillis/reprendre-activite.md](docs/faillis/reprendre-activite.md) (condition du droit passerelle), [docs/faillis/checklist-premiere-semaine.md](docs/faillis/checklist-premiere-semaine.md), [docs/faillis/faq.md](docs/faillis/faq.md). L'entrée du [glossaire](docs/glossaire.md) est recadrée en « terme historique » et renvoie aux qualifications réelles.
+
+**2. Effacement — trois corrections de fond sur [docs/faillis/effacement.md](docs/faillis/effacement.md).** Précisé que le tribunal statue sur l'effacement par **décision distincte** du jugement de clôture (même jour ou peu après). **Correction factuelle majeure** : le dirigeant d'une société faillie ne bénéficie *pas* de l'effacement — c'est la société qui est en faillite, ses engagements personnels (cautions, codébitions, prêts injectés) restent intégralement dus ; seule voie d'accès à l'effacement = faillite personnelle distincte. Clarification : les « cautions personnelles » effacées sont celles *souscrites par* le failli au profit de tiers, à ne pas confondre avec les cautions *données à* son profit par des proches (qui restent dues).
+
+**3. Interdiction de gérer — [docs/faillis/interdiction.md](docs/faillis/interdiction.md).** **Correction factuelle** : le Livre XX ne prévoit *aucun mécanisme* de levée anticipée pour bonne conduite ; la section qui le décrivait est supprimée. Le seul mécanisme légal d'extinction anticipée est la **réhabilitation** de l'article XX.237 CDE, qui suppose le **désintéressement intégral** des créanciers (principal + intérêts + frais). Le failli qui a obtenu l'effacement est réputé réhabilité de plein droit ; XX.235 prévoit alors que l'interdiction prend fin. Procédure XX.238-241 documentée (requête, publication au Moniteur, opposition créancier dans le mois, délai d'un an avant nouvelle demande après rejet).
+
+**4. Reprise de l'activité — [docs/faillis/reprendre-activite.md](docs/faillis/reprendre-activite.md).** Position ferme à la place de la « forte recommandation » précédente : reprendre l'activité faillie en réutilisant fonds de commerce, clientèle, enseigne, savoir-faire ou contrats en cours constitue un **détournement d'actifs** (poursuites pénales, refus d'effacement, réintégration dans la masse). Seule voie légale pour poursuivre : racheter le fonds auprès du curateur. FAQ alignée.
+
+**5. Blocage automatique des comptes bancaires — [docs/faillis/checklist-premiere-semaine.md](docs/faillis/checklist-premiere-semaine.md).** Rappel que la publication du jugement au Moniteur belge entraîne automatiquement le blocage de *tous* les comptes (sans démarche du curateur), à l'endroit où l'on conseille au failli d'ouvrir un compte personnel — l'enjeu pratique étant qu'il se retrouve sinon sans accès à ses liquidités courantes du jour au lendemain.
+
+**6. FAQ failli — [docs/faillis/faq.md](docs/faillis/faq.md).** Alignements de session : « Vais-je tout perdre » recalé sur [dessaisissement.md](docs/comprendre/dessaisissement.md) (un seul patrimoine, règle de la cause pour héritages/donations) ; « Refus de collaborer » : interdiction jusqu'à 10 ans (XX.229 §1) au lieu des « 3 ans » ; « Racheter des biens » : présenté comme la seule voie légale pour poursuivre l'activité ; nouvelle Q/R « Puis-je relancer la même activité juste après la faillite ? » ; « Faire appel » développée en trois voies (appel, opposition, tierce opposition) avec nécessité d'un avocat spécialisé.
+
+**CTA contact** ajouté sur [docs/faillis/droits.md](docs/faillis/droits.md), [docs/faillis/effacement.md](docs/faillis/effacement.md), [docs/faillis/interdiction.md](docs/faillis/interdiction.md), [docs/faillis/faq.md](docs/faillis/faq.md), sur le modèle de la checklist.
+
+Dates `updated:` rafraîchies via `python scripts/inject_git_dates.py`.
+
 ## [2026-05-15] edit | Caution : retirer la fausse « décharge automatique » + refonte PRJ post-réforme 2023
 
 Deux corrections de fond menées dans la même session.

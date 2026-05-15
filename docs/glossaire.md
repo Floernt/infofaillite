@@ -25,7 +25,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ## B
 
-**Banqueroute** — Infraction pénale commise par le failli. La banqueroute simple résulte de fautes graves de gestion (imprudences, dépenses excessives). La banqueroute frauduleuse implique une intention frauduleuse (dissimulation d'actifs, paiements préférentiels). Les sanctions peuvent aller jusqu'à cinq ans d'emprisonnement et de lourdes amendes.
+**Banqueroute** — Terme historique désignant les infractions pénales propres à la faillite (banqueroute simple pour fautes graves de gestion, banqueroute frauduleuse pour dissimulation d'actifs ou paiements préférentiels frauduleux). En pratique, les faits reprochés au failli sont aujourd'hui le plus souvent poursuivis sous des qualifications de droit pénal commun — abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité, escroquerie — plutôt que sous la qualification autonome de banqueroute. Les sanctions encourues peuvent aller jusqu'à plusieurs années d'emprisonnement et de lourdes amendes.
 
 ---
 

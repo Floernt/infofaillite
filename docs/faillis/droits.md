@@ -3,7 +3,7 @@ description: Droits du failli - Être entendu, secours alimentaire, contester cr
   travailler, ouvrir courrier
 keywords: droits failli, secours alimentaire, être entendu, contester créances, travailler
   faillite, effets personnels
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # Vos droits pendant la procédure de faillite
 
@@ -13,7 +13,7 @@ La faillite ne vous prive pas de tous vos droits. Même dessaisi de la gestion d
 
 ## Le droit d'être entendu sur la réalisation des actifs
 
-Avant que le curateur ne procède à la vente de vos biens, l'article XX.166 du Code de droit économique vous donne le droit d'être convoqué pour exprimer votre avis sur la meilleure façon de les réaliser. Ce droit s'exerce après le premier procès-verbal de vérification des créances.
+Avant que le curateur ne procède à la vente de vos biens, l'article XX.166 du Code de droit économique vous donne le droit d'être convoqué pour exprimer votre avis sur la meilleure façon de les réaliser. Ce droit s'exerce après le premier procès-verbal de vérification des créances et selon des règles strictes.
 
 Votre connaissance de l'activité est souvent précieuse : vous savez quels équipements intéressent tel concurrent, quelle machine vaut plus que sa valeur de remplacement, ou si un repreneur potentiel existe pour l'ensemble du fonds de commerce. Formulez vos suggestions par écrit au juge-commissaire, avec les éléments concrets qui les justifient. Votre avis reste consultatif, mais il est pris en compte et peut influencer les décisions de liquidation.
 
@@ -41,7 +41,7 @@ Lors des procès-verbaux, vous pouvez exprimer vos objections directement. Si le
 
 ## Le droit de travailler et de reprendre une activité
 
-La faillite ne vous interdit pas de travailler. Dès le jugement, vous pouvez vous mettre au service d'un employeur comme salarié, exercer une activité indépendante dans un secteur différent, ou même créer une nouvelle société — sauf si vous faites l'objet d'une interdiction de gérer. Les revenus que vous tirez de cette nouvelle activité vous appartiennent entièrement et ne tombent pas dans la masse faillie.
+La faillite ne vous interdit pas de travailler. Dès le jugement déclaratif (ouverture de la faillite), vous pouvez vous mettre au service d'un employeur comme salarié, exercer une activité indépendante dans un secteur différent, ou même créer une nouvelle société — sauf si vous faites l'objet d'une interdiction de gérer. Les revenus que vous tirez de cette nouvelle activité vous appartiennent entièrement et ne tombent pas dans la masse faillie.
 
 !!! tip "Reprendre une activité, c'est aussi préparer l'effacement"
     Un failli qui retrouve rapidement une source de revenus démontre sa volonté de rebondir. Cette attitude est appréciée par le tribunal au moment de statuer sur l'effacement des dettes. Pour tout savoir sur les modalités pratiques, consultez la page [reprendre une activité professionnelle après votre faillite](reprendre-activite.md).
@@ -50,7 +50,7 @@ La faillite ne vous interdit pas de travailler. Dès le jugement, vous pouvez vo
 
 ## Le droit à l'ouverture de votre courrier personnel
 
-Votre courrier professionnel est automatiquement redirigé vers le curateur, qui l'ouvre. Cependant, après le premier procès-verbal de vérification des créances, vous pouvez demander au curateur de vous transférer le courrier clairement privé — correspondance familiale, courrier médical, assurances personnelles sans lien avec l'activité.
+Votre courrier professionnel peut être redirigé vers le curateur, qui l'ouvre. Cependant, après le premier procès-verbal de vérification des créances, vous pouvez demander au curateur de vous transférer le courrier clairement privé — correspondance familiale, courrier médical, assurances personnelles sans lien avec l'activité.
 
 Adressez cette demande par écrit au curateur en précisant quels courriers vous concernent à titre strictement personnel. Si le curateur refuse sans motif valable, vous pouvez saisir le juge-commissaire.
 
@@ -72,9 +72,15 @@ Vous avez le droit de suivre l'avancement de votre propre faillite. Les rapports
 
 ## Que faire si vos droits ne sont pas respectés ?
 
-Le premier réflexe est de contacter le curateur par écrit pour lui signaler le problème. La plupart des difficultés se règlent à ce stade. Si le curateur ne donne pas suite ou refuse injustement, saisissez le juge-commissaire par courrier en exposant les faits et en joignant les échanges précédents. En dernier recours, une requête devant le tribunal de l'entreprise est possible.
+Le premier réflexe est de contacter le curateur par écrit pour lui signaler le problème. La plupart des difficultés se règlent à ce stade. Si le curateur ne donne pas suite ou refuse injustement, saisissez le juge-commissaire par courriel en exposant les faits et en joignant les échanges précédents. En dernier recours, une requête devant le tribunal de l'entreprise est possible.
 
 Si vous avez besoin d'une assistance juridique et ne disposez pas des moyens suffisants pour rémunérer un avocat, le bureau d'aide juridique de votre arrondissement peut vous orienter vers une assistance pro deo.
+
+---
+
+## Un droit qui n'est pas couvert ici ?
+
+Une situation particulière où vous ne savez pas si vous pouvez agir, un droit qui vous semble bafoué et que cette page n'éclaire pas suffisamment ? [Posez votre question via la page de contact](../contact.md) — les questions reçues nourrissent les prochaines révisions du guide.
 
 ---
 

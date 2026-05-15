@@ -3,7 +3,7 @@ description: Vue d'ensemble pour les personnes en faillite - Ce que cela signifi
   vos biens, durée de la procédure
 keywords: failli belgique, dessaisissement, biens faillite, durée faillite, que faire
   faillite
-updated: '2026-05-13'
+updated: '2026-05-15'
 ---
 # Je suis en faillite : par où commencer ?
 
@@ -13,7 +13,7 @@ Le jugement vient d'être prononcé. Vous avez probablement de nombreuses questi
 
 ## Ce que le jugement change immédiatement
 
-Dès le prononcé du jugement déclaratif de faillite, vous êtes dessaisi de la gestion de vos biens. Cela signifie que vous ne pouvez plus vendre, acheter, payer ou encaisser au nom de votre activité. Un curateur — un avocat spécialisé désigné par le tribunal — prend en charge votre patrimoine professionnel pour l'inventorier, le vendre et distribuer le produit aux créanciers.
+Dès le prononcé du jugement déclaratif de faillite, vous êtes dessaisi de la gestion de vos biens. Cela signifie que vous ne pouvez plus vendre, acheter, payer ou encaisser au nom de votre activité. Un curateur — un avocat spécialisé désigné par le tribunal — prend en charge votre patrimoine pour l'inventorier, le vendre et distribuer le produit aux créanciers.
 
 Vous restez propriétaire de vos biens, mais c'est le curateur qui en assure la gestion jusqu'à la clôture de la procédure. Vous conservez en revanche vos biens personnels insaisissables — vêtements, literie, mobilier indispensable — et, surtout, tous les revenus que vous générerez à partir de maintenant : salaires, honoraires, allocations. Ces revenus futurs ne tombent pas dans la masse faillie. Pour comprendre dans le détail ce qui entre ou non dans la masse, consultez [les effets du dessaisissement sur vos biens](../comprendre/dessaisissement.md).
 
@@ -21,7 +21,7 @@ Vous restez propriétaire de vos biens, mais c'est le curateur qui en assure la 
 
 ## Vos deux priorités immédiates
 
-**Comprendre vos obligations**, d'abord. La procédure impose des exigences précises : remettre vos documents comptables, répondre aux convocations dans les 48 heures, assister à l'inventaire, ne plus toucher aux comptes professionnels. Ne pas les respecter expose à des sanctions lourdes, notamment le refus de l'effacement des dettes et une interdiction de gérer. Lisez attentivement [vos obligations légales pour éviter les sanctions](obligations.md) et, pour ne rien oublier, la [checklist pratique pour la première semaine](checklist-premiere-semaine.md).
+**Comprendre vos obligations**, d'abord. La procédure impose des exigences précises : remettre vos documents comptables, répondre aux convocations avec diligence, assister à l'inventaire, ne plus toucher aux comptes bancaires. Ne pas les respecter expose à des sanctions lourdes, notamment le refus de l'effacement des dettes et une interdiction de gérer. Lisez attentivement [vos obligations légales pour éviter les sanctions](obligations.md) et, pour ne rien oublier, la [checklist pratique pour la première semaine](checklist-premiere-semaine.md).
 
 **Connaître vos droits**, ensuite. La faillite ne vous prive pas de tout. Vous pouvez donner votre avis sur la vente de vos actifs, demander un secours alimentaire si vous êtes dans le besoin, contester des créances injustifiées, travailler immédiatement, et recevoir des informations sur l'avancement de votre dossier. Découvrez [les droits que vous conservez malgré la faillite](droits.md).
 
@@ -29,7 +29,7 @@ Vous restez propriétaire de vos biens, mais c'est le curateur qui en assure la 
 
 ## L'effacement des dettes : votre perspective de nouveau départ
 
-L'un des aspects les plus importants de la faillite pour les personnes physiques est l'effacement des dettes. À la clôture de la procédure, toutes vos dettes professionnelles impayées sont automatiquement effacées — sans démarche de votre part. Vous repartez sans le poids du passé, libéré des poursuites des anciens créanciers.
+L'un des aspects les plus importants de la faillite pour les personnes physiques est l'effacement des dettes. À la clôture de la procédure, toutes vos dettes impayées sont automatiquement effacées — sans démarche de votre part. Vous repartez sans le poids du passé, libéré des poursuites des anciens créanciers.
 
 Ce droit n'est pas garanti : il peut être refusé si vous avez commis des fautes graves ou si vous n'avez pas collaboré avec le curateur. Coopérer activement est donc dans votre intérêt direct. Pour tout comprendre sur ce mécanisme, consultez la page sur [l'effacement automatique de vos dettes à la clôture](effacement.md).
 
