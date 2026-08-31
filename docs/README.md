@@ -49,6 +49,7 @@ Votre première priorité est de déclarer votre créance dans les trente jours 
 - [La liquidation des actifs et les actions en responsabilité](comprendre/liquidation-actifs.md)
 - [La période suspecte et les nullités en faillite](comprendre/periode-suspecte.md)
 - [La clôture de la faillite et l'effacement automatique des dettes](comprendre/cloture.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](comprendre/dettes-avant-faillite.md)
 - [Les procédures alternatives à la faillite](comprendre/procedures-alternatives.md)
 
 ---
