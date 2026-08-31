@@ -4,7 +4,7 @@ description: FAQ Faillis - Questions fréquentes des personnes en faillite - Ré
 keywords: questions faillite belgique, faq failli, perdre biens faillite, durée faillite,
   négocier curateur, conjoint responsable, dettes augmentent faillite, arrêt intérêts
   faillite
-updated: '2026-05-15'
+updated: '2026-08-31'
 ---
 # Questions fréquentes : je suis en faillite
 

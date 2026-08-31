@@ -3,7 +3,7 @@ description: Le paiement des dividendes aux créanciers dans la faillite - Ordre
   priorité, calcul du dividende, Caisse des Dépôts et Consignations, délais de paiement
 keywords: dividende faillite belgique, paiement créanciers faillite, ordre paiement
   faillite, CDC caisse dépôts faillite, chirographaire privilégié dividende
-updated: '2026-05-13'
+updated: '2026-08-31'
 ---
 # Le paiement des dividendes aux créanciers
 
