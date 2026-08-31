@@ -28,7 +28,7 @@ Depuis l'entrée en vigueur de la loi du 7 juin 2023 (transposition de la direct
 
 ### Qui peut y avoir recours ?
 
-Toute entreprise au sens du Livre XX — entreprises au sens large (anciennement commerçants), sociétés, professions libérales, ASBL — peut demander une procédure de réorganisation à condition que la continuité de l'entreprise soit menacée. Si l'état de faillite est déjà avéré, la PRJ peut, sous certaines conditions, être envisagées ; les mesures amiables et la PRJ privée peuvent eaussi être envisagées dans certains cas, mais la fenêtre se referme.
+Toute entreprise au sens du Livre XX — entreprises au sens large (anciennement commerçants), sociétés, professions libérales, ASBL — peut demander une procédure de réorganisation à condition que la continuité de l'entreprise soit menacée. Si l'état de faillite est déjà avéré, la PRJ peut, sous certaines conditions, être envisagée ; les mesures amiables et la PRJ privée peuvent aussi être envisagées dans certains cas, mais la fenêtre se referme.
 
 ### Les quatre voies de la réorganisation
 
@@ -88,6 +88,8 @@ La solution la plus simple et la moins coûteuse est la négociation directe. Si
 
 Cette approche fonctionne mieux lorsque le nombre de créanciers est limité, que les montants sont raisonnables, et que les difficultés sont clairement temporaires et explicables. Un comptable ou un conseiller financier peut vous aider à structurer la démarche et à présenter un plan crédible.
 
+Tant qu'aucune procédure n'est ouverte, la dette continue toutefois à croître — intérêts, indemnités forfaitaires, puis frais de justice et d'huissier — et les créanciers conservent l'intégralité de leurs voies d'exécution, saisie sur salaire comprise. Pour comprendre ce qui s'accumule et ce qu'un créancier peut concrètement saisir pendant cette phase, consultez [les dettes avant la faillite : intérêts, frais et saisies](dettes-avant-faillite.md).
+
 ---
 
 ## Comment choisir la bonne procédure
@@ -110,6 +112,7 @@ Le choix dépend d'abord de votre situation concrète :
 ## Pour aller plus loin
 
 - [Qu'est-ce qu'une faillite — définition et conditions](definition-faillite.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](dettes-avant-faillite.md)
 - [Le déroulement de la faillite : du jugement à l'inventaire](deroulement-phase-1-3.md)
 - [L'effacement automatique des dettes à la clôture](../faillis/effacement.md)
 - [Reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md)

@@ -75,7 +75,7 @@ Le solde de votre créance non recouvré constitue une perte définitivement irr
 
 ## Questions fréquentes
 
-**Ma créance produit-elle des intérêts pendant la faillite ?** Non, en règle générale. Les créances cessent de porter intérêts dès le jugement déclaratif. Exception : les créanciers hypothécaires continuent à percevoir des intérêts sur le produit de la vente du bien grevé, dans la limite de ce produit.
+**Ma créance produit-elle des intérêts pendant la faillite ?** Non, en règle générale. L'article XX.113 du Code de droit économique arrête le cours des intérêts à l'égard de la masse dès le jugement déclaratif : votre créance est figée au montant qu'elle atteignait à cette date, intérêts et frais échus compris. Exception : les créanciers hypothécaires continuent à percevoir des intérêts sur le produit de la vente du bien grevé, dans la limite de ce produit. Pour les intérêts et frais qui courent **avant** le jugement, consultez [les dettes avant la faillite : intérêts, frais et saisies](../comprendre/dettes-avant-faillite.md).
 
 **Puis-je céder ma créance avant d'être payé ?** Oui, par cession de créance. Mais les fonds spécialisés qui rachètent des créances en faillite proposent généralement des prix très bas — entre 1 et 5 % de la valeur nominale. Cette option n'est pertinente que si vous avez un besoin urgent de trésorerie.
 

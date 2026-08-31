@@ -31,6 +31,8 @@ Le « crédit » dont parle la loi est ici à entendre au sens étymologique (du
 
 Les fournisseurs exigent désormais le paiement comptant ou refusent de nouvelles livraisons, les clients hésitent à signer de nouveaux contrats, les poursuites se multiplient — mises en demeure, commandements de payer, saisies conservatoires —, et accessoirement, les banques retirent les lignes de crédit existantes. Lorsque l'ébranlement du crédit est avéré, certains créanciers passent à l'étape suivante et engagent de véritables **mesures d'exécution forcée** : saisies-exécutions mobilières au siège ou au domicile du débiteur, saisies-exécutions immobilières sur les biens dont il est propriétaire, voire ventes publiques organisées par un huissier de justice. C'est souvent ce stade qui précipite la déclaration de faillite, soit à l'initiative du débiteur lui-même (aveu), soit sur citation d'un créancier qui constate que ses voies d'exécution n'aboutissent pas à un paiement intégral. Cette troisième condition distingue les difficultés réversibles, où un redressement reste possible, des difficultés irréversibles qui rendent la faillite inévitable.
 
+Pour le détail de ces mesures d'exécution — titre exécutoire, commandement de payer, saisie mobilière, saisie sur salaire et biens insaisissables — ainsi que de ce qui continue à s'ajouter à la dette pendant cette phase, consultez [les dettes avant la faillite : intérêts, frais et saisies](dettes-avant-faillite.md).
+
 ---
 
 ## Comment la faillite est-elle déclarée ?
@@ -73,7 +75,7 @@ Pour comprendre pleinement ce que le dessaisissement implique pour vos biens, li
 
 ## Faillite, réorganisation judiciaire et liquidation volontaire
 
-La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre VI) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les actionnaires : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
+La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre V) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les actionnaires : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
 
 ---
 
@@ -104,6 +106,7 @@ Pour le détail de chaque phase, consultez [le déroulement chronologique de la 
 - [Les effets du dessaisissement sur votre patrimoine](dessaisissement.md)
 - [La liquidation des actifs et la réalisation du patrimoine](liquidation-actifs.md)
 - [La clôture de la faillite et l'effacement automatique des dettes](cloture.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](dettes-avant-faillite.md)
 - [Guide pratique : je suis en faillite](../faillis/README.md)
 - [Guide pratique : je suis créancier](../creanciers/README.md)
 - [Les délais importants à ne pas manquer](../delais.md)

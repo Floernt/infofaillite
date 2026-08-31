@@ -2,7 +2,8 @@
 description: FAQ Faillis - Questions fréquentes des personnes en faillite - Réponses
   pratiques et claires
 keywords: questions faillite belgique, faq failli, perdre biens faillite, durée faillite,
-  négocier curateur, conjoint responsable
+  négocier curateur, conjoint responsable, dettes augmentent faillite, arrêt intérêts
+  faillite
 updated: '2026-05-15'
 ---
 # Questions fréquentes : je suis en faillite
@@ -32,6 +33,12 @@ Oui. Vous avez le droit d'être entendu avant la liquidation de vos actifs (arti
 ## Dois-je continuer à payer mes anciennes dettes ?
 
 Non. Dès le jugement, les poursuites individuelles pour les dettes antérieures à la faillite sont suspendues. Vous ne devez pas payer directement vos anciens créanciers : c'est le curateur qui gère ces dettes. En revanche, les nouvelles dettes que vous contractez après le jugement — abonnements, loyer de votre nouveau logement, crédits personnels — restent entièrement à votre charge. Les pensions alimentaires ne sont jamais suspendues.
+
+---
+
+## Mes dettes continuent-elles à augmenter ?
+
+Non, plus après le jugement. Le jugement déclaratif arrête le cours des intérêts à l'égard de la masse (article XX.113) : vos dettes sont figées au montant qu'elles atteignaient à cette date, et plus aucun frais de recouvrement ne peut venir s'y ajouter. Seul le créancier hypothécaire conserve ses intérêts, dans la limite du produit de la vente du bien grevé. **Avant** le jugement, en revanche, la logique est exactement inverse : rien n'arrête les intérêts, les indemnités forfaitaires de recouvrement, ni l'empilement des frais de justice et d'huissier — c'est souvent ce qui fait grossir la dette le plus vite. Pour comprendre cette phase, consultez [les dettes avant la faillite : intérêts, frais et saisies](../comprendre/dettes-avant-faillite.md).
 
 ---
 
@@ -96,4 +103,5 @@ Une situation particulière que cette FAQ ne couvre pas, un détail propre à vo
 - [L'effacement automatique des dettes à la clôture](effacement.md)
 - [L'interdiction de gérer](interdiction.md)
 - [Reprendre une activité après votre faillite](reprendre-activite.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](../comprendre/dettes-avant-faillite.md)
 - [Consulter votre dossier sur REGSOL](https://www.regsol.be)
