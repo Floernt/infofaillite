@@ -3,7 +3,7 @@ description: Vérification des créances, liquidation des actifs et clôture de 
   - Phases 4 et 5 de la procédure de faillite en Belgique
 keywords: vérification créances faillite, liquidation actifs faillite, clôture faillite,
   procès-verbal créances, dividendes faillite belgique
-updated: '2026-05-14'
+updated: '2026-09-02'
 ---
 # La vérification des créances, la liquidation et la clôture
 
