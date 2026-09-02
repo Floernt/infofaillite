@@ -75,7 +75,7 @@ Les biens vendus pendant la procédure ne reviennent évidemment pas au failli �
 
 L'effacement des dettes ne fait pas disparaître la trace de la faillite. Votre dossier reste consultable sur [REGSOL](https://www.regsol.be). Les établissements financiers peuvent en tenir compte lors de l'examen de demandes de crédit, et certains partenaires commerciaux peuvent consulter REGSOL avant de contracter avec vous. Cela ne vous empêche pas de reconstruire, mais il faut en être conscient.
 
-Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'à son terme, indépendamment de la clôture. Elle peut toutefois être levée anticipativement sur requête. Pour tout le détail, consultez [l'interdiction de gérer et comment l'éviter](../faillis/interdiction.md).
+Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'à son terme, indépendamment de la clôture. Le Livre XX ne prévoit **aucune levée anticipée pour bonne conduite** : les deux seules causes d'extinction anticipée sont la rétractation du jugement déclaratif de faillite et la **réhabilitation** de l'article XX.237, qui suppose d'avoir intégralement acquitté en principal, intérêts et frais toutes les sommes dues. Pour tout le détail, consultez [l'interdiction de gérer et comment l'éviter](../faillis/interdiction.md).
 
 ---
 
@@ -87,7 +87,7 @@ Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'
 
 **Puis-je obtenir un crédit après la clôture ?** Théoriquement oui, mais en pratique les banques consultent REGSOL et la Centrale des Crédits de la Banque Nationale. Les organismes de microfinance comme MicroStart ou Crédal sont souvent mieux adaptés dans les premières années qui suivent la faillite.
 
-**L'effacement efface-t-il mon interdiction de gérer ?** Non. L'effacement porte sur les dettes. L'interdiction de gérer est une sanction distincte qui continue de courir jusqu'à son terme ou jusqu'à une levée anticipée prononcée par le tribunal.
+**L'effacement efface-t-il mon interdiction de gérer ?** Non. L'effacement porte sur les dettes. L'interdiction de gérer est une sanction distincte qui continue de courir jusqu'à son terme, sauf rétractation du jugement déclaratif ou réhabilitation au sens de l'article XX.237 — laquelle exige le paiement intégral, en principal, intérêts et frais, de toutes les sommes dues. Il n'existe pas de levée pour bonne conduite.
 
 ---
 

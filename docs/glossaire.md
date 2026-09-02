@@ -111,7 +111,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 **Insuffisance d'actif** — Situation où la valeur des biens du failli est insuffisante pour couvrir les frais de procédure et les honoraires du curateur. C'est le cas dans environ 70 % des faillites. Elle conduit à une clôture rapide, sans paiement aux créanciers chirographaires.
 
-**Interdiction de gérer** — Sanction prononcée par le tribunal de l'entreprise interdisant à une personne de diriger, gérer ou contrôler une entreprise commerciale, pendant une durée maximale de dix ans (faute grave) ou de trois ans (aveu tardif). Elle est inscrite au registre JustBan, consultable publiquement.
+**Interdiction de gérer** — Sanction prononcée par le tribunal de l'entreprise interdisant à une personne de diriger, gérer ou contrôler une entreprise commerciale, pendant une durée maximale de dix ans (article XX.229). Le tribunal peut l'assortir d'un sursis, partiel ou total, d'une durée maximale de trois ans. Elle est inscrite au registre JustBan, consultable publiquement. Elle ne peut être levée pour bonne conduite : voir *Réhabilitation*.
 
 **Inventaire** — Liste exhaustive de tous les biens du failli, dressée par le curateur sans délai après la descente de faillite. Elle constitue le périmètre de la masse active que le curateur va liquider.
 
@@ -162,6 +162,8 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 ## R
 
 **Réalisation** — Vente d'un actif par le curateur, synonyme de liquidation d'un bien.
+
+**Réhabilitation** — Mécanisme de l'article XX.237 du Code de droit économique ouvert au failli personne physique qui n'a pas obtenu l'effacement de ses dettes : il peut être réhabilité s'il a intégralement acquitté, en principal, intérêts et frais, toutes les sommes par lui dues. Ce n'est pas une remise de peine pour bonne conduite mais une sortie par désintéressement complet des créanciers. La réhabilitation met fin à l'interdiction de gérer (article XX.235) ; c'est, avec la rétractation du jugement déclaratif, sa seule cause d'extinction anticipée.
 
 **REGSOL** — Registre électronique Central de Solvabilité ([www.regsol.be](https://www.regsol.be)), base de données officielle de toutes les procédures d'insolvabilité belges. C'est là que les créanciers déclarent leurs créances en ligne, consultent les rapports du curateur et suivent l'état de leur dossier.
 
