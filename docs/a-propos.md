@@ -21,7 +21,7 @@ L'objectif du site, c'est donc de mettre la matière à plat, sans jargon inutil
 
 Ce guide repose sur :
 
-- le **Livre XX du Code de droit économique** (CDE), articles XX.1 à XX.235 ;
+- le **Livre XX du Code de droit économique** (CDE), articles XX.1 à XX.241 ;
 - le **Vademecum de la faillite** édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025) ;
 - la législation applicable aux faillites déclarées depuis le **1er septembre 2023** (réforme issue de la loi du 7 juin 2023).
 
@@ -59,7 +59,7 @@ Pour organiser une consultation directement avec moi, voir la [page Contact](con
 
 Le site est tenu à jour en continu ; la date affichée en pied de chaque page reflète sa dernière révision.
 
-**Base légale de référence** : Livre XX CDE, modifié par la loi du 7 juin 2023.
+**Base légale de référence** : Livre XX CDE, modifié par la loi du 7 juin 2023 (transposition de la directive 2019/1023), applicable aux procédures d'insolvabilité ouvertes depuis le 1er septembre 2023. À la date de la dernière révision, aucune loi postérieure ne modifie le Livre XX sur le fond. La directive (UE) 2026/799 du 1er avril 2026 (« Insolvabilité III ») imposera une réforme de fond, mais son délai de transposition court jusqu'au 22 janvier 2029 : elle n'est pas encore applicable en droit belge.
 
 La législation et la jurisprudence évoluent. Avant d'agir sur une situation précise, vérifier que l'information consultée est toujours d'actualité, et au besoin la confronter à un avis professionnel.
 

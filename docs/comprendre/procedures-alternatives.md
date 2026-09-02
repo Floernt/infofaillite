@@ -1,8 +1,8 @@
 ---
 description: Les alternatives à la faillite en Belgique - Réorganisation judiciaire
   (mesures amiables, PRJ privée, PRJ publique, régime des grandes entreprises), liquidation
-  volontaire, dissolution judiciaire ASBL - Comparaison et choix après la réforme
-  de 2023
+  volontaire, dissolution judiciaire au lieu de la faillite - Comparaison et choix
+  après la réforme de 2023
 keywords: éviter faillite belgique, réorganisation judiciaire vs faillite, PRJ privée,
   PRJ publique, mesures amiables insolvabilité, réforme PRJ 2023, liquidation volontaire
   belgique, alternatives faillite, prévention insolvabilité belgique
@@ -77,6 +77,16 @@ La dissolution est décidée en assemblée générale à la majorité requise pa
 ### Différences clés avec la faillite
 
 La liquidation volontaire est décidée par les associés, pas imposée par le tribunal. Le liquidateur est choisi par eux. Il y a dessaisissement au bénéfice du liquidateur mais pas de juge-commissaire. 
+
+---
+
+## La dissolution judiciaire au lieu de la faillite
+
+Depuis la réforme du 7 juin 2023, le tribunal saisi d'un aveu de faillite ou d'une demande de déclaration de faillite peut, alors même que les conditions de la faillite sont réunies, décider de **ne pas prononcer la faillite mais la dissolution de la société** (article 2:74/1 du Code des sociétés et des associations). Cette faculté s'applique aux procédures ouvertes depuis le 1er septembre 2023.
+
+L'objectif est de distinguer deux situations que la faillite traitait jusque-là de la même manière. D'un côté, les sociétés dont la disparition met fin à une activité réelle, avec des actifs à réaliser, des travailleurs et des créanciers à désintéresser : la lourdeur de la procédure de faillite s'y justifie. De l'autre, les sociétés sans activité, sans actif et sans personnel depuis des années — les « coquilles vides » —, pour lesquelles le tribunal peut prononcer la dissolution avec clôture immédiate de la liquidation, y compris lorsqu'il est saisi d'une citation en faillite.
+
+Cette voie n'est pas un choix ouvert au débiteur : c'est une décision du tribunal, qui l'apprécie au vu de la consistance réelle du patrimoine. Elle n'ouvre pas droit à l'effacement des dettes, lequel reste attaché à la faillite de la personne physique.
 
 ---
 

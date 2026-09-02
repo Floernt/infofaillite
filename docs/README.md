@@ -76,7 +76,7 @@ Le tableau complet de tous les délais, avec leurs points de départ et conséqu
 
 ## À propos de ce guide
 
-Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 à XX.235) et sur le vademecum de la faillite édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025). Il s'applique aux faillites déclarées à partir du 1er septembre 2023.
+Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 à XX.241) et sur le vademecum de la faillite édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025). Il s'applique aux faillites déclarées à partir du 1er septembre 2023, date d'application de la réforme issue de la loi du 7 juin 2023.
 
 !!! warning "Information générale, pas un conseil juridique"
     Ce guide fournit des informations pratiques d'ordre général. Il ne constitue pas un conseil juridique personnalisé. Pour votre situation spécifique, consultez le curateur désigné dans votre dossier, un avocat spécialisé en droit de l'insolvabilité, ou le juge-commissaire.

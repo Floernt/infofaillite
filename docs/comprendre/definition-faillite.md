@@ -7,7 +7,7 @@ updated: '2026-08-31'
 ---
 # Qu'est-ce qu'une faillite ?
 
-La faillite est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'une entreprise qui ne peut plus faire face à ses obligations. Elle est régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235), entré en vigueur le 1er mai 2018. Sous le contrôle du tribunal de l'entreprise, un curateur désigné par le tribunal vend les biens du failli, paie les créanciers selon un ordre légal, et permet aux personnes physiques d'effacer automatiquement leurs dettes impayées à la clôture.
+La faillite est une procédure judiciaire collective qui organise le règlement ordonné des dettes d'une entreprise qui ne peut plus faire face à ses obligations. Elle est régie par le Livre XX du Code de droit économique (articles XX.1 à XX.241), entré en vigueur le 1er mai 2018 et profondément réformé par la loi du 7 juin 2023 pour les procédures ouvertes depuis le 1er septembre 2023. Sous le contrôle du tribunal de l'entreprise, un curateur désigné par le tribunal vend les biens du failli, paie les créanciers selon un ordre légal, et permet aux personnes physiques d'effacer automatiquement leurs dettes impayées à la clôture.
 
 ---
 

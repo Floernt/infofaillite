@@ -127,7 +127,8 @@ Pour une situation complexe — contestation de créance, action en responsabili
 
 ## Textes légaux de référence
 
-- **Livre XX du Code de droit économique** (articles XX.1 à XX.235) — texte applicable à la faillite, accessible sur [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be)
+- **Livre XX du Code de droit économique** (articles XX.1 à XX.241) — texte applicable à la faillite, accessible sur [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be)
+- **Loi du 7 juin 2023** (M.B. 7 juillet 2023) — dernière réforme de fond du Livre XX, applicable aux procédures ouvertes depuis le 1er septembre 2023
 - **Arrêté royal du 26 avril 2018** — barème des honoraires des curateurs
 - **Code judiciaire, articles 1408-1412** — liste des biens insaisissables
 - **Code judiciaire, article 1409** — quotités insaisissables des revenus ; les montants sont indexés chaque année et publiés par le **SPF Justice** ([justice.belgium.be](https://justice.belgium.be))
