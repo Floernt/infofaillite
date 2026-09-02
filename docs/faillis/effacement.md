@@ -3,7 +3,7 @@ description: L'effacement automatique des dettes après faillite - Conditions, p
   exceptions et refus
 keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
   graves faillite, contestation effacement
-updated: '2026-05-15'
+updated: '2026-09-02'
 ---
 # L'effacement des dettes
 
