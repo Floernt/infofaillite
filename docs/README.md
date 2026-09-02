@@ -4,7 +4,7 @@ description: Guide complet et accessible sur la faillite en Belgique - Informati
 keywords: faillite belgique, insolvabilité belgique, faillis droits obligations, créanciers
   faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance,
   tribunal entreprise
-updated: '2026-08-31'
+updated: '2026-09-02'
 ---
 # Guide de la faillite en Belgique
 
