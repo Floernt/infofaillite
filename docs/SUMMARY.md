@@ -1,5 +1,5 @@
 ---
-updated: '2026-05-13'
+updated: '2026-08-31'
 ---
 # Table des matières
 
@@ -40,6 +40,7 @@ updated: '2026-05-13'
 * [La liquidation des actifs et les actions en responsabilité](comprendre/liquidation-actifs.md)
 * [La période suspecte et les nullités en faillite](comprendre/periode-suspecte.md)
 * [La clôture de la faillite et l'effacement automatique](comprendre/cloture.md)
+* [Les dettes avant la faillite : intérêts, frais et saisies](comprendre/dettes-avant-faillite.md)
 * [Les procédures alternatives à la faillite](comprendre/procedures-alternatives.md)
 
 ## Ressources

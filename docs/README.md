@@ -4,7 +4,7 @@ description: Guide complet et accessible sur la faillite en Belgique - Informati
 keywords: faillite belgique, insolvabilité belgique, faillis droits obligations, créanciers
   faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance,
   tribunal entreprise
-updated: '2026-05-15'
+updated: '2026-09-02'
 ---
 # Guide de la faillite en Belgique
 
@@ -49,6 +49,7 @@ Votre première priorité est de déclarer votre créance dans les trente jours 
 - [La liquidation des actifs et les actions en responsabilité](comprendre/liquidation-actifs.md)
 - [La période suspecte et les nullités en faillite](comprendre/periode-suspecte.md)
 - [La clôture de la faillite et l'effacement automatique des dettes](comprendre/cloture.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](comprendre/dettes-avant-faillite.md)
 - [Les procédures alternatives à la faillite](comprendre/procedures-alternatives.md)
 
 ---
@@ -75,7 +76,7 @@ Le tableau complet de tous les délais, avec leurs points de départ et conséqu
 
 ## À propos de ce guide
 
-Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 à XX.235) et sur le vademecum de la faillite édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025). Il s'applique aux faillites déclarées à partir du 1er septembre 2023.
+Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 à XX.241) et sur le vademecum de la faillite édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025). Il s'applique aux faillites déclarées à partir du 1er septembre 2023, date d'application de la réforme issue de la loi du 7 juin 2023.
 
 !!! warning "Information générale, pas un conseil juridique"
     Ce guide fournit des informations pratiques d'ordre général. Il ne constitue pas un conseil juridique personnalisé. Pour votre situation spécifique, consultez le curateur désigné dans votre dossier, un avocat spécialisé en droit de l'insolvabilité, ou le juge-commissaire.

@@ -3,7 +3,7 @@ description: Vérification des créances, liquidation des actifs et clôture de 
   - Phases 4 et 5 de la procédure de faillite en Belgique
 keywords: vérification créances faillite, liquidation actifs faillite, clôture faillite,
   procès-verbal créances, dividendes faillite belgique
-updated: '2026-05-14'
+updated: '2026-09-02'
 ---
 # La vérification des créances, la liquidation et la clôture
 
@@ -33,7 +33,7 @@ Pour le détail de la procédure de déclaration et de vérification, consultez 
 
 Si le curateur conteste une créance, le créancier est notifié. La contestation est vidée, à l'initiative du curateur, devant le tribunal de l'entreprise pour obtenir l'admission de sa créance. La procédure est contradictoire et nécessite un avocat. Le jugement peut admettre la créance totalement, partiellement ou la rejeter. Un appel reste possible selon les délais applicables.
 
-Si c'est un créancier qui souhaite contester une créance admise par le curateur — parce qu'il l'estime fictive, gonflée ou de rang injustifié —, il dispose d'un délai d'un mois à compter de la publication du procès-verbal pour former un contredit par voie de signification d'huissier. Pour tout le détail sur les contestations, lisez [contester une créance admise dans la faillite](contester-creance.md).
+Si c'est un créancier qui souhaite contester une créance admise par le curateur — parce qu'il l'estime fictive, gonflée ou de rang injustifié —, il dispose d'un délai d'un mois à compter de la publication du procès-verbal pour former un contredit par voie de signification d'huissier. Pour tout le détail sur les contestations, lisez [contester une créance admise dans la faillite](../creanciers/contester-creance.md).
 
 ---
 
@@ -103,7 +103,7 @@ Dans les deux cas, le jugement de clôture constate la fin de la procédure, pro
 
 - [Les phases 1 à 3 : jugement, mesures urgentes, inventaire et déclarations](deroulement-phase-1-3.md)
 - [Déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md)
-- [Contester une créance admise dans la faillite](contester-creance.md)
+- [Contester une créance admise dans la faillite](../creanciers/contester-creance.md)
 - [La liquidation des actifs et la réalisation du patrimoine](liquidation-actifs.md)
 - [Le paiement des dividendes aux créanciers](../creanciers/paiement-dividendes.md)
 - [La clôture de la faillite et l'effacement automatique des dettes](cloture.md)

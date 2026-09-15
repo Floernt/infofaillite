@@ -6,6 +6,44 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-08-31] edit | Réhabilitation, levée d'interdiction et actualité de la base légale
+
+Deux points arbitrés par l'utilisateur en fin de session, puis vérification de l'actualité de la base légale.
+
+**1. Interdiction de gérer : pas de levée anticipative.** Confirmation : aucune levée pour bonne conduite ni anticipative. [docs/comprendre/cloture.md](docs/comprendre/cloture.md) l'affirmait en deux endroits (« levée anticipativement sur requête », « levée anticipée prononcée par le tribunal »), en contradiction avec [docs/faillis/interdiction.md](docs/faillis/interdiction.md) — contradiction signalée lors de la passe précédente. **Correction factuelle** : les deux passages renvoient désormais aux deux seules causes d'extinction anticipée (rétractation du jugement déclaratif, réhabilitation XX.237).
+
+**2. Réhabilitation (art. XX.237).** [docs/faillis/effacement.md](docs/faillis/effacement.md) traitait le refus d'effacement sans mentionner de voie de sortie — le lecteur repartait en croyant sa situation définitive. Nouvelle section **« Si l'effacement vous est refusé : la réhabilitation »** : ouverte au failli qui n'a pas obtenu l'effacement et qui a intégralement acquitté en principal, intérêts et frais toutes les sommes dues ; effet extinctif sur l'interdiction de gérer (XX.235). Nouvelle entrée **Réhabilitation** au [glossaire](docs/glossaire.md), et **correction factuelle** de l'entrée « Interdiction de gérer », qui présentait les trois ans comme un plafond d'interdiction pour aveu tardif alors qu'il s'agit de la durée maximale du sursis (XX.229 §1).
+
+**3. Actualité de la base légale** (vérification sur sources officielles, à la demande de l'utilisateur). La **loi du 7 juin 2023** (M.B. 7 juillet 2023, transposition de la directive 2019/1023) reste la dernière réforme de fond du Livre XX, applicable aux procédures ouvertes depuis le 1er septembre 2023. Aucune loi postérieure ne le modifie sur le fond. La **directive (UE) 2026/799 du 1er avril 2026** (« Insolvabilité III ») imposera une réforme de fond mais son délai de transposition court jusqu'au **22 janvier 2029** : elle n'est pas applicable aujourd'hui. Mention ajoutée dans [docs/a-propos.md](docs/a-propos.md).
+
+**4. Correction factuelle : borne d'articles du Livre XX.** Le site bornait le Livre XX à « XX.1 à XX.235 » en cinq endroits ([a-propos](docs/a-propos.md), [ressources](docs/ressources.md), [README](docs/README.md), [definition-faillite](docs/comprendre/definition-faillite.md), [glossaire](docs/glossaire.md)), alors qu'il va jusqu'à **XX.241** (Titre IX, interdictions et réhabilitations) — borne démentie par les articles XX.237 à XX.241 que le site citait lui-même. Corrigée partout.
+
+**5. Dissolution judiciaire au lieu de la faillite.** [docs/comprendre/procedures-alternatives.md](docs/comprendre/procedures-alternatives.md) : nouvelle section sur la faculté du tribunal, saisi d'un aveu ou d'une demande de faillite, de prononcer la dissolution de la société plutôt que la faillite (**art. 2:74/1 CSA**, applicable depuis le 1er septembre 2023) — cas des sociétés sans activité, sans actif ni personnel. Le front matter de la page annonçait « dissolution judiciaire » sans que le corps la traite ; `description` corrigé au passage (« ASBL » → « au lieu de la faillite »).
+
+**6. Correction de lien.** [docs/comprendre/deroulement-phase-4-5.md](docs/comprendre/deroulement-phase-4-5.md) : les deux renvois vers `contester-creance.md` pointaient vers `comprendre/` alors que la page vit dans `creanciers/` — lecteurs en 404. Détecté au contrôle systématique des 386 liens internes du site.
+
+Contrôle final : build Zensical propre, **386 liens internes vérifiés, 0 cassé, 0 ancre introuvable**. Dates `updated:` rafraîchies via `python scripts/inject_git_dates.py`.
+
+---
+
+## [2026-08-31] edit | Dettes avant la faillite : intérêts, frais de recouvrement et saisies
+
+Trois questions reçues par la page contact portaient sur une phase que le guide ne couvrait pas : celle du débiteur qui accumule des dettes **sans être en faillite**. Vérification faite, aucune des trois n'avait de réponse sur le site — les intérêts n'étaient traités que sous l'angle de leur *arrêt* par le jugement (deux lignes de FAQ créanciers, sans base légale), « saisie-arrêt » n'apparaissait nulle part, et « indépendant complémentaire » pas davantage. Le site n'offrait que deux portes d'entrée, « je suis en faillite » et « je suis créancier ».
+
+- [docs/comprendre/dettes-avant-faillite.md](docs/comprendre/dettes-avant-faillite.md) : **nouvelle page**. Ce qui continue à s'ajouter à la dette (intérêt conventionnel et légal, loi du 2 août 2002 entre entreprises, clauses pénales et pouvoir de modération du juge, recouvrement amiable et loi du 4 mai 2023 pour les consommateurs, majorations fisc/TVA/ONSS/caisse sociale et plans d'apurement) ; effet d'une procédure sur le cours des intérêts (**article XX.113 CDE**, exception hypothécaire, moratoire PRJ publique vs absence de moratoire en PRJ privée) ; mécanique des saisies (titre exécutoire, conservatoire vs exécution, commandement de payer, saisie mobilière et articles 1408-1412 C. jud., **saisie-arrêt sur salaire et quotités de l'article 1409**, article 1411bis pour les sommes créditées en compte, saisie immobilière, fichier central des avis de saisie) ; exercice d'une activité indépendante malgré des dettes, avec le cas de l'**indépendant complémentaire** (aucun cloisonnement patrimonial : le salaire du poste principal est saisissable pour une dette professionnelle, et inversement) et les conséquences à terme (faillibilité de l'indépendant complémentaire au sens du Livre XX, patrimoine unique, activité déficitaire, cotisations sociales, délai d'un mois pour l'aveu). Choix éditorial : **expliquer les mécanismes sans citer de montants**, les barèmes de l'article 1409 étant indexés chaque année — renvoi au SPF Justice. Section de bornage du périmètre pour ne pas laisser croire que la faillite est la seule issue, sans étendre le guide hors Livre XX.
+- [docs/SUMMARY.md](docs/SUMMARY.md) et [docs/README.md](docs/README.md) : entrée dans « Comprendre la procédure », avant les procédures alternatives (les dettes montent → les alternatives).
+- [docs/comprendre/procedures-alternatives.md](docs/comprendre/procedures-alternatives.md) : renvoi depuis « Avant toute procédure judiciaire ». **Correction de deux coquilles** l. 31 (« être envisagées » → « envisagée », « eaussi » → « aussi »).
+- [docs/comprendre/definition-faillite.md](docs/comprendre/definition-faillite.md) : renvoi depuis « L'ébranlement du crédit », qui évoquait saisies et huissier sans les expliquer. **Correction factuelle** : la réorganisation judiciaire relève du **Titre V** du Livre XX, la page indiquait Titre VI — en contradiction interne avec procedures-alternatives.md.
+- [docs/comprendre/dessaisissement.md](docs/comprendre/dessaisissement.md) : FAQ « Mon salaire peut-il être saisi par le curateur ? » — les « limites légales » sont désormais rattachées à l'article 1409 C. jud. avec renvoi.
+- [docs/creanciers/paiement-dividendes.md](docs/creanciers/paiement-dividendes.md) et [docs/creanciers/verification-contestation.md](docs/creanciers/verification-contestation.md) : **base légale ajoutée** (article XX.113 CDE) sur les deux FAQ qui affirmaient l'arrêt des intérêts sans la citer, + renvoi pour l'avant-faillite.
+- [docs/faillis/faq.md](docs/faillis/faq.md) : nouvelle entrée **« Mes dettes continuent-elles à augmenter ? »** (figées après le jugement, inverse avant).
+- [docs/glossaire.md](docs/glossaire.md) : six entrées — **huissier de justice**, **quotité insaisissable** (nouveau bloc `## Q`), **saisie-arrêt**, **saisie conservatoire**, **saisie-exécution**, **titre exécutoire** ; renvoi ajouté depuis « insaisissable ».
+- [docs/ressources.md](docs/ressources.md) : article 1409 C. jud. et barèmes indexés du SPF Justice, lois du 4 mai 2023 et du 2 août 2002.
+
+Build Zensical vérifié : ancres générées conformes, les 9 liens sortants de la nouvelle page et les 9 renvois entrants résolvent tous, trois admonitions rendues (`warning` intérêts, `danger` saisie sur salaire, `tip` fermeture des options), aucun montant chiffré dans la page. Dates `updated:` rafraîchies via `python scripts/inject_git_dates.py`.
+
+**Reste à arbitrer** (non touché) : [docs/comprendre/cloture.md](docs/comprendre/cloture.md) affirme que l'interdiction de gérer peut être levée anticipativement sur requête, alors que [docs/faillis/interdiction.md](docs/faillis/interdiction.md) exclut explicitement toute levée pour bonne conduite. Les deux ne peuvent être exacts. Le glossaire mentionne par ailleurs une durée de « trois ans (aveu tardif) » sans contrepartie dans interdiction.md.
+
 ## [2026-05-15] edit | Contact & À propos : refonte autour de « information gratuite, conseil payant »
 
 Reformulation des deux pages institutionnelles autour d'une même ligne assumée à la première personne.
@@ -122,3 +160,23 @@ Reformulation de la section « Mémoire de travail » de [CLAUDE.md](CLAUDE.md) 
 Mise à jour de [superpowers/specs/2026-05-12-anti-spam-contact-email-design.md](superpowers/specs/2026-05-12-anti-spam-contact-email-design.md) pour synchroniser les deux blocs de code (`§3. Script inline de reconstruction` et `§Localisation dans contact.md`) avec la version effectivement déployée (try/catch, comment HTML, span et noscript sur deux lignes). Ajout d'une 4e étape à `§ Changement futur d'adresse` : mettre à jour la phrase de secours dans le `catch`, qui était hardcodée et non documentée.
 
 Ajout du test lecteur d'écran à la liste des vérifications manuelles déférées (best-effort).
+
+## 2026-08-31 08:52:13 - session 2a52abbe
+
+**Demande :** continue
+
+**Action :** Done. Four commits on `gh-pages`, working tree clean, not pushed (per the project workflow).  ## Réponse à la question posée  Le site ne répondait à **aucune des trois questions**. Il disait même l'inverse de ce qu'il fallait sur la première : les seules mentions d'intérêts expliquaient qu'ils *cessent* de courir au jugement de faillite — vrai, mais sans intérêt pour quelqu'un qui n'est pas en faillite. « Saisie-arrêt » et « indépendant complémentaire » n'apparaissaient nulle part dans le repo. ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-09-02 16:43:14 - session 2a52abbe
+
+**Demande :** reprend et vérifie que tout est ok
+
+**Action :** Tout est vérifié. Voici l'état réel.  ## Ce qui a été contrôlé  | Contrôle | Résultat | |---|---| | Build Zensical (from scratch, `site/` supprimé) | OK, 36 pages | | Liens internes de tout le site | **385 vérifiés, 0 cassé** | | Ancres internes | **0 introuvable** | | Page au sitemap avec `lastmod` | OK (`2026-08-31`) | | Les 3 admonitions | `warning` / `danger` / `tip` rendues | | Absence de montants chiffrés | conforme (décision « mécanisme sans montants ») | | Bases légales rendues | XX.113,...
+
+**Outils utilises :** aucun
+
+---

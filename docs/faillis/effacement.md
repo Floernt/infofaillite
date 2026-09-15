@@ -3,7 +3,7 @@ description: L'effacement automatique des dettes après faillite - Conditions, p
   exceptions et refus
 keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
   graves faillite, contestation effacement
-updated: '2026-05-15'
+updated: '2026-09-02'
 ---
 # L'effacement des dettes
 
@@ -91,6 +91,14 @@ Un **créancier impayé** peut former une demande individuelle s'il dispose d'é
 
 
 Dans tous les cas, le tribunal organise une **audience contradictoire** à laquelle vous êtes convoqué. La représentation par un avocat n'est pas obligatoire mais est fortement recommandée — c'est votre statut futur de débiteur libéré qui est en jeu. L'audience porte exclusivement sur la matérialité des fautes invoquées et leur lien causal avec la faillite. Si le tribunal écarte la requête, votre droit à l'effacement est confirmé ; s'il l'accueille, le refus peut être total ou partiel selon la gravité.
+
+### Si l'effacement vous est refusé : la réhabilitation
+
+Un refus d'effacement n'est pas nécessairement définitif. L'article XX.237 du Code de droit économique ouvre au failli qui n'a pas obtenu l'effacement une voie de sortie : la **réhabilitation**. Elle est accordée au failli qui a **intégralement acquitté, en principal, intérêts et frais, toutes les sommes par lui dues**.
+
+Il faut être clair sur ce que cela suppose. La réhabilitation n'est pas une seconde chance accordée pour bonne conduite, ni au terme d'un délai d'épreuve : elle suppose le désintéressement complet des créanciers. C'est une porte étroite, qui ne s'ouvre qu'au prix du paiement de l'intégralité du passif — ce qui, après un refus d'effacement, reste rare en pratique.
+
+Son intérêt est réel pour qui peut y accéder. Outre l'apurement du passif, la réhabilitation met fin à l'interdiction de gérer éventuellement prononcée (article XX.235) : c'est, avec la rétractation du jugement déclaratif de faillite, la seule cause d'extinction anticipée de cette sanction. La procédure est décrite dans [l'interdiction de gérer et comment l'éviter](interdiction.md).
 
 ---
 

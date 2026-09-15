@@ -3,7 +3,7 @@ description: Ressources officielles et contacts utiles pour la faillite en Belgi
   - REGSOL, tribunaux, SPF Justice, organismes d'aide, textes légaux
 keywords: ressources faillite belgique, REGSOL, tribunaux entreprise belgique, SPF
   Justice faillite, aide faillite indépendant, Fonds Fermeture Entreprises
-updated: '2026-05-13'
+updated: '2026-09-02'
 ---
 # Ressources et organismes utiles
 
@@ -127,9 +127,13 @@ Pour une situation complexe — contestation de créance, action en responsabili
 
 ## Textes légaux de référence
 
-- **Livre XX du Code de droit économique** (articles XX.1 à XX.235) — texte applicable à la faillite, accessible sur [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be)
+- **Livre XX du Code de droit économique** (articles XX.1 à XX.241) — texte applicable à la faillite, accessible sur [www.ejustice.just.fgov.be](https://www.ejustice.just.fgov.be)
+- **Loi du 7 juin 2023** (M.B. 7 juillet 2023) — dernière réforme de fond du Livre XX, applicable aux procédures ouvertes depuis le 1er septembre 2023
 - **Arrêté royal du 26 avril 2018** — barème des honoraires des curateurs
 - **Code judiciaire, articles 1408-1412** — liste des biens insaisissables
+- **Code judiciaire, article 1409** — quotités insaisissables des revenus ; les montants sont indexés chaque année et publiés par le **SPF Justice** ([justice.belgium.be](https://justice.belgium.be))
+- **Loi du 4 mai 2023** — encadrement du recouvrement amiable des dettes du consommateur (gratuité du premier rappel, plafonnement des frais)
+- **Loi du 2 août 2002** — lutte contre le retard de paiement dans les transactions entre entreprises
 
 ---
 
@@ -139,4 +143,5 @@ Pour une situation complexe — contestation de créance, action en responsabili
 - [Les acteurs de la faillite : curateur et juge-commissaire](comprendre/acteurs.md)
 - [Déclarer votre créance dans les trente jours](creanciers/declarer-creance.md)
 - [Reprendre une activité professionnelle après votre faillite](faillis/reprendre-activite.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](comprendre/dettes-avant-faillite.md)
 - [Les délais importants à ne pas manquer](delais.md)

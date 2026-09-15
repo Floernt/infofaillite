@@ -3,7 +3,7 @@ description: Le dessaisissement en faillite - Perte du droit de gérer ses biens
   de la masse faillie, biens insaisissables, revendications des tiers
 keywords: dessaisissement faillite belgique, masse faillie, biens insaisissables faillite,
   curateur gestion biens, revendication propriété faillite
-updated: '2026-05-14'
+updated: '2026-08-31'
 ---
 # Le dessaisissement
 
@@ -72,7 +72,7 @@ Le dessaisissement prend fin avec le jugement de clôture de la faillite. À ce 
 
 **Puis-je vendre ma voiture pendant la faillite ?** Si votre voiture faisait partie de votre patrimoine au jour du jugement, non : seul le curateur peut la vendre. En revanche, si vous achetez un véhicule après le jugement avec vos nouveaux revenus, ce bien vous appartient librement.
 
-**Mon salaire peut-il être saisi par le curateur ?** Non. Les revenus d'une activité entamée après le jugement de faillite vous appartiennent entièrement et ne tombent pas dans la masse. Seuls vos créanciers pour des dettes contractées après le jugement pourraient éventuellement les saisir dans les limites légales.
+**Mon salaire peut-il être saisi par le curateur ?** Non. Les revenus d'une activité entamée après le jugement de faillite vous appartiennent entièrement et ne tombent pas dans la masse. Seuls vos créanciers pour des dettes contractées après le jugement pourraient éventuellement les saisir, et uniquement dans les limites de l'article 1409 du Code judiciaire, qui laisse toujours une part de la rémunération intouchable. Pour le mécanisme de la saisie-arrêt sur salaire et l'étendue de ces quotités insaisissables, consultez [les dettes avant la faillite : intérêts, frais et saisies](dettes-avant-faillite.md).
 
 **Puis-je hériter pendant ma faillite ?** Un héritage ouvert avant le jugement de faillite entre en principe dans la masse. Un héritage ouvert après le jugement vous appartient personnellement, mais des discussions juridiques sont possibles selon les circonstances. En cas de doute, consultez un avocat.
 
@@ -88,3 +88,4 @@ Le dessaisissement prend fin avec le jugement de clôture de la faillite. À ce 
 - [La clôture de la faillite et l'effacement automatique des dettes](cloture.md)
 - [Vos droits pendant la procédure de faillite](../faillis/droits.md)
 - [Reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](dettes-avant-faillite.md)

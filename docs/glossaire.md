@@ -3,7 +3,7 @@ description: Glossaire de la faillite en Belgique - Définitions simples de tous
   termes juridiques de la procédure de faillite et d'insolvabilité
 keywords: glossaire faillite, termes juridiques faillite belgique, définitions faillite,
   vocabulaire insolvabilité belgique
-updated: '2026-05-15'
+updated: '2026-09-02'
 ---
 # Glossaire de la faillite
 
@@ -83,7 +83,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 **Failli** — Personne physique ou entreprise déclarée en état de faillite par jugement du tribunal de l'entreprise.
 
-**Faillite** — Procédure judiciaire collective organisant le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus faire face à ses engagements. Régie par le Livre XX du Code de droit économique (articles XX.1 à XX.235).
+**Faillite** — Procédure judiciaire collective organisant le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus faire face à ses engagements. Régie par le Livre XX du Code de droit économique (articles XX.1 à XX.241).
 
 **Forclusion** — Perte définitive et irréversible d'un droit en raison du dépassement d'un délai légal impératif. La forclusion ne peut pas être régularisée après coup. Pour la déclaration de créance dans une faillite, la forclusion intervient au dépôt du 3ᵉ procès-verbal de vérification (voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)).
 
@@ -99,17 +99,19 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ## H
 
+**Huissier de justice** — Officier ministériel chargé de signifier les actes judiciaires (citations, jugements, contredits) et de procéder aux mesures d'exécution forcée : commandement de payer, saisie mobilière, saisie-arrêt sur salaire, vente publique. Ses honoraires et débours sont à charge du débiteur et s'ajoutent à la dette, acte par acte. Dès le jugement déclaratif de faillite, il ne peut plus agir pour les dettes antérieures.
+
 **Hypothèque** — Sûreté réelle portant sur un immeuble, inscrite au bureau des hypothèques au profit d'un créancier. Le créancier hypothécaire est prioritaire sur le produit de la vente de l'immeuble grevé, selon son rang d'inscription. Le créancier de premier rang peut vendre lui-même l'immeuble si le curateur tarde à le faire.
 
 ---
 
 ## I
 
-**Insaisissable** — Bien que la loi soustrait à la saisie et qui n'entre donc pas dans la masse faillie : vêtements, literie, mobilier strictement indispensable, outils nécessaires à l'exercice de la profession dans la limite d'un seuil de valeur.
+**Insaisissable** — Bien que la loi soustrait à la saisie et qui n'entre donc pas dans la masse faillie : vêtements, literie, mobilier strictement indispensable, outils nécessaires à l'exercice de la profession dans la limite d'un seuil de valeur. La liste figure aux articles 1408 à 1412 du Code judiciaire. Pour les revenus, voir *Quotité insaisissable*.
 
 **Insuffisance d'actif** — Situation où la valeur des biens du failli est insuffisante pour couvrir les frais de procédure et les honoraires du curateur. C'est le cas dans environ 70 % des faillites. Elle conduit à une clôture rapide, sans paiement aux créanciers chirographaires.
 
-**Interdiction de gérer** — Sanction prononcée par le tribunal de l'entreprise interdisant à une personne de diriger, gérer ou contrôler une entreprise commerciale, pendant une durée maximale de dix ans (faute grave) ou de trois ans (aveu tardif). Elle est inscrite au registre JustBan, consultable publiquement.
+**Interdiction de gérer** — Sanction prononcée par le tribunal de l'entreprise interdisant à une personne de diriger, gérer ou contrôler une entreprise commerciale, pendant une durée maximale de dix ans (article XX.229). Le tribunal peut l'assortir d'un sursis, partiel ou total, d'une durée maximale de trois ans. Elle est inscrite au registre JustBan, consultable publiquement. Elle ne peut être levée pour bonne conduite : voir *Réhabilitation*.
 
 **Inventaire** — Liste exhaustive de tous les biens du failli, dressée par le curateur sans délai après la descente de faillite. Elle constitue le périmètre de la masse active que le curateur va liquider.
 
@@ -151,9 +153,17 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ---
 
+## Q
+
+**Quotité insaisissable** — Part de la rémunération ou des revenus de remplacement qu'un créancier ne peut jamais saisir, quel que soit le montant de sa créance. L'article 1409 du Code judiciaire organise un découpage par tranches : une première part est totalement protégée, les tranches suivantes ne sont saisissables que partiellement. Cette part protégée est majorée pour chaque enfant à charge, et les revenus de remplacement bénéficient d'une protection renforcée. Les montants sont indexés chaque année. Les créances alimentaires échappent à ces limites.
+
+---
+
 ## R
 
 **Réalisation** — Vente d'un actif par le curateur, synonyme de liquidation d'un bien.
+
+**Réhabilitation** — Mécanisme de l'article XX.237 du Code de droit économique ouvert au failli personne physique qui n'a pas obtenu l'effacement de ses dettes : il peut être réhabilité s'il a intégralement acquitté, en principal, intérêts et frais, toutes les sommes par lui dues. Ce n'est pas une remise de peine pour bonne conduite mais une sortie par désintéressement complet des créanciers. La réhabilitation met fin à l'interdiction de gérer (article XX.235) ; c'est, avec la rétractation du jugement déclaratif, sa seule cause d'extinction anticipée.
 
 **REGSOL** — Registre électronique Central de Solvabilité ([www.regsol.be](https://www.regsol.be)), base de données officielle de toutes les procédures d'insolvabilité belges. C'est là que les créanciers déclarent leurs créances en ligne, consultent les rapports du curateur et suivent l'état de leur dossier.
 
@@ -164,6 +174,12 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 ---
 
 ## S
+
+**Saisie-arrêt** — Saisie pratiquée non pas entre les mains du débiteur, mais entre celles d'un tiers qui lui doit de l'argent — l'employeur pour le salaire, la banque pour le solde du compte. Ce tiers, dit *tiers saisi*, est légalement tenu de retenir les sommes et de les verser au créancier au lieu de les remettre au débiteur. Pour la rémunération, la retenue ne peut porter que sur la part saisissable (voir *Quotité insaisissable*).
+
+**Saisie conservatoire** — Mesure qui gèle un bien sans le vendre : le débiteur ne peut plus en disposer, mais aucune réalisation n'a lieu. Elle peut être autorisée par un juge avant l'obtention d'un jugement au fond, lorsque la créance paraît certaine et qu'il y a urgence.
+
+**Saisie-exécution** — Saisie qui suppose un titre exécutoire et conduit à la vente du bien saisi au profit du créancier. Elle est mobilière (matériel, véhicule, mobilier) ou immobilière. Dès le jugement déclaratif de faillite, aucune saisie-exécution nouvelle ne peut être pratiquée pour les dettes antérieures.
 
 **Secours alimentaire** — Aide financière mensuelle accordée par le juge-commissaire au failli et à sa famille pour assurer leur subsistance pendant la procédure. Son montant est prélevé sur l'actif disponible.
 
@@ -176,6 +192,8 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 ## T
 
 **Taxation** — Procédure par laquelle le tribunal fixe le montant définitif des honoraires et frais du curateur, sur la base du barème légal et au terme d'un débat contradictoire auquel les créanciers peuvent présenter leurs observations.
+
+**Titre exécutoire** — Acte qui permet à un créancier de recourir à l'exécution forcée : le plus souvent un jugement, mais aussi un acte notarié ou, pour certains créanciers publics, une contrainte. Sans titre exécutoire, aucune saisie-exécution n'est possible — une facture impayée, même incontestée, ne suffit pas.
 
 **Tierce opposition** — Recours permettant à un créancier de contester le jugement de clôture accordant l'effacement des dettes, lorsqu'il n'était pas partie à la procédure. Le délai est de trois mois après la publication du jugement de clôture.
 
@@ -210,5 +228,6 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 - [Qu'est-ce qu'une faillite — définition et conditions](comprendre/definition-faillite.md)
 - [Les acteurs de la faillite : curateur et juge-commissaire](comprendre/acteurs.md)
 - [Le déroulement de la faillite : du jugement à l'inventaire](comprendre/deroulement-phase-1-3.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](comprendre/dettes-avant-faillite.md)
 - [Les délais importants à ne pas manquer](delais.md)
 - [REGSOL](https://www.regsol.be)

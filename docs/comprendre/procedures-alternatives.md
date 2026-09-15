@@ -1,12 +1,12 @@
 ---
 description: Les alternatives à la faillite en Belgique - Réorganisation judiciaire
   (mesures amiables, PRJ privée, PRJ publique, régime des grandes entreprises), liquidation
-  volontaire, dissolution judiciaire ASBL - Comparaison et choix après la réforme
-  de 2023
+  volontaire, dissolution judiciaire au lieu de la faillite - Comparaison et choix
+  après la réforme de 2023
 keywords: éviter faillite belgique, réorganisation judiciaire vs faillite, PRJ privée,
   PRJ publique, mesures amiables insolvabilité, réforme PRJ 2023, liquidation volontaire
   belgique, alternatives faillite, prévention insolvabilité belgique
-updated: '2026-05-15'
+updated: '2026-09-02'
 ---
 # Les procédures alternatives à la faillite
 
@@ -28,7 +28,7 @@ Depuis l'entrée en vigueur de la loi du 7 juin 2023 (transposition de la direct
 
 ### Qui peut y avoir recours ?
 
-Toute entreprise au sens du Livre XX — entreprises au sens large (anciennement commerçants), sociétés, professions libérales, ASBL — peut demander une procédure de réorganisation à condition que la continuité de l'entreprise soit menacée. Si l'état de faillite est déjà avéré, la PRJ peut, sous certaines conditions, être envisagées ; les mesures amiables et la PRJ privée peuvent eaussi être envisagées dans certains cas, mais la fenêtre se referme.
+Toute entreprise au sens du Livre XX — entreprises au sens large (anciennement commerçants), sociétés, professions libérales, ASBL — peut demander une procédure de réorganisation à condition que la continuité de l'entreprise soit menacée. Si l'état de faillite est déjà avéré, la PRJ peut, sous certaines conditions, être envisagée ; les mesures amiables et la PRJ privée peuvent aussi être envisagées dans certains cas, mais la fenêtre se referme.
 
 ### Les quatre voies de la réorganisation
 
@@ -80,6 +80,16 @@ La liquidation volontaire est décidée par les associés, pas imposée par le t
 
 ---
 
+## La dissolution judiciaire au lieu de la faillite
+
+Depuis la réforme du 7 juin 2023, le tribunal saisi d'un aveu de faillite ou d'une demande de déclaration de faillite peut, alors même que les conditions de la faillite sont réunies, décider de **ne pas prononcer la faillite mais la dissolution de la société** (article 2:74/1 du Code des sociétés et des associations). Cette faculté s'applique aux procédures ouvertes depuis le 1er septembre 2023.
+
+L'objectif est de distinguer deux situations que la faillite traitait jusque-là de la même manière. D'un côté, les sociétés dont la disparition met fin à une activité réelle, avec des actifs à réaliser, des travailleurs et des créanciers à désintéresser : la lourdeur de la procédure de faillite s'y justifie. De l'autre, les sociétés sans activité, sans actif et sans personnel depuis des années — les « coquilles vides » —, pour lesquelles le tribunal peut prononcer la dissolution avec clôture immédiate de la liquidation, y compris lorsqu'il est saisi d'une citation en faillite.
+
+Cette voie n'est pas un choix ouvert au débiteur : c'est une décision du tribunal, qui l'apprécie au vu de la consistance réelle du patrimoine. Elle n'ouvre pas droit à l'effacement des dettes, lequel reste attaché à la faillite de la personne physique.
+
+---
+
 ## La négociation amiable avec les créanciers
 
 ### Avant toute procédure judiciaire
@@ -87,6 +97,8 @@ La liquidation volontaire est décidée par les associés, pas imposée par le t
 La solution la plus simple et la moins coûteuse est la négociation directe. Si vous êtes en difficulté mais que vos relations avec vos créanciers sont encore gérables, proposer des plans de paiement échelonnés, demander des délais, ou renégocier des conditions de remboursement peut permettre de traverser une période difficile sans procédure judiciaire.
 
 Cette approche fonctionne mieux lorsque le nombre de créanciers est limité, que les montants sont raisonnables, et que les difficultés sont clairement temporaires et explicables. Un comptable ou un conseiller financier peut vous aider à structurer la démarche et à présenter un plan crédible.
+
+Tant qu'aucune procédure n'est ouverte, la dette continue toutefois à croître — intérêts, indemnités forfaitaires, puis frais de justice et d'huissier — et les créanciers conservent l'intégralité de leurs voies d'exécution, saisie sur salaire comprise. Pour comprendre ce qui s'accumule et ce qu'un créancier peut concrètement saisir pendant cette phase, consultez [les dettes avant la faillite : intérêts, frais et saisies](dettes-avant-faillite.md).
 
 ---
 
@@ -110,6 +122,7 @@ Le choix dépend d'abord de votre situation concrète :
 ## Pour aller plus loin
 
 - [Qu'est-ce qu'une faillite — définition et conditions](definition-faillite.md)
+- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](dettes-avant-faillite.md)
 - [Le déroulement de la faillite : du jugement à l'inventaire](deroulement-phase-1-3.md)
 - [L'effacement automatique des dettes à la clôture](../faillis/effacement.md)
 - [Reprendre une activité professionnelle après votre faillite](../faillis/reprendre-activite.md)
