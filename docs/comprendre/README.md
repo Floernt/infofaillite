@@ -3,6 +3,7 @@ description: Comprendre la procédure de faillite en Belgique - Définition, act
   déroulement du jugement à la clôture, effets et alternatives (Livre XX CDE)
 keywords: procédure de faillite belgique, déroulement faillite, curateur, juge-commissaire,
   période suspecte, clôture faillite, Livre XX Code de droit économique
+updated: '2026-10-28'
 ---
 # Comprendre la procédure de faillite
 
