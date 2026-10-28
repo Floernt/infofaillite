@@ -6,6 +6,13 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-28] config | Logo, favicon et image de partage
+
+- Nouveau dossier [logo/](logo/), à la racine et non publié. Il contient le logotype « info·faillite » vectorisé (Albert Sans 800, point médian orange) en cinq déclinaisons de couleur, la signature avec la ligne « Guide de la faillite en Belgique », le monogramme « i·f » en cinq versions, les PNG, les favicons et les visuels pour les réseaux. Mode d'emploi dans [logo/README.md](logo/README.md), régénération par [logo/make_logo.py](logo/make_logo.py).
+- Le favicon de Zensical par défaut est remplacé par le monogramme, en `favicon` SVG dans [zensical.toml](zensical.toml), en `.ico` et en `apple-touch-icon` dans [overrides/main.html](overrides/main.html).
+- Balises Open Graph et Twitter ajoutées sur toutes les pages : titre (le H1), description, URL canonique, type `article` pour les notes, et l'image de partage [docs/assets/og-image.png](docs/assets/og-image.png).
+- Le JSON-LD `Article` des notes reçoit une `image` et le `logo` de l'éditeur.
+
 ## [2026-10-28] refonte | Navigation et identité visuelle
 
 Refonte de l'expérience de navigation, sur maquette validée par l'utilisateur (inspiration : noerr.com). Le menu latéral unique de plus de 50 entrées, trié par nom de fichier, est remplacé par une navigation par rubrique.
@@ -379,6 +386,26 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** repense la présentation en t'inspirant de noer afin une layout moderne et  plus dynamique
 
 **Action :** J'ai refondu la maquette sur le modèle de Noerr, à la même adresse : https://claude.ai/artifact/99cqWfgoz5yn5ZDxNLz5aq. Je ne l'ai pas regardée moi-même une fois rendue.  **Ce qui change par rapport à la version précédente :** - **En-tête blanc** : le nom du site (« info·faillite », avec le point en orange), puis les quatre rubriques directement dans la barre, la rubrique active soulignée en orange, et la recherche. Il n'y a plus de barre d'onglets séparée. - **Accueil** :   - une grande accroch...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 14:17:27 - session 4a7bde3d
+
+**Demande :** [Image: original 400x2400, displayed at 333x2000. Multiply coordinates by 1.20 to map to original image.]
+
+**Action :** La refonte est en place en local, en sept commits sur `gh-pages`. Je n'ai rien poussé.  **Ce qui change pour le lecteur :** - **En-tête blanc** avec « info·faillite » et les quatre rubriques intégrées. La rubrique active est soulignée en orange, y compris sur les notes d'actualité. - **Accueil** :   - une grande accroche, à côté de la colonne « À la une » avec les trois dernières notes, mise à jour automatiquement ;   - quatre tuiles colorées par situation ;   - le bandeau « Information générale...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 15:39:50 - session 4a7bde3d
+
+**Demande :** This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation.  <system-reminder> <tools-used-before-summary>Artifact, AskUserQuestion, Bash, Edit, ExitPlanMode, Glob, Grep, Read, TaskStop, ToolSearch, WebFetch,...
+
+**Action :** La refonte est en ligne. J'ai poussé les sept commits sur `gh-pages`. Sur https://infofaillite.be, l'accueil affiche le nouvel en-tête et la page `/comprendre/` répond normalement. Si l'ancienne version s'affiche encore, un rechargement forcé (Ctrl+F5) règle le problème de cache.  Je n'ai pas commité `log.md`, qui contient 10 lignes non commitées qui ne viennent pas de mes commits. Elles ressemblent aux entrées du hook automatique. Je les laisse telles quelles, sauf si tu veux que je les intègre...
 
 **Outils utilises :** aucun
 
