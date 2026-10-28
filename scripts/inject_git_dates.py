@@ -161,7 +161,18 @@ def main(argv: list[str] | None = None) -> int:
                 unchanged += 1
 
     print(f"{changed} fichier(s) mis à jour, {unchanged} inchangé(s).")
-    if args.check and changed > 0:
+
+    # Le sitemap statique reprend les dates `updated` : il suit leur mise à jour.
+    sitemap_code = 0
+    if (repo_root / "overrides").is_dir() and (repo_root / "zensical.toml").is_file():
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import build_sitemap
+
+        sitemap_code = build_sitemap.main(
+            ["--check"] if args.check else [], repo_root=repo_root
+        )
+
+    if args.check and (changed > 0 or sitemap_code):
         return 1
     return 0
 
