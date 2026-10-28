@@ -277,3 +277,13 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Outils utilises :** aucun
 
 ---
+
+## 2026-10-28 12:06:53 - session 4a7bde3d
+
+**Demande :** parfait; mets à jour les fiches pour être cohérént avec le régime de cautionnement en prenant en compte la mise à jour législative.
+
+**Action :** J'ai mis le guide en cohérence avec le nouveau régime des cautions, en trois commits sur `gh-pages`, non poussés. Le build passe, les nouvelles ancres et les liens qui y mènent fonctionnent, et l'ancienne formulation n'apparaît plus dans le guide.  **Page de référence : [suretes-cautions.md](docs/creanciers/suretes-cautions.md).** Trois sections réécrites ou créées : - **Décharge de la caution consommateur (XX.176)** :   - la disproportion s'apprécie désormais à l'ouverture de la procédure, plus...
+
+**Outils utilises :** aucun
+
+---
