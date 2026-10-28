@@ -12,7 +12,7 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 !!! danger "Des délais de forclusion sans tolérance"
     Les délais en droit de la faillite sont des délais de forclusion : une fois écoulés, le droit correspondant est perdu définitivement. Il n'existe pas de prolongation, pas de régularisation, pas de bonne volonté qui compense un retard. Notez chaque délai dans votre agenda dès que vous en avez connaissance, avec une alarme plusieurs jours avant l'échéance.
 
-    Une exception notable concerne la **déclaration de créance** : passé le délai de trente jours, une déclaration tardive reste recevable jusqu'au dépôt du troisième procès-verbal de vérification (environ douze mois après le jugement). Voir le détail dans la section [Déclaration de créance](#déclaration-de-créance) plus bas.
+    Une exception notable concerne la **déclaration de créance** : passé le délai de trente jours, une déclaration tardive reste recevable jusqu'au dépôt du troisième procès-verbal de vérification (environ douze mois après le jugement). Voir le détail dans la section [Déclaration de créance](#declaration-de-creance) plus bas.
 
 ---
 
