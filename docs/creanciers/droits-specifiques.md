@@ -111,3 +111,11 @@ Pour les détails sur les clauses de réserve de propriété et les autres sûre
 - [La liquidation des actifs et les actions en responsabilité](../comprendre/liquidation-actifs.md)
 - [Les acteurs de la faillite : curateur et juge-commissaire](../comprendre/acteurs.md)
 - [Les délais importants à ne pas manquer](../delais.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (1)"
+
+    - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](../actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+
+    Toutes les notes sur : [Compensation](../actualites/themes.md#compensation)
+<!-- actualites:auto:end -->

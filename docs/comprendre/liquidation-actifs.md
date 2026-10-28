@@ -101,3 +101,13 @@ Tous les fonds encaissés doivent être déposés à la Caisse des Dépôts et C
 - [La clôture de la faillite et l'effacement automatique des dettes](cloture.md)
 - [Les effets du dessaisissement sur votre patrimoine](dessaisissement.md)
 - [Le curateur et le juge-commissaire : rôles et pouvoirs](acteurs.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (3)"
+
+    - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](../actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+    - [Faillite : l'ancien administrateur doit rembourser l'intégralité de son compte courant, même si celui-ci dépasse le passif](../actualites/2026-10-28-compte-courant-administrateur-integralite-passif.md) — jurisprudence, 28 octobre 2026
+    - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](../actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
+
+    Toutes les notes sur : [Réalisation des actifs](../actualites/themes.md#liquidation) · [Comblement de passif et responsabilité des dirigeants](../actualites/themes.md#responsabilite-dirigeants)
+<!-- actualites:auto:end -->

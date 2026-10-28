@@ -135,3 +135,11 @@ Le choix dépend d'abord de votre situation concrète :
 - [La PRJ privée — réorganisation confidentielle](https://florianernotte.be/prj-privee/) (florianernotte.be)
 - [La PRJ publique — obtenir un moratoire pour restructurer](https://florianernotte.be/prj-publique/) (florianernotte.be)
 - [Le régime spécial de PRJ pour les grandes entreprises](https://florianernotte.be/grandes-entreprises/) (florianernotte.be)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (1)"
+
+    - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
+
+    Toutes les notes sur : [Réorganisation judiciaire et pre-pack](../actualites/themes.md#reorganisation-judiciaire)
+<!-- actualites:auto:end -->

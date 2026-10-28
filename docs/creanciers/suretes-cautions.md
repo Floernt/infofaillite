@@ -99,3 +99,12 @@ Si la caution est le conjoint ou cohabitant légal du failli, et que cette perso
 - [La clôture de la faillite et la décharge de caution](../comprendre/cloture.md)
 - [L'effacement automatique des dettes pour les personnes physiques](../faillis/effacement.md)
 - [Les délais importants à ne pas manquer](../delais.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (2)"
+
+    - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](../actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
+    - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
+
+    Toutes les notes sur : [Cautions](../actualites/themes.md#caution)
+<!-- actualites:auto:end -->

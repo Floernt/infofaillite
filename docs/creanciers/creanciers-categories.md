@@ -126,3 +126,11 @@ Comme l'ONSS, les administrations fiscales disposent, dans certains cas, d'actio
 - [Déclarer votre créance dans les trente jours](declarer-creance.md)
 - [La liquidation des actifs et les actions en responsabilité](../comprendre/liquidation-actifs.md)
 - [La clôture de la faillite et l'effacement automatique des dettes](../comprendre/cloture.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (1)"
+
+    - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](../actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
+
+    Toutes les notes sur : [Fisc et ONSS](../actualites/themes.md#creanciers-publics)
+<!-- actualites:auto:end -->

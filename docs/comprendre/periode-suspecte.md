@@ -109,3 +109,11 @@ Pour comprendre les sanctions encourues en cas de faute grave de gestion, consul
 - [Qu'est-ce qu'une faillite — définition et conditions](definition-faillite.md)
 - [Les acteurs de la faillite : curateur et juge-commissaire](acteurs.md)
 - [Vos obligations légales envers le curateur](../faillis/obligations.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (1)"
+
+    - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](../actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+
+    Toutes les notes sur : [Période suspecte et nullités](../actualites/themes.md#periode-suspecte)
+<!-- actualites:auto:end -->

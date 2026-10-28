@@ -144,3 +144,12 @@ Une dette particulière dont vous ne savez pas si elle sera effacée, une craint
 - [L'interdiction de gérer et comment l'éviter](interdiction.md)
 - [Reprendre une activité après votre faillite](reprendre-activite.md)
 - [Les délais importants à ne pas manquer](../delais.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (2)"
+
+    - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](../actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
+    - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
+
+    Toutes les notes sur : [Effacement des dettes](../actualites/themes.md#effacement) · [Cautions](../actualites/themes.md#caution)
+<!-- actualites:auto:end -->
