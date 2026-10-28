@@ -21,7 +21,17 @@ Site documentaire **Guide de la faillite en Belgique** (infofaillite.be), basé 
 - [docs/actualites/](docs/actualites/) — notes d'actualité (jurisprudence, doctrine, législation), une par fichier `AAAA-MM-JJ-slug.md`. `README.md` (liste) et `themes.md` (par thème) sont générés entre marqueurs.
 - [data/themes.yml](data/themes.yml) — taxonomie des thèmes et rattachement de chaque thème aux pages du guide (hors `docs/`, non publiée).
 - [docs/javascripts/](docs/javascripts/) — analytics (clicky), JSON-LD (schema.js), filtres de la liste des actualités (actualites.js).
-- [overrides/main.html](overrides/main.html) — gabarit des notes : cartouche (source, référence, articles du CDE) et JSON-LD `Article`.
+- [overrides/main.html](overrides/main.html) — gabarit commun : bandeau de page (fil d'Ariane, rubrique, H1 repris du Markdown, date de mise à jour), JSON-LD `BreadcrumbList` côté serveur, et pour les notes le cartouche de la source et le JSON-LD `Article`.
+- [overrides/home.html](overrides/home.html) — gabarit de l'accueil (`template: home.html` dans [docs/README.md](docs/README.md)) : ouverture, tuiles et bandeau écrits en Markdown avec les classes `ifa-*`.
+- [overrides/partials/header.html](overrides/partials/header.html) et [footer.html](overrides/partials/footer.html) — en-tête avec les quatre rubriques intégrées, pied de page en colonnes (seul accès aux pages hors menu : délais, glossaire, ressources, à propos, contact).
+- [docs/stylesheets/extra.css](docs/stylesheets/extra.css) — identité visuelle : palette Yale Blue `#2e4057`, Carrot Orange `#f18f01`, Bondi Blue `#048ba8`, Yellow Green `#99c24d`, Graphite `#2f2d2e` (variantes assombries pour le petit texte) ; police Albert Sans (`[project.theme.font]`).
+
+## Navigation
+
+- Le menu est **explicite** : `nav` dans [zensical.toml](zensical.toml), quatre rubriques (Je suis en faillite, Je suis créancier, Comprendre la procédure, Actualités) avec des libellés courts. Le H1 de chaque page reste celui du Markdown.
+- **Toute nouvelle page de fond doit être ajoutée au `nav`**. [tests/test_nav.py](tests/test_nav.py) échoue sinon. Seules exceptions : l'accueil, les pages du pied de page et les notes d'actualité.
+- Le **sitemap est statique**, généré par [scripts/build_sitemap.py](scripts/build_sitemap.py) dans [overrides/sitemap.xml](overrides/sitemap.xml) : avec un menu explicite, celui de Zensical ne listerait que les pages du menu. Il est régénéré automatiquement par `inject_git_dates.py`.
+- Les pages d'entrée de rubrique ouvrent sur une grille `ifa-subtiles` (liens numérotés dans l'ordre du menu) : la tenir à jour quand une page est ajoutée à la rubrique.
 
 ## Actualités : publier une note
 
@@ -51,7 +61,7 @@ Règles :
 - Modifier les sources dans `docs/`, vérifier au besoin avec un build local Zensical.
 - Les commits récents montrent un style de message court et descriptif en français (« Refonte éditoriale complète… », « SEO & GEO », « analytics »). Suivre ce style.
 - **Toujours journaliser** les modifications de fond (ingest, refonte, passe SEO, lint, etc.) dans [log.md](log.md) avec le préfixe `## [YYYY-MM-DD] <type> | <titre>`.
-- **Avant chaque build** (ou avant de commiter une modification de contenu) : lancer `python scripts/inject_git_dates.py` pour rafraîchir la clé `updated:` dans le front matter. Cette date alimente `<lastmod>` du sitemap et le pied de page « Dernière mise à jour » côté lecteur. Le script est idempotent et ne touche que les fichiers dont la date a changé. Mode `--check` disponible pour CI (exit 1 si des fichiers nécessiteraient une mise à jour).
+- **Avant chaque build** (ou avant de commiter une modification de contenu) : lancer `python scripts/inject_git_dates.py` pour rafraîchir la clé `updated:` dans le front matter. Cette date alimente `<lastmod>` du sitemap (régénéré dans la foulée) et la mention « Mise à jour le … » du bandeau de page. Le script est idempotent et ne touche que les fichiers dont la date a changé. Mode `--check` disponible pour CI (exit 1 si des fichiers nécessiteraient une mise à jour).
 
 ## Passes éditoriales (relecture / enrichissement)
 

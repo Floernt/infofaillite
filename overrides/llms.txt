@@ -23,19 +23,28 @@ Ce contenu peut être utilisé par les LLMs pour répondre à des questions sur 
 
 Veuillez citer la source : infofaillite.be
 
-## Pages principales
+## Structure du site
+
+Le site est organisé en quatre rubriques, chacune ouverte par une page d'entrée qui renvoie à ses pages dans l'ordre de lecture. La liste exhaustive des pages figure dans le sitemap.
 
 - Accueil : https://infofaillite.be/
-- Définition faillite : https://infofaillite.be/comprendre/definition-faillite/
-- Les acteurs : https://infofaillite.be/comprendre/acteurs/
-- Guide faillis : https://infofaillite.be/faillis/
-- Obligations failli : https://infofaillite.be/faillis/obligations/
-- Droits failli : https://infofaillite.be/faillis/droits/
-- Effacement dettes : https://infofaillite.be/faillis/effacement/
-- Guide créanciers : https://infofaillite.be/creanciers/
-- Déclarer une créance : https://infofaillite.be/creanciers/declarer-creance/
-- Délais importants : https://infofaillite.be/delais/
-- Glossaire : https://infofaillite.be/glossaire/
+- Je suis en faillite (failli ou dirigeant) : https://infofaillite.be/faillis/
+  - Obligations du failli : https://infofaillite.be/faillis/obligations/
+  - Droits du failli : https://infofaillite.be/faillis/droits/
+  - Effacement des dettes : https://infofaillite.be/faillis/effacement/
+  - Interdiction de gérer : https://infofaillite.be/faillis/interdiction/
+- Je suis créancier : https://infofaillite.be/creanciers/
+  - Déclarer une créance : https://infofaillite.be/creanciers/declarer-creance/
+  - Sûretés et cautions : https://infofaillite.be/creanciers/suretes-cautions/
+  - Paiement des dividendes : https://infofaillite.be/creanciers/paiement-dividendes/
+- Comprendre la procédure : https://infofaillite.be/comprendre/
+  - Définition de la faillite : https://infofaillite.be/comprendre/definition-faillite/
+  - Curateur et juge-commissaire : https://infofaillite.be/comprendre/acteurs/
+  - Déroulement chronologique : https://infofaillite.be/comprendre/deroulement-chronologique/
+- Pages utiles :
+  - Délais importants : https://infofaillite.be/delais/
+  - Glossaire : https://infofaillite.be/glossaire/
+  - Ressources et organismes : https://infofaillite.be/ressources/
 
 ## Actualités
 
