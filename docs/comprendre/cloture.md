@@ -51,13 +51,13 @@ La demande de refus peut être formulée avant la clôture par le curateur, [le 
 
 Les personnes qui se sont portées caution pour les dettes du failli ne bénéficient pas de son effacement. Les créanciers peuvent continuer à les poursuivre normalement après la clôture de la faillite — la caution reste engagée pour les montants impayés.
 
-### La décharge pour cautionnement disproportionné
+### La décharge de la caution consommateur
 
-Une caution peut demander sa décharge au tribunal si le montant cautionné était manifestement disproportionné à ses revenus et à son patrimoine au moment de la signature. Le tribunal apprécie souverainement la disproportion. Cette décharge doit être demandée dans les six mois qui suivent le jugement de clôture définitif, une fois les délais d'appel épuisés.
+Depuis le 1er janvier 2026 (loi du 5 juin 2025), l'article XX.176 du Code de droit économique permet au consommateur qui s'est constitué sûreté personnelle du failli de demander sa décharge, totale ou partielle, si son obligation est manifestement disproportionnée à ses biens et à ses revenus à l'ouverture de la procédure. Il n'a plus à prouver que son engagement était gratuit. Lorsque le débiteur principal est une société, le garant ne doit pas pouvoir influencer substantiellement ses décisions. La demande prend la forme d'une requête déposée dans le registre, dont le dépôt suspend les voies d'exécution. Conditions, pièces à joindre et exclusions : voir [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
 
-### Le cas du conjoint ou cohabitant
+### Le cas du conjoint ou cohabitant légal
 
-Le conjoint ou cohabitant légal du failli qui s'est porté caution pour ses dettes professionnelles bénéficie de l'effacement dans une condition : avoir cohabité avec le failli pendant plus de six mois avant le jugement déclaratif. Si cette condition est remplie, les créanciers ne peuvent poursuivre ni le failli, ni son conjoint. Pour les autres aspects de la situation du conjoint, consultez [l'effacement automatique des dettes](../faillis/effacement.md).
+L'article XX.174 libère par l'effacement le conjoint, l'ex-conjoint, le cohabitant légal ou l'ex-cohabitant légal personnellement coobligé à une dette du failli contractée pendant le mariage ou la cohabitation légale. Cette libération suit le sort du failli : sans effacement du failli, pas d'effacement pour son partenaire. Elle ne joue pas pour le cohabitant légal dont la déclaration date de moins de six mois avant l'ouverture de la faillite, ni pour les dettes contractuelles étrangères à l'activité professionnelle du failli, et elle ne concerne pas le cohabitant de fait. Le détail figure dans [le conjoint ou cohabitant légal coobligé](../creanciers/suretes-cautions.md#conjoint-cohabitant-cooblige).
 
 ---
 
