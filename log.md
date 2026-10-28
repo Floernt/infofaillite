@@ -6,6 +6,17 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-28] edit | Cautions : alignement du guide sur la loi du 5 juin 2025
+
+Résout l'incohérence relevée à l'entrée « Six premières notes d'actualité ». **Correction factuelle** : le guide décrivait encore l'ancien régime (décharge réservée à la caution à titre gratuit, disproportion appréciée « au moment de la signature », extension de l'effacement au conjoint rattachée à XX.173 et conditionnée à six mois de cohabitation). Réécrit sur la base des notes [caution consommateur](docs/actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) et [effacement et décharge pour le conjoint](docs/actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md).
+
+- [docs/creanciers/suretes-cautions.md](docs/creanciers/suretes-cautions.md) — page de référence : décharge de la caution consommateur (XX.176 : disproportion à l'ouverture de la procédure, garant sans influence substantielle sur la société, sûretés personnelles seulement, requête au registre avec pièces, suspension des voies d'exécution) ; effacement du conjoint ou cohabitant légal coobligé (XX.174 et ses trois limites, C. const. 25 janvier 2024 et 24 septembre 2014) ; nouveau régime du Code civil (art. 9.1.42 à 9.1.50) avec les points de contrôle pour le créancier ; avertissement sur les dossiers antérieurs au 1er janvier 2026. Ancres explicites `#decharge-caution-consommateur`, `#conjoint-cohabitant-cooblige`, `#surete-consommateur-code-civil`.
+- [docs/comprendre/cloture.md](docs/comprendre/cloture.md), [docs/faillis/effacement.md](docs/faillis/effacement.md), [docs/faillis/faq.md](docs/faillis/faq.md), [docs/faillis/checklist-premiere-semaine.md](docs/faillis/checklist-premiere-semaine.md), [docs/glossaire.md](docs/glossaire.md) — résumés alignés, renvoi vers la page de référence.
+
+**Retiré, à confirmer par l'utilisateur** : le délai de « six mois suivant le jugement de clôture définitif » pour demander la décharge (suretes-cautions et clôture). Il ne figure pas dans les notes sources et paraît difficilement conciliable avec une requête déposée en cours de procédure qui suspend les voies d'exécution.
+
+---
+
 ## [2026-10-28] ingest | Six premières notes d'actualité
 
 Notes fournies par l'utilisateur, reprises sans modification de fond (mise en forme Markdown, front matter, thèmes) :
@@ -252,6 +263,16 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** parfait, on peut continuer
 
 **Action :** La rubrique Actualités est en place sur `gh-pages`, en quatre commits locaux. Je n'ai rien poussé.  **Ce qui fonctionne :** - **Taxonomie** : les 30 notions de la maquette sont dans [data/themes.yml](data/themes.yml), fichier hors de `docs/`, donc jamais publié. - **Générateur** : [scripts/build_actualites.py](scripts/build_actualites.py) écrit dans tes pages, mais uniquement entre des marqueurs ; ton texte rédigé n'est jamais touché. Il produit :   - la liste des notes et la page « par thème » ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 11:52:44 - session 4a7bde3d
+
+**Demande :** voila une première note d'actualité
+
+**Action :** Tes six notes sont en ligne en local, en deux commits sur `gh-pages`. Je n'ai rien poussé.  J'ai repris ton texte tel quel : seulement la mise en Markdown (intertitres, listes, référence finale en italique), l'en-tête de chaque note et ses thèmes.  | Note | Type | Thèmes | |---|---|---| | Caution consommateur, loi du 5 juin 2025 | législation | caution, réorganisation judiciaire | | Fraude intragroupe, Entr. fr. Bruxelles, 10 septembre 2025 | jurisprudence | période suspecte, responsabilité des ...
 
 **Outils utilises :** aucun
 
