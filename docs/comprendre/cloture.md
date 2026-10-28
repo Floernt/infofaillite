@@ -102,9 +102,19 @@ Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'
 - [REGSOL — registre central de solvabilité](https://www.regsol.be)
 
 <!-- actualites:auto:start -->
-??? info "Actualités liées à cette page (1)"
+<div class="ifa-related" markdown>
 
-    - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](../actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
+## Actualités liées
 
-    Toutes les notes sur : [Effacement des dettes](../actualites/themes.md#effacement)
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--doctrine">Doctrine</span> <span class="ifa-date">28.10.2026</span>
+
+[Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](../actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md)
+</div>
+</div>
+
+Toutes les notes sur : [Effacement des dettes](../actualites/themes.md#effacement)
+
+</div>
 <!-- actualites:auto:end -->

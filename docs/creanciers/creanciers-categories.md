@@ -128,9 +128,19 @@ Comme l'ONSS, les administrations fiscales disposent, dans certains cas, d'actio
 - [La clôture de la faillite et l'effacement automatique des dettes](../comprendre/cloture.md)
 
 <!-- actualites:auto:start -->
-??? info "Actualités liées à cette page (1)"
+<div class="ifa-related" markdown>
 
-    - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](../actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
+## Actualités liées
 
-    Toutes les notes sur : [Fisc et ONSS](../actualites/themes.md#creanciers-publics)
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">06.03.2025 · Cour de cassation (1re ch.)</span>
+
+[La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](../actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md)
+</div>
+</div>
+
+Toutes les notes sur : [Fisc et ONSS](../actualites/themes.md#creanciers-publics)
+
+</div>
 <!-- actualites:auto:end -->

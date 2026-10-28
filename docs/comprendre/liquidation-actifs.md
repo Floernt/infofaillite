@@ -103,11 +103,29 @@ Tous les fonds encaissés doivent être déposés à la Caisse des Dépôts et C
 - [Le curateur et le juge-commissaire : rôles et pouvoirs](acteurs.md)
 
 <!-- actualites:auto:start -->
-??? info "Actualités liées à cette page (3)"
+<div class="ifa-related" markdown>
 
-    - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](../actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
-    - [Faillite : l'ancien administrateur doit rembourser l'intégralité de son compte courant, même si celui-ci dépasse le passif](../actualites/2026-10-28-compte-courant-administrateur-integralite-passif.md) — jurisprudence, 28 octobre 2026
-    - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](../actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
+## Actualités liées
 
-    Toutes les notes sur : [Réalisation des actifs](../actualites/themes.md#liquidation) · [Comblement de passif et responsabilité des dirigeants](../actualites/themes.md#responsabilite-dirigeants)
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">10.09.2025 · Tribunal de l'entreprise francophone de Bruxelles</span>
+
+[Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](../actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">08.01.2026 · Cour d'appel de Bruxelles (9e ch. F)</span>
+
+[Faillite : l'ancien administrateur doit rembourser l'intégralité de son compte courant, même si celui-ci dépasse le passif](../actualites/2026-10-28-compte-courant-administrateur-integralite-passif.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">06.03.2025 · Cour de cassation (1re ch.)</span>
+
+[La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](../actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md)
+</div>
+</div>
+
+Toutes les notes sur : [Réalisation des actifs](../actualites/themes.md#liquidation) · [Comblement de passif et responsabilité des dirigeants](../actualites/themes.md#responsabilite-dirigeants)
+
+</div>
 <!-- actualites:auto:end -->

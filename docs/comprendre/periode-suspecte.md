@@ -111,9 +111,19 @@ Pour comprendre les sanctions encourues en cas de faute grave de gestion, consul
 - [Vos obligations légales envers le curateur](../faillis/obligations.md)
 
 <!-- actualites:auto:start -->
-??? info "Actualités liées à cette page (1)"
+<div class="ifa-related" markdown>
 
-    - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](../actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+## Actualités liées
 
-    Toutes les notes sur : [Période suspecte et nullités](../actualites/themes.md#periode-suspecte)
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">10.09.2025 · Tribunal de l'entreprise francophone de Bruxelles</span>
+
+[Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](../actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md)
+</div>
+</div>
+
+Toutes les notes sur : [Période suspecte et nullités](../actualites/themes.md#periode-suspecte)
+
+</div>
 <!-- actualites:auto:end -->

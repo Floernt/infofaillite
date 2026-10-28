@@ -9,6 +9,15 @@ updated: '2026-05-15'
 
 Le jugement vient d'être prononcé. Vous avez probablement de nombreuses questions : qu'est-ce que cela change concrètement ? Que va-t-il se passer ? Que pouvez-vous encore faire ? Ce guide vous explique l'essentiel pour comprendre votre situation et prendre les bonnes décisions dès maintenant.
 
+<div class="ifa-subtiles" markdown>
+[**La première semaine** Les démarches urgentes après le jugement.](checklist-premiere-semaine.md){ .ifa-subtile }
+[**Vos obligations** Collaborer avec le curateur, remettre documents et biens.](obligations.md){ .ifa-subtile }
+[**Vos droits** Revenus, logement, biens insaisissables.](droits.md){ .ifa-subtile }
+[**L'effacement des dettes** Une seconde chance à la clôture, et ses limites.](effacement.md){ .ifa-subtile }
+[**Reprendre une activité** Travailler ou entreprendre pendant et après la faillite.](reprendre-activite.md){ .ifa-subtile }
+[**L'interdiction de gérer** Quand elle est prononcée, combien de temps elle dure.](interdiction.md){ .ifa-subtile }
+</div>
+
 ---
 
 ## Ce que le jugement change immédiatement

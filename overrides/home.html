@@ -1,0 +1,22 @@
+{#-
+  Gabarit de l'accueil (docs/README.md, `template: home.html`).
+  Pas de bandeau de page : l'ouverture, les tuiles et le bandeau final sont
+  écrits dans le Markdown de l'accueil (classes ifa-* de extra.css). Le bloc
+  « À la une » est généré par scripts/build_actualites.py.
+-#}
+{% extends "main.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <style>.md-main { overflow-x: clip; }</style>
+{% endblock %}
+
+{% block hero %}{% endblock %}
+
+{% block container %}
+  <div class="md-content ifa-home" data-md-component="content">
+    <article class="md-content__inner md-typeset">
+      {{ page.content }}
+    </article>
+  </div>
+{% endblock %}

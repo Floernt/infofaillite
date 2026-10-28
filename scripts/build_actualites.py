@@ -236,6 +236,32 @@ def source_line(note: Note) -> str:
     return ", ".join(parts)
 
 
+def date_court(value: str) -> str:
+    year, month, day = value.split("-")
+    return f"{day}.{month}.{year}"
+
+
+def display_date(note: Note) -> str:
+    """Date affichée dans les cartes : celle du texte commenté, sinon la publication."""
+    return iso(note.source.get("date")) or note.date
+
+
+def card_meta(note: Note) -> str:
+    """Étiquette de type + date courte (+ origine du texte commenté)."""
+    origin = (
+        note.source.get("juridiction")
+        or note.source.get("auteur")
+        or note.source.get("publication")
+    )
+    date = date_court(display_date(note))
+    if origin:
+        date += f" · {origin}"
+    return (
+        f'<span class="ifa-type ifa-type--{note.type}">{TYPES[note.type]}</span> '
+        f'<span class="ifa-date">{date}</span>'
+    )
+
+
 def note_item(source_rel: str, note: Note) -> str:
     return (
         f"- [{md_text(note.title)}]({link(source_rel, note.rel)}) — "
@@ -341,23 +367,45 @@ def render_page_block(
         return None
     used = [s for s in slugs if any(s in n.themes for n in related)]
     themes_link = link(page_rel, f"{NOTES_DIR}/themes.md")
-    lines = [f'??? info "Actualités liées à cette page ({len(related)})"', ""]
-    lines += [f"    {note_item(page_rel, n)}" for n in related[:MAX_RELATED_ON_PAGE]]
+    lines = ['<div class="ifa-related" markdown>', "", "## Actualités liées", ""]
+    lines += ['<div class="ifa-relcards" markdown>']
+    for note in related[:MAX_RELATED_ON_PAGE]:
+        lines += [
+            '<div class="ifa-relcard" markdown>',
+            card_meta(note),
+            "",
+            f"[{md_text(note.title)}]({link(page_rel, note.rel)})",
+            "</div>",
+        ]
     lines += [
+        "</div>",
         "",
-        "    Toutes les notes sur : "
+        "Toutes les notes sur : "
         + " · ".join(f"[{md_text(themes[s].label)}]({themes_link}#{s})" for s in used),
+        "",
+        "</div>",
     ]
     return "\n".join(lines)
 
 
 def render_home_block(notes: list[Note]) -> str:
+    """Colonne « À la une » de l'accueil (overrides/home.html)."""
     if not notes:
         return ""
     rel = "README.md"
-    lines = ["## Dernières actualités", ""]
-    lines += [note_item(rel, n) for n in notes[:MAX_HOME]]
-    lines += ["", f"[Toutes les actualités]({NOTES_DIR}/README.md)", "", "---"]
+    lines: list[str] = []
+    for note in notes[:MAX_HOME]:
+        target = link(rel, note.rel)
+        lines += [
+            '<div class="ifa-feat" markdown>',
+            card_meta(note),
+            "",
+            f"### [{md_text(note.title)}]({target})",
+            "",
+            f"[Lire la note]({target}){{ .ifa-more }}",
+            "</div>",
+        ]
+    lines += ["", f"[Toutes les actualités]({NOTES_DIR}/README.md){{ .ifa-more }}"]
     return "\n".join(lines)
 
 

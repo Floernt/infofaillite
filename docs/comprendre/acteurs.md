@@ -121,9 +121,19 @@ Les coordonnées du juge-commissaire figurent sur [REGSOL](https://www.regsol.be
 - [REGSOL — registre central de solvabilité](https://www.regsol.be)
 
 <!-- actualites:auto:start -->
-??? info "Actualités liées à cette page (1)"
+<div class="ifa-related" markdown>
 
-    - [Faillite : l'ancien administrateur doit rembourser l'intégralité de son compte courant, même si celui-ci dépasse le passif](../actualites/2026-10-28-compte-courant-administrateur-integralite-passif.md) — jurisprudence, 28 octobre 2026
+## Actualités liées
 
-    Toutes les notes sur : [Le curateur](../actualites/themes.md#curateur)
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">08.01.2026 · Cour d'appel de Bruxelles (9e ch. F)</span>
+
+[Faillite : l'ancien administrateur doit rembourser l'intégralité de son compte courant, même si celui-ci dépasse le passif](../actualites/2026-10-28-compte-courant-administrateur-integralite-passif.md)
+</div>
+</div>
+
+Toutes les notes sur : [Le curateur](../actualites/themes.md#curateur)
+
+</div>
 <!-- actualites:auto:end -->

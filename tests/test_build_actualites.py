@@ -218,7 +218,8 @@ def test_main_generates_index_themes_and_cross_links(site: Path) -> None:
 
     page = read(site, "faillis/effacement.md")
     assert page.startswith("---\nupdated: '2026-01-01'\n---\n# L'effacement des dettes\n\nTexte.\n")
-    assert '??? info "Actualités liées à cette page (2)"' in page
+    assert "## Actualités liées" in page
+    assert page.count('class="ifa-relcard"') == 2
     assert "(../actualites/2026-10-15-caution-conjoint.md)" in page
     assert "(../actualites/themes.md#effacement)" in page
     # thème principal de la page (effacement) avant le thème secondaire (caution)
@@ -236,6 +237,9 @@ def test_main_generates_index_themes_and_cross_links(site: Path) -> None:
     home = read(site, "README.md")
     assert "(actualites/2026-10-15-caution-conjoint.md)" in home
     assert home.endswith("Suite de l'accueil.\n")
+    # carte « À la une » : date de la décision commentée, au format court
+    assert "12.03.2026 · Cour de cassation" in home
+    assert "{ .ifa-more }" in home
 
 
 def test_main_is_idempotent_and_check_passes_after_build(site: Path, capsys) -> None:
@@ -257,7 +261,7 @@ def test_block_removed_from_page_when_last_note_deleted(site: Path) -> None:
     (site / "docs" / "actualites" / "2026-10-15-caution-conjoint.md").unlink()
     main([], repo_root=site)
     assert START not in read(site, "creanciers/suretes-cautions.md")
-    assert "(1)" in read(site, "faillis/effacement.md")
+    assert read(site, "faillis/effacement.md").count('class="ifa-relcard"') == 1
 
 
 def test_main_reports_validation_errors(site: Path, capsys) -> None:
