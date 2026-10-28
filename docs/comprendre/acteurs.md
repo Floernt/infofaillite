@@ -3,7 +3,7 @@ description: Le curateur et le juge-commissaire dans la faillite - Rôles, pouvo
   obligations et rémunération des acteurs principaux de la procédure
 keywords: curateur faillite belgique, juge-commissaire faillite, rôle curateur, pouvoirs
   curateur, acteurs faillite, avocat faillite
-updated: '2026-05-13'
+updated: '2026-10-28'
 ---
 # Le curateur et le juge-commissaire
 

@@ -1,23 +1,27 @@
 ---
-title: "Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant"
+title: 'Interdiction professionnelle après faillite : une condamnation pénale antérieure
+  n''empêche pas le tribunal de l''entreprise de sanctionner le dirigeant'
 date: '2026-10-28'
 type: jurisprudence
 source:
   juridiction: Tribunal de l'entreprise du Hainaut, division Mons (5e ch.)
   date: '2026-07-28'
   reference: R.G. O/26/00128
-themes: [interdiction-gerer]
-articles_cde: [XX.229]
-resume: >-
-  Le tribunal interdit pour sept ans, avec un sursis de trois ans, l'ancien
-  administrateur d'un garage failli, et écarte les arguments tirés du délai
-  raisonnable et de la règle « non bis in idem » malgré une condamnation pénale
-  antérieure pour une partie des mêmes faits.
+themes:
+- interdiction-gerer
+articles_cde:
+- XX.229
+resume: Le tribunal interdit pour sept ans, avec un sursis de trois ans, l'ancien
+  administrateur d'un garage failli, et écarte les arguments tirés du délai raisonnable
+  et de la règle « non bis in idem » malgré une condamnation pénale antérieure pour
+  une partie des mêmes faits.
 description: Entr. Hainaut (div. Mons), 28 juillet 2026 - Interdiction professionnelle
   (art. XX.229 CDE), non bis in idem, délai raisonnable et sursis après une condamnation
   pénale du dirigeant
 keywords: interdiction de gérer, article XX.229, non bis in idem, interdiction professionnelle
-  faillite, sursis interdiction, délai raisonnable, dirigeant failli condamnation pénale
+  faillite, sursis interdiction, délai raisonnable, dirigeant failli condamnation
+  pénale
+updated: '2026-10-28'
 ---
 Par un jugement du 28 juillet 2026, le tribunal de l'entreprise du Hainaut, division Mons, interdit pour sept ans à l'ancien administrateur d'un garage failli d'exploiter une entreprise et d'exercer toute fonction permettant d'engager une société, avec un sursis de trois ans. Le dirigeant invoquait le principe « non bis in idem » parce qu'il avait déjà été condamné au pénal pour une partie des mêmes faits. Le tribunal écarte cet argument.
 

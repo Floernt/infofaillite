@@ -1,23 +1,28 @@
 ---
-title: "Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant"
+title: 'Fraude intragroupe avant faillite : le tribunal écarte les conventions et
+  condamne personnellement le dirigeant'
 date: '2026-10-28'
 type: jurisprudence
 source:
   juridiction: Tribunal de l'entreprise francophone de Bruxelles
   date: '2025-09-10'
-themes: [periode-suspecte, responsabilite-dirigeants, compensation]
-articles_cde: [XX.114]
-resume: >-
-  Le tribunal déclare inopposables à la masse une cession de créances et une
-  compensation intragroupe conclues avant la faillite, sur la base de l'article
-  XX.114 qui vise les actes frauduleux quelle que soit leur date, et condamne
-  l'administrateur in solidum.
+themes:
+- periode-suspecte
+- responsabilite-dirigeants
+- compensation
+articles_cde:
+- XX.114
+resume: Le tribunal déclare inopposables à la masse une cession de créances et une
+  compensation intragroupe conclues avant la faillite, sur la base de l'article XX.114
+  qui vise les actes frauduleux quelle que soit leur date, et condamne l'administrateur
+  in solidum.
 description: Entr. fr. Bruxelles, 10 septembre 2025 - Cession de créances et compensation
   intragroupe frauduleuses avant faillite, inopposabilité (art. XX.114 CDE) et condamnation
   personnelle du dirigeant
 keywords: fraude créanciers faillite, article XX.114, action paulienne faillite, compensation
-  intragroupe, cession de créance faillite, responsabilité dirigeant faillite, compte courant
-  administrateur
+  intragroupe, cession de créance faillite, responsabilité dirigeant faillite, compte
+  courant administrateur
+updated: '2026-10-28'
 ---
 Dans un jugement du 10 septembre 2025, le tribunal de l'entreprise francophone de Bruxelles a déclaré inopposables à la masse deux conventions conclues le même jour par une société en difficulté. Ces conventions lui avaient fait perdre toutes ses créances sur des sociétés liées et avaient remboursé son administrateur, qui les avait signées « sous plusieurs casquettes ». Le tribunal a aussi condamné cet administrateur personnellement, in solidum avec les sociétés concernées.
 

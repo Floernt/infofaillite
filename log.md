@@ -6,6 +6,23 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-28] ingest | Six premières notes d'actualité
+
+Notes fournies par l'utilisateur, reprises sans modification de fond (mise en forme Markdown, front matter, thèmes) :
+
+- [Sûreté personnelle constituée par un consommateur, loi du 5 juin 2025](docs/actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation ; thèmes caution, réorganisation judiciaire.
+- [Fraude intragroupe avant faillite, Entr. fr. Bruxelles, 10 septembre 2025](docs/actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — XX.114 ; thèmes période suspecte, responsabilité des dirigeants, compensation.
+- [Effacement et décharge de caution pour le conjoint ou le partenaire](docs/actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, XX.174 et XX.176 ; thèmes effacement, caution.
+- [Interdiction professionnelle et non bis in idem, Entr. Hainaut (Mons), 28 juillet 2026](docs/actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — XX.229 ; thème interdiction de gérer.
+- [Dirigeant démissionnaire et faillites successives, Cass., 6 mars 2025](docs/actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — XX.226 ; thèmes responsabilité des dirigeants, fisc et ONSS.
+- [Compte courant de l'administrateur, Bruxelles, 8 janvier 2026](docs/actualites/2026-10-28-compte-courant-administrateur-integralite-passif.md) — XX.144 et XX.170 ; thèmes réalisation des actifs, curateur.
+
+Blocs « Actualités liées » générés sur 10 pages du guide, encart de l'accueil alimenté.
+
+**Incohérence relevée, non corrigée (en attente d'arbitrage).** Les notes 1 et 3 décrivent la décharge de la caution depuis le 1er janvier 2026 (critère du consommateur et de la disproportion, gratuité abandonnée ; effacement du conjoint fondé sur XX.174). Le guide décrit encore l'ancien régime : [docs/creanciers/suretes-cautions.md](docs/creanciers/suretes-cautions.md) (l. 62-68 et 90, « à titre gratuit »), [docs/comprendre/cloture.md](docs/comprendre/cloture.md) (l. 54-60), [docs/faillis/effacement.md](docs/faillis/effacement.md) (l. 57 et 68, extension au conjoint rattachée à XX.173), [docs/faillis/faq.md](docs/faillis/faq.md) (l. 47).
+
+---
+
 ## [2026-10-28] config | Rubrique Actualités et maillage avec le guide
 
 Nouvelle rubrique `/actualites/` pour publier des notes de jurisprudence, de doctrine et de législation, avec des renvois automatiques dans les deux sens entre les notes et les pages du guide. Maquette validée au préalable (liste, gabarit de note, page théorique avec renvois, page par thème).
@@ -225,6 +242,16 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** Je voudrais mettre en place une page spécifique sur le site qui concerne des actualités et des articles de Sur le sujet, l'objectif est d'avoir un espace qui permet de recenser des. Euh des matières liées au droit de la faillite et de publier des actualités jurisprudentielles ou doctrinales. Dans ce...
 
 **Action :** La maquette est en ligne, en accès privé : https://claude.ai/artifact/Q5aVSWRd6eyxYcDa1aHoks  Elle simule quatre écrans dans l'apparence actuelle du site. Tu passes de l'un à l'autre avec la barre du haut. Les encadrés orange en pointillés expliquent ce qui est généré automatiquement ; tu peux les masquer.  1. **Liste des actualités** : notes groupées par année, chacune avec son type (jurisprudence, doctrine, législation), sa source, un résumé et ses étiquettes. Des filtres par type et par thème...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 11:06:02 - session 4a7bde3d
+
+**Demande :** parfait, on peut continuer
+
+**Action :** La rubrique Actualités est en place sur `gh-pages`, en quatre commits locaux. Je n'ai rien poussé.  **Ce qui fonctionne :** - **Taxonomie** : les 30 notions de la maquette sont dans [data/themes.yml](data/themes.yml), fichier hors de `docs/`, donc jamais publié. - **Générateur** : [scripts/build_actualites.py](scripts/build_actualites.py) écrit dans tes pages, mais uniquement entre des marqueurs ; ton texte rédigé n'est jamais touché. Il produit :   - la liste des notes et la page « par thème » ...
 
 **Outils utilises :** aucun
 

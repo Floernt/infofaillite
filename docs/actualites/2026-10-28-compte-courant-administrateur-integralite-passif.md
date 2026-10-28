@@ -1,23 +1,29 @@
 ---
-title: "Faillite : l'ancien administrateur doit rembourser l'intégralité de son compte courant, même si celui-ci dépasse le passif"
+title: 'Faillite : l''ancien administrateur doit rembourser l''intégralité de son
+  compte courant, même si celui-ci dépasse le passif'
 date: '2026-10-28'
 type: jurisprudence
 source:
   juridiction: Cour d'appel de Bruxelles (9e ch. F)
   date: '2026-01-08'
   reference: R.G. 2023/AR/1312
-themes: [liquidation, curateur]
-articles_cde: [XX.144, XX.170]
-resume: >-
-  La cour d'appel condamne un ancien administrateur à rembourser au curateur près
-  de 119.000 euros de compte courant débiteur, sans réduction au montant du passif
+themes:
+- liquidation
+- curateur
+articles_cde:
+- XX.144
+- XX.170
+resume: 'La cour d''appel condamne un ancien administrateur à rembourser au curateur
+  près de 119.000 euros de compte courant débiteur, sans réduction au montant du passif
   déclaré (environ 38.000 euros) : le curateur recouvre toutes les sommes dues au
-  failli.
+  failli.'
 description: Bruxelles, 8 janvier 2026 - Compte courant débiteur de l'administrateur,
   recouvrement intégral par le curateur (art. XX.144 et XX.170 CDE) même au-delà du
   passif
-keywords: compte courant administrateur faillite, compte courant gérant curateur, article
-  XX.144, article XX.170, cession d'actions faillite, recouvrement créances curateur
+keywords: compte courant administrateur faillite, compte courant gérant curateur,
+  article XX.144, article XX.170, cession d'actions faillite, recouvrement créances
+  curateur
+updated: '2026-10-28'
 ---
 Par un arrêt du 8 janvier 2026, la cour d'appel de Bruxelles a condamné un ancien administrateur à rembourser au curateur près de 119.000 euros de compte courant débiteur, alors que le passif déclaré dans la faillite ne s'élevait qu'à environ 38.000 euros.
 

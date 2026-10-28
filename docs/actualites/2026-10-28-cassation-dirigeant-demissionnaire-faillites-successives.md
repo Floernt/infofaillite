@@ -1,23 +1,27 @@
 ---
-title: "La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée"
+title: La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué
+  » dans la faillite de la société qu'il a quittée
 date: '2026-10-28'
 type: jurisprudence
 source:
   juridiction: Cour de cassation (1re ch.)
   date: '2025-03-06'
   reference: C.24.0113.F
-themes: [responsabilite-dirigeants, creanciers-publics]
-articles_cde: [XX.226]
-resume: >-
-  La responsabilité objective pour dettes de cotisations sociales en cas de
-  faillites successives vise aussi le dirigeant qui avait démissionné plusieurs
-  mois avant les faillites antérieures : son implication se déduit de sa seule
-  qualité d'administrateur ou de gérant.
+themes:
+- responsabilite-dirigeants
+- creanciers-publics
+articles_cde:
+- XX.226
+resume: 'La responsabilité objective pour dettes de cotisations sociales en cas de
+  faillites successives vise aussi le dirigeant qui avait démissionné plusieurs mois
+  avant les faillites antérieures : son implication se déduit de sa seule qualité
+  d''administrateur ou de gérant.'
 description: Cass., 6 mars 2025, C.24.0113.F - Faillites successives et dettes ONSS,
   responsabilité objective du dirigeant démissionnaire (art. XX.226 CDE)
 keywords: faillites successives ONSS, article XX.226, responsabilité dirigeant cotisations
   sociales, dirigeant démissionnaire faillite, Cour de cassation 6 mars 2025, article
   265 Code des sociétés
+updated: '2026-10-28'
 ---
 Dans un arrêt du 6 mars 2025, la Cour de cassation a jugé que la responsabilité objective pour dettes de cotisations sociales en cas de faillites successives vise aussi le dirigeant qui avait démissionné plusieurs mois avant les faillites antérieures. La gérante concernée avait été condamnée à payer 553.681,73 euros à l'ONSS.
 
