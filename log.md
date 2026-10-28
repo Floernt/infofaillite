@@ -6,6 +6,25 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-28] config | Rubrique Actualités et maillage avec le guide
+
+Nouvelle rubrique `/actualites/` pour publier des notes de jurisprudence, de doctrine et de législation, avec des renvois automatiques dans les deux sens entre les notes et les pages du guide. Maquette validée au préalable (liste, gabarit de note, page théorique avec renvois, page par thème).
+
+**Architecture.** Zensical 0.0.24 n'a ni plugin blog ni plugin tags opérationnel : un générateur Python pré-build écrit dans les sources Markdown, entre les marqueurs `<!-- actualites:auto:start/end -->`, et ne touche jamais au texte rédigé.
+
+- [data/themes.yml](data/themes.yml) : taxonomie de 30 notions, chacune rattachée à 1 ou 2 pages du guide (hors `docs/`, non publiée).
+- [scripts/build_actualites.py](scripts/build_actualites.py) : valide les notes, régénère la liste ([docs/actualites/README.md](docs/actualites/README.md)), la page par thème ([docs/actualites/themes.md](docs/actualites/themes.md)), l'encart « Dernières actualités » de l'accueil, les renvois en fin de note et le bloc repliable « Actualités liées » en fin de chaque page du guide concernée (retiré quand plus aucune note ne s'y rapporte). Idempotent, mode `--check`.
+- [scripts/new_actualite.py](scripts/new_actualite.py) : squelette d'une note.
+- [overrides/main.html](overrides/main.html) : cartouche de la note (source, référence, lien, articles du CDE) et JSON-LD `Article` dans le HTML statique.
+- [docs/stylesheets/extra.css](docs/stylesheets/extra.css), [docs/javascripts/actualites.js](docs/javascripts/actualites.js) : badges de type, filtres par type et par thème.
+- [overrides/llms.txt](overrides/llms.txt) et [CLAUDE.md](CLAUDE.md) : rubrique et workflow de publication documentés.
+
+**Contrainte découverte.** Zensical échoue au build (« failed to extract field Markdown.meta », sans nom de fichier) sur toute valeur YAML vide et toute date non quotée dans un front matter. Le squelette quote les dates et n'émet aucune valeur nulle ; le générateur détecte les deux cas et nomme le fichier.
+
+Contrôle : 32 tests au vert ; build Zensical vérifié avec deux notes de démonstration temporaires (liste, cartouche, JSON-LD, ancres `#slug`, bloc sur `faillis/effacement`, encart d'accueil, sitemap), puis notes retirées : les pages du guide reviennent à l'identique. Aucune note réelle publiée à ce stade.
+
+---
+
 ## [2026-08-31] edit | Réhabilitation, levée d'interdiction et actualité de la base légale
 
 Deux points arbitrés par l'utilisateur en fin de session, puis vérification de l'actualité de la base légale.
@@ -176,6 +195,36 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** reprend et vérifie que tout est ok
 
 **Action :** Tout est vérifié. Voici l'état réel.  ## Ce qui a été contrôlé  | Contrôle | Résultat | |---|---| | Build Zensical (from scratch, `site/` supprimé) | OK, 36 pages | | Liens internes de tout le site | **385 vérifiés, 0 cassé** | | Ancres internes | **0 introuvable** | | Page au sitemap avec `lastmod` | OK (`2026-08-31`) | | Les 3 admonitions | `warning` / `danger` / `tip` rendues | | Absence de montants chiffrés | conforme (décision « mécanisme sans montants ») | | Bases légales rendues | XX.113,...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-09-02 17:34:26 - session 2a52abbe
+
+**Demande :** Je confirme que la levée de l'interdiction ne peut pas se faire pour bonne conduite ou levée anticipative. Par contre en matière d'effacement, le refus d'effacement peut être peut faire l'objet d'une réhabilitation conformément aux dispositions du code de droit économique lorsque Le failli qui n'a p...
+
+**Action :** Tout est en ordre. Arbre propre, build clean, 386 liens vérifiés sans erreur, dates à jour.  ## Vos deux points  **Levée d'interdiction** — vous confirmez `interdiction.md`, c'était donc `cloture.md` qui était fautif, en deux endroits. Corrigé et rattaché aux deux seules causes d'extinction anticipée : rétractation du jugement déclaratif et réhabilitation XX.237.  **Réhabilitation** — c'était un vrai trou. [effacement.md](docs/faillis/effacement.md) expliquait longuement comment l'effacement peu...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-09-15 12:26:26 - session 2a52abbe
+
+**Demande :** on peut pousser les commits
+
+**Action :** Poussé. `928ca68..ff77d61`, local et remote synchronisés sur `ff77d61`, aucun écart.  Les 11 commits sont en ligne — le déploiement GitHub Actions se déclenche sur `gh-pages`. Je n'ai pas pu vérifier son état, le CLI `gh` n'étant pas installé ici ; à contrôler dans l'onglet Actions du dépôt si vous voulez confirmer la mise en ligne effective.  Ce qui part en production : la nouvelle page sur les dettes avant faillite, les renvois et la base légale XX.113 sur les FAQ, les six entrées de glossaire...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 10:52:15 - session 4a7bde3d
+
+**Demande :** Je voudrais mettre en place une page spécifique sur le site qui concerne des actualités et des articles de Sur le sujet, l'objectif est d'avoir un espace qui permet de recenser des. Euh des matières liées au droit de la faillite et de publier des actualités jurisprudentielles ou doctrinales. Dans ce...
+
+**Action :** La maquette est en ligne, en accès privé : https://claude.ai/artifact/Q5aVSWRd6eyxYcDa1aHoks  Elle simule quatre écrans dans l'apparence actuelle du site. Tu passes de l'un à l'autre avec la barre du haut. Les encadrés orange en pointillés expliquent ce qui est généré automatiquement ; tu peux les masquer.  1. **Liste des actualités** : notes groupées par année, chacune avec son type (jurisprudence, doctrine, législation), sa source, un résumé et ses étiquettes. Des filtres par type et par thème...
 
 **Outils utilises :** aucun
 
