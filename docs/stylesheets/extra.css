@@ -1,37 +1,537 @@
-/* Section Actualités : cartouche des notes, badges de type, liste et filtres. */
+/* ==========================================================================
+   Identité visuelle d'infofaillite.be (surcharge du thème Zensical « modern »)
 
-:root {
-  --ifa-juris: #2e6b4f;  --ifa-juris-bg: #e5f2eb;
-  --ifa-doctr: #7a4a12;  --ifa-doctr-bg: #f7ecdd;
-  --ifa-legis: #6b2e5c;  --ifa-legis-bg: #f4e4ef;
+   Palette : Yale Blue #2e4057 (structure), Carrot Orange #f18f01 (accent),
+   Bondi Blue #048ba8 (liens), Yellow Green #99c24d (touches), Graphite
+   #2f2d2e (texte). Les variantes « -text » sont assombries (mode clair) ou
+   éclaircies (mode sombre) pour garder un contraste lisible sur le petit texte.
+   Police : Albert Sans (zensical.toml, [project.theme.font]).
+   ========================================================================== */
+
+:root,
+[data-md-color-scheme="default"] {
+  --ifa-bg: #ffffff;
+  --ifa-bg-soft: #f3f5f7;
+  --ifa-surface: #ffffff;
+  --ifa-fg: #2f2d2e;
+  --ifa-fg-muted: #626a74;
+  --ifa-line: #e1e5ea;
+  --ifa-heading: #2e4057;
+  --ifa-yale: #2e4057;
+  --ifa-yale-2: #24344a;
+  --ifa-on-yale: #f5f7fa;
+  --ifa-on-yale-muted: #c3ccd8;
+  --ifa-orange: #f18f01;
+  --ifa-orange-text: #a35b00;
+  --ifa-orange-soft: #fef3e2;
+  --ifa-bondi: #048ba8;
+  --ifa-bondi-text: #037089;
+  --ifa-green: #99c24d;
+  --ifa-green-text: #55731f;
+  --ifa-graphite: #2f2d2e;
+  --ifa-footer-bg: #1f2c3e;
+
+  --md-primary-fg-color: #2e4057;
+  --md-primary-fg-color--light: #4a5d77;
+  --md-primary-fg-color--dark: #24344a;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, .7);
+  --md-accent-fg-color: #f18f01;
+  --md-accent-fg-color--transparent: rgba(241, 143, 1, .1);
+  --md-accent-bg-color: #ffffff;
+  --md-typeset-a-color: #037089;
+  --md-default-fg-color: #2f2d2e;
+  --md-default-fg-color--light: #626a74;
+  --md-default-bg-color: #ffffff;
 }
+
 [data-md-color-scheme="slate"] {
-  --ifa-juris: #7fcfa6;  --ifa-juris-bg: #1f3a2e;
-  --ifa-doctr: #e9b877;  --ifa-doctr-bg: #3d2e1b;
-  --ifa-legis: #e3a1d1;  --ifa-legis-bg: #3b2236;
+  --md-hue: 215;
+  --ifa-bg: #161d29;
+  --ifa-bg-soft: #1d2635;
+  --ifa-surface: #1f2939;
+  --ifa-fg: #e9eaec;
+  --ifa-fg-muted: #a9b1bd;
+  --ifa-line: #33405a;
+  --ifa-heading: #f2f4f7;
+  --ifa-yale: #22314a;
+  --ifa-yale-2: #1a2639;
+  --ifa-on-yale-muted: #a7b2c3;
+  --ifa-orange-text: #f5a83a;
+  --ifa-orange-soft: #3a2a12;
+  --ifa-bondi-text: #4fc3dd;
+  --ifa-green-text: #b5d67a;
+  --ifa-footer-bg: #111823;
+
+  --md-primary-fg-color: #22314a;
+  --md-typeset-a-color: #4fc3dd;
+  --md-accent-fg-color: #f18f01;
+  --md-default-fg-color: rgba(233, 234, 236, .92);
+  --md-default-fg-color--light: #a9b1bd;
+  --md-default-bg-color: #161d29;
+  --md-code-bg-color: #1d2635;
 }
 
-.md-typeset .ifa-type {
+body { background: var(--ifa-bg); }
+
+/* --- Typographie ---------------------------------------------------------- */
+
+.md-typeset {
+  font-size: .86rem;
+  line-height: 1.7;
+  color: var(--ifa-fg);
+}
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.ifa-pagehead h1 {
+  color: var(--ifa-heading);
+  letter-spacing: -.02em;
+  text-wrap: balance;
+}
+.md-typeset h2 {
+  font-size: 1.45em;
+  font-weight: 800;
+  line-height: 1.2;
+  margin: 2em 0 .7em;
+}
+.md-typeset h3 { font-size: 1.15em; font-weight: 700; }
+.md-typeset a { text-underline-offset: 3px; }
+.md-typeset hr { border-bottom-color: var(--ifa-line); }
+
+.ifa-kicker {
   display: inline-block;
   font-size: .62rem;
   font-weight: 700;
-  letter-spacing: .05em;
+  letter-spacing: .14em;
   text-transform: uppercase;
-  padding: .1em .55em;
-  border-radius: .2rem;
+  color: var(--ifa-orange-text);
+}
+
+/* --- En-tête ------------------------------------------------------------- */
+
+.ifa-header {
+  background: var(--ifa-surface);
+  color: var(--ifa-heading);
+  box-shadow: 0 1px 0 var(--ifa-line);
+}
+.ifa-header__inner {
+  display: flex;
+  align-items: stretch;
+  gap: 1.2rem;
+  min-height: 3.6rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.ifa-header .md-header__button { align-self: center; color: var(--ifa-heading); }
+.ifa-brand {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  font-weight: 800;
+  letter-spacing: -.03em;
+  color: var(--ifa-heading);
   white-space: nowrap;
 }
-.md-typeset .ifa-type--jurisprudence { color: var(--ifa-juris); background: var(--ifa-juris-bg); }
-.md-typeset .ifa-type--doctrine      { color: var(--ifa-doctr); background: var(--ifa-doctr-bg); }
-.md-typeset .ifa-type--legislation   { color: var(--ifa-legis); background: var(--ifa-legis-bg); }
+.ifa-brand:hover { color: var(--ifa-heading); }
+.ifa-brand i { font-style: normal; color: var(--ifa-orange); }
+.ifa-mainnav {
+  display: flex;
+  align-items: stretch;
+  gap: .2rem;
+  list-style: none;
+  margin: 0 auto 0 1rem;
+  padding: 0;
+}
+.ifa-mainnav__item { display: flex; }
+.ifa-mainnav__link {
+  display: flex;
+  align-items: center;
+  padding: 0 .6rem;
+  font-size: .8rem;
+  font-weight: 600;
+  color: var(--ifa-fg);
+  white-space: nowrap;
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  transition: border-color .15s ease, color .15s ease;
+}
+.ifa-mainnav__link:hover { color: var(--ifa-heading); border-bottom-color: var(--ifa-line); }
+.ifa-mainnav__link--active,
+.ifa-mainnav__link--active:hover { color: var(--ifa-heading); border-bottom-color: var(--ifa-orange); }
+.ifa-header__search span { display: none; }
+.ifa-header .md-search__form {
+  border-radius: 999px;
+  background: var(--ifa-bg-soft);
+  box-shadow: inset 0 0 0 1px var(--ifa-line);
+}
+.ifa-header .md-search__input { color: var(--ifa-fg); }
+.ifa-header .md-search__input::placeholder,
+.ifa-header .md-search__icon { color: var(--ifa-fg-muted); }
 
-/* Cartouche en tête de note */
-.md-typeset .ifa-cartouche {
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: .3rem;
-  margin: 0 0 1.6em;
+@media screen and (min-width: 76.25em) {
+  .ifa-header__menu { display: none; }
+}
+@media screen and (max-width: 76.234375em) {
+  .ifa-mainnav { display: none; }
+  .ifa-brand { margin-right: auto; }
+}
+
+/* Barre d'onglets Zensical et fil d'Ariane intégrés à l'en-tête et au bandeau */
+.md-tabs,
+.md-content > .md-path { display: none; }
+
+/* --- Bandeau de page ----------------------------------------------------- */
+
+.ifa-pagehead {
+  background: var(--ifa-bg-soft);
+  border-bottom: 1px solid var(--ifa-line);
+}
+.ifa-pagehead__inner { padding: 1.8rem .8rem 2rem; }
+.ifa-crumbs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem .5rem;
+  font-size: .68rem;
+  color: var(--ifa-fg-muted);
+  margin-bottom: .9rem;
+}
+.ifa-crumbs a { color: var(--ifa-fg-muted); }
+.ifa-crumbs a:hover { color: var(--ifa-heading); }
+.ifa-pagehead h1 {
+  font-size: clamp(1.7rem, 3.6vw, 2.5rem);
+  line-height: 1.08;
+  font-weight: 800;
+  letter-spacing: -.03em;
+  margin: .4rem 0 0;
+  max-width: 24ch;
+}
+.ifa-pagehead h1 .headerlink { display: none; }
+.ifa-pagehead__meta { margin-top: .9rem; font-size: .7rem; color: var(--ifa-fg-muted); }
+
+/* Premier paragraphe d'une page : chapeau */
+.md-content__inner > p:first-of-type {
+  font-size: 1.08em;
+  color: var(--ifa-fg-muted);
+}
+
+/* --- Menu de rubrique (gauche) et sommaire (droite) ------------------------ */
+
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary .md-nav__link {
+    padding: .3rem .6rem;
+    margin-top: .1rem;
+    border-left: 3px solid var(--ifa-line);
+    color: var(--ifa-fg);
+  }
+  .md-nav--primary .md-nav__link:hover { border-left-color: var(--ifa-fg-muted); color: var(--ifa-heading); }
+  .md-nav--primary .md-nav__item .md-nav__link--active,
+  .md-nav--primary .md-nav__item .md-nav__link--active:hover {
+    border-left-color: var(--ifa-orange);
+    background: var(--ifa-bg-soft);
+    color: var(--ifa-heading);
+    font-weight: 700;
+  }
+  .md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
+    border-left: 0;
+    background: none;
+    font-size: .62rem;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--ifa-fg-muted);
+    font-weight: 700;
+    box-shadow: none;
+  }
+}
+.md-nav--secondary .md-nav__title {
+  font-size: .62rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ifa-fg-muted);
+  background: none;
+  box-shadow: none;
+}
+.md-nav--secondary .md-nav__link--active { color: var(--ifa-orange-text); font-weight: 700; }
+
+/* --- Précédent / suivant et pied de page --------------------------------- */
+
+.ifa-footer { background: none; color: var(--ifa-fg); }
+.ifa-prevnext-wrap { background: var(--ifa-bg); }
+.ifa-prevnext {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-top: 1px solid var(--ifa-line);
+  padding: 0 .8rem;
+}
+.ifa-prevnext__link {
+  display: grid;
+  gap: .15rem;
+  padding: 1.1rem 0;
+  color: var(--ifa-heading);
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+}
+.ifa-prevnext__link:hover { color: var(--ifa-orange-text); }
+.ifa-prevnext__link small {
+  font-size: .6rem;
+  font-weight: 700;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ifa-fg-muted);
+}
+.ifa-prevnext__link--next { text-align: right; padding-left: 1rem; border-left: 1px solid var(--ifa-line); }
+.ifa-prevnext__link--prev { padding-right: 1rem; }
+
+.ifa-footer__main {
+  background: var(--ifa-footer-bg);
+  color: #c3ccd8;
+  padding: 2.4rem 0 1.4rem;
+  font-size: .72rem;
+}
+.ifa-footer__cols {
+  display: grid;
+  grid-template-columns: 1.4fr repeat(3, 1fr);
+  gap: 1.6rem;
+  padding: 0 .8rem;
+}
+.ifa-footer .ifa-brand { color: #ffffff; font-size: 1.3rem; }
+.ifa-footer__about p { margin: .6rem 0 0; max-width: 32ch; line-height: 1.6; }
+.ifa-footer__title {
+  margin: 0 0 .6rem;
+  font-size: .6rem;
+  font-weight: 700;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.ifa-footer ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .4rem; }
+.ifa-footer__main a:not(.ifa-brand) { color: #e3e8ef; }
+.ifa-footer__main a:not(.ifa-brand):hover { color: var(--ifa-orange); }
+.ifa-footer__legal {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem 1.2rem;
+  margin-top: 2rem;
+  padding: 1rem .8rem 0;
+  border-top: 1px solid rgba(255, 255, 255, .12);
+  font-size: .65rem;
+}
+@media screen and (max-width: 60em) {
+  .ifa-footer__cols { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media screen and (max-width: 30em) {
+  .ifa-footer__cols { grid-template-columns: minmax(0, 1fr); }
+  .ifa-prevnext { grid-template-columns: minmax(0, 1fr); }
+  .ifa-prevnext__link--next { border-left: 0; padding-left: 0; border-top: 1px solid var(--ifa-line); }
+}
+
+/* --- Éléments communs : étiquettes, liens fléchés, boutons ---------------- */
+
+.md-typeset .ifa-tag,
+.md-typeset .ifa-type {
+  display: inline-block;
+  font-size: .6rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  padding: .05em .65em;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  white-space: nowrap;
+  line-height: 1.6;
+}
+.md-typeset .ifa-type--jurisprudence { color: var(--ifa-bondi-text); }
+.md-typeset .ifa-type--doctrine { color: var(--ifa-green-text); }
+.md-typeset .ifa-type--legislation { color: var(--ifa-orange-text); }
+.md-typeset .ifa-date { font-size: .68rem; color: var(--ifa-fg-muted); font-variant-numeric: tabular-nums; }
+.md-typeset .ifa-arrow,
+.md-typeset .ifa-more { font-weight: 700; color: var(--ifa-heading); }
+.md-typeset .ifa-arrow::after,
+.md-typeset .ifa-more::after { content: "\00a0→"; color: var(--ifa-orange); }
+.md-typeset .ifa-btn {
+  display: inline-block;
+  padding: .55rem 1rem;
+  font-weight: 700;
+  border-radius: 2px;
+  background: var(--ifa-orange);
+  color: var(--ifa-graphite);
+}
+.md-typeset .ifa-btn--ghost {
+  background: none;
+  color: var(--ifa-on-yale);
+  box-shadow: inset 0 0 0 1.5px rgba(255, 255, 255, .5);
+}
+.md-typeset .ifa-btn:hover { filter: brightness(1.06); text-decoration: none; }
+
+/* --- Accueil (overrides/home.html) --------------------------------------- */
+
+.ifa-home .md-content__inner { margin-top: 0; padding-top: 0; }
+.ifa-home .md-content__inner > p:first-of-type { font-size: inherit; color: inherit; }
+.md-typeset .ifa-opening {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  gap: 2.8rem;
+  padding: 2.6rem 0 2.4rem;
+  align-items: start;
+}
+.md-typeset .ifa-opening h1 {
+  font-size: clamp(2rem, 4.6vw, 3rem);
+  line-height: 1.04;
+  font-weight: 800;
+  letter-spacing: -.035em;
+  margin: .6rem 0 1rem;
+  color: var(--ifa-heading);
+}
+.md-typeset .ifa-opening h1 em { font-style: normal; color: var(--ifa-orange); }
+.md-typeset .ifa-opening h1 .headerlink { display: none; }
+.md-typeset .ifa-lead { font-size: 1.1em; color: var(--ifa-fg-muted); max-width: 52ch; }
+.md-typeset .ifa-ctas { display: flex; flex-wrap: wrap; gap: .6rem 1.4rem; margin-top: 1.4rem; font-size: 1.05em; }
+.md-typeset .ifa-featured { border-top: 3px solid var(--ifa-heading); }
+.md-typeset .ifa-featured > p:first-child { margin: .8rem 0 0; }
+.md-typeset .ifa-featured .ifa-kicker { color: var(--ifa-heading); }
+.md-typeset .ifa-feat { padding: .9rem 0; border-bottom: 1px solid var(--ifa-line); }
+.md-typeset .ifa-feat p { margin: 0; }
+.md-typeset .ifa-feat h3 { margin: .4rem 0 .4rem; font-size: 1.12em; line-height: 1.3; }
+.md-typeset .ifa-feat h3 a { color: var(--ifa-heading); }
+.md-typeset .ifa-feat h3 .headerlink { display: none; }
+@media screen and (max-width: 60em) {
+  .md-typeset .ifa-opening { grid-template-columns: minmax(0, 1fr); gap: 1.8rem; }
+}
+
+/* Bandes pleine largeur dans le contenu */
+.md-typeset .ifa-band {
+  position: relative;
+  padding: 2.6rem 0;
+  margin: 0;
+}
+.md-typeset .ifa-band::before {
+  content: "";
+  position: absolute;
+  inset: 0 -100vmax;
+  background: var(--ifa-band-bg, var(--ifa-bg-soft));
+  z-index: -1;
+}
+.md-typeset .ifa-band h2 {
+  margin: 0 0 .4rem;
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  line-height: 1.1;
+  font-weight: 800;
+}
+.md-typeset .ifa-band h2 .headerlink { display: none; }
+.md-typeset .ifa-band > p { color: var(--ifa-fg-muted); max-width: 60ch; }
+.ifa-home .md-main { overflow-x: clip; }
+
+/* Tuiles de situation */
+.md-typeset .ifa-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  gap: 1rem;
+  margin-top: 1.4rem;
+}
+.md-typeset .ifa-tile {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  background: var(--ifa-surface);
+  border: 1px solid var(--ifa-line);
+  border-radius: 4px;
   overflow: hidden;
-  font-size: .7rem;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.md-typeset .ifa-tile:hover { transform: translateY(-4px); box-shadow: 0 14px 34px rgba(46, 64, 87, .16); }
+.md-typeset .ifa-tile__cover {
+  display: grid;
+  align-content: space-between;
+  gap: .8rem;
+  min-height: 7rem;
+  padding: 1.2rem 1.1rem 1rem;
+}
+.md-typeset .ifa-tile__cover p { margin: 0; }
+.md-typeset .ifa-tile__cover .ifa-kicker { color: inherit; opacity: .9; }
+.md-typeset .ifa-tile__cover h3 { margin: 0; font-size: 1.35em; line-height: 1.1; font-weight: 800; color: inherit; }
+.md-typeset .ifa-tile__cover h3 a { color: inherit; }
+.md-typeset .ifa-tile__cover h3 .headerlink { display: none; }
+.md-typeset .ifa-tile--orange .ifa-tile__cover { background: #f18f01; color: #2f2d2e; }
+.md-typeset .ifa-tile--bondi .ifa-tile__cover { background: #048ba8; color: #ffffff; }
+.md-typeset .ifa-tile--yale .ifa-tile__cover { background: #2e4057; color: #ffffff; }
+.md-typeset .ifa-tile--green .ifa-tile__cover { background: #99c24d; color: #2f2d2e; }
+.md-typeset .ifa-tile ul { list-style: none; margin: 0; padding: .3rem 1.1rem .9rem; }
+.md-typeset .ifa-tile li { margin: 0; }
+.md-typeset .ifa-tile li a { display: block; padding: .5rem 0; border-bottom: 1px solid var(--ifa-line); color: var(--ifa-fg); }
+.md-typeset .ifa-tile li:last-child a { border-bottom: 0; }
+.md-typeset .ifa-tile li a::after { content: "\00a0→"; color: var(--ifa-orange); }
+.md-typeset .ifa-tile li a:hover { color: var(--ifa-heading); }
+
+/* Bandeau Yale pleine largeur */
+.md-typeset .ifa-banner { --ifa-band-bg: linear-gradient(120deg, var(--ifa-yale) 0%, var(--ifa-yale-2) 100%); color: var(--ifa-on-yale); }
+.md-typeset .ifa-banner h2 { color: var(--ifa-on-yale); }
+.md-typeset .ifa-banner > p { color: var(--ifa-on-yale-muted); }
+.md-typeset .ifa-banner .ifa-ctas { margin-top: 1.2rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .ifa-tile, .ifa-mainnav__link { transition: none; }
+  .md-typeset .ifa-tile:hover { transform: none; }
+}
+
+/* --- Pages d'entrée de rubrique : tuiles numérotées ------------------------ */
+
+.md-typeset .ifa-subtiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  border-top: 1px solid var(--ifa-line);
+  border-left: 1px solid var(--ifa-line);
+  margin: 1.2rem 0 2rem;
+  counter-reset: ifa-subtile;
+}
+.md-typeset .ifa-subtiles > p { display: contents; }
+.md-typeset a.ifa-subtile {
+  counter-increment: ifa-subtile;
+  display: grid;
+  gap: .3rem;
+  align-content: start;
+  padding: 1.1rem 1.1rem 1.2rem;
+  border-right: 1px solid var(--ifa-line);
+  border-bottom: 1px solid var(--ifa-line);
+  color: var(--ifa-fg);
+  background: var(--ifa-surface);
+  transition: background .15s ease;
+}
+.md-typeset a.ifa-subtile::before {
+  content: counter(ifa-subtile, decimal-leading-zero);
+  font-size: .68rem;
+  font-weight: 800;
+  color: var(--ifa-orange-text);
+  font-variant-numeric: tabular-nums;
+}
+.md-typeset a.ifa-subtile strong { display: block; font-size: 1.1em; color: var(--ifa-heading); line-height: 1.25; }
+.md-typeset a.ifa-subtile:hover { background: var(--ifa-orange-soft); text-decoration: none; }
+
+/* --- Actualités liées (bas des pages du guide) ---------------------------- */
+
+.md-typeset .ifa-related { margin-top: 2.4rem; padding-top: .4rem; border-top: 1px solid var(--ifa-line); }
+.md-typeset .ifa-relcards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  gap: .8rem;
+  margin: .8rem 0;
+}
+.md-typeset .ifa-relcard {
+  display: grid;
+  gap: .35rem;
+  align-content: start;
+  padding: .8rem .9rem;
+  background: var(--ifa-bg-soft);
+  border-top: 3px solid var(--ifa-bondi);
+}
+.md-typeset .ifa-relcard p { margin: 0; }
+.md-typeset .ifa-relcard a { color: var(--ifa-heading); font-weight: 700; line-height: 1.35; }
+
+/* --- Section Actualités : liste, cartouche, filtres ----------------------- */
+
+.md-typeset .ifa-cartouche {
+  border: 1px solid var(--ifa-line);
+  border-top: 3px solid var(--ifa-orange);
+  margin: 0 0 1.6em;
+  font-size: .72rem;
 }
 .md-typeset .ifa-cartouche__top {
   display: flex;
@@ -39,8 +539,8 @@
   gap: .4rem .8rem;
   align-items: center;
   padding: .5rem .8rem;
-  background: var(--md-code-bg-color);
-  color: var(--md-default-fg-color--light);
+  background: var(--ifa-bg-soft);
+  color: var(--ifa-fg-muted);
 }
 .md-typeset .ifa-cartouche dl {
   display: grid;
@@ -49,60 +549,83 @@
   margin: 0;
   padding: .6rem .8rem;
 }
-.md-typeset .ifa-cartouche dt { color: var(--md-default-fg-color--light); }
+.md-typeset .ifa-cartouche dt { color: var(--ifa-fg-muted); }
 .md-typeset .ifa-cartouche dd { margin: 0; }
 @media screen and (max-width: 30em) {
   .md-typeset .ifa-cartouche dl { grid-template-columns: minmax(0, 1fr); gap: 0; }
   .md-typeset .ifa-cartouche dd { margin-bottom: .4rem; }
 }
 
-/* Liste des notes (docs/actualites/README.md) */
 .md-typeset .ifa-note {
-  padding: .6rem 0 .2rem;
-  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding: .9rem 0 .5rem;
+  border-bottom: 1px solid var(--ifa-line);
 }
 .md-typeset .ifa-note > p:first-child { margin: 0; }
-.md-typeset .ifa-note h3 { margin: .3em 0 .2em; }
-.md-typeset .ifa-note__meta {
-  font-size: .68rem;
-  color: var(--md-default-fg-color--light);
-  margin-left: .3rem;
-}
+.md-typeset .ifa-note h3 { margin: .35em 0 .25em; font-size: 1.1em; line-height: 1.35; }
+.md-typeset .ifa-note h3 a { color: var(--ifa-heading); }
+.md-typeset .ifa-note__meta { font-size: .68rem; color: var(--ifa-fg-muted); margin-left: .3rem; }
 .md-typeset .ifa-tag {
-  display: inline-block;
-  font-size: .62rem;
-  padding: .05em .7em;
   margin: 0 .2em .3em 0;
-  border-radius: 1em;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  color: var(--md-default-fg-color--light);
-  background: var(--md-code-bg-color);
+  color: var(--ifa-fg-muted);
+  border-color: var(--ifa-line);
+  background: var(--ifa-surface);
   cursor: pointer;
   font-family: inherit;
 }
-.md-typeset .ifa-tag:hover,
-.md-typeset .ifa-tag:focus-visible { border-color: var(--md-accent-fg-color); color: var(--md-accent-fg-color); }
+.md-typeset a.ifa-tag:hover,
+.md-typeset button.ifa-tag:hover { border-color: var(--ifa-orange); color: var(--ifa-heading); text-decoration: none; }
 .md-typeset .ifa-tag[aria-pressed="true"] {
-  background: var(--md-primary-fg-color);
-  border-color: var(--md-primary-fg-color);
-  color: var(--md-primary-bg-color);
+  background: var(--ifa-yale);
+  border-color: var(--ifa-yale);
+  color: #ffffff;
 }
-
-/* Filtres injectés par javascripts/actualites.js */
 .md-typeset .ifa-filters {
   display: grid;
   gap: .4rem;
-  padding: .7rem .8rem;
+  padding: .8rem .9rem;
   margin: 1em 0;
-  border-radius: .3rem;
-  background: var(--md-code-bg-color);
+  background: var(--ifa-bg-soft);
 }
 .md-typeset .ifa-filters__row { display: flex; flex-wrap: wrap; align-items: center; gap: .2rem; }
 .md-typeset .ifa-filters__label {
   width: 4rem;
   font-size: .6rem;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: .06em;
-  color: var(--md-default-fg-color--light);
+  letter-spacing: .1em;
+  color: var(--ifa-fg-muted);
 }
-.md-typeset .ifa-filters__empty { color: var(--md-default-fg-color--light); font-style: italic; }
+.md-typeset .ifa-filters__empty { color: var(--ifa-fg-muted); font-style: italic; }
+
+/* --- Ajustements : liens des composants, listes, recherche ---------------- */
+
+.md-typeset .ifa-opening a,
+.md-typeset .ifa-featured a,
+.md-typeset .ifa-tile a,
+.md-typeset .ifa-banner a,
+.md-typeset a.ifa-subtile,
+.md-typeset .ifa-relcard a,
+.md-typeset .ifa-note h3 a,
+.ifa-footer a,
+.ifa-pagehead a { text-decoration: none; }
+.md-typeset .ifa-opening a:hover,
+.md-typeset .ifa-featured a:hover,
+.md-typeset .ifa-tile li a:hover,
+.md-typeset .ifa-relcard a:hover,
+.md-typeset .ifa-note h3 a:hover { text-decoration: underline; }
+.md-typeset .ifa-tile ul,
+.md-typeset .ifa-tile ul li { margin-left: 0; }
+.md-typeset .ifa-tile ul li::marker { content: none; }
+.ifa-home .md-content__inner { margin-bottom: 0; padding-bottom: 0; }
+.ifa-home .md-content__inner > :last-child { margin-bottom: 0; }
+.ifa-header .md-search__button {
+  border-radius: 999px;
+  background: var(--ifa-bg-soft);
+  box-shadow: inset 0 0 0 1px var(--ifa-line);
+  color: var(--ifa-fg-muted);
+}
+.ifa-header .md-search { align-self: center; }
+@media screen and (max-width: 44.984375em) {
+  .md-typeset .ifa-opening { padding-top: 1.2rem; }
+  .ifa-pagehead__inner { padding-top: 1.2rem; padding-bottom: 1.4rem; }
+}

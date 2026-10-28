@@ -5,90 +5,114 @@ keywords: faillite belgique, insolvabilité belgique, faillis droits obligations
   faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance,
   tribunal entreprise
 updated: '2026-10-28'
+template: home.html
+hide:
+- navigation
+- toc
 ---
-# Guide de la faillite en Belgique
+<div class="ifa-opening" markdown>
+<div markdown>
+<span class="ifa-kicker">Livre XX du Code de droit économique</span>
 
-Ce guide explique la procédure de faillite belge en termes clairs et pratiques, fondés sur le Livre XX du Code de droit économique. Il s'adresse aux faillis et dirigeants qui doivent traverser la procédure, aux créanciers qui veulent défendre leurs droits, et à toute personne qui cherche à comprendre le fonctionnement de des procédures d'insolvabilité (faillite) en droit belge.
+# La faillite en Belgique, <em>expliquée clairement.</em>
 
----
+Un guide pratique pour les faillis, les dirigeants et les créanciers : vos obligations, vos droits, les délais et le déroulement de la procédure, article par article.
+{: .ifa-lead }
 
-## Vous êtes failli ou dirigeant d'une entreprise en faillite
-
-Le jugement de faillite déclenche des effets immédiats : vous êtes désaissi du droit de gérer vos biens, un curateur prend en charge la liquidation, et un juge-commissaire surveille la procédure. Vos obligations légales sont strictes, mais vos droits aussi sont réels — notamment le droit à l'effacement automatique de vos dettes à la clôture.
-
-- [Ce que vous devez faire dans les premiers jours](faillis/checklist-premiere-semaine.md)
-- [Vos obligations légales envers le curateur](faillis/obligations.md)
-- [L'effacement automatique des dettes à la clôture](faillis/effacement.md)
-- [Le dessaisissement — ce que vous pouvez ou non faire](comprendre/dessaisissement.md)
-- [Reprendre une activité professionnelle après votre faillite](faillis/reprendre-activite.md)
-- [L'interdiction de gérer et comment l'éviter](faillis/interdiction.md)
-
----
-
-## Vous êtes créancier d'une entreprise en faillite
-
-Votre première priorité est de déclarer votre créance dans les trente jours suivant la publication du jugement au Moniteur belge. Sans cette déclaration, vous ne pouvez pas être payé, quelle que soit la validité de votre dette.
-
-!!! danger "Délai de 30 jours pour déclarer votre créance"
-    Le délai de trente jours court dès la publication du jugement de faillite au Moniteur belge — et non à partir du moment où vous en prenez connaissance. Une déclaration tardive reste recevable tant que le curateur n'a pas déposé le troisième procès-verbal de vérification (en pratique environ douze mois après le jugement), mais vous perdez le droit aux éventuelles répartitions provisoires. Au-delà, la créance est forclose.
-
-- [Déclarer votre créance dans les trente jours](creanciers/declarer-creance.md)
-- [Les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md)
-- [La vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)
-- [Le paiement des dividendes aux créanciers](creanciers/paiement-dividendes.md)
-- [Vos droits dans la procédure de faillite](creanciers/droits-specifiques.md)
-- [Les droits des créanciers selon leur catégorie](creanciers/creanciers-categories.md)
-
----
-
-## Comprendre le fonctionnement de la faillite
-
-- [Qu'est-ce qu'une faillite — définition et conditions](comprendre/definition-faillite.md)
-- [Les acteurs de la faillite : curateur et juge-commissaire](comprendre/acteurs.md)
-- [Le déroulement de la faillite : du jugement à l'inventaire](comprendre/deroulement-phase-1-3.md)
-- [La liquidation des actifs et les actions en responsabilité](comprendre/liquidation-actifs.md)
-- [La période suspecte et les nullités en faillite](comprendre/periode-suspecte.md)
-- [La clôture de la faillite et l'effacement automatique des dettes](comprendre/cloture.md)
-- [Les dettes avant la faillite : intérêts, frais de recouvrement et saisies](comprendre/dettes-avant-faillite.md)
-- [Les procédures alternatives à la faillite](comprendre/procedures-alternatives.md)
-
----
-
-## Délais à ne pas manquer
-
-| Qui | Action | Délai |
-|---|---|---|
-| Créanciers | Déclarer sa créance | 30 jours depuis le jugement |
-| Failli indépendant | Demander le droit passerelle | Fin du 2e trimestre suivant la faillite |
-| Toutes parties | Appel d'un jugement | 1 mois depuis le prononcé |
-
-Le tableau complet de tous les délais, avec leurs points de départ et conséquences, est dans [les délais importants à ne pas manquer](delais.md).
-
----
-
-## Outils pratiques
-
-- [Glossaire](glossaire.md) — Définitions de tous les termes juridiques
-- [Ressources et organismes utiles](ressources.md) — REGSOL, tribunaux, CDC, FFE, CPAS
-- [REGSOL](https://www.regsol.be) — Déclarer votre créance et suivre votre dossier en ligne
-
----
+[Je suis en faillite](faillis/README.md){ .ifa-arrow } [Je suis créancier](creanciers/README.md){ .ifa-arrow }
+{: .ifa-ctas }
+</div>
+<div class="ifa-featured" markdown>
+<span class="ifa-kicker">À la une</span>
 
 <!-- actualites:auto:start -->
-## Dernières actualités
+<div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">28.07.2026 · Tribunal de l'entreprise du Hainaut, division Mons (5e ch.)</span>
 
-- [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — jurisprudence, 28 octobre 2026
-- [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
-- [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
+### [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md)
 
-[Toutes les actualités](actualites/README.md)
+[Lire la note](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">10.09.2025 · Tribunal de l'entreprise francophone de Bruxelles</span>
 
----
+### [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md)
+
+[Lire la note](actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--doctrine">Doctrine</span> <span class="ifa-date">28.10.2026</span>
+
+### [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md)
+
+[Lire la note](actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md){ .ifa-more }
+</div>
+
+[Toutes les actualités](actualites/README.md){ .ifa-more }
 <!-- actualites:auto:end -->
+</div>
+</div>
 
-## À propos de ce guide
+<div class="ifa-band" markdown>
 
-Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 à XX.241) et sur le vademecum de la faillite édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025). Il s'applique aux faillites déclarées à partir du 1er septembre 2023, date d'application de la réforme issue de la loi du 7 juin 2023.
+## Quelle est votre situation ?
 
-!!! warning "Information générale, pas un conseil juridique"
-    Ce guide fournit des informations pratiques d'ordre général. Il ne constitue pas un conseil juridique personnalisé. Pour votre situation spécifique, consultez le curateur désigné dans votre dossier, un avocat spécialisé en droit de l'insolvabilité, ou le juge-commissaire.
+Chaque rubrique répond aux questions que l'on se pose réellement, dans l'ordre où elles se posent.
+
+<div class="ifa-tiles" markdown>
+<div class="ifa-tile ifa-tile--orange" markdown>
+<div class="ifa-tile__cover" markdown>
+<span class="ifa-kicker">Failli ou dirigeant</span>
+
+### [Je suis en faillite](faillis/README.md)
+</div>
+
+- [Que faire la première semaine ?](faillis/checklist-premiere-semaine.md)
+- [Mes dettes seront-elles effacées ?](faillis/effacement.md)
+- [Puis-je encore travailler ?](faillis/reprendre-activite.md)
+</div>
+<div class="ifa-tile ifa-tile--bondi" markdown>
+<div class="ifa-tile__cover" markdown>
+<span class="ifa-kicker">Créancier</span>
+
+### [Je suis créancier](creanciers/README.md)
+</div>
+
+- [Comment déclarer ma créance ?](creanciers/declarer-creance.md)
+- [Ma caution est-elle protégée ?](creanciers/suretes-cautions.md)
+- [Quand serai-je payé ?](creanciers/paiement-dividendes.md)
+</div>
+<div class="ifa-tile ifa-tile--yale" markdown>
+<div class="ifa-tile__cover" markdown>
+<span class="ifa-kicker">Les règles</span>
+
+### [Comprendre la procédure](comprendre/README.md)
+</div>
+
+- [Qu'est-ce qu'une faillite ?](comprendre/definition-faillite.md)
+- [Quel est le rôle du curateur ?](comprendre/acteurs.md)
+- [Existe-t-il des alternatives ?](comprendre/procedures-alternatives.md)
+</div>
+<div class="ifa-tile ifa-tile--green" markdown>
+<div class="ifa-tile__cover" markdown>
+<span class="ifa-kicker">Jurisprudence et doctrine</span>
+
+### [Actualités](actualites/README.md)
+</div>
+
+- [Toutes les notes](actualites/README.md)
+- [Les notes par thème](actualites/themes.md)
+- [Réforme des cautions 2026](actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md)
+</div>
+</div>
+</div>
+
+<div class="ifa-band ifa-banner" markdown>
+
+## Information générale, pas un conseil juridique.
+
+Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 à XX.241) et sur le vademecum de la faillite édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025). Il s'applique aux faillites déclarées à partir du 1er septembre 2023. Chaque faillite a ses particularités : pour votre situation, consultez le curateur désigné, le juge-commissaire ou un avocat spécialisé en droit de l'insolvabilité.
+
+[Ressources et organismes](ressources.md){ .ifa-btn } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
+{: .ifa-ctas }
+</div>

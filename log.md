@@ -6,6 +6,42 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-28] refonte | Navigation et identité visuelle
+
+Refonte de l'expérience de navigation, sur maquette validée par l'utilisateur (inspiration : noerr.com). Le menu latéral unique de plus de 50 entrées, trié par nom de fichier, est remplacé par une navigation par rubrique.
+
+**Navigation.**
+- Menu explicite dans [zensical.toml](zensical.toml) : quatre rubriques (Je suis en faillite, Je suis créancier, Comprendre la procédure, Actualités) intégrées à l'en-tête, libellés courts. Le menu de gauche est limité à la rubrique active.
+- Délais, glossaire, ressources, à propos et contact passent dans le pied de page.
+- Nouvelle page d'entrée [docs/comprendre/README.md](docs/comprendre/README.md), à relire.
+- `SUMMARY.md`, hérité de GitBook et publié comme page, est supprimé.
+- Garde-fou [tests/test_nav.py](tests/test_nav.py).
+
+**Référencement.**
+- Avec un menu explicite, le sitemap de Zensical ne listait plus que les pages du menu. Il est désormais généré en dur par [scripts/build_sitemap.py](scripts/build_sitemap.py) (44 URL, appelé par `inject_git_dates.py`).
+- `site_url` passe en `https` : les URL canoniques et le sitemap pointaient en `http`.
+- Le fil d'Ariane `BreadcrumbList` est produit côté serveur avec les libellés du menu, et retiré de `schema.js`.
+- Chaque page garde un seul H1, celui du Markdown, affiché dans le bandeau.
+
+**Identité visuelle.**
+- Palette Yale Blue, Carrot Orange, Bondi Blue, Yellow Green et Graphite. Les couleurs claires sont assombries pour le petit texte.
+- Police Albert Sans, en remplacement libre de la police ES Allianz N de Noerr, sous licence commerciale.
+- Gabarits : [header.html](overrides/partials/header.html), [footer.html](overrides/partials/footer.html), [main.html](overrides/main.html) (bandeau de page), [home.html](overrides/home.html) (accueil).
+
+**Contenu.**
+- Accueil réécrit : ouverture, colonne « À la une » générée, tuiles de situation, bandeau « Information générale ». Les sections délais et déroulé de la procédure ont été écartées à la demande de l'utilisateur.
+- Tuiles numérotées en tête des pages d'entrée des rubriques faillis et créanciers.
+- Les actualités liées passent de la liste repliable aux cartes. Les cartes affichent la date du texte commenté, à défaut celle de publication.
+
+**Correction au passage.** [docs/delais.md](docs/delais.md) : l'ancre `#déclaration-de-créance` était cassée (Zensical produit `#declaration-de-creance`).
+
+**Contrôles.**
+- 38 tests au vert ; build sans erreur.
+- 3 332 liens internes vérifiés : aucun cassé, hors les liens absolus de `404.html`, corrects une fois en ligne.
+- Captures d'écran sans navigateur sur ordinateur et à 520 px.
+
+---
+
 ## [2026-10-28] edit | Cautions : alignement du guide sur la loi du 5 juin 2025
 
 Résout l'incohérence relevée à l'entrée « Six premières notes d'actualité ». **Correction factuelle** : le guide décrivait encore l'ancien régime (décharge réservée à la caution à titre gratuit, disproportion appréciée « au moment de la signature », extension de l'effacement au conjoint rattachée à XX.173 et conditionnée à six mois de cohabitation). Réécrit sur la base des notes [caution consommateur](docs/actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) et [effacement et décharge pour le conjoint](docs/actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md).
@@ -283,6 +319,66 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** parfait; mets à jour les fiches pour être cohérént avec le régime de cautionnement en prenant en compte la mise à jour législative.
 
 **Action :** J'ai mis le guide en cohérence avec le nouveau régime des cautions, en trois commits sur `gh-pages`, non poussés. Le build passe, les nouvelles ancres et les liens qui y mènent fonctionnent, et l'ancienne formulation n'apparaît plus dans le guide.  **Page de référence : [suretes-cautions.md](docs/creanciers/suretes-cautions.md).** Trois sections réécrites ou créées : - **Décharge de la caution consommateur (XX.176)** :   - la disproportion s'apprécie désormais à l'ouverture de la procédure, plus...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 12:12:21 - session 4a7bde3d
+
+**Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infofaillite\docs\actualites\2026-10-28-caution-consommateur-loi-5-juin-2025.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** Tout est sur GitHub : `ff77d61..0868727` poussé sur `gh-pages`, qui est maintenant à jour avec le dépôt distant. Avant le push, j'ai commité les entrées de session que le hook avait ajoutées à [log.md](log.md).  Ce qui est parti : - la rubrique Actualités et son générateur ; - tes six notes ; - les renvois dans les deux sens entre les notes et les pages du guide ; - la mise à jour du régime des cautions sur six pages.  Je n'ai pas pu vérifier que le site est réellement mis en ligne, car le CLI `...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 12:41:34 - session 4a7bde3d
+
+**Demande :** Je voudrais que tu réalises un gros travail sur L'expérience d'utilisateur et de navigation sur le site internet. Aujourd'hui, je suis tributaire du format proposé par Sensical. Et la navigation se fait au travers d'un menu Déroulant sur la gauche Mais qui est beaucoup trop chargé à mon goût. Il fau...
+
+**Action :** La maquette est en ligne, en accès privé : https://claude.ai/artifact/99cqWfgoz5yn5ZDxNLz5aq  Elle montre quatre écrans, que tu ouvres depuis la barre du haut :  1. **Accueil** : sans menu latéral. Quatre cartes, une par onglet, chacune avec trois ou quatre questions formulées comme on les tape dans Google ou comme on les pose à une IA, et qui renvoient vers les pages qui y répondent. Puis l'encadré du délai de 30 jours et la mention « À propos ». 2. **Entrée de rubrique** (« Je suis en faillite...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 13:36:06 - session 4a7bde3d
+
+**Demande :** rends l'interface plus moderne avec quelques touches de couleurs pour faire donner un effet professionel et et liée à un cabinet d'avocats
+
+**Action :** J'ai mis à jour la maquette, à la même adresse : https://claude.ai/artifact/99cqWfgoz5yn5ZDxNLz5aq. Je ne l'ai pas regardée moi-même une fois rendue.  Elle porte maintenant l'identité propre au site que tu as choisie : - **Couleurs** : bleu encre pour la structure (en-tête, onglets, pied de page) et bordeaux en touches (onglet actif, page active dans le menu, alerte de délai, flèches des cartes, liseré au-dessus du pied de page). Fond blanc légèrement chaud. - **Typographie** : titres à empattem...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 13:43:15 - session 4a7bde3d
+
+**Demande :** utilise cette pallette de couleur :  <pasted_content id="701a"> Colors ~Carrot Orange #f18f01 Lively burst of golden-orange, refreshing and bold, reminiscent of fresh harvests and playful creativity. ~Bondi Blue #048ba8 Luminous aquatic blue dances with refracted sunlight and tropical energy, offeri...
+
+**Action :** J'ai appliqué ta palette à la maquette, à la même adresse : https://claude.ai/artifact/99cqWfgoz5yn5ZDxNLz5aq. Je ne l'ai pas regardée moi-même une fois rendue.  Voici à quoi sert chaque couleur :  | Couleur | Usage | |---|---| | **Yale Blue** `#2e4057` | Structure : en-tête, onglets, bandeau d'accueil, pied de page, titres | | **Carrot Orange** `#f18f01` | Accent : onglet actif, page active dans le menu, alerte de délai, liseré du pied de page, carte « Je suis en faillite » | | **Bondi Blue** `...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 13:45:09 - session 4a7bde3d
+
+**Demande :** modifie la police : utilise celle qui est présente sur : https://www.noerr.com/
+
+**Action :** La maquette utilise maintenant la police **Albert Sans**, à la même adresse : https://claude.ai/artifact/99cqWfgoz5yn5ZDxNLz5aq. Je ne l'ai pas regardée moi-même une fois rendue.  Je n'ai pas pu reprendre la police exacte de Noerr. Leur site utilise **ES Allianz N**, une police commerciale sous licence, liée à la police d'entreprise Allianz et distribuée par la fonderie Elsner+Flake. On ne peut pas la charger depuis leur site sans enfreindre la licence, et aucun service de polices libres ne la p...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 13:48:54 - session 4a7bde3d
+
+**Demande :** repense la présentation en t'inspirant de noer afin une layout moderne et  plus dynamique
+
+**Action :** J'ai refondu la maquette sur le modèle de Noerr, à la même adresse : https://claude.ai/artifact/99cqWfgoz5yn5ZDxNLz5aq. Je ne l'ai pas regardée moi-même une fois rendue.  **Ce qui change par rapport à la version précédente :** - **En-tête blanc** : le nom du site (« info·faillite », avec le point en orange), puis les quatre rubriques directement dans la barre, la rubrique active soulignée en orange, et la recherche. Il n'y a plus de barre d'onglets séparée. - **Accueil** :   - une grande accroch...
 
 **Outils utilises :** aucun
 

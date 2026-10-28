@@ -1,0 +1,42 @@
+{#-
+  En-tête d'infofaillite.be (remplace le partial Zensical).
+  Nom du site à gauche, les rubriques du menu (premier niveau de `nav` dans
+  zensical.toml) directement dans la barre, puis palette et recherche.
+  La barre d'onglets séparée est désactivée dans main.html (bloc `tabs`).
+-#}
+<header class="md-header ifa-header" data-md-component="header">
+  <nav class="md-header__inner md-grid ifa-header__inner" aria-label="{{ lang.t('header') }}">
+    <label class="md-header__button md-icon ifa-header__menu" for="__drawer">
+      {% include ".icons/material/menu.svg" %}
+    </label>
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" class="ifa-brand" aria-label="{{ config.site_name }}">info<i>·</i>faillite</a>
+    <ul class="ifa-mainnav">
+      {% for nav_item in nav.items %}
+        {% set first = (nav_item.children | first) if nav_item.children else nav_item %}
+        {#- Les notes d'actualité sont hors menu : on active la rubrique à la main -#}
+        {% set active = nav_item.active or (page and page.meta and page.meta.type and page.meta.resume and nav_item.title == "Actualités") %}
+        <li class="ifa-mainnav__item">
+          <a href="{{ first.url | url }}" class="ifa-mainnav__link{% if active %} ifa-mainnav__link--active{% endif %}">{{ nav_item.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    {% if config.theme.palette %}
+      {% if not config.theme.palette is mapping %}
+        {% include "partials/palette.html" %}
+      {% endif %}
+    {% endif %}
+    {% if not config.theme.palette is mapping %}
+      {% include "partials/javascripts/palette.html" %}
+    {% endif %}
+    {% if "search" in config.plugins %}
+      {% set search = config.plugins["search"] | attr("config") %}
+      {% if search.enabled %}
+        <label class="md-header__button md-icon ifa-header__search" for="__search">
+          {% include ".icons/material/magnify.svg" %}
+          <span>Rechercher</span>
+        </label>
+        {% include "partials/search.html" %}
+      {% endif %}
+    {% endif %}
+  </nav>
+</header>

@@ -3,7 +3,7 @@ description: Guide complet pour les créanciers d'une faillite en Belgique - Dé
   votre créance, comprendre la vérification, recevoir votre dividende
 keywords: créancier faillite belgique, déclarer créance faillite, délai 30 jours créance,
   dividende faillite, rang créanciers belgique
-updated: '2026-05-15'
+updated: '2026-10-28'
 ---
 # Je suis créancier d'une entreprise en faillite
 
@@ -11,6 +11,15 @@ Votre client, locataire ou partenaire commercial a été déclaré en faillite ?
 
 !!! danger "Priorité absolue : déclarez votre créance dans les 30 jours"
     Vous avez trente jours à compter de la publication du jugement au Moniteur belge pour déclarer votre créance auprès du curateur. Passé ce délai, vous ne participez plus aux répartitions provisoires. Une déclaration tardive reste cependant recevable tant que le curateur n'a pas déposé le troisième procès-verbal de vérification (en pratique environ douze mois après le jugement) ; au-delà, votre droit est forclos. Commencez par [déclarer votre créance dans les trente jours](declarer-creance.md).
+
+<div class="ifa-subtiles" markdown>
+[**Déclarer sa créance** Le délai de trente jours, REGSOL et le contenu de la déclaration.](declarer-creance.md){ .ifa-subtile }
+[**Sûretés et cautions** Hypothèque, gage, privilèges, cautions et leur décharge.](suretes-cautions.md){ .ifa-subtile }
+[**Vérification des créances** Les procès-verbaux et l'admission de votre créance.](verification-contestation.md){ .ifa-subtile }
+[**Contester une créance** Contester une créance admise d'un autre créancier.](contester-creance.md){ .ifa-subtile }
+[**Paiement des dividendes** Quand et combien vous serez payé, selon votre rang.](paiement-dividendes.md){ .ifa-subtile }
+[**Créanciers par catégorie** Travailleurs, fisc, ONSS, bailleur, fournisseurs.](creanciers-categories.md){ .ifa-subtile }
+</div>
 
 ---
 

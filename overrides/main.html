@@ -1,8 +1,16 @@
 {#-
-  Gabarit des notes de la section Actualités (docs/actualites/*.md).
-  Une page est traitée comme une note si son front matter porte `type` et
-  `resume` (cf. scripts/build_actualites.py). Les autres pages gardent le
-  rendu Zensical par défaut.
+  Gabarit commun d'infofaillite.be.
+
+  - Bloc `tabs` vidé : les rubriques sont dans l'en-tête (partials/header.html).
+  - Bloc `hero` : bandeau de page (fil d'Ariane, rubrique, titre H1, date de
+    mise à jour). Le H1 est repris tel quel du Markdown, puis retiré du corps,
+    pour que le libellé court du menu ne remplace jamais le vrai titre.
+  - Notes d'actualité (front matter `type` + `resume`, cf.
+    scripts/build_actualites.py) : cartouche de la source en tête du corps et
+    JSON-LD `Article`.
+  - JSON-LD `BreadcrumbList` dans le HTML statique, pour les robots qui
+    n'exécutent pas JavaScript.
+  L'accueil utilise overrides/home.html, qui étend ce gabarit.
 -#}
 {% extends "base.html" %}
 
@@ -28,7 +36,36 @@
   {{- (parts[2]|int) }} {{ _mois_fr[parts[1]] }} {{ parts[0] -}}
 {%- endmacro %}
 
+{#- Rubrique (premier niveau du menu) et sa page d'entrée -#}
+{% set _section = (page.ancestors | last) if (page and page.ancestors) else none %}
+{% set _section_url = ((_section.children | first).url) if _section else none %}
+{% set _home_url = config.extra.homepage | d(nav.homepage.url, true) %}
+
+{#- Découpage du H1 en tête du contenu -#}
+{% set _content = (page.content | trim) if page and page.content else "" %}
+{% set _has_h1 = _content[:3] == "<h1" %}
+{% set _h1_parts = _content | split("</h1>") %}
+
 {% block extrahead %}
+  {% if page and page.canonical_url %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Accueil", "item": {{ config.site_url | tojson }}}
+          {%- if _section %},
+          {"@type": "ListItem", "position": 2, "name": {{ _section.title | tojson }}, "item": {{ (config.site_url ~ _section_url) | tojson }}}
+          {%- elif _is_note %},
+          {"@type": "ListItem", "position": 2, "name": "Actualités", "item": {{ (config.site_url ~ 'actualites/') | tojson }}}
+          {%- endif %}
+          {%- if not (_section and _section_url == page.url) %},
+          {"@type": "ListItem", "position": {{ 3 if (_section or _is_note) else 2 }}, "name": {{ (page.meta.title if (page.meta and page.meta.title) else page.title) | tojson }}, "item": {{ page.canonical_url | tojson }}}
+          {%- endif %}
+        ]
+      }
+    </script>
+  {% endif %}
   {% if _is_note %}
     <script type="application/ld+json">
       {
@@ -48,12 +85,41 @@
   {% endif %}
 {% endblock %}
 
+{% block tabs %}{% endblock %}
+
+{% block hero %}
+  <section class="ifa-pagehead">
+    <div class="md-grid ifa-pagehead__inner">
+      <nav class="ifa-crumbs" aria-label="Fil d'Ariane">
+        <a href="{{ _home_url | url }}">Accueil</a>
+        {% if _section %}
+          <span aria-hidden="true">/</span>
+          <a href="{{ _section_url | url }}">{{ _section.title }}</a>
+        {% elif _is_note %}
+          <span aria-hidden="true">/</span>
+          <a href="{{ 'actualites/' | url }}">Actualités</a>
+        {% endif %}
+      </nav>
+      {% if _section %}
+        <span class="ifa-kicker">{{ _section.title }}</span>
+      {% elif _is_note %}
+        <span class="ifa-kicker">{{ _types[page.meta.type] | d(page.meta.type) }}</span>
+      {% endif %}
+      {% if _has_h1 %}
+        {{ _h1_parts | first }}</h1>
+      {% else %}
+        <h1>{{ page.meta.title if (page.meta and page.meta.title) else page.title }}</h1>
+      {% endif %}
+      {% if page.meta and page.meta.updated and not _is_note %}
+        <div class="ifa-pagehead__meta">Mise à jour le {{ format_fr(page.meta.updated) }}</div>
+      {% endif %}
+    </div>
+  </section>
+{% endblock %}
+
 {% block content %}
+  {% include "partials/actions.html" %}
   {% if _is_note %}
-    {% include "partials/actions.html" %}
-    {% if "<h1" not in page.content %}
-      <h1>{{ page.title | d(config.site_name, true) }}</h1>
-    {% endif %}
     {% set t = page.meta.type %}
     {% set s = page.meta.source %}
     <div class="ifa-cartouche">
@@ -73,11 +139,17 @@
         </dl>
       {% endif %}
     </div>
-    {{ page.content }}
-    {% include "partials/source-file.html" %}
-    {% include "partials/feedback.html" %}
-    {% include "partials/comments.html" %}
-  {% else %}
-    {% include "partials/content.html" %}
   {% endif %}
+  {% if _has_h1 %}
+    {%- for part in _h1_parts -%}
+      {%- if not loop.first -%}
+        {%- if loop.index > 2 %}</h1>{% endif -%}
+        {{ part }}
+      {%- endif -%}
+    {%- endfor -%}
+  {% else %}
+    {{ page.content }}
+  {% endif %}
+  {% include "partials/feedback.html" %}
+  {% include "partials/comments.html" %}
 {% endblock %}

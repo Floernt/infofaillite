@@ -137,9 +137,19 @@ Le choix dépend d'abord de votre situation concrète :
 - [Le régime spécial de PRJ pour les grandes entreprises](https://florianernotte.be/grandes-entreprises/) (florianernotte.be)
 
 <!-- actualites:auto:start -->
-??? info "Actualités liées à cette page (1)"
+<div class="ifa-related" markdown>
 
-    - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
+## Actualités liées
 
-    Toutes les notes sur : [Réorganisation judiciaire et pre-pack](../actualites/themes.md#reorganisation-judiciaire)
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">05.06.2025 · Loi du 5 juin 2025 (Code civil, livre 9, titre 1er, chapitre 4)</span>
+
+[Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md)
+</div>
+</div>
+
+Toutes les notes sur : [Réorganisation judiciaire et pre-pack](../actualites/themes.md#reorganisation-judiciaire)
+
+</div>
 <!-- actualites:auto:end -->

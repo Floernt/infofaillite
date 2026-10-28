@@ -102,9 +102,19 @@ Une interdiction qui plane sur votre dossier, une réhabilitation que vous envis
 - [Le registre JustBan](https://www.juridat.be)
 
 <!-- actualites:auto:start -->
-??? info "Actualités liées à cette page (1)"
+<div class="ifa-related" markdown>
 
-    - [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](../actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — jurisprudence, 28 octobre 2026
+## Actualités liées
 
-    Toutes les notes sur : [Interdiction de gérer](../actualites/themes.md#interdiction-gerer)
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">28.07.2026 · Tribunal de l'entreprise du Hainaut, division Mons (5e ch.)</span>
+
+[Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](../actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md)
+</div>
+</div>
+
+Toutes les notes sur : [Interdiction de gérer](../actualites/themes.md#interdiction-gerer)
+
+</div>
 <!-- actualites:auto:end -->
