@@ -1,0 +1,83 @@
+{#-
+  Gabarit des notes de la section Actualités (docs/actualites/*.md).
+  Une page est traitée comme une note si son front matter porte `type` et
+  `resume` (cf. scripts/build_actualites.py). Les autres pages gardent le
+  rendu Zensical par défaut.
+-#}
+{% extends "base.html" %}
+
+{% set _is_note = page and page.meta and page.meta.type and page.meta.resume %}
+{% set _types = {
+  'jurisprudence': 'Jurisprudence',
+  'doctrine': 'Doctrine',
+  'legislation': 'Législation',
+} %}
+{% set _source_date_label = {
+  'jurisprudence': 'Date de la décision',
+  'doctrine': 'Date de publication',
+  'legislation': 'Date du texte',
+} %}
+{% set _mois_fr = {
+  '01': 'janvier', '02': 'février', '03': 'mars',
+  '04': 'avril',   '05': 'mai',     '06': 'juin',
+  '07': 'juillet', '08': 'août',    '09': 'septembre',
+  '10': 'octobre', '11': 'novembre','12': 'décembre',
+} %}
+{% macro format_fr(value) -%}
+  {%- set parts = (value|string)|split('-') -%}
+  {{- (parts[2]|int) }} {{ _mois_fr[parts[1]] }} {{ parts[0] -}}
+{%- endmacro %}
+
+{% block extrahead %}
+  {% if _is_note %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": {{ page.meta.title|tojson }},
+        "description": {{ page.meta.resume|tojson }},
+        "datePublished": {{ (page.meta.date|string)|tojson }},
+        {% if page.meta.updated %}"dateModified": {{ (page.meta.updated|string)|tojson }},{% endif %}
+        {% if page.meta.keywords %}"keywords": {{ page.meta.keywords|tojson }},{% endif %}
+        "inLanguage": "fr-BE",
+        "mainEntityOfPage": {{ page.canonical_url|tojson }},
+        "author": {"@type": "Person", "name": "Florian Ernotte"},
+        "publisher": {"@type": "Organization", "name": "Info-Faillite", "url": "https://infofaillite.be"}
+      }
+    </script>
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  {% if _is_note %}
+    {% include "partials/actions.html" %}
+    {% if "<h1" not in page.content %}
+      <h1>{{ page.title | d(config.site_name, true) }}</h1>
+    {% endif %}
+    {% set t = page.meta.type %}
+    {% set s = page.meta.source %}
+    <div class="ifa-cartouche">
+      <div class="ifa-cartouche__top">
+        <span class="ifa-type ifa-type--{{ t }}">{{ _types[t] | d(t) }}</span>
+        <span>Publiée le {{ format_fr(page.meta.date) }}</span>
+      </div>
+      {% if s or page.meta.articles_cde %}
+        <dl>
+          {% if s and s.juridiction %}<dt>Juridiction</dt><dd>{{ s.juridiction }}</dd>{% endif %}
+          {% if s and s.auteur %}<dt>Auteur</dt><dd>{{ s.auteur }}</dd>{% endif %}
+          {% if s and s.publication %}<dt>Publication</dt><dd>{{ s.publication }}</dd>{% endif %}
+          {% if s and s.date %}<dt>{{ _source_date_label[t] }}</dt><dd>{{ format_fr(s.date) }}</dd>{% endif %}
+          {% if s and s.reference %}<dt>Référence</dt><dd><code>{{ s.reference }}</code></dd>{% endif %}
+          {% if s and s.lien %}<dt>Source</dt><dd><a href="{{ s.lien }}" target="_blank" rel="noopener">Consulter le texte</a></dd>{% endif %}
+          {% if page.meta.articles_cde %}<dt>Articles du CDE</dt><dd>{{ page.meta.articles_cde | join(", ") }}</dd>{% endif %}
+        </dl>
+      {% endif %}
+    </div>
+    {{ page.content }}
+    {% include "partials/source-file.html" %}
+    {% include "partials/feedback.html" %}
+    {% include "partials/comments.html" %}
+  {% else %}
+    {% include "partials/content.html" %}
+  {% endif %}
+{% endblock %}

@@ -1,0 +1,108 @@
+/* Section Actualités : cartouche des notes, badges de type, liste et filtres. */
+
+:root {
+  --ifa-juris: #2e6b4f;  --ifa-juris-bg: #e5f2eb;
+  --ifa-doctr: #7a4a12;  --ifa-doctr-bg: #f7ecdd;
+  --ifa-legis: #6b2e5c;  --ifa-legis-bg: #f4e4ef;
+}
+[data-md-color-scheme="slate"] {
+  --ifa-juris: #7fcfa6;  --ifa-juris-bg: #1f3a2e;
+  --ifa-doctr: #e9b877;  --ifa-doctr-bg: #3d2e1b;
+  --ifa-legis: #e3a1d1;  --ifa-legis-bg: #3b2236;
+}
+
+.md-typeset .ifa-type {
+  display: inline-block;
+  font-size: .62rem;
+  font-weight: 700;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  padding: .1em .55em;
+  border-radius: .2rem;
+  white-space: nowrap;
+}
+.md-typeset .ifa-type--jurisprudence { color: var(--ifa-juris); background: var(--ifa-juris-bg); }
+.md-typeset .ifa-type--doctrine      { color: var(--ifa-doctr); background: var(--ifa-doctr-bg); }
+.md-typeset .ifa-type--legislation   { color: var(--ifa-legis); background: var(--ifa-legis-bg); }
+
+/* Cartouche en tête de note */
+.md-typeset .ifa-cartouche {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .3rem;
+  margin: 0 0 1.6em;
+  overflow: hidden;
+  font-size: .7rem;
+}
+.md-typeset .ifa-cartouche__top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem .8rem;
+  align-items: center;
+  padding: .5rem .8rem;
+  background: var(--md-code-bg-color);
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .ifa-cartouche dl {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  gap: .3rem .8rem;
+  margin: 0;
+  padding: .6rem .8rem;
+}
+.md-typeset .ifa-cartouche dt { color: var(--md-default-fg-color--light); }
+.md-typeset .ifa-cartouche dd { margin: 0; }
+@media screen and (max-width: 30em) {
+  .md-typeset .ifa-cartouche dl { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .md-typeset .ifa-cartouche dd { margin-bottom: .4rem; }
+}
+
+/* Liste des notes (docs/actualites/README.md) */
+.md-typeset .ifa-note {
+  padding: .6rem 0 .2rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset .ifa-note > p:first-child { margin: 0; }
+.md-typeset .ifa-note h3 { margin: .3em 0 .2em; }
+.md-typeset .ifa-note__meta {
+  font-size: .68rem;
+  color: var(--md-default-fg-color--light);
+  margin-left: .3rem;
+}
+.md-typeset .ifa-tag {
+  display: inline-block;
+  font-size: .62rem;
+  padding: .05em .7em;
+  margin: 0 .2em .3em 0;
+  border-radius: 1em;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+  background: var(--md-code-bg-color);
+  cursor: pointer;
+  font-family: inherit;
+}
+.md-typeset .ifa-tag:hover,
+.md-typeset .ifa-tag:focus-visible { border-color: var(--md-accent-fg-color); color: var(--md-accent-fg-color); }
+.md-typeset .ifa-tag[aria-pressed="true"] {
+  background: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+/* Filtres injectés par javascripts/actualites.js */
+.md-typeset .ifa-filters {
+  display: grid;
+  gap: .4rem;
+  padding: .7rem .8rem;
+  margin: 1em 0;
+  border-radius: .3rem;
+  background: var(--md-code-bg-color);
+}
+.md-typeset .ifa-filters__row { display: flex; flex-wrap: wrap; align-items: center; gap: .2rem; }
+.md-typeset .ifa-filters__label {
+  width: 4rem;
+  font-size: .6rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .ifa-filters__empty { color: var(--md-default-fg-color--light); font-style: italic; }

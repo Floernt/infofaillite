@@ -57,7 +57,7 @@ Copyright &copy; 2026 Info-faillite
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 #
-#extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css"]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
@@ -65,7 +65,7 @@ Copyright &copy; 2026 Info-faillite
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-extra_javascript = ["javascripts/clicky.js", "javascripts/schema.js"]
+extra_javascript = ["javascripts/clicky.js", "javascripts/schema.js", "javascripts/actualites.js"]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
