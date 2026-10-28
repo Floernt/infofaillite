@@ -2,7 +2,7 @@
  * Injects JSON-LD structured data (Schema.org) for GEO/SEO.
  * - WebSite schema on all pages
  * - FAQPage schema on pages containing FAQ sections
- * - BreadcrumbList schema based on current URL path
+ * (BreadcrumbList : voir overrides/main.html)
  */
 (function () {
   var BASE_URL = "https://infofaillite.be";
@@ -121,36 +121,6 @@
     });
   }
 
-  // 5. BreadcrumbList schema
-  var path = window.location.pathname.replace(/\/$/, "").replace(/^\//, "");
-  if (path) {
-    var parts = path.split("/");
-    var breadcrumbs = [{
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Accueil",
-      "item": BASE_URL + "/"
-    }];
-    var accumulated = "";
-    parts.forEach(function (part, i) {
-      accumulated += "/" + part;
-      var name = part
-        .replace(/-/g, " ")
-        .replace(/\b\w/g, function (c) { return c.toUpperCase(); });
-      breadcrumbs.push({
-        "@type": "ListItem",
-        "position": i + 2,
-        "name": name,
-        "item": BASE_URL + accumulated + "/"
-      });
-    });
-
-    if (breadcrumbs.length > 1) {
-      injectSchema({
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": breadcrumbs
-      });
-    }
-  }
+  // Le BreadcrumbList est produit côté serveur par overrides/main.html,
+  // avec les libellés du menu, pour les robots qui n'exécutent pas JavaScript.
 })();
