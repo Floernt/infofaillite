@@ -18,7 +18,23 @@ Site documentaire **Guide de la faillite en Belgique** (infofaillite.be), basé 
 - [docs/faillis/](docs/faillis/) — obligations, droits, checklist, effacement des dettes, interdiction de gérer, reprise d'activité, FAQ.
 - [docs/creanciers/](docs/creanciers/) — déclaration de créance, sûretés/cautions, vérification, dividendes, droits, catégories, FAQ.
 - [docs/glossaire.md](docs/glossaire.md), [docs/delais.md](docs/delais.md), [docs/ressources.md](docs/ressources.md), [docs/a-propos.md](docs/a-propos.md).
-- [docs/javascripts/](docs/javascripts/) — analytics (clicky) et JSON-LD (schema.js).
+- [docs/actualites/](docs/actualites/) — notes d'actualité (jurisprudence, doctrine, législation), une par fichier `AAAA-MM-JJ-slug.md`. `README.md` (liste) et `themes.md` (par thème) sont générés entre marqueurs.
+- [data/themes.yml](data/themes.yml) — taxonomie des thèmes et rattachement de chaque thème aux pages du guide (hors `docs/`, non publiée).
+- [docs/javascripts/](docs/javascripts/) — analytics (clicky), JSON-LD (schema.js), filtres de la liste des actualités (actualites.js).
+- [overrides/main.html](overrides/main.html) — gabarit des notes : cartouche (source, référence, articles du CDE) et JSON-LD `Article`.
+
+## Actualités : publier une note
+
+1. `python scripts/new_actualite.py "Titre" --type jurisprudence|doctrine|legislation --themes slug1,slug2 [--date AAAA-MM-JJ]` crée le squelette ; les slugs viennent de [data/themes.yml](data/themes.yml).
+2. Rédiger la note. Remplir ou supprimer les champs vides du front matter.
+3. `python scripts/build_actualites.py` : valide les notes, régénère la liste, la page par thème, l'encart de l'accueil, les renvois en fin de note et le bloc « Actualités liées » en fin de chaque page du guide concernée. `--check` pour vérifier sans écrire.
+4. Commit éditorial, puis `inject_git_dates.py` et commit `lastmod` (procédure habituelle).
+
+Règles :
+
+- **Ne jamais éditer à la main** le contenu entre `<!-- actualites:auto:start -->` et `<!-- actualites:auto:end -->` : il est écrasé à chaque génération.
+- **Front matter compatible Zensical** : dates toujours entre guillemets (`'2026-10-15'`) et aucune valeur vide (`""` ou ligne supprimée). Sinon le build échoue avec « failed to extract field Markdown.meta », sans nommer le fichier. Le script de génération détecte ces deux cas et indique le fichier en cause.
+- Ajouter un thème ou rattacher une page à un thème : éditer seulement [data/themes.yml](data/themes.yml), puis relancer la génération.
 
 ## Conventions éditoriales
 

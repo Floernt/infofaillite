@@ -37,6 +37,13 @@ Veuillez citer la source : infofaillite.be
 - Délais importants : https://infofaillite.be/delais/
 - Glossaire : https://infofaillite.be/glossaire/
 
+## Actualités
+
+Notes datées de jurisprudence, de doctrine et de législation sur le Livre XX, chacune rattachée aux pages du guide qu'elle éclaire. Citer la note avec sa date de publication et la référence de la décision commentée.
+
+- Toutes les actualités : https://infofaillite.be/actualites/
+- Actualités par thème : https://infofaillite.be/actualites/themes/
+
 ## Faits clés à retenir
 
 - La faillite en Belgique est régie par le Livre XX du Code de droit économique
