@@ -3,7 +3,7 @@ description: Le curateur et le juge-commissaire dans la faillite - Rôles, pouvo
   obligations et rémunération des acteurs principaux de la procédure
 keywords: curateur faillite belgique, juge-commissaire faillite, rôle curateur, pouvoirs
   curateur, acteurs faillite, avocat faillite
-updated: '2026-05-13'
+updated: '2026-10-28'
 ---
 # Le curateur et le juge-commissaire
 
@@ -119,3 +119,11 @@ Les coordonnées du juge-commissaire figurent sur [REGSOL](https://www.regsol.be
 - [Vos obligations légales envers le curateur](../faillis/obligations.md)
 - [Déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md)
 - [REGSOL — registre central de solvabilité](https://www.regsol.be)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (1)"
+
+    - [Faillite : l'ancien administrateur doit rembourser l'intégralité de son compte courant, même si celui-ci dépasse le passif](../actualites/2026-10-28-compte-courant-administrateur-integralite-passif.md) — jurisprudence, 28 octobre 2026
+
+    Toutes les notes sur : [Le curateur](../actualites/themes.md#curateur)
+<!-- actualites:auto:end -->

@@ -6,6 +6,53 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-28] edit | Cautions : alignement du guide sur la loi du 5 juin 2025
+
+Résout l'incohérence relevée à l'entrée « Six premières notes d'actualité ». **Correction factuelle** : le guide décrivait encore l'ancien régime (décharge réservée à la caution à titre gratuit, disproportion appréciée « au moment de la signature », extension de l'effacement au conjoint rattachée à XX.173 et conditionnée à six mois de cohabitation). Réécrit sur la base des notes [caution consommateur](docs/actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) et [effacement et décharge pour le conjoint](docs/actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md).
+
+- [docs/creanciers/suretes-cautions.md](docs/creanciers/suretes-cautions.md) — page de référence : décharge de la caution consommateur (XX.176 : disproportion à l'ouverture de la procédure, garant sans influence substantielle sur la société, sûretés personnelles seulement, requête au registre avec pièces, suspension des voies d'exécution) ; effacement du conjoint ou cohabitant légal coobligé (XX.174 et ses trois limites, C. const. 25 janvier 2024 et 24 septembre 2014) ; nouveau régime du Code civil (art. 9.1.42 à 9.1.50) avec les points de contrôle pour le créancier ; avertissement sur les dossiers antérieurs au 1er janvier 2026. Ancres explicites `#decharge-caution-consommateur`, `#conjoint-cohabitant-cooblige`, `#surete-consommateur-code-civil`.
+- [docs/comprendre/cloture.md](docs/comprendre/cloture.md), [docs/faillis/effacement.md](docs/faillis/effacement.md), [docs/faillis/faq.md](docs/faillis/faq.md), [docs/faillis/checklist-premiere-semaine.md](docs/faillis/checklist-premiere-semaine.md), [docs/glossaire.md](docs/glossaire.md) — résumés alignés, renvoi vers la page de référence.
+
+**Retiré, à confirmer par l'utilisateur** : le délai de « six mois suivant le jugement de clôture définitif » pour demander la décharge (suretes-cautions et clôture). Il ne figure pas dans les notes sources et paraît difficilement conciliable avec une requête déposée en cours de procédure qui suspend les voies d'exécution.
+
+---
+
+## [2026-10-28] ingest | Six premières notes d'actualité
+
+Notes fournies par l'utilisateur, reprises sans modification de fond (mise en forme Markdown, front matter, thèmes) :
+
+- [Sûreté personnelle constituée par un consommateur, loi du 5 juin 2025](docs/actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation ; thèmes caution, réorganisation judiciaire.
+- [Fraude intragroupe avant faillite, Entr. fr. Bruxelles, 10 septembre 2025](docs/actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — XX.114 ; thèmes période suspecte, responsabilité des dirigeants, compensation.
+- [Effacement et décharge de caution pour le conjoint ou le partenaire](docs/actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, XX.174 et XX.176 ; thèmes effacement, caution.
+- [Interdiction professionnelle et non bis in idem, Entr. Hainaut (Mons), 28 juillet 2026](docs/actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — XX.229 ; thème interdiction de gérer.
+- [Dirigeant démissionnaire et faillites successives, Cass., 6 mars 2025](docs/actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — XX.226 ; thèmes responsabilité des dirigeants, fisc et ONSS.
+- [Compte courant de l'administrateur, Bruxelles, 8 janvier 2026](docs/actualites/2026-10-28-compte-courant-administrateur-integralite-passif.md) — XX.144 et XX.170 ; thèmes réalisation des actifs, curateur.
+
+Blocs « Actualités liées » générés sur 10 pages du guide, encart de l'accueil alimenté.
+
+**Incohérence relevée, non corrigée (en attente d'arbitrage).** Les notes 1 et 3 décrivent la décharge de la caution depuis le 1er janvier 2026 (critère du consommateur et de la disproportion, gratuité abandonnée ; effacement du conjoint fondé sur XX.174). Le guide décrit encore l'ancien régime : [docs/creanciers/suretes-cautions.md](docs/creanciers/suretes-cautions.md) (l. 62-68 et 90, « à titre gratuit »), [docs/comprendre/cloture.md](docs/comprendre/cloture.md) (l. 54-60), [docs/faillis/effacement.md](docs/faillis/effacement.md) (l. 57 et 68, extension au conjoint rattachée à XX.173), [docs/faillis/faq.md](docs/faillis/faq.md) (l. 47).
+
+---
+
+## [2026-10-28] config | Rubrique Actualités et maillage avec le guide
+
+Nouvelle rubrique `/actualites/` pour publier des notes de jurisprudence, de doctrine et de législation, avec des renvois automatiques dans les deux sens entre les notes et les pages du guide. Maquette validée au préalable (liste, gabarit de note, page théorique avec renvois, page par thème).
+
+**Architecture.** Zensical 0.0.24 n'a ni plugin blog ni plugin tags opérationnel : un générateur Python pré-build écrit dans les sources Markdown, entre les marqueurs `<!-- actualites:auto:start/end -->`, et ne touche jamais au texte rédigé.
+
+- [data/themes.yml](data/themes.yml) : taxonomie de 30 notions, chacune rattachée à 1 ou 2 pages du guide (hors `docs/`, non publiée).
+- [scripts/build_actualites.py](scripts/build_actualites.py) : valide les notes, régénère la liste ([docs/actualites/README.md](docs/actualites/README.md)), la page par thème ([docs/actualites/themes.md](docs/actualites/themes.md)), l'encart « Dernières actualités » de l'accueil, les renvois en fin de note et le bloc repliable « Actualités liées » en fin de chaque page du guide concernée (retiré quand plus aucune note ne s'y rapporte). Idempotent, mode `--check`.
+- [scripts/new_actualite.py](scripts/new_actualite.py) : squelette d'une note.
+- [overrides/main.html](overrides/main.html) : cartouche de la note (source, référence, lien, articles du CDE) et JSON-LD `Article` dans le HTML statique.
+- [docs/stylesheets/extra.css](docs/stylesheets/extra.css), [docs/javascripts/actualites.js](docs/javascripts/actualites.js) : badges de type, filtres par type et par thème.
+- [overrides/llms.txt](overrides/llms.txt) et [CLAUDE.md](CLAUDE.md) : rubrique et workflow de publication documentés.
+
+**Contrainte découverte.** Zensical échoue au build (« failed to extract field Markdown.meta », sans nom de fichier) sur toute valeur YAML vide et toute date non quotée dans un front matter. Le squelette quote les dates et n'émet aucune valeur nulle ; le générateur détecte les deux cas et nomme le fichier.
+
+Contrôle : 32 tests au vert ; build Zensical vérifié avec deux notes de démonstration temporaires (liste, cartouche, JSON-LD, ancres `#slug`, bloc sur `faillis/effacement`, encart d'accueil, sitemap), puis notes retirées : les pages du guide reviennent à l'identique. Aucune note réelle publiée à ce stade.
+
+---
+
 ## [2026-08-31] edit | Réhabilitation, levée d'interdiction et actualité de la base légale
 
 Deux points arbitrés par l'utilisateur en fin de session, puis vérification de l'actualité de la base légale.
@@ -176,6 +223,66 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** reprend et vérifie que tout est ok
 
 **Action :** Tout est vérifié. Voici l'état réel.  ## Ce qui a été contrôlé  | Contrôle | Résultat | |---|---| | Build Zensical (from scratch, `site/` supprimé) | OK, 36 pages | | Liens internes de tout le site | **385 vérifiés, 0 cassé** | | Ancres internes | **0 introuvable** | | Page au sitemap avec `lastmod` | OK (`2026-08-31`) | | Les 3 admonitions | `warning` / `danger` / `tip` rendues | | Absence de montants chiffrés | conforme (décision « mécanisme sans montants ») | | Bases légales rendues | XX.113,...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-09-02 17:34:26 - session 2a52abbe
+
+**Demande :** Je confirme que la levée de l'interdiction ne peut pas se faire pour bonne conduite ou levée anticipative. Par contre en matière d'effacement, le refus d'effacement peut être peut faire l'objet d'une réhabilitation conformément aux dispositions du code de droit économique lorsque Le failli qui n'a p...
+
+**Action :** Tout est en ordre. Arbre propre, build clean, 386 liens vérifiés sans erreur, dates à jour.  ## Vos deux points  **Levée d'interdiction** — vous confirmez `interdiction.md`, c'était donc `cloture.md` qui était fautif, en deux endroits. Corrigé et rattaché aux deux seules causes d'extinction anticipée : rétractation du jugement déclaratif et réhabilitation XX.237.  **Réhabilitation** — c'était un vrai trou. [effacement.md](docs/faillis/effacement.md) expliquait longuement comment l'effacement peu...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-09-15 12:26:26 - session 2a52abbe
+
+**Demande :** on peut pousser les commits
+
+**Action :** Poussé. `928ca68..ff77d61`, local et remote synchronisés sur `ff77d61`, aucun écart.  Les 11 commits sont en ligne — le déploiement GitHub Actions se déclenche sur `gh-pages`. Je n'ai pas pu vérifier son état, le CLI `gh` n'étant pas installé ici ; à contrôler dans l'onglet Actions du dépôt si vous voulez confirmer la mise en ligne effective.  Ce qui part en production : la nouvelle page sur les dettes avant faillite, les renvois et la base légale XX.113 sur les FAQ, les six entrées de glossaire...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 10:52:15 - session 4a7bde3d
+
+**Demande :** Je voudrais mettre en place une page spécifique sur le site qui concerne des actualités et des articles de Sur le sujet, l'objectif est d'avoir un espace qui permet de recenser des. Euh des matières liées au droit de la faillite et de publier des actualités jurisprudentielles ou doctrinales. Dans ce...
+
+**Action :** La maquette est en ligne, en accès privé : https://claude.ai/artifact/Q5aVSWRd6eyxYcDa1aHoks  Elle simule quatre écrans dans l'apparence actuelle du site. Tu passes de l'un à l'autre avec la barre du haut. Les encadrés orange en pointillés expliquent ce qui est généré automatiquement ; tu peux les masquer.  1. **Liste des actualités** : notes groupées par année, chacune avec son type (jurisprudence, doctrine, législation), sa source, un résumé et ses étiquettes. Des filtres par type et par thème...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 11:06:02 - session 4a7bde3d
+
+**Demande :** parfait, on peut continuer
+
+**Action :** La rubrique Actualités est en place sur `gh-pages`, en quatre commits locaux. Je n'ai rien poussé.  **Ce qui fonctionne :** - **Taxonomie** : les 30 notions de la maquette sont dans [data/themes.yml](data/themes.yml), fichier hors de `docs/`, donc jamais publié. - **Générateur** : [scripts/build_actualites.py](scripts/build_actualites.py) écrit dans tes pages, mais uniquement entre des marqueurs ; ton texte rédigé n'est jamais touché. Il produit :   - la liste des notes et la page « par thème » ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 11:52:44 - session 4a7bde3d
+
+**Demande :** voila une première note d'actualité
+
+**Action :** Tes six notes sont en ligne en local, en deux commits sur `gh-pages`. Je n'ai rien poussé.  J'ai repris ton texte tel quel : seulement la mise en Markdown (intertitres, listes, référence finale en italique), l'en-tête de chaque note et ses thèmes.  | Note | Type | Thèmes | |---|---|---| | Caution consommateur, loi du 5 juin 2025 | législation | caution, réorganisation judiciaire | | Fraude intragroupe, Entr. fr. Bruxelles, 10 septembre 2025 | jurisprudence | période suspecte, responsabilité des ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-28 12:06:53 - session 4a7bde3d
+
+**Demande :** parfait; mets à jour les fiches pour être cohérént avec le régime de cautionnement en prenant en compte la mise à jour législative.
+
+**Action :** J'ai mis le guide en cohérence avec le nouveau régime des cautions, en trois commits sur `gh-pages`, non poussés. Le build passe, les nouvelles ancres et les liens qui y mènent fonctionnent, et l'ancienne formulation n'apparaît plus dans le guide.  **Page de référence : [suretes-cautions.md](docs/creanciers/suretes-cautions.md).** Trois sections réécrites ou créées : - **Décharge de la caution consommateur (XX.176)** :   - la disproportion s'apprécie désormais à l'ouverture de la procédure, plus...
 
 **Outils utilises :** aucun
 

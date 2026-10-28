@@ -4,7 +4,7 @@ description: Guide complet et accessible sur la faillite en Belgique - Informati
 keywords: faillite belgique, insolvabilité belgique, faillis droits obligations, créanciers
   faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance,
   tribunal entreprise
-updated: '2026-09-02'
+updated: '2026-10-28'
 ---
 # Guide de la faillite en Belgique
 
@@ -73,6 +73,18 @@ Le tableau complet de tous les délais, avec leurs points de départ et conséqu
 - [REGSOL](https://www.regsol.be) — Déclarer votre créance et suivre votre dossier en ligne
 
 ---
+
+<!-- actualites:auto:start -->
+## Dernières actualités
+
+- [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — jurisprudence, 28 octobre 2026
+- [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+- [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
+
+[Toutes les actualités](actualites/README.md)
+
+---
+<!-- actualites:auto:end -->
 
 ## À propos de ce guide
 

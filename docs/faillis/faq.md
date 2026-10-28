@@ -4,7 +4,7 @@ description: FAQ Faillis - Questions fréquentes des personnes en faillite - Ré
 keywords: questions faillite belgique, faq failli, perdre biens faillite, durée faillite,
   négocier curateur, conjoint responsable, dettes augmentent faillite, arrêt intérêts
   faillite
-updated: '2026-08-31'
+updated: '2026-10-28'
 ---
 # Questions fréquentes : je suis en faillite
 
@@ -44,7 +44,7 @@ Non, plus après le jugement. Le jugement déclaratif arrête le cours des inté
 
 ## Mon conjoint est-il responsable de mes dettes professionnelles ?
 
-Cela dépend de votre régime matrimonial. En régime de communauté légale, votre conjoint peut être tenu sur les biens communs pour les dettes professionnelles — mais il bénéficie lui aussi de l'effacement si vous cohabitiez depuis plus de six mois avant le jugement. En régime de séparation de biens, votre conjoint n'est pas tenu, sauf s'il s'est porté caution personnelle ou codébiteur. La situation est souvent complexe et mérite l'analyse d'un avocat. Consultez [l'effacement des dettes et ses effets sur le conjoint](effacement.md).
+Cela dépend de votre régime matrimonial. En régime de communauté légale, votre conjoint peut être tenu sur les biens communs pour les dettes professionnelles. En régime de séparation de biens, votre conjoint n'est pas tenu, sauf s'il s'est porté caution personnelle ou codébiteur. S'il est personnellement coobligé à une dette contractée pendant le mariage ou la cohabitation légale, votre effacement le libère aussi (article XX.174), sauf pour les dettes contractuelles étrangères à votre activité professionnelle. S'il s'est porté caution, il peut en outre, depuis le 1er janvier 2026, demander sa décharge si son engagement est manifestement disproportionné à ses biens et revenus (article XX.176). La situation est souvent complexe et mérite l'analyse d'un avocat. Consultez [l'effacement des dettes et ses effets sur le conjoint](effacement.md).
 
 ---
 

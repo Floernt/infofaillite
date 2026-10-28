@@ -3,7 +3,7 @@ description: L'interdiction de gérer en Belgique - Causes, durée, conséquence
   l'éviter, registre JustBan
 keywords: interdiction de gérer belgique, interdiction gérer faillite, JustBan, fautes
   graves faillite, durée interdiction, contestation interdiction
-updated: '2026-05-15'
+updated: '2026-10-28'
 ---
 # L'interdiction de gérer
 
@@ -100,3 +100,11 @@ Une interdiction qui plane sur votre dossier, une réhabilitation que vous envis
 - [L'effacement automatique des dettes à la clôture](effacement.md)
 - [Reprendre une activité malgré l'interdiction de gérer](reprendre-activite.md)
 - [Le registre JustBan](https://www.juridat.be)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (1)"
+
+    - [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](../actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — jurisprudence, 28 octobre 2026
+
+    Toutes les notes sur : [Interdiction de gérer](../actualites/themes.md#interdiction-gerer)
+<!-- actualites:auto:end -->

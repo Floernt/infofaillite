@@ -3,7 +3,7 @@ description: Checklist pratique après le jugement de faillite - Ce qu'il faut f
   dans les 7 premiers jours et dans les premières semaines
 keywords: que faire après jugement faillite, checklist faillite belgique, premières
   actions faillite, priorités failli, semaine faillite
-updated: '2026-05-15'
+updated: '2026-10-28'
 ---
 # La checklist pratique pour la première semaine
 
@@ -71,7 +71,7 @@ Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéfi
 
 ### Informez vos proches ou associés qui se sont portés caution
 
-Si des membres de votre famille, des amis ou des associés se sont portés caution pour vos dettes professionnelles, informez-les immédiatement. Ils doivent savoir que l'effacement de vos dettes ne les libère pas automatiquement : les créanciers peuvent continuer à les poursuivre après la clôture. Pour les détails, lisez [l'effacement automatique des dettes](effacement.md).
+Si des membres de votre famille, des amis ou des associés se sont portés caution pour vos dettes professionnelles, informez-les immédiatement. Ils doivent savoir que l'effacement de vos dettes ne les libère pas automatiquement : les créanciers peuvent continuer à les poursuivre après la clôture. Depuis le 1er janvier 2026, une caution qui a la qualité de consommateur peut toutefois demander sa décharge si son engagement est manifestement disproportionné à ses biens et revenus, par une requête déposée dans le registre qui suspend les poursuites contre elle. Pour les détails, lisez [l'effacement automatique des dettes](effacement.md) et [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
 
 ---
 

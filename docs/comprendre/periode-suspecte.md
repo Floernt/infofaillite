@@ -3,7 +3,7 @@ description: La période suspecte en faillite belgique - Nullités de plein droi
   facultatives, délais d'action, conséquences pour les tiers et les dirigeants
 keywords: période suspecte faillite belgique, nullité actes faillite, paiements préférentiels
   annulation, actes suspects faillite, protection créanciers faillite
-updated: '2026-05-14'
+updated: '2026-10-28'
 ---
 # La période suspecte et les nullités en faillite
 
@@ -109,3 +109,11 @@ Pour comprendre les sanctions encourues en cas de faute grave de gestion, consul
 - [Qu'est-ce qu'une faillite — définition et conditions](definition-faillite.md)
 - [Les acteurs de la faillite : curateur et juge-commissaire](acteurs.md)
 - [Vos obligations légales envers le curateur](../faillis/obligations.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (1)"
+
+    - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](../actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+
+    Toutes les notes sur : [Période suspecte et nullités](../actualites/themes.md#periode-suspecte)
+<!-- actualites:auto:end -->

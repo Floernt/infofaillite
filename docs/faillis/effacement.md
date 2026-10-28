@@ -3,7 +3,7 @@ description: L'effacement automatique des dettes après faillite - Conditions, p
   exceptions et refus
 keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
   graves faillite, contestation effacement
-updated: '2026-09-02'
+updated: '2026-10-28'
 ---
 # L'effacement des dettes
 
@@ -54,9 +54,15 @@ Certaines dettes échappent toutefois à l'effacement :
 
 ## Votre conjoint ou cohabitant en bénéficie aussi
 
-L'article XX.173 étend le bénéfice de l'effacement à votre conjoint ou cohabitant légal, à condition qu'il soit codébiteur ou garant des dettes professionnelles concernées et que vous cohabitiez ensemble depuis plus de six mois avant le jugement de faillite. 
+L'article XX.174 étend le bénéfice de votre effacement à votre conjoint, ex-conjoint, cohabitant légal ou ex-cohabitant légal, lorsqu'il est personnellement coobligé à une de vos dettes contractée pendant le mariage ou la cohabitation légale. Il est alors libéré automatiquement, en même temps que vous. Cette protection suit toutefois votre sort : si l'effacement vous est refusé, votre partenaire n'en profite pas non plus et ne dispose d'aucune action propre.
 
-En revanche, si la cohabitation est inférieure à six mois avant la faillite, ou si votre conjoint est en séparation de biens totale et n'a souscrit aucun engagement personnel, il ne bénéficie pas de l'effacement.
+Elle a trois limites :
+
+- elle ne joue pas pour le cohabitant légal dont la déclaration de cohabitation date de moins de six mois avant l'ouverture de la faillite ;
+- elle ne couvre pas les dettes contractuelles étrangères à votre activité professionnelle, comme un crédit conclu ensemble pour un besoin privé ;
+- elle ne concerne pas le cohabitant de fait.
+
+Le partenaire qui s'est porté caution et ne peut pas bénéficier de cet effacement, notamment le cohabitant de fait, peut demander une décharge si son engagement est manifestement disproportionné (voir la section suivante).
 
 ---
 
@@ -65,7 +71,7 @@ En revanche, si la cohabitation est inférieure à six mois avant la faillite, o
 !!! danger "Les personnes qui vous ont cautionné restent engagées"
     Les parents, amis ou associés qui se sont portés caution pour vos dettes professionnelles ne bénéficient pas de votre effacement. Les créanciers peuvent continuer à les poursuivre normalement après la clôture de votre faillite.
 
-Deux mécanismes peuvent néanmoins libérer une caution. D'une part, le conjoint ou cohabitant légal qui s'est porté caution pour vos dettes professionnelles bénéficie de l'effacement à condition d'avoir cohabité avec vous depuis plus de six mois avant le jugement. D'autre part, une caution dont l'engagement était manifestement disproportionné à ses revenus et son patrimoine au moment de la signature peut demander sa décharge judiciaire au tribunal. Pour en savoir plus, consultez la page sur [la décharge de caution en cas de faillite](../comprendre/cloture.md).
+Deux mécanismes peuvent néanmoins libérer une caution. D'une part, votre conjoint ou cohabitant légal coobligé bénéficie de votre effacement dans les conditions décrites ci-dessus (article XX.174). D'autre part, depuis le 1er janvier 2026, toute caution qui a la qualité de consommateur peut demander sa décharge, totale ou partielle, si son engagement est manifestement disproportionné à ses biens et à ses revenus à l'ouverture de la procédure (article XX.176). Elle n'a plus à prouver que son engagement était gratuit, ce qui ouvre réellement cette voie aux proches du dirigeant. Conditions, pièces et exclusions : voir [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
 
 ---
 
@@ -144,3 +150,12 @@ Une dette particulière dont vous ne savez pas si elle sera effacée, une craint
 - [L'interdiction de gérer et comment l'éviter](interdiction.md)
 - [Reprendre une activité après votre faillite](reprendre-activite.md)
 - [Les délais importants à ne pas manquer](../delais.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (2)"
+
+    - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](../actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
+    - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
+
+    Toutes les notes sur : [Effacement des dettes](../actualites/themes.md#effacement) · [Cautions](../actualites/themes.md#caution)
+<!-- actualites:auto:end -->

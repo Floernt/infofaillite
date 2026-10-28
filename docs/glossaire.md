@@ -3,7 +3,7 @@ description: Glossaire de la faillite en Belgique - Définitions simples de tous
   termes juridiques de la procédure de faillite et d'insolvabilité
 keywords: glossaire faillite, termes juridiques faillite belgique, définitions faillite,
   vocabulaire insolvabilité belgique
-updated: '2026-09-02'
+updated: '2026-10-28'
 ---
 # Glossaire de la faillite
 
@@ -33,7 +33,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 **Caisse des Dépôts et Consignations (CDC)** — Organisme public fédéral qui conserve les fonds encaissés par le curateur pendant la liquidation et verse les dividendes aux créanciers après homologation de l'état de répartition par le tribunal.
 
-**Caution / Sûreté personnelle** — Personne (physique ou morale) qui s'est engagée à payer les dettes du failli si ce dernier ne les paie pas. La caution ne bénéficie pas de l'effacement des dettes accordé au failli : les créanciers peuvent continuer à la poursuivre après la clôture. Deux mécanismes peuvent néanmoins la libérer : la cohabitation depuis plus de six mois avec le failli pour le conjoint ou cohabitant légal caution des dettes professionnelles (effacement de plein droit), et la décharge judiciaire pour cautionnement manifestement disproportionné au moment de la signature.
+**Caution / Sûreté personnelle** — Personne (physique ou morale) qui s'est engagée à payer les dettes du failli si ce dernier ne les paie pas. La caution ne bénéficie pas de l'effacement des dettes accordé au failli : les créanciers peuvent continuer à la poursuivre après la clôture. Deux mécanismes peuvent néanmoins la libérer : l'effacement du failli, qui profite à son conjoint ou cohabitant légal personnellement coobligé à une dette contractée pendant le mariage ou la cohabitation légale (article XX.174), et, depuis le 1er janvier 2026, la décharge de la caution consommateur dont l'engagement est manifestement disproportionné à ses biens et revenus à l'ouverture de la procédure (article XX.176). Voir [les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md#decharge-caution-consommateur).
 
 **Cessation de paiements** — Situation dans laquelle le débiteur a cessé de façon durable d'honorer ses dettes exigibles. C'est l'une des deux conditions cumulatives de l'état de faillite, avec l'ébranlement du crédit.
 

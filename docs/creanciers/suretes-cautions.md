@@ -3,7 +3,7 @@ description: Les sûretés et cautions dans la faillite - Hypothèques, gages, p
   cautions personnelles et leur déclaration dans la procédure
 keywords: hypothèque faillite belgique, gage faillite, caution faillite, sûreté réelle
   faillite, privilège créancier faillite, déclaration créance
-updated: '2026-05-15'
+updated: '2026-10-28'
 ---
 # Les sûretés et cautions dans la faillite
 
@@ -59,13 +59,44 @@ Le droit du créancier contre la caution est indépendant de la procédure de fa
 
 Il reste néanmoins utile de mentionner la caution dans votre déclaration de créance — nom, adresse, montant cautionné, nature du cautionnement (solidaire ou simple), date de l'acte, copie jointe. Cela permet au curateur d'organiser correctement les répartitions et évite des discussions ultérieures sur les paiements partiels obtenus de la caution, qui doivent être imputés sur la créance admise.
 
-### La décharge judiciaire pour cautionnement disproportionné
+### La décharge de la caution consommateur (article XX.176) { #decharge-caution-consommateur }
 
-Une caution peut demander sa décharge judiciaire si le montant cautionné était manifestement disproportionné à ses revenus et à son patrimoine au moment de la signature. Le tribunal apprécie souverainement la disproportion. Cette démarche doit être initiée par la caution elle-même, dans les six mois suivant le jugement de clôture définitif.
+Depuis le 1er janvier 2026, date d'entrée en vigueur de la loi du 5 juin 2025, l'article XX.176 du Code de droit économique vise le consommateur qui s'est constitué sûreté personnelle du failli. Celui-ci peut demander au tribunal d'être déchargé, en tout ou en partie, si son obligation est manifestement disproportionnée à ses biens et à ses revenus **à l'ouverture de la procédure**.
 
-### La caution conjointe : le cas du conjoint ou cohabitant
+La caution n'a plus à prouver que son engagement était gratuit. Sous l'ancien régime, elle devait démontrer qu'elle n'en retirait aucun avantage économique, direct ou indirect. Les juridictions estimaient presque toujours que le conjoint qui garantit la société de son partenaire en profite indirectement à travers les revenus du ménage, ce qui fermait la décharge aux proches du dirigeant.
 
-Si la caution est le conjoint ou cohabitant légal du failli, et que cette personne cohabitait avec lui depuis plus de six mois avant le jugement déclaratif, elle bénéficie de l'effacement automatique des dettes du failli. Dans ce cas, ni le failli ni son conjoint caution ne peuvent être poursuivis par les créanciers après la clôture. Pour plus de détails, consultez [l'effacement automatique des dettes](../faillis/effacement.md).
+La décharge suppose désormais :
+
+- que le garant ait la qualité de consommateur, au sens de l'article I.1, 2°, du Code de droit économique ;
+- lorsque le débiteur principal est une société, que le garant ne puisse pas influencer substantiellement ses décisions — un partenaire resté étranger à l'activité de la société remplit en principe cette condition ;
+- qu'il s'agisse d'une sûreté **personnelle**, constituée par contrat. Celui qui a donné une hypothèque sur un bien propre pour garantir les dettes du failli ne peut pas demander la décharge, pas plus que la personne tenue en vertu de la loi.
+
+La caution dépose une requête dans le registre de la faillite (REGSOL), accompagnée de sa dernière déclaration fiscale et de son dernier avertissement-extrait de rôle, du relevé de son patrimoine et de tout document établissant ses ressources et ses charges. Le dépôt de la requête suspend les voies d'exécution à son égard.
+
+!!! note "Faillites et sûretés antérieures au 1er janvier 2026"
+    La loi applicable dépend de la date du jugement de faillite et, pour les règles du Code civil décrites plus bas, de la date à laquelle la sûreté a été constituée. Dans un dossier ancien, l'exigence d'un engagement à titre gratuit peut encore trouver à s'appliquer : vérifiez le régime applicable avant d'introduire ou de contester une demande de décharge.
+
+### Le conjoint ou cohabitant légal coobligé : l'effacement (article XX.174) { #conjoint-cohabitant-cooblige }
+
+L'article XX.174 libère par l'effacement le conjoint, l'ex-conjoint, le cohabitant légal ou l'ex-cohabitant légal qui est personnellement coobligé à une dette du failli contractée pendant le mariage ou la cohabitation légale. Cette libération est automatique, mais elle suit le sort du failli : si celui-ci n'obtient pas l'effacement, son partenaire n'en profite pas non plus et ne dispose d'aucune action propre.
+
+Elle connaît trois limites. Elle ne joue pas pour le cohabitant légal dont la déclaration de cohabitation date de moins de six mois avant l'ouverture de la faillite. Elle ne couvre pas les dettes contractuelles étrangères à l'activité professionnelle du failli, comme un crédit conclu ensemble pour un besoin privé (la Cour constitutionnelle a validé cette différence de traitement le 25 janvier 2024). Enfin, le cohabitant de fait en est exclu (Cour constitutionnelle, 24 septembre 2014) ; s'il s'est porté caution, il peut en revanche demander la [décharge de l'article XX.176](#decharge-caution-consommateur).
+
+Pour la situation du failli lui-même, consultez [l'effacement automatique des dettes](../faillis/effacement.md).
+
+### Les sûretés constituées par un consommateur depuis le 1er janvier 2026 { #surete-consommateur-code-civil }
+
+La loi du 5 juin 2025 a aussi créé, dans le Code civil, un régime de « sûreté personnelle constituée par un consommateur » (articles 9.1.42 à 9.1.50), qui remplace l'ancien cautionnement à titre gratuit. Il s'applique aux sûretés constituées depuis le 1er janvier 2026 ; les sûretés plus anciennes restent soumises aux anciennes règles, sauf accord contraire des parties. Toute sûreté personnelle consentie par un consommateur (garantie autonome, porte-fort d'exécution, lettre de patronage contraignante, solidarité) est convertie de plein droit en cautionnement (art. 9.1.43).
+
+Pour le créancier qui veut actionner une telle sûreté après la faillite du débiteur, les points de contrôle sont les suivants :
+
+- **l'information précontractuelle** : le garant doit avoir été informé, avant la signature, de l'étendue de la dette garantie, de l'effet général de la sûreté et des risques particuliers liés à la situation financière du débiteur, et le créancier doit pouvoir le prouver (art. 9.1.44) ;
+- **l'écrit distinct** : l'engagement doit être constaté dans un écrit distinct du contrat principal, à peine de nullité (art. 9.1.45) ;
+- **le plafond** : un montant maximal doit être fixé, accessoires compris, ceux-ci ne pouvant dépasser 50 % du principal (art. 9.1.46) ;
+- **l'objet** : seules les dettes futures d'un contrat déjà existant et désigné dans l'acte peuvent être garanties ; un contrat-cadre est exclu ;
+- **les informations en cours de contrat** : information annuelle sur l'encours (art. 9.1.48) et information sans délai injustifié de toute défaillance ou de tout report d'exigibilité (art. 9.1.49).
+
+En cas de disproportion manifeste avec le patrimoine et les revenus du garant au moment de son engagement, le juge réduit l'obligation au lieu de l'annuler (art. 9.1.47) ; la preuve de la disproportion incombe au garant. Ces règles s'ajoutent à la décharge prévue par le droit de l'insolvabilité. Pour une présentation complète, lisez la note [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md).
 
 ---
 
@@ -87,7 +118,7 @@ Si la caution est le conjoint ou cohabitant légal du failli, et que cette perso
 
 **Puis-je poursuivre la caution avant même la clôture de la faillite ?** Oui. Votre droit contre la caution est indépendant de la procédure de faillite. Vous pouvez agir contre la caution dès que le failli est en défaut de paiement — la faillite ne vous oblige pas à attendre la clôture.
 
-**La caution peut-elle obtenir une décharge ?** Oui, dans deux cas : si elle s'est engagée à titre gratuit et que son engagement est manifestement disproportionné à ses revenus et son patrimoine au moment de la signature, elle peut demander sa décharge judiciaire au tribunal ; et le conjoint ou cohabitant légal du failli qui s'est porté caution pour ses dettes professionnelles bénéficie de l'effacement de plein droit s'il cohabitait depuis plus de six mois avant le jugement.
+**La caution peut-elle obtenir une décharge ?** Oui, dans deux cas. La caution qui a la qualité de consommateur peut demander au tribunal sa décharge, totale ou partielle, si son obligation est manifestement disproportionnée à ses biens et à ses revenus à l'ouverture de la procédure ; depuis le 1er janvier 2026, elle n'a plus à prouver que son engagement était gratuit ([article XX.176](#decharge-caution-consommateur)). Par ailleurs, le conjoint ou le cohabitant légal personnellement coobligé à une dette du failli contractée pendant le mariage ou la cohabitation légale est libéré par l'effacement du failli, dans les limites prévues par l'[article XX.174](#conjoint-cohabitant-cooblige).
 
 ---
 
@@ -99,3 +130,12 @@ Si la caution est le conjoint ou cohabitant légal du failli, et que cette perso
 - [La clôture de la faillite et la décharge de caution](../comprendre/cloture.md)
 - [L'effacement automatique des dettes pour les personnes physiques](../faillis/effacement.md)
 - [Les délais importants à ne pas manquer](../delais.md)
+
+<!-- actualites:auto:start -->
+??? info "Actualités liées à cette page (2)"
+
+    - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](../actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
+    - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
+
+    Toutes les notes sur : [Cautions](../actualites/themes.md#caution)
+<!-- actualites:auto:end -->

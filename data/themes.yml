@@ -1,0 +1,133 @@
+# Taxonomie des actualités d'infofaillite.be
+#
+# Source unique des étiquettes (thèmes) apposées sur les notes de
+# docs/actualites/. Chaque thème est rattaché aux pages théoriques du guide
+# qui en exposent les règles : scripts/build_actualites.py s'en sert pour
+# générer les renvois dans les deux sens.
+#
+# Ce fichier est hors de docs/ : il n'est jamais publié.
+#
+# Format :
+#   slug:                      # identifiant utilisé dans le front matter des notes
+#     label: Libellé affiché
+#     pages: [chemin/relatif/a/docs.md, ...]
+
+conditions-faillite:
+  label: Conditions de la faillite
+  pages: [comprendre/definition-faillite.md]
+
+aveu:
+  label: Aveu de faillite
+  pages: [comprendre/definition-faillite.md, faillis/obligations.md]
+
+curateur:
+  label: Le curateur
+  pages: [comprendre/acteurs.md]
+
+juge-commissaire:
+  label: Le juge-commissaire
+  pages: [comprendre/acteurs.md]
+
+acteurs-secondaires:
+  label: Ministère public et chambre des entreprises en difficulté
+  pages: [comprendre/acteurs-secondaires.md]
+
+dessaisissement:
+  label: Dessaisissement
+  pages: [comprendre/dessaisissement.md, faillis/droits.md]
+
+contrats-en-cours:
+  label: Contrats en cours
+  pages: [comprendre/dessaisissement.md, creanciers/droits-specifiques.md]
+
+periode-suspecte:
+  label: Période suspecte et nullités
+  pages: [comprendre/periode-suspecte.md]
+
+dettes-anterieures:
+  label: Intérêts, saisies et suspension des poursuites
+  pages: [comprendre/dettes-avant-faillite.md]
+
+declaration-creance:
+  label: Déclaration de créance
+  pages: [creanciers/declarer-creance.md, delais.md]
+
+verification-creances:
+  label: Vérification et contestation des créances
+  pages: [creanciers/verification-contestation.md, creanciers/contester-creance.md]
+
+privileges:
+  label: Privilèges et rang des créanciers
+  pages: [creanciers/creanciers-categories.md]
+
+suretes-reelles:
+  label: Gage, hypothèque et réserve de propriété
+  pages: [creanciers/suretes-cautions.md]
+
+caution:
+  label: Cautions
+  pages: [creanciers/suretes-cautions.md, faillis/effacement.md]
+
+creanciers-publics:
+  label: Fisc et ONSS
+  pages: [creanciers/creanciers-categories.md]
+
+travailleurs:
+  label: Travailleurs et Fonds de fermeture
+  pages: [creanciers/creanciers-categories.md]
+
+compensation:
+  label: Compensation
+  pages: [creanciers/droits-specifiques.md]
+
+liquidation:
+  label: Réalisation des actifs
+  pages: [comprendre/liquidation-actifs.md]
+
+responsabilite-dirigeants:
+  label: Comblement de passif et responsabilité des dirigeants
+  pages: [comprendre/liquidation-actifs.md]
+
+dividendes:
+  label: Répartition et dividendes
+  pages: [creanciers/paiement-dividendes.md]
+
+cloture:
+  label: Clôture
+  pages: [comprendre/cloture.md, comprendre/deroulement-phase-4-5.md]
+
+effacement:
+  label: Effacement des dettes
+  pages: [faillis/effacement.md, comprendre/cloture.md]
+
+obligations-failli:
+  label: Obligations du failli
+  pages: [faillis/obligations.md, faillis/checklist-premiere-semaine.md]
+
+droits-failli:
+  label: Droits du failli
+  pages: [faillis/droits.md]
+
+interdiction-gerer:
+  label: Interdiction de gérer
+  pages: [faillis/interdiction.md]
+
+rehabilitation:
+  label: Réhabilitation
+  pages: [faillis/interdiction.md]
+
+reprise-activite:
+  label: Reprise d'activité
+  pages: [faillis/reprendre-activite.md]
+
+reorganisation-judiciaire:
+  label: Réorganisation judiciaire et pre-pack
+  pages: [comprendre/procedures-alternatives.md]
+
+delais:
+  label: Délais de procédure
+  pages: [delais.md, comprendre/deroulement-chronologique.md]
+
+reforme-legislative:
+  label: Réformes du Livre XX
+  pages: [comprendre/definition-faillite.md]
