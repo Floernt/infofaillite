@@ -19,6 +19,9 @@ Ce bénéfice n'est cependant pas automatiquement garanti : le tribunal peut le 
 
 C'est une rupture nette avec le passé. Elle vous permet de repartir sur de nouvelles bases, d'emprunter à nouveau, d'entreprendre, de reconstruire — sans porter indéfiniment le poids d'obligations nées d'une activité qui n'existe plus.
 
+!!! note "Si la faillite dure : obtenir l'effacement avant la clôture"
+    Le refus de l'effacement ne peut plus être demandé une fois écoulé un délai de trois ans à compter de l'expiration du droit de demander l'admission des créances (article XX.173, § 3). Par un arrêt n° 55/2026 du 23 avril 2026, la Cour constitutionnelle a jugé discriminatoire d'obliger le failli à attendre encore la clôture une fois ce délai passé. En attendant que le législateur intervienne, le failli peut demander au tribunal de statuer sur l'effacement après ce délai et avant la clôture, selon la procédure de l'ancien article XX.173, § 2, alinéas 2 à 4, appliquée par analogie.
+
 ---
 
 ## Qui en bénéficie ?
