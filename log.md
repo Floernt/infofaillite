@@ -6,6 +6,12 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-29] build | Recherche de la FAQ réécrite
+
+- L'ancien champ cherchait l'expression exacte, d'un seul bloc : « délai déclaration », « effacement dettes », « salaire impayé » ou « l’aveu » (apostrophe courbe des téléphones) ne trouvaient rien (2 requêtes test sur 16 avec résultat).
+- [docs/javascripts/faq.js](docs/javascripts/faq.js) : mots cherchés séparément, sans accents, ponctuation ni mots vides ; racines (singulier et pluriel, « déclarer » / « déclaration ») ; mot présent dans la question compté double, identifiant de la question indexé ; résultats classés par pertinence dans une liste unique (sections rétablies quand le champ est vidé) ; surlignage ; réponses dépliées seulement jusqu'à trois résultats ; à défaut de question contenant tous les mots, les plus proches ; filtres actifs signalés avec un bouton « Chercher dans toutes les questions » ; Échap vide le champ ; requête conservée dans l'adresse (`#q=`).
+- Vérifié dans Chrome sans interface sur six requêtes, dont la recherche hors filtre.
+
 ## [2026-10-29] lint | Interdiction de gérer : deux paragraphes rendus en titres
 
 - Un séparateur `---` collé sous le chapeau et sous le paragraphe sur l'inaction les transformait en titres H2 (et en entrées de la table des matières). Ligne vide ajoutée. Repéré lors des captures de contrôle de l'en-tête à cinq onglets (1280, 1024 et 520 px : rien à corriger).
@@ -626,6 +632,16 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** ok. corrige les Contradictions et biais « personne physique » repérés dans le guide en choissant la formulation la plus générale si besoin
 
 **Action :** J'ai corrigé les contradictions et les passages trop centrés sur la personne physique, en vérifiant chaque point sur le texte consolidé du Code (Justel). C'est commité en trois commits sur `gh-pages`, pas poussé. Les 48 tests passent et le build est propre.  **Ce que la vérification a changé dans tes demandes** - **« Tribunal de l'insolvabilité »** : rien à corriger. L'article XX.1 le définit comme « le tribunal de l'entreprise compétent », donc le site reste exact. - **Déclarations tardives** :...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 14:30:54 - session 4a7bde3d
+
+**Demande :** ok continue la suite du plan
+
+**Action :** Le plan est terminé, sauf le push, qui attend ton feu vert. C'est commité sur `gh-pages`.  **Captures de contrôle** : l'en-tête et le bandeau « Cette page concerne » s'affichent correctement en 1280, 1024 et 520 px. Sous 1280 px, les cinq onglets passent dans le menu ☰ ; à 520 px, les deux étiquettes de public vont à la ligne proprement. Rien à corriger de ce côté.  **Un défaut repéré pendant les captures, et corrigé** : dans la page Interdiction de gérer, le paragraphe d'introduction et celui s...
 
 **Outils utilises :** aucun
 

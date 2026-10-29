@@ -624,6 +624,21 @@ body { background: var(--ifa-bg); }
 }
 .md-typeset .ifa-faq-search:focus { outline: 2px solid var(--ifa-orange); outline-offset: 1px; }
 .md-typeset .ifa-faq-count { margin: .4rem 0 1rem; font-size: .7rem; }
+.md-typeset .ifa-faq-reset {
+  padding: 0;
+  font: inherit;
+  color: var(--md-typeset-a-color);
+  text-decoration: underline;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+.md-typeset mark.ifa-hit {
+  padding: 0 .05em;
+  color: inherit;
+  background: rgba(241, 143, 1, .25);
+  border-radius: .1em;
+}
 .md-typeset details.ifa-faq {
   margin: 0;
   border: 0;
