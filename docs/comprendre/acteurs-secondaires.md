@@ -29,7 +29,7 @@ Le tribunal fixe le montant définitif des honoraires et frais du curateur lors 
 
 ### Les recours
 
-Les jugements du tribunal de l'entreprise peuvent faire l'objet d'un appel devant la Cour d'appel dans le mois qui suit. Le délai pour un pourvoi en cassation est de trois mois.
+Les jugements du tribunal de l'entreprise peuvent faire l'objet d'un appel devant la Cour d'appel dans le mois qui suit. Le jugement déclaratif de faillite fait exception : l'appel doit être formé dans les quinze jours (article XX.108, § 3, du Code de droit économique). Le délai pour un pourvoi en cassation est de trois mois.
 
 ---
 

@@ -56,11 +56,11 @@ Les conséquences sont très graves. Le tribunal peut prononcer une [interdictio
 
 ## Puis-je faire appel du jugement de faillite ?
 
-Oui, dans le mois qui suit le prononcé du jugement. Trois voies de recours coexistent en réalité et obéissent à des règles distinctes :
+Oui, mais dans un délai très court : quinze jours (article XX.108, § 3, du Code de droit économique). Trois voies de recours coexistent et obéissent à des règles distinctes :
 
-- **L'appel** est la voie ordinaire si vous étiez partie à l'audience qui a prononcé la faillite : un mois à compter de la signification du jugement, devant la Cour d'appel.
-- **L'opposition** est ouverte au failli qui a été cité mais n'a pas comparu en première instance et contre qui un jugement a été rendu par défaut ; elle se forme également dans le mois et permet de saisir à nouveau le tribunal qui a prononcé la faillite.
-- **La tierce opposition** est ouverte aux tiers qui n'étaient pas parties au jugement de faillite mais dont les droits sont lésés (par exemple un créancier non convoqué, un conjoint en séparation de biens dont des actifs sont intégrés à la masse). Elle obéit à des règles de délai et de forme particulières.
+- **L'appel** est la voie ordinaire si vous avez été cité à comparaître devant le tribunal qui a prononcé la faillite : quinze jours, devant la cour d'appel. Le Code fait courir ce délai à partir de la publication du jugement au Moniteur belge, mais la Cour constitutionnelle a jugé que, pour le failli, il court à partir de la signification du jugement par le curateur (arrêt n° 139/2025 du 23 octobre 2025).
+- **L'opposition** est ouverte au failli qui a été cité mais n'a pas comparu et contre qui le jugement a été rendu par défaut : quinze jours à compter de la signification du jugement. Elle permet de saisir à nouveau le tribunal qui a prononcé la faillite.
+- **La tierce opposition** est ouverte aux intéressés qui n'étaient pas parties au jugement. C'est aussi la voie du failli qui a fait aveu de faillite, puisque la loi ne le considère pas comme partie au jugement qui statue sur son aveu. Le délai est de quinze jours à compter de la publication au Moniteur belge ; pour le failli qui a fait aveu, il court de la signification (Cour constitutionnelle, arrêt n° 108/2024 du 3 octobre 2024).
 
 Aucun de ces recours ne suspend automatiquement la procédure : le curateur continue d'inventorier et de vendre les actifs pendant que le recours est en cours, sauf décision contraire du tribunal sur requête. Compte tenu de la technicité de la matière — qualification du jugement par défaut ou contradictoire, computation des délais, choix de la voie pertinente, articulation avec la suite de la procédure — **il est indispensable d'être accompagné d'un avocat spécialisé en insolvabilité** avant d'introduire l'un de ces recours. Si vous êtes réellement en état de faillite, il est par ailleurs souvent plus utile de collaborer pleinement pour obtenir l'effacement que de prolonger la procédure par un recours voué à l'échec.
 

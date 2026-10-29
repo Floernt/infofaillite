@@ -23,7 +23,7 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 | **30 jours** | Déclarer sa créance | Créanciers | Exclusion des répartitions provisoires ; forclusion au dépôt du 3ᵉ PV (≈ 12 mois) |
 | **1 mois** | Déposer l'aveu de faillite | Débiteur | Risque d'interdiction de gérer pour inaction |
 | **1 mois** | Former un contredit | Créanciers | La créance contestée devient définitive |
-| **1 mois** | Interjeter appel | Toutes parties | Le jugement devient irrévocable |
+| **15 jours** | Contester le jugement de faillite (appel, tierce opposition) | Failli, tiers intéressés | Le jugement devient définitif |
 
 ---
 
@@ -53,7 +53,7 @@ Le contredit — la contestation d'une créance admise par le curateur — doit 
 
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
-| 1 mois | Prononcé du jugement | Appel | Le jugement devient définitif |
+| 15 jours | Publication du jugement déclaratif au Moniteur belge | Tierce opposition contre le jugement de faillite ou contre celui qui fixe la date de cessation de paiement (art. XX.108, § 3) | Le jugement devient définitif |
 | 3 ans | Clôture de la faillite | Action en responsabilité contre les dirigeants | Prescription de l'action |
 
 ---
@@ -74,7 +74,7 @@ L'obligation la plus importante est l'aveu de faillite : dès que vous constatez
 
 Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle pendant douze mois au maximum. La demande doit être déposée auprès de votre caisse d'assurances sociales au plus tard le dernier jour du deuxième trimestre civil qui suit le trimestre de la faillite. Ce délai est absolu et n'admet aucune exception.
 
-**Exemple :** faillite prononcée en février 2026 (1er trimestre) → demande à déposer avant le 30 juin 2026 (fin du 2e trimestre).
+**Exemple :** faillite prononcée en février 2026 (1er trimestre) → demande à déposer au plus tard le 30 septembre 2026 (fin du 3e trimestre, soit le deuxième trimestre qui suit celui de la faillite).
 
 Pour tous les détails, consultez [reprendre une activité professionnelle après votre faillite](faillis/reprendre-activite.md).
 
@@ -82,9 +82,11 @@ Pour tous les détails, consultez [reprendre une activité professionnelle aprè
 
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
-| 1 mois | Jugement déclaratif | Appel du jugement | La faillite est confirmée définitivement |
+| 15 jours | Signification du jugement déclaratif par le curateur | Appel du jugement (tierce opposition si la faillite a été prononcée sur aveu) | La faillite est confirmée définitivement |
 | 1 mois | Jugement d'interdiction de gérer | Appel | L'interdiction est définitive |
 | 1 mois | Jugement refusant l'effacement | Appel | Le refus est définitif |
+
+L'article XX.108, § 3, du Code de droit économique fait courir le délai de quinze jours à partir de la publication du jugement au Moniteur belge. Pour le failli, la Cour constitutionnelle a jugé que ce point de départ était discriminatoire : son délai court à partir de la signification que le curateur doit lui faire du jugement (arrêts n° 108/2024 du 3 octobre 2024 pour la tierce opposition après aveu, et n° 139/2025 du 23 octobre 2025 pour l'appel).
 
 ---
 
@@ -131,7 +133,7 @@ Les délais de la procédure de faillite sont calculés en jours calendrier — 
 
 Le point de départ (dies a quo) est généralement le jour du jugement ou de la publication — ce jour n'est pas compris dans le délai. Le dernier jour (dies ad quem) est compris jusqu'à minuit.
 
-**Exemple :** jugement prononcé le 10 février. Délai d'appel d'un mois. Le dies a quo est le 10 février (non compris). Le dies ad quem est le 10 mars inclus. Si le 10 mars est un dimanche, le délai est prorogé au lundi 11 mars.
+**Exemple :** procès-verbal de vérification publié le 10 février. Délai d'un mois pour former un contredit. Le dies a quo est le 10 février (non compris). Le dies ad quem est le 10 mars inclus. Si le 10 mars est un dimanche, le délai est prorogé au lundi 11 mars.
 
 ---
 
