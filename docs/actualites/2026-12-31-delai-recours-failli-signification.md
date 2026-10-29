@@ -1,5 +1,6 @@
 ---
-title: Le délai de recours du failli contre le jugement de faillite court de la signification, pas de la publication
+title: Le délai de recours du failli contre le jugement de faillite court de la signification,
+  pas de la publication
 date: '2026-12-31'
 type: jurisprudence
 source:
@@ -22,8 +23,9 @@ resume: 'Par deux arrêts, la Cour constitutionnelle juge que le délai de quinz
 description: Cour constitutionnelle, arrêts 108/2024 et 139/2025 - Délai de tierce
   opposition et d'appel du failli contre le jugement de faillite (art. XX.108 CDE)
 keywords: appel jugement de faillite délai, tierce opposition aveu de faillite, article
-  XX.108, signification jugement déclaratif, Cour constitutionnelle 139/2025, Cour constitutionnelle
-  108/2024
+  XX.108, signification jugement déclaratif, Cour constitutionnelle 139/2025, Cour
+  constitutionnelle 108/2024
+updated: '2026-10-29'
 ---
 # Le délai de recours du failli contre le jugement de faillite court de la signification, pas de la publication
 

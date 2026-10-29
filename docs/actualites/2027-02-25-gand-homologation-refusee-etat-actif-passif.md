@@ -16,15 +16,16 @@ articles_cde:
 - XX.70/1
 - XX.78
 - XX.79
-resume: 'Le tribunal refuse d''homologuer un plan prévoyant une remise de 80 % parce
-  que l''état actif et passif joint n''était pas à jour. Il accorde une seconde chance
+resume: Le tribunal refuse d'homologuer un plan prévoyant une remise de 80 % parce
+  que l'état actif et passif joint n'était pas à jour. Il accorde une seconde chance
   au débiteur, mais lui impose de répondre à 31 questions sur des opérations réalisées
-  avec des sociétés liées avant la procédure.'
+  avec des sociétés liées avant la procédure.
 description: Entr. Gand, 29 juin 2026 - Refus d'homologation faute d'état actif et
   passif à jour (art. XX.70/1 CDE), seconde chance et bonne foi du débiteur
 keywords: refus homologation plan de réorganisation, état actif et passif actualisé,
   article XX.70/1, seconde chance XX.79 § 3, bonne foi réorganisation judiciaire,
   vote créancier public, VLAIO
+updated: '2026-10-29'
 ---
 # Sans état actif et passif à jour, le plan de réorganisation ne peut pas être homologué
 

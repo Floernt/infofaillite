@@ -1,5 +1,6 @@
 ---
-title: Un plan de réorganisation homologué n'empêche pas de faire remonter la date de cessation de paiement
+title: Un plan de réorganisation homologué n'empêche pas de faire remonter la date
+  de cessation de paiement
 date: '2027-01-07'
 type: jurisprudence
 source:
@@ -14,16 +15,17 @@ themes:
 articles_cde:
 - XX.99
 - XX.105
-resume: 'Une société textile tombe en faillite cinq mois après l''homologation de
-  son plan de réorganisation, sans avoir rien payé entre-temps. Le tribunal fait
-  remonter la date de cessation de paiement au 1er mars 2024 et refuse de voir dans
-  le vote du plan, acquis grâce aux créances de sociétés du groupe, une preuve de
-  la confiance des créanciers.'
-description: Entr. Gand, 13 janvier 2026 - Date de cessation de paiement avancée
-  malgré un plan de réorganisation homologué (art. XX.105 CDE)
+resume: Une société textile tombe en faillite cinq mois après l'homologation de son
+  plan de réorganisation, sans avoir rien payé entre-temps. Le tribunal fait remonter
+  la date de cessation de paiement au 1er mars 2024 et refuse de voir dans le vote
+  du plan, acquis grâce aux créances de sociétés du groupe, une preuve de la confiance
+  des créanciers.
+description: Entr. Gand, 13 janvier 2026 - Date de cessation de paiement avancée malgré
+  un plan de réorganisation homologué (art. XX.105 CDE)
 keywords: report date cessation de paiement, article XX.105, réorganisation judiciaire
   homologuée puis faillite, créances intragroupe vote plan, période suspecte, tribunal
   de l'entreprise de Gand
+updated: '2026-10-29'
 ---
 # Un plan de réorganisation homologué n'empêche pas de faire remonter la date de cessation de paiement
 

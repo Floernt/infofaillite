@@ -1,24 +1,27 @@
 ---
-title: En 2026, le droit passerelle verse jusqu'à 2.128,11 euros par mois à l'indépendant déclaré en faillite
+title: En 2026, le droit passerelle verse jusqu'à 2.128,11 euros par mois à l'indépendant
+  déclaré en faillite
 date: '2026-12-10'
 type: pratique
 source:
-  publication: INASTI, « Je suis obligé d'interrompre mon activité ou de l'arrêter à cause de difficultés économiques. Et maintenant? »
+  publication: INASTI, « Je suis obligé d'interrompre mon activité ou de l'arrêter
+    à cause de difficultés économiques. Et maintenant? »
   date: '2026-09-01'
   lien: https://www.inasti.be/fr/faq/je-suis-oblige-dinterrompre-mon-activite-ou-de-larreter-cause-de-difficultes-economiques-et
 themes:
 - reprise-activite
 - droits-failli
 - delais
-resume: 'Le droit passerelle verse à l''indépendant failli 1.704,40 euros par mois,
+resume: Le droit passerelle verse à l'indépendant failli 1.704,40 euros par mois,
   ou 2.128,11 euros avec charge de famille, pendant douze mois au maximum, avec le
   maintien de ses droits en soins de santé. La demande doit être introduite avant
-  la fin du deuxième trimestre qui suit la faillite.'
+  la fin du deuxième trimestre qui suit la faillite.
 description: Droit passerelle en cas de faillite en 2026 - montants (1.704,40 et 2.128,11
   euros), durée, conditions et délai de demande selon l'INASTI
 keywords: droit passerelle faillite 2026, montant droit passerelle, indépendant faillite
   allocation, INASTI droit passerelle, délai demande droit passerelle, caisse d'assurances
   sociales
+updated: '2026-10-29'
 ---
 # En 2026, le droit passerelle verse jusqu'à 2.128,11 euros par mois à l'indépendant déclaré en faillite
 

@@ -1,5 +1,6 @@
 ---
-title: Le créancier hypothécaire doit renouveler son inscription même si elle expire pendant la faillite
+title: Le créancier hypothécaire doit renouveler son inscription même si elle expire
+  pendant la faillite
 date: '2026-12-17'
 type: jurisprudence
 source:
@@ -10,15 +11,16 @@ source:
 themes:
 - suretes-reelles
 - declaration-creance
-resume: 'La faillite du débiteur ne fige pas les droits du créancier hypothécaire.
-  Si l''inscription de son hypothèque arrive à expiration après le jugement déclaratif,
-  il doit la renouveler pour conserver son droit de préférence jusqu''à ce que celui-ci
-  soit reporté sur le prix du bien.'
+resume: La faillite du débiteur ne fige pas les droits du créancier hypothécaire.
+  Si l'inscription de son hypothèque arrive à expiration après le jugement déclaratif,
+  il doit la renouveler pour conserver son droit de préférence jusqu'à ce que celui-ci
+  soit reporté sur le prix du bien.
 description: Cass., 28 avril 2025, C.22.0419.F - Inscription hypothécaire expirant
   après le jugement de faillite, obligation de renouvellement (art. 90 loi hypothécaire)
 keywords: renouvellement inscription hypothécaire faillite, article 90 loi hypothécaire,
   créancier hypothécaire faillite, cristallisation des droits des créanciers, procès-verbal
   d'ordre, Cour de cassation C.22.0419.F
+updated: '2026-10-29'
 ---
 # Le créancier hypothécaire doit renouveler son inscription même si elle expire pendant la faillite
 

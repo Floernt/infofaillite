@@ -1,5 +1,6 @@
 ---
-title: L'effacement couvre les dettes nées avant la faillite, même si un juge ne les fixe que plus tard
+title: L'effacement couvre les dettes nées avant la faillite, même si un juge ne les
+  fixe que plus tard
 date: '2027-01-21'
 type: jurisprudence
 source:
@@ -12,14 +13,15 @@ themes:
 articles_cde:
 - XX.173
 - I.23
-resume: 'Les dettes dont le failli est libéré par l''effacement sont celles qui existent
-  au jour de l''ouverture de la faillite. Pour la Cour de cassation, une dette existe
-  à ce moment même si elle n''a pas encore été constatée par un jugement et n''est
-  pas encore exigible.'
+resume: Les dettes dont le failli est libéré par l'effacement sont celles qui existent
+  au jour de l'ouverture de la faillite. Pour la Cour de cassation, une dette existe
+  à ce moment même si elle n'a pas encore été constatée par un jugement et n'est pas
+  encore exigible.
 description: Cass., 20 novembre 2024, P.24.0991.F - Effacement des dettes du failli
   (art. XX.173 CDE), dette de dommages et intérêts née avant la faillite
 keywords: effacement des dettes, article XX.173, solde des dettes, dette née avant
   la faillite, dommages et intérêts infraction faillite, Cour de cassation P.24.0991.F
+updated: '2026-10-29'
 ---
 # L'effacement couvre les dettes nées avant la faillite, même si un juge ne les fixe que plus tard
 

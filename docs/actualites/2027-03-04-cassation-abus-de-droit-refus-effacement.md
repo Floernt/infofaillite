@@ -1,5 +1,6 @@
 ---
-title: L'abus de droit ne suffit pas à refuser l'effacement sans fautes graves et caractérisées
+title: L'abus de droit ne suffit pas à refuser l'effacement sans fautes graves et
+  caractérisées
 date: '2027-03-04'
 type: jurisprudence
 source:
@@ -12,14 +13,16 @@ themes:
 - aveu
 articles_cde:
 - XX.173
-resume: 'Le juge ne peut refuser l''effacement des dettes au seul motif que le failli
+resume: Le juge ne peut refuser l'effacement des dettes au seul motif que le failli
   a abusé de son droit de le demander. Il doit constater que le failli a commis des
   fautes graves et caractérisées qui ont contribué à la faillite, seul motif de refus
-  prévu par la version de l''article XX.173 applicable avant la loi du 7 juin 2023.'
+  prévu par la version de l'article XX.173 applicable avant la loi du 7 juin 2023.
 description: Cass., 28 juin 2024, C.23.0288.F - Refus de l'effacement des dettes,
   abus de droit et fautes graves et caractérisées (art. XX.173 CDE)
 keywords: refus effacement des dettes, fautes graves et caractérisées, abus de droit
-  faillite, article XX.173, aveu de faillite personne physique, Cour de cassation C.23.0288.F
+  faillite, article XX.173, aveu de faillite personne physique, Cour de cassation
+  C.23.0288.F
+updated: '2026-10-29'
 ---
 # L'abus de droit ne suffit pas à refuser l'effacement sans fautes graves et caractérisées
 

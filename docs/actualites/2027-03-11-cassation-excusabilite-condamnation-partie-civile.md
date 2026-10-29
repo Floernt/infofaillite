@@ -1,5 +1,6 @@
 ---
-title: Un failli déclaré excusable peut encore être condamné par le juge pénal à indemniser la victime
+title: Un failli déclaré excusable peut encore être condamné par le juge pénal à indemniser
+  la victime
 date: '2027-03-11'
 type: jurisprudence
 source:
@@ -10,16 +11,17 @@ source:
 themes:
 - effacement
 - droits-failli
-resume: 'Sous l''ancienne loi sur les faillites, l''excusabilité n''éteint pas les
-  dettes du failli et empêche seulement ses créanciers de le poursuivre. Le juge pénal
-  peut donc encore fixer le dommage causé par une infraction antérieure et condamner
-  le failli excusé à le réparer ; seule l''exécution de cette condamnation est tenue
-  en échec.'
+resume: Sous l'ancienne loi sur les faillites, l'excusabilité n'éteint pas les dettes
+  du failli et empêche seulement ses créanciers de le poursuivre. Le juge pénal peut
+  donc encore fixer le dommage causé par une infraction antérieure et condamner le
+  failli excusé à le réparer ; seule l'exécution de cette condamnation est tenue en
+  échec.
 description: Cass., 13 mai 2026, P.25.1472.F - Excusabilité du failli (loi du 8 août
   1997) et condamnation à indemniser la partie civile
 keywords: excusabilité failli, article 82 loi sur les faillites, partie civile failli,
   condamnation pénale failli excusable, dommages et intérêts infraction faillite,
   Cour de cassation P.25.1472.F
+updated: '2026-10-29'
 ---
 # Un failli déclaré excusable peut encore être condamné par le juge pénal à indemniser la victime
 

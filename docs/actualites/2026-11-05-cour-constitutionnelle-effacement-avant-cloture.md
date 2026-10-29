@@ -1,5 +1,6 @@
 ---
-title: Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus
+title: Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai
+  de refus
 date: '2026-11-05'
 type: jurisprudence
 source:
@@ -12,15 +13,17 @@ themes:
 - cloture
 articles_cde:
 - XX.173
-resume: 'Depuis la réforme de 2023, l''effacement des dettes n''est acquis qu''à la
-  clôture de la faillite. La Cour constitutionnelle juge discriminatoire d''imposer
-  cette attente au failli une fois écoulé le délai de trois ans pendant lequel le
-  refus de l''effacement peut être demandé.'
+resume: Depuis la réforme de 2023, l'effacement des dettes n'est acquis qu'à la clôture
+  de la faillite. La Cour constitutionnelle juge discriminatoire d'imposer cette attente
+  au failli une fois écoulé le délai de trois ans pendant lequel le refus de l'effacement
+  peut être demandé.
 description: Cour constitutionnelle, arrêt 55/2026 du 23 avril 2026 - Effacement des
-  dettes du failli personne physique avant la clôture de la faillite (art. XX.173 CDE)
+  dettes du failli personne physique avant la clôture de la faillite (art. XX.173
+  CDE)
 keywords: effacement des dettes avant clôture, article XX.173, Cour constitutionnelle
-  55/2026, faillite personne physique, refus d'effacement délai trois ans, loi du 7
-  juin 2023
+  55/2026, faillite personne physique, refus d'effacement délai trois ans, loi du
+  7 juin 2023
+updated: '2026-10-29'
 ---
 # Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus
 

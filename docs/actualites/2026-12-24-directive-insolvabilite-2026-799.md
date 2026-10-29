@@ -1,11 +1,14 @@
 ---
-title: La directive européenne 2026/799 harmonise certains aspects du droit de l'insolvabilité, avec une transposition attendue pour le 22 janvier 2029
+title: La directive européenne 2026/799 harmonise certains aspects du droit de l'insolvabilité,
+  avec une transposition attendue pour le 22 janvier 2029
 date: '2026-12-24'
 type: legislation
 source:
-  publication: Directive (UE) 2026/799 du Parlement européen et du Conseil du 30 mars 2026 harmonisant certains aspects du droit de l'insolvabilité
+  publication: Directive (UE) 2026/799 du Parlement européen et du Conseil du 30 mars
+    2026 harmonisant certains aspects du droit de l'insolvabilité
   date: '2026-03-30'
-  reference: JO L du 1er avril 2026 ; procédure 2022/0408 (COD), proposition COM(2022) 702
+  reference: JO L du 1er avril 2026 ; procédure 2022/0408 (COD), proposition COM(2022)
+    702
   lien: https://eur-lex.europa.eu/eli/dir/2026/799/oj
 themes:
 - reforme-legislative
@@ -13,15 +16,16 @@ themes:
 - responsabilite-dirigeants
 articles_cde:
 - XX.102
-resume: 'La directive (UE) 2026/799 fixe des règles minimales communes sur les actions
-  révocatoires, la recherche des actifs, le pre-pack, l''obligation des dirigeants
-  de demander l''ouverture d''une procédure d''insolvabilité et les comités de créanciers.
-  Les États membres ont jusqu''au 22 janvier 2029 pour la transposer.'
+resume: La directive (UE) 2026/799 fixe des règles minimales communes sur les actions
+  révocatoires, la recherche des actifs, le pre-pack, l'obligation des dirigeants
+  de demander l'ouverture d'une procédure d'insolvabilité et les comités de créanciers.
+  Les États membres ont jusqu'au 22 janvier 2029 pour la transposer.
 description: Directive (UE) 2026/799 - Actions révocatoires, pre-pack, recherche d'actifs,
   devoir des dirigeants et comités de créanciers ; transposition au 22 janvier 2029
 keywords: directive 2026/799, harmonisation droit de l'insolvabilité, pre-pack européen,
   actions révocatoires, obligation de déposer le bilan, comité de créanciers, transposition
   Belgique
+updated: '2026-10-29'
 ---
 # La directive européenne 2026/799 harmonise certains aspects du droit de l'insolvabilité, avec une transposition attendue pour le 22 janvier 2029
 

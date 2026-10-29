@@ -1,5 +1,6 @@
 ---
-title: Le délai pour revendiquer ses biens détenus par le failli est conforme au droit de propriété
+title: Le délai pour revendiquer ses biens détenus par le failli est conforme au droit
+  de propriété
 date: '2027-02-18'
 type: jurisprudence
 source:
@@ -15,15 +16,16 @@ articles_cde:
 - XX.194
 - XX.104
 - XX.107
-resume: 'Le propriétaire d''un bien détenu par le failli doit exercer son droit de
-  revendication avant le dépôt du premier procès-verbal de vérification des créances,
-  à peine de déchéance. La Cour constitutionnelle juge ce délai, de 35 à 60 jours
-  après le jugement de faillite, compatible avec le droit de propriété.'
+resume: Le propriétaire d'un bien détenu par le failli doit exercer son droit de revendication
+  avant le dépôt du premier procès-verbal de vérification des créances, à peine de
+  déchéance. La Cour constitutionnelle juge ce délai, de 35 à 60 jours après le jugement
+  de faillite, compatible avec le droit de propriété.
 description: Cour constitutionnelle, arrêt 80/2025 du 15 mai 2025 - Délai de revendication
   des biens détenus par le failli (art. XX.194 CDE) et droit de propriété
 keywords: revendication faillite, article XX.194, délai de revendication, premier
   procès-verbal de vérification des créances, propriétaire bien en dépôt faillite,
   Cour constitutionnelle 80/2025
+updated: '2026-10-29'
 ---
 # Le délai pour revendiquer ses biens détenus par le failli est conforme au droit de propriété
 

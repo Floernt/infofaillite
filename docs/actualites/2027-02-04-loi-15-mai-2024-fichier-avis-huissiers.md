@@ -1,24 +1,28 @@
 ---
-title: Depuis le 1er juillet 2025, l'huissier de justice signale à la chambre des entreprises en difficulté les entreprises dont la continuité est menacée
+title: Depuis le 1er juillet 2025, l'huissier de justice signale à la chambre des
+  entreprises en difficulté les entreprises dont la continuité est menacée
 date: '2027-02-04'
 type: legislation
 source:
-  publication: Loi du 15 mai 2024 portant des mesures dans la lutte contre le surendettement et de protection des entreprises en difficultés
+  publication: Loi du 15 mai 2024 portant des mesures dans la lutte contre le surendettement
+    et de protection des entreprises en difficultés
   date: '2024-05-15'
-  reference: M.B. 1er juillet 2024, numac 2024004824 ; C. jud., art. 519, 1389bis/1, 1390octies, 1391 et 1527
+  reference: M.B. 1er juillet 2024, numac 2024004824 ; C. jud., art. 519, 1389bis/1,
+    1390octies, 1391 et 1527
   lien: https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=24-07-01&numac=2024004824
 themes:
 - acteurs-secondaires
 - dettes-anterieures
-resume: 'La loi du 15 mai 2024 élargit le fichier central des avis, impose à l''huissier
+resume: La loi du 15 mai 2024 élargit le fichier central des avis, impose à l'huissier
   de le consulter avant tout recouvrement, crée un avis de « contrôle de probabilité
-  d''insolvabilité » transmis à la chambre des entreprises en difficulté et lui fait
-  refuser les ventes manifestement déficitaires.'
+  d'insolvabilité » transmis à la chambre des entreprises en difficulté et lui fait
+  refuser les ventes manifestement déficitaires.
 description: Loi du 15 mai 2024 - Fichier central des avis, avis de contrôle de probabilité
   d'insolvabilité transmis à la chambre des entreprises en difficulté
 keywords: loi 15 mai 2024, fichier central des avis, contrôle de probabilité d'insolvabilité,
-  huissier de justice, chambre des entreprises en difficulté, constat de carence, vente
-  déficitaire
+  huissier de justice, chambre des entreprises en difficulté, constat de carence,
+  vente déficitaire
+updated: '2026-10-29'
 ---
 # Depuis le 1er juillet 2025, l'huissier de justice signale à la chambre des entreprises en difficulté les entreprises dont la continuité est menacée
 

@@ -1,5 +1,6 @@
 ---
-title: L'article XX.227 s'applique au dirigeant dont la faute s'est poursuivie après le 1er mai 2018
+title: L'article XX.227 s'applique au dirigeant dont la faute s'est poursuivie après
+  le 1er mai 2018
 date: '2027-02-11'
 type: jurisprudence
 source:
@@ -11,15 +12,15 @@ themes:
 - responsabilite-dirigeants
 articles_cde:
 - XX.227
-resume: 'Un dirigeant peut être tenu pour responsable, sur la base de l''article XX.227
-  du Code de droit économique, d''avoir poursuivi une activité manifestement sans issue
-  si sa faute a continué après l''entrée en vigueur du Livre XX, même si elle avait
-  commencé avant.'
+resume: Un dirigeant peut être tenu pour responsable, sur la base de l'article XX.227
+  du Code de droit économique, d'avoir poursuivi une activité manifestement sans issue
+  si sa faute a continué après l'entrée en vigueur du Livre XX, même si elle avait
+  commencé avant.
 description: Cass., 14 février 2025, C.23.0150.N - Responsabilité du dirigeant pour
   poursuite d'une activité déficitaire (art. XX.227 CDE), application dans le temps
 keywords: article XX.227, responsabilité des dirigeants faillite, poursuite activité
-  déficitaire, application dans le temps Livre XX, Cour de cassation
-  C.23.0150.N
+  déficitaire, application dans le temps Livre XX, Cour de cassation C.23.0150.N
+updated: '2026-10-29'
 ---
 # L'article XX.227 s'applique au dirigeant dont la faute s'est poursuivie après le 1er mai 2018
 

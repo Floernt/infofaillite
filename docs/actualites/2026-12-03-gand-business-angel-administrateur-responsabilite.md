@@ -14,15 +14,16 @@ articles_cde:
 - XX.102
 - XX.225
 - XX.227
-resume: 'Une investisseuse entrée au conseil d''administration d''une start-up est
-  condamnée sur la base de l''article XX.227 pour avoir poursuivi une activité sans
-  issue à partir de mars 2024. Le fondateur, défaillant, répond de tout le passif ;
-  l''administrateur qui avait démissionné en janvier 2024 est mis hors de cause.'
+resume: Une investisseuse entrée au conseil d'administration d'une start-up est condamnée
+  sur la base de l'article XX.227 pour avoir poursuivi une activité sans issue à partir
+  de mars 2024. Le fondateur, défaillant, répond de tout le passif ; l'administrateur
+  qui avait démissionné en janvier 2024 est mis hors de cause.
 description: Entr. Gand, 5 août 2026 - Responsabilité d'un business angel administrateur
   (art. XX.227 CDE), conseil collégial et administrateur démissionnaire
 keywords: responsabilité administrateur faillite, article XX.227, business angel administrateur,
   poursuite activité déficitaire, conseil d'administration collégial, article XX.225,
   démission administrateur
+updated: '2026-10-29'
 ---
 # Un investisseur devenu administrateur répond de la poursuite d'une activité sans issue
 

@@ -1,23 +1,26 @@
 ---
-title: Plus d'un quart des sociétés qui cessent leurs activités sur décision du tribunal de l'entreprise disparaissent par dissolution judiciaire
+title: Plus d'un quart des sociétés qui cessent leurs activités sur décision du tribunal
+  de l'entreprise disparaissent par dissolution judiciaire
 date: '2027-01-14'
 type: pratique
 source:
-  publication: GraydonCreditsafe, étude « Les dissolutions judiciaires connaissent une forte hausse »
+  publication: GraydonCreditsafe, étude « Les dissolutions judiciaires connaissent
+    une forte hausse »
   date: '2026-05-01'
   lien: https://www.creditsafe.com/content/dam/be/press-releases/files/2026-05-Dissolutions-judiciaires.pdf
 themes:
 - acteurs-secondaires
 - conditions-faillite
-resume: 'Selon une étude privée de GraydonCreditsafe, les tribunaux de l''entreprise
+resume: Selon une étude privée de GraydonCreditsafe, les tribunaux de l'entreprise
   ont prononcé 4.714 dissolutions judiciaires en 2025, contre 353 en 2017. Elles représentent
-  plus d''un quart des cessations d''activité ordonnées par un tribunal, avec de fortes
-  différences entre arrondissements.'
+  plus d'un quart des cessations d'activité ordonnées par un tribunal, avec de fortes
+  différences entre arrondissements.
 description: Hausse des dissolutions judiciaires (étude GraydonCreditsafe, mai 2026)
   - chiffres 2025, écarts entre tribunaux, proposition de loi du 13 janvier 2026
 keywords: dissolution judiciaire, chambre des entreprises en difficulté, société fantôme,
   article 2:74 CSA, article 2:74/1 CSA, dissolution au lieu de la faillite, statistiques
   2025
+updated: '2026-10-29'
 ---
 # Plus d'un quart des sociétés qui cessent leurs activités sur décision du tribunal de l'entreprise disparaissent par dissolution judiciaire
 

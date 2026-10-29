@@ -23,6 +23,7 @@ description: Entr. Gand, 18 juillet 2025 - Vote du plan de réorganisation, majo
 keywords: réorganisation judiciaire vote majorité, article XX.78/2, égalité des voix
   plan de réorganisation, refus d'homologation, détournement de procédure, vendor
   loan, seconde chance XX.79
+updated: '2026-10-29'
 ---
 # Réorganisation judiciaire : à égalité de créanciers pour et contre, le plan n'est pas approuvé
 

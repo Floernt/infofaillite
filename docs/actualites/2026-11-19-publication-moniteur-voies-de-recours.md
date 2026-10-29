@@ -1,5 +1,6 @@
 ---
-title: La publication du jugement de faillite au Moniteur belge devra indiquer les voies de recours
+title: La publication du jugement de faillite au Moniteur belge devra indiquer les
+  voies de recours
 date: '2026-11-19'
 type: jurisprudence
 source:
@@ -15,16 +16,17 @@ articles_cde:
 - XX.105
 - XX.107
 - XX.108
-resume: 'L''extrait du jugement de faillite ou du jugement fixant la date de cessation
+resume: L'extrait du jugement de faillite ou du jugement fixant la date de cessation
   de paiement publié au Moniteur belge ne mentionne pas les recours possibles. La
-  Cour constitutionnelle juge cette lacune contraire au droit d''accès au juge des
-  tiers et laisse au législateur jusqu''au 31 décembre 2026 pour y remédier.'
+  Cour constitutionnelle juge cette lacune contraire au droit d'accès au juge des
+  tiers et laisse au législateur jusqu'au 31 décembre 2026 pour y remédier.
 description: Cour constitutionnelle, arrêt 155/2025 du 27 novembre 2025 - Mention
   des voies de recours dans la publication au Moniteur belge du jugement de faillite
   (art. XX.107 CDE)
-keywords: publication jugement de faillite Moniteur belge, tierce opposition date de
-  cessation de paiement, article XX.107, article XX.108, Cour constitutionnelle 155/2025,
-  voies de recours
+keywords: publication jugement de faillite Moniteur belge, tierce opposition date
+  de cessation de paiement, article XX.107, article XX.108, Cour constitutionnelle
+  155/2025, voies de recours
+updated: '2026-10-29'
 ---
 # La publication du jugement de faillite au Moniteur belge devra indiquer les voies de recours
 

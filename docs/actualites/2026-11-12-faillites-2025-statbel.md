@@ -1,22 +1,26 @@
 ---
-title: La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013
+title: La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis
+  2013
 date: '2026-11-12'
 type: pratique
 source:
-  publication: 'Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »'
+  publication: 'Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés
+    »'
   date: '2026-01-16'
   lien: https://statbel.fgov.be/fr/nouvelles/11665-faillites-en-2025-resultats-regionaux-contrastes
 themes:
 - conditions-faillite
 - travailleurs
-resume: 'Selon Statbel, les tribunaux de l''entreprise ont prononcé 11.665 faillites
-  en 2025 (+5,4 %), qui ont entraîné 29.842 pertes d''emploi. La hausse est portée
+resume: Selon Statbel, les tribunaux de l'entreprise ont prononcé 11.665 faillites
+  en 2025 (+5,4 %), qui ont entraîné 29.842 pertes d'emploi. La hausse est portée
   par la Flandre et Bruxelles. En septembre 2026, le nombre mensuel de faillites était
-  en recul sur un an.'
+  en recul sur un an.
 description: Statistiques des faillites en Belgique en 2025 (Statbel) - 11.665 faillites,
   29.842 emplois perdus, chiffres par région et par secteur, tendance 2026
 keywords: nombre de faillites Belgique 2025, statistiques faillites Statbel, faillites
-  par région, faillites construction horeca, pertes d'emploi faillites, faillites 2026
+  par région, faillites construction horeca, pertes d'emploi faillites, faillites
+  2026
+updated: '2026-10-29'
 ---
 # La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013
 
