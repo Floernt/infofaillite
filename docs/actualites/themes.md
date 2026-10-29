@@ -3,7 +3,7 @@ description: Les actualités du droit belge de la faillite classées par thème 
   créances, curateur, interdiction de gérer, période suspecte
 keywords: faillite belgique thèmes, jurisprudence effacement dettes, actualité déclaration
   de créance, interdiction de gérer jurisprudence
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # Les actualités par thème
 

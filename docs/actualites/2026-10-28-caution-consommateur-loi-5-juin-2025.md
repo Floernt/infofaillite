@@ -23,7 +23,7 @@ description: Sûreté personnelle constituée par un consommateur (art. 9.1.42 �
   depuis le 1er janvier 2026
 keywords: caution conjoint, sûreté personnelle consommateur, loi 5 juin 2025, cautionnement
   à titre gratuit, article 9.1.42 Code civil, caution faillite belgique
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 La loi du 5 juin 2025 remplace le cautionnement à titre gratuit par un régime de « sûreté personnelle constituée par un consommateur » (art. 9.1.42 à 9.1.50 du Code civil). Ce régime s'applique désormais au conjoint qui garantit les dettes professionnelles de son époux, alors que l'ancien régime l'en excluait presque toujours.
 

@@ -3,7 +3,7 @@ description: Actualités du droit belge de la faillite - Jurisprudence, doctrine
   législation commentées sur le Livre XX du Code de droit économique
 keywords: actualité faillite belgique, jurisprudence faillite, doctrine insolvabilité,
   Livre XX Code de droit économique, effacement dettes jurisprudence
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # Actualités du droit de l'insolvabilité
 
