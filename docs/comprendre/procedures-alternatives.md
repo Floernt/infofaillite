@@ -149,7 +149,7 @@ Le choix dépend d'abord de votre situation concrète :
 </div>
 </div>
 
-Toutes les notes sur : [Réorganisation judiciaire et pre-pack](../actualites/themes.md#reorganisation-judiciaire)
+Toutes les notes sur : [Réorganisation judiciaire, pre-pack et dissolution judiciaire](../actualites/themes.md#reorganisation-judiciaire)
 
 </div>
 <!-- actualites:auto:end -->

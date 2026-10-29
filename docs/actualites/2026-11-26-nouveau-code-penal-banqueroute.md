@@ -12,6 +12,7 @@ themes:
 - obligations-failli
 - aveu
 - responsabilite-dirigeants
+- reorganisation-judiciaire
 articles_cde:
 - XX.102
 - XX.103
@@ -62,7 +63,7 @@ Plusieurs manquements de la banqueroute simple renvoient directement au Livre XX
 <!-- actualites:auto:start -->
 ---
 
-**Thèmes :** [Obligations du failli](themes.md#obligations-failli) · [Aveu de faillite](themes.md#aveu) · [Comblement de passif et responsabilité des dirigeants](themes.md#responsabilite-dirigeants)
+**Thèmes :** [Obligations du failli](themes.md#obligations-failli) · [Aveu de faillite](themes.md#aveu) · [Comblement de passif et responsabilité des dirigeants](themes.md#responsabilite-dirigeants) · [Réorganisation judiciaire, pre-pack et dissolution judiciaire](themes.md#reorganisation-judiciaire)
 
 ## Pour approfondir sur infofaillite.be
 
@@ -70,9 +71,11 @@ Plusieurs manquements de la banqueroute simple renvoient directement au Livre XX
 - [La checklist pratique pour la première semaine](../faillis/checklist-premiere-semaine.md)
 - [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
 - [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
+- [Les procédures alternatives à la faillite](../comprendre/procedures-alternatives.md)
 
 ## Sur le même thème
 
 - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+- [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 <!-- actualites:auto:end -->

@@ -56,7 +56,7 @@ Le jugement rappelle une exigence formelle décisive : l'état actif et passif d
 <!-- actualites:auto:start -->
 ---
 
-**Thèmes :** [Réorganisation judiciaire et pre-pack](themes.md#reorganisation-judiciaire) · [Fisc et ONSS](themes.md#creanciers-publics)
+**Thèmes :** [Réorganisation judiciaire, pre-pack et dissolution judiciaire](themes.md#reorganisation-judiciaire) · [Fisc et ONSS](themes.md#creanciers-publics)
 
 ## Pour approfondir sur infofaillite.be
 

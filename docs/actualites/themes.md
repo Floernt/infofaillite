@@ -66,7 +66,7 @@ Dans le guide : [L'interdiction de gérer](../faillis/interdiction.md)
 
 - [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — jurisprudence, 28 octobre 2026
 
-## Réorganisation judiciaire et pre-pack { #reorganisation-judiciaire }
+## Réorganisation judiciaire, pre-pack et dissolution judiciaire { #reorganisation-judiciaire }
 
 Dans le guide : [Les procédures alternatives à la faillite](../comprendre/procedures-alternatives.md)
 

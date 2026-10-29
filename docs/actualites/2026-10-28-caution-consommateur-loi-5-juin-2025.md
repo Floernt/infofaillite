@@ -57,7 +57,7 @@ Plusieurs questions restent ouvertes et devront être tranchées par la jurispru
 <!-- actualites:auto:start -->
 ---
 
-**Thèmes :** [Cautions](themes.md#caution) · [Réorganisation judiciaire et pre-pack](themes.md#reorganisation-judiciaire)
+**Thèmes :** [Cautions](themes.md#caution) · [Réorganisation judiciaire, pre-pack et dissolution judiciaire](themes.md#reorganisation-judiciaire)
 
 ## Pour approfondir sur infofaillite.be
 

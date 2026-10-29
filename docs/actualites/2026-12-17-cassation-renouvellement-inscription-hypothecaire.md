@@ -11,6 +11,7 @@ source:
 themes:
 - suretes-reelles
 - declaration-creance
+- liquidation
 resume: La faillite du débiteur ne fige pas les droits du créancier hypothécaire.
   Si l'inscription de son hypothèque arrive à expiration après le jugement déclaratif,
   il doit la renouveler pour conserver son droit de préférence jusqu'à ce que celui-ci
@@ -55,11 +56,16 @@ L'affaire relevait de la loi du 8 août 1997, et non du Livre XX du Code de droi
 <!-- actualites:auto:start -->
 ---
 
-**Thèmes :** [Gage, hypothèque et réserve de propriété](themes.md#suretes-reelles) · [Déclaration de créance](themes.md#declaration-creance)
+**Thèmes :** [Gage, hypothèque et réserve de propriété](themes.md#suretes-reelles) · [Déclaration de créance](themes.md#declaration-creance) · [Réalisation des actifs](themes.md#liquidation)
 
 ## Pour approfondir sur infofaillite.be
 
 - [Les sûretés et cautions dans la faillite](../creanciers/suretes-cautions.md)
 - [Déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md)
 - [Les délais importants à ne pas manquer](../delais.md)
+- [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
+
+## Sur le même thème
+
+- [Faillite : l'ancien administrateur doit rembourser l'intégralité de son compte courant, même si celui-ci dépasse le passif](2026-10-28-compte-courant-administrateur-integralite-passif.md) — jurisprudence, 28 octobre 2026
 <!-- actualites:auto:end -->

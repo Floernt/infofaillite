@@ -11,6 +11,7 @@ source:
 themes:
 - acteurs-secondaires
 - conditions-faillite
+- reorganisation-judiciaire
 resume: Selon une étude privée de GraydonCreditsafe, les tribunaux de l'entreprise
   ont prononcé 4.714 dissolutions judiciaires en 2025, contre 353 en 2017. Elles représentent
   plus d'un quart des cessations d'activité ordonnées par un tribunal, avec de fortes
@@ -51,10 +52,15 @@ Pour un créancier, la société débitrice peut disparaître sans passer par un
 <!-- actualites:auto:start -->
 ---
 
-**Thèmes :** [Ministère public et chambre des entreprises en difficulté](themes.md#acteurs-secondaires) · [Conditions de la faillite](themes.md#conditions-faillite)
+**Thèmes :** [Ministère public et chambre des entreprises en difficulté](themes.md#acteurs-secondaires) · [Conditions de la faillite](themes.md#conditions-faillite) · [Réorganisation judiciaire, pre-pack et dissolution judiciaire](themes.md#reorganisation-judiciaire)
 
 ## Pour approfondir sur infofaillite.be
 
 - [Les autres acteurs de la faillite](../comprendre/acteurs-secondaires.md)
 - [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
+- [Les procédures alternatives à la faillite](../comprendre/procedures-alternatives.md)
+
+## Sur le même thème
+
+- [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
 <!-- actualites:auto:end -->

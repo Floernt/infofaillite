@@ -10,6 +10,7 @@ source:
   lien: https://juportal.be/content/ECLI:BE:ORGNT:2026:JUG.20260805.1/NL
 themes:
 - responsabilite-dirigeants
+- aveu
 articles_cde:
 - XX.102
 - XX.225
@@ -56,11 +57,13 @@ Le jugement rappelle qu'un siège au conseil emporte toutes les responsabilités
 <!-- actualites:auto:start -->
 ---
 
-**Thèmes :** [Comblement de passif et responsabilité des dirigeants](themes.md#responsabilite-dirigeants)
+**Thèmes :** [Comblement de passif et responsabilité des dirigeants](themes.md#responsabilite-dirigeants) · [Aveu de faillite](themes.md#aveu)
 
 ## Pour approfondir sur infofaillite.be
 
 - [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
+- [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
+- [Vos obligations légales en tant que failli](../faillis/obligations.md)
 
 ## Sur le même thème
 

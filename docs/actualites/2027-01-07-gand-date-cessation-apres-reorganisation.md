@@ -58,7 +58,7 @@ Pour les créanciers qui ont voté contre un plan, le jugement confirme que le p
 <!-- actualites:auto:start -->
 ---
 
-**Thèmes :** [Période suspecte et nullités](themes.md#periode-suspecte) · [Réorganisation judiciaire et pre-pack](themes.md#reorganisation-judiciaire) · [Conditions de la faillite](themes.md#conditions-faillite)
+**Thèmes :** [Période suspecte et nullités](themes.md#periode-suspecte) · [Réorganisation judiciaire, pre-pack et dissolution judiciaire](themes.md#reorganisation-judiciaire) · [Conditions de la faillite](themes.md#conditions-faillite)
 
 ## Pour approfondir sur infofaillite.be
 

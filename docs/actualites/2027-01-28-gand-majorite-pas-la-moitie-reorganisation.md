@@ -54,7 +54,7 @@ Le passage sur le détournement de procédure, surabondant, illustre les limites
 <!-- actualites:auto:start -->
 ---
 
-**Thèmes :** [Réorganisation judiciaire et pre-pack](themes.md#reorganisation-judiciaire)
+**Thèmes :** [Réorganisation judiciaire, pre-pack et dissolution judiciaire](themes.md#reorganisation-judiciaire)
 
 ## Pour approfondir sur infofaillite.be
 

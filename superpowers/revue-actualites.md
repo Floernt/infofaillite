@@ -222,13 +222,15 @@ Texte intégral lu sur juportal (ECLI:BE:ORGNT:2026:JUG.20260629.1). Jugement lo
 - Les parties civiles (un administrateur provisoire de succession et une personne physique) ne sont pas identifiées dans la note.
 - Le sommaire officiel n'était pas encore disponible sur Juportal au moment de la rédaction.
 
-## Incohérences repérées dans le guide (non corrigées)
+## Incohérences du guide : corrigées le 29 octobre 2026
 
-- [docs/delais.md](../docs/delais.md) : « 1 mois » pour l'appel du jugement déclaratif. L'article XX.108, § 3, prévoit quinze jours (à compter de la publication pour les tiers, de la signification pour le failli depuis C. const. 108/2024 et 139/2025).
-- [docs/faillis/checklist-premiere-semaine.md](../docs/faillis/checklist-premiere-semaine.md) : droit passerelle « environ 1 000 euros ». Selon l'INASTI : 1.704,40 euros sans charge de famille, 2.128,11 euros avec.
-- [docs/faillis/reprendre-activite.md](../docs/faillis/reprendre-activite.md) : conditions du droit passerelle incomplètes (cotisations payées pour au moins 4 trimestres sur 16) ; l'INASTI exige l'absence de condamnation pénale liée à la faillite, pas l'absence de « poursuites ».
-- [docs/glossaire.md](../docs/glossaire.md) (banqueroute) et [docs/faillis/obligations.md](../docs/faillis/obligations.md) (poursuites pénales) : à aligner sur le nouveau Code pénal (art. 489 à 497, en vigueur depuis le 1er septembre 2026). Les paiements préférentiels relèvent désormais de la banqueroute simple (art. 490, 5°).
-- [docs/faillis/effacement.md](../docs/faillis/effacement.md) : mentionner la possibilité ouverte par C. const. 55/2026 (décision sur l'effacement avant clôture, une fois expiré le délai de refus).
+- [docs/delais.md](../docs/delais.md) : délai d'appel du jugement déclaratif ramené de « 1 mois » à quinze jours (art. XX.108, § 3), avec le point de départ à la signification pour le failli (C. const. 108/2024 et 139/2025) ; exemple du droit passerelle corrigé (faillite en février : demande au plus tard le 30 septembre, et non le 30 juin) ; exemple de calcul des délais transposé au contredit.
+- Même correction du délai d'appel dans [docs/faillis/faq.md](../docs/faillis/faq.md), [docs/creanciers/droits-specifiques.md](../docs/creanciers/droits-specifiques.md) et [docs/comprendre/acteurs-secondaires.md](../docs/comprendre/acteurs-secondaires.md).
+- [docs/creanciers/droits-specifiques.md](../docs/creanciers/droits-specifiques.md) : délai de revendication précisé (avant le dépôt du premier procès-verbal de vérification, art. XX.194 ; C. const. 80/2025).
+- Droit passerelle : montants INASTI au 1er septembre 2026 et conditions complètes dans [docs/faillis/checklist-premiere-semaine.md](../docs/faillis/checklist-premiere-semaine.md) et [docs/faillis/reprendre-activite.md](../docs/faillis/reprendre-activite.md).
+- Banqueroute : [docs/glossaire.md](../docs/glossaire.md) et [docs/faillis/obligations.md](../docs/faillis/obligations.md) alignés sur les art. 489 à 497 du nouveau Code pénal.
+- [docs/faillis/effacement.md](../docs/faillis/effacement.md) : encadré sur l'effacement avant clôture (C. const. 55/2026).
+- **Non modifié, à vérifier** : les délais d'appel d'un mois indiqués pour le jugement d'interdiction de gérer et le jugement refusant l'effacement ([docs/delais.md](../docs/delais.md)), ainsi que les autres mentions d'appel « dans le mois qui suit le prononcé » (le droit commun fait en principe courir le délai à partir de la signification, art. 1051 C. jud.).
 
 ## Éléments trouvés mais écartés
 

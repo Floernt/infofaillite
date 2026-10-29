@@ -121,7 +121,7 @@ reprise-activite:
   pages: [faillis/reprendre-activite.md]
 
 reorganisation-judiciaire:
-  label: Réorganisation judiciaire et pre-pack
+  label: Réorganisation judiciaire, pre-pack et dissolution judiciaire
   pages: [comprendre/procedures-alternatives.md]
 
 delais:
