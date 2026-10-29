@@ -15,7 +15,8 @@ Site documentaire **Guide de la faillite en Belgique** (infofaillite.be), basé 
 
 - [docs/README.md](docs/README.md) — page d'accueil, point d'entrée par profil (failli, créancier, comprendre).
 - [docs/comprendre/](docs/comprendre/) — vue d'ensemble de la procédure : définition, acteurs, déroulement chronologique, dessaisissement, période suspecte, liquidation, clôture, procédures alternatives.
-- [docs/faillis/](docs/faillis/) — obligations, droits, checklist, effacement des dettes, interdiction de gérer, reprise d'activité, FAQ.
+- [docs/faillis/](docs/faillis/) — deux parcours : **indépendant en nom propre** (effacement des dettes) et **dirigeant de société** ([societe-en-faillite.md](docs/faillis/societe-en-faillite.md), [responsabilite-dirigeant.md](docs/faillis/responsabilite-dirigeant.md)), plus des pages communes (obligations, droits, checklist, reprise d'activité, interdiction). Clé de front matter `public: [independant, dirigeant]` : affichée dans le bandeau (« Cette page concerne »).
+- [docs/faq/README.md](docs/faq/README.md) — FAQ unique (5e onglet) : questions en `<details class="ifa-faq" id="…" data-profils="independant dirigeant creancier travailleur" markdown>` sous des H2 de thème à ancre explicite ; filtres dans [docs/javascripts/faq.js](docs/javascripts/faq.js) (`#profil=…&theme=…`). Le JSON-LD `FAQPage` est généré par [scripts/build_faq.py](scripts/build_faq.py) (appelé par `inject_git_dates.py`, mode `--check`). Les anciennes `faillis/faq.md` et `creanciers/faq.md` sont des renvois hors menu.
 - [docs/creanciers/](docs/creanciers/) — déclaration de créance, sûretés/cautions, vérification, dividendes, droits, catégories, FAQ.
 - [docs/glossaire.md](docs/glossaire.md), [docs/delais.md](docs/delais.md), [docs/ressources.md](docs/ressources.md), [docs/a-propos.md](docs/a-propos.md).
 - [docs/actualites/](docs/actualites/) — notes d'actualité (jurisprudence, doctrine, législation), une par fichier `AAAA-MM-JJ-slug.md`. `README.md` (liste) et `themes.md` (par thème) sont générés entre marqueurs.
@@ -28,7 +29,7 @@ Site documentaire **Guide de la faillite en Belgique** (infofaillite.be), basé 
 
 ## Navigation
 
-- Le menu est **explicite** : `nav` dans [zensical.toml](zensical.toml), quatre rubriques (Je suis en faillite, Je suis créancier, Comprendre la procédure, Actualités) avec des libellés courts. Le H1 de chaque page reste celui du Markdown.
+- Le menu est **explicite** : `nav` dans [zensical.toml](zensical.toml), cinq rubriques (Je suis en faillite, Je suis créancier, Comprendre la procédure, Actualités, Questions fréquentes) avec des libellés courts. Le H1 de chaque page reste celui du Markdown.
 - **Toute nouvelle page de fond doit être ajoutée au `nav`**. [tests/test_nav.py](tests/test_nav.py) échoue sinon. Seules exceptions : l'accueil, les pages du pied de page et les notes d'actualité.
 - Le **sitemap est statique**, généré par [scripts/build_sitemap.py](scripts/build_sitemap.py) dans [overrides/sitemap.xml](overrides/sitemap.xml) : avec un menu explicite, celui de Zensical ne listerait que les pages du menu. Il est régénéré automatiquement par `inject_git_dates.py`.
 - Les pages d'entrée de rubrique ouvrent sur une grille `ifa-subtiles` (liens numérotés dans l'ordre du menu) : la tenir à jour quand une page est ajoutée à la rubrique.
