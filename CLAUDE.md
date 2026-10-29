@@ -35,7 +35,7 @@ Site documentaire **Guide de la faillite en Belgique** (infofaillite.be), basé 
 
 ## Actualités : publier une note
 
-1. `python scripts/new_actualite.py "Titre" --type jurisprudence|doctrine|legislation --themes slug1,slug2 [--date AAAA-MM-JJ]` crée le squelette ; les slugs viennent de [data/themes.yml](data/themes.yml).
+1. `python scripts/new_actualite.py "Titre" --type jurisprudence|doctrine|legislation|pratique --themes slug1,slug2 [--date AAAA-MM-JJ]` crée le squelette ; les slugs viennent de [data/themes.yml](data/themes.yml).
 2. Rédiger la note. Remplir ou supprimer les champs vides du front matter.
 3. `python scripts/build_actualites.py` : valide les notes, régénère la liste, la page par thème, l'encart de l'accueil, les renvois en fin de note et le bloc « Actualités liées » en fin de chaque page du guide concernée. `--check` pour vérifier sans écrire.
 4. Commit éditorial, puis `inject_git_dates.py` et commit `lastmod` (procédure habituelle).

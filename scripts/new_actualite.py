@@ -19,13 +19,14 @@ from pathlib import Path
 
 import yaml
 
-TYPES = ("jurisprudence", "doctrine", "legislation")
+TYPES = ("jurisprudence", "doctrine", "legislation", "pratique")
 
 # Champ propre à chaque type pour l'origine du texte commenté
 SOURCE_FIELD = {
     "jurisprudence": "juridiction",
     "doctrine": "auteur",
     "legislation": "publication",
+    "pratique": "publication",
 }
 
 

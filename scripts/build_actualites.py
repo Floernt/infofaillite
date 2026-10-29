@@ -43,6 +43,7 @@ TYPES = {
     "jurisprudence": "Jurisprudence",
     "doctrine": "Doctrine",
     "legislation": "Législation",
+    "pratique": "Pratique",
 }
 REQUIRED_FIELDS = ("title", "date", "type", "themes", "resume")
 MAX_RELATED_ON_PAGE = 5
