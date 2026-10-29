@@ -343,6 +343,7 @@ body { background: var(--ifa-bg); }
 .md-typeset .ifa-type--jurisprudence { color: var(--ifa-bondi-text); }
 .md-typeset .ifa-type--doctrine { color: var(--ifa-green-text); }
 .md-typeset .ifa-type--legislation { color: var(--ifa-orange-text); }
+.md-typeset .ifa-type--pratique { color: var(--ifa-heading); }
 .md-typeset .ifa-date { font-size: .68rem; color: var(--ifa-fg-muted); font-variant-numeric: tabular-nums; }
 .md-typeset .ifa-arrow,
 .md-typeset .ifa-more { font-weight: 700; color: var(--ifa-heading); }

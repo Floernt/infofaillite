@@ -46,3 +46,12 @@ def test_main_writes_then_check_passes(tmp_path: Path, capsys) -> None:
     assert main([], repo_root=site) == 0
     assert (site / "overrides" / "sitemap.xml").read_text(encoding="utf-8").startswith("{#-")
     assert main(["--check"], repo_root=site) == 0
+
+
+def test_scheduled_notes_are_left_out_until_their_date(tmp_path: Path) -> None:
+    site = _site(tmp_path)
+    note = site / "docs" / "actualites" / "2026-12-03-programmee.md"
+    note.parent.mkdir(parents=True)
+    note.write_text("---\ndate: '2026-12-03'\n---\n# Note\n", encoding="utf-8")
+    assert "programmee" not in render_sitemap(site, "2026-11-01")
+    assert "https://example.be/actualites/2026-12-03-programmee/" in render_sitemap(site, "2026-12-03")

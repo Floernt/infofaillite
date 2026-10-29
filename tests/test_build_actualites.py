@@ -279,3 +279,50 @@ def test_empty_index_shows_placeholder(site: Path) -> None:
     main([], repo_root=site)
     assert "Aucune note publiée pour l'instant." in read(site, "actualites/README.md")
     assert START not in read(site, "faillis/effacement.md")
+
+
+# --- publication programmée ------------------------------------------------
+
+NOTE_FUTURE = """\
+---
+title: Une note programmée
+date: '2026-12-03'
+type: legislation
+themes: [effacement]
+resume: Paraîtra en décembre.
+---
+Corps de la note programmée.
+"""
+
+
+def test_scheduled_note_is_hidden_until_its_date(site: Path, capsys) -> None:
+    rel = "actualites/2026-12-03-programmee.md"
+    (site / "docs" / rel).write_text(NOTE_FUTURE, encoding="utf-8")
+    assert main(["--today", "2026-11-01"], repo_root=site) == 0
+    assert "Programmée le 2026-12-03" in capsys.readouterr().out
+    for page in ("actualites/README.md", "actualites/themes.md", "README.md",
+                 "faillis/effacement.md", "actualites/2026-09-20-refus-effacement.md"):
+        assert "programmee" not in read(site, page)
+    # la note elle-même reçoit déjà son bloc de fin, prêt pour sa parution
+    assert START in read(site, rel)
+
+
+def test_scheduled_note_appears_on_its_date(site: Path) -> None:
+    rel = "actualites/2026-12-03-programmee.md"
+    (site / "docs" / rel).write_text(NOTE_FUTURE, encoding="utf-8")
+    assert main(["--today", "2026-12-03"], repo_root=site) == 0
+    for page in ("actualites/README.md", "README.md", "faillis/effacement.md"):
+        assert "2026-12-03-programmee.md" in read(site, page)
+
+
+def test_drop_future_removes_scheduled_files(site: Path) -> None:
+    rel = "actualites/2026-12-03-programmee.md"
+    (site / "docs" / rel).write_text(NOTE_FUTURE, encoding="utf-8")
+    assert main(["--today", "2026-11-01", "--drop-future"], repo_root=site) == 0
+    assert not (site / "docs" / rel).exists()
+    assert (site / "docs" / "actualites/2026-10-15-caution-conjoint.md").exists()
+
+
+def test_today_must_be_iso(site: Path) -> None:
+    with pytest.raises(SystemExit):
+        main(["--today", "03/12/2026"], repo_root=site)

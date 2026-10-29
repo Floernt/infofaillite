@@ -3,7 +3,7 @@ description: Actualités du droit belge de la faillite - Jurisprudence, doctrine
   législation commentées sur le Livre XX du Code de droit économique
 keywords: actualité faillite belgique, jurisprudence faillite, doctrine insolvabilité,
   Livre XX Code de droit économique, effacement dettes jurisprudence
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # Actualités du droit de l'insolvabilité
 
@@ -70,7 +70,7 @@ La cour d'appel condamne un ancien administrateur à rembourser au curateur prè
 
 La loi du 5 juin 2025 remplace le cautionnement à titre gratuit par un régime de « sûreté personnelle constituée par un consommateur », qui protège désormais le conjoint, le parent ou l'actionnaire qui garantit les dettes professionnelles d'un proche ou d'une société.
 
-[Cautions](themes.md#caution){ .ifa-tag } [Réorganisation judiciaire et pre-pack](themes.md#reorganisation-judiciaire){ .ifa-tag }
+[Cautions](themes.md#caution){ .ifa-tag } [Réorganisation judiciaire, pre-pack et dissolution judiciaire](themes.md#reorganisation-judiciaire){ .ifa-tag }
 
 </div>
 

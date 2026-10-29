@@ -3,7 +3,7 @@ description: Glossaire de la faillite en Belgique - Définitions simples de tous
   termes juridiques de la procédure de faillite et d'insolvabilité
 keywords: glossaire faillite, termes juridiques faillite belgique, définitions faillite,
   vocabulaire insolvabilité belgique
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # Glossaire de la faillite
 
@@ -25,7 +25,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ## B
 
-**Banqueroute** — Terme historique désignant les infractions pénales propres à la faillite (banqueroute simple pour fautes graves de gestion, banqueroute frauduleuse pour dissimulation d'actifs ou paiements préférentiels frauduleux). En pratique, les faits reprochés au failli sont aujourd'hui le plus souvent poursuivis sous des qualifications de droit pénal commun — abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité, escroquerie — plutôt que sous la qualification autonome de banqueroute. Les sanctions encourues peuvent aller jusqu'à plusieurs années d'emprisonnement et de lourdes amendes.
+**Banqueroute** — Infraction pénale propre à la faillite, reprise aux articles 489 à 491 du nouveau Code pénal, en vigueur depuis le 1er septembre 2026. La **banqueroute simple** (art. 490) vise l'entreprise faillie ou le dirigeant qui, notamment, a omis de faire aveu dans le délai pour retarder la faillite, a payé ou favorisé un créancier au préjudice de la masse, n'a pas fourni les renseignements exigés lors de l'aveu ou a fourni des renseignements inexacts au juge-commissaire ou au curateur. La **banqueroute frauduleuse** (art. 491) suppose une intention frauduleuse ou le dessein de nuire : détourner ou dissimuler une partie de l'actif, ou soustraire les livres et documents comptables. Les poursuites sont indépendantes de la procédure devant le tribunal de l'entreprise. D'autres infractions peuvent s'y ajouter : abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité (art. 496).
 
 ---
 
@@ -73,7 +73,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 **Ébranlement du crédit** — Perte de confiance des partenaires commerciaux et financiers dans la capacité du débiteur à honorer ses engagements. Les fournisseurs refusent de livrer à crédit, les banques refusent de nouveaux financements. C'est la seconde condition cumulée avec la cessation de paiements pour établir l'état de faillite.
 
-**Effacement** — Libération automatique du failli de ses dettes professionnelles résiduelles à la clôture de la faillite, accordée aux personnes physiques (pas aux sociétés). L'effacement peut être refusé en cas de faute grave ou de comportement frauduleux. Certaines dettes ne sont pas effaçables : pensions alimentaires, réparations corporelles, amendes pénales.
+**Effacement** — Libération du failli personne physique (pas des sociétés) du solde de ses dettes impayées après la liquidation (article XX.173). Pour les faillites prononcées depuis le 1er septembre 2023, l'effacement est automatique à la clôture ; pour les faillites prononcées du 1er mai 2018 au 31 août 2023, il est accordé par le tribunal sur requête du failli. Il peut être refusé en cas de fautes graves et caractérisées ayant contribué à la faillite et, dans le régime actuel, de renseignements sciemment inexacts. Certaines dettes ne sont pas effaçables : pensions alimentaires, réparations corporelles, amendes pénales.
 
 **État de répartition** — Document établi par le curateur à la fin de la liquidation, listant l'actif disponible, les frais déduits et le dividende attribué à chaque créancier admis. Il est déposé au greffe et homologué par le tribunal, qui donne ainsi l'ordre de paiement à la CDC.
 
@@ -195,7 +195,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 **Titre exécutoire** — Acte qui permet à un créancier de recourir à l'exécution forcée : le plus souvent un jugement, mais aussi un acte notarié ou, pour certains créanciers publics, une contrainte. Sans titre exécutoire, aucune saisie-exécution n'est possible — une facture impayée, même incontestée, ne suffit pas.
 
-**Tierce opposition** — Recours permettant à un créancier de contester le jugement de clôture accordant l'effacement des dettes, lorsqu'il n'était pas partie à la procédure. Le délai est de trois mois après la publication du jugement de clôture.
+**Tierce opposition** — Recours ouvert à une personne qui n'était pas partie à un jugement et dont les droits sont affectés. En matière d'effacement, elle permet de demander le refus après coup : dans les trois mois de la publication du jugement de clôture pour les faillites prononcées depuis le 1er septembre 2023 (et seulement si le délai de trois ans pour demander le refus n'est pas expiré), dans les trois mois de la publication du jugement accordant l'effacement pour les faillites plus anciennes. Contre le jugement déclaratif de faillite, le délai est de quinze jours (article XX.108).
 
 **Tribunal de l'entreprise** — Juridiction spécialisée compétente pour prononcer les faillites, désigner les curateurs et les juges-commissaires, trancher les litiges relatifs aux créances et fixer les honoraires du curateur.
 

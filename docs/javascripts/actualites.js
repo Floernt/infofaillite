@@ -4,7 +4,7 @@
  * scripts/build_actualites.py. Sans JavaScript, la liste reste complète.
  */
 (function () {
-  var TYPES = { jurisprudence: "Jurisprudence", doctrine: "Doctrine", legislation: "Législation" };
+  var TYPES = { jurisprudence: "Jurisprudence", doctrine: "Doctrine", legislation: "Législation", pratique: "Pratique" };
 
   function chip(label, onClick) {
     var b = document.createElement("button");

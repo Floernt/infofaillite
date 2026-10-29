@@ -6,7 +6,7 @@ description: Les alternatives à la faillite en Belgique - Réorganisation judic
 keywords: éviter faillite belgique, réorganisation judiciaire vs faillite, PRJ privée,
   PRJ publique, mesures amiables insolvabilité, réforme PRJ 2023, liquidation volontaire
   belgique, alternatives faillite, prévention insolvabilité belgique
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # Les procédures alternatives à la faillite
 
@@ -149,7 +149,7 @@ Le choix dépend d'abord de votre situation concrète :
 </div>
 </div>
 
-Toutes les notes sur : [Réorganisation judiciaire et pre-pack](../actualites/themes.md#reorganisation-judiciaire)
+Toutes les notes sur : [Réorganisation judiciaire, pre-pack et dissolution judiciaire](../actualites/themes.md#reorganisation-judiciaire)
 
 </div>
 <!-- actualites:auto:end -->

@@ -3,7 +3,7 @@ description: Vérification des créances, liquidation des actifs et clôture de 
   - Phases 4 et 5 de la procédure de faillite en Belgique
 keywords: vérification créances faillite, liquidation actifs faillite, clôture faillite,
   procès-verbal créances, dividendes faillite belgique
-updated: '2026-09-02'
+updated: '2026-10-29'
 ---
 # La vérification des créances, la liquidation et la clôture
 
@@ -73,11 +73,11 @@ Le tribunal homologue l'état de répartition. Cela déclenche le paiement des d
 
 Deux voies mènent à la clôture.
 
-Dans environ beaucoup des faillites, la clôture intervient pour insuffisance d'actif. Le curateur constate que les actifs sont insuffisants pour couvrir ne serait-ce que les frais de la procédure, dresse un procès-verbal de carence et demande la clôture. Le tribunal prononce le jugement six à douze mois après le jugement déclaratif. Les créanciers ne reçoivent rien, mais les dettes des personnes physiques sont effacées, si aucune requête en effacement n'est déposée.
+Dans beaucoup de faillites, la clôture intervient pour insuffisance d'actif. Le curateur constate que les actifs sont insuffisants pour couvrir ne serait-ce que les frais de la procédure, dresse un procès-verbal de carence et demande la clôture. Le tribunal prononce le jugement six à douze mois après le jugement déclaratif. Les créanciers ne reçoivent rien, mais les dettes des personnes physiques sont effacées, sauf si le tribunal a été saisi à temps d'une demande de refus de l'effacement (pour les faillites prononcées depuis le 1er septembre 2023 ; pour les faillites plus anciennes, l'effacement est accordé sur requête du failli).
 
 Dans les autres faillites, la clôture intervient après liquidation complète, une fois que les actifs ont été vendus, les créanciers partiellement ou totalement payés, les honoraires taxés et les dividendes versés. La durée est alors d'un à quatre ans selon la complexité du dossier.
 
-Dans les deux cas, le jugement de clôture constate la fin de la procédure, prononce la décharge du curateur, efface les dettes des personnes physiques et lève le dessaisissement. Pour tous les effets de la clôture, lisez [la clôture de la faillite](cloture.md).
+Dans les deux cas, le jugement de clôture constate la fin de la procédure, prononce la décharge du curateur, efface les dettes des personnes physiques (automatiquement pour les faillites prononcées depuis le 1er septembre 2023) et lève le dessaisissement. Pour tous les effets de la clôture, lisez [la clôture de la faillite](cloture.md).
 
 ---
 

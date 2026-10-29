@@ -3,19 +3,35 @@ description: L'effacement automatique des dettes après faillite - Conditions, p
   exceptions et refus
 keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
   graves faillite, contestation effacement
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # L'effacement des dettes
 
-Pour les personnes physiques déclarées en faillite, l'effacement des dettes est l'un des aspects les plus importants de la procédure. Prévu par l'article XX.173 du Code de droit économique, il offre une véritable seconde chance : à la clôture de la faillite, les dettes impayées sont effacées automatiquement, sans démarche de votre part.
+Pour les personnes physiques déclarées en faillite, l'effacement des dettes est l'un des aspects les plus importants de la procédure. Prévu par l'article XX.173 du Code de droit économique, il offre une véritable seconde chance : les dettes qui restent impayées après la liquidation sont effacées.
+
+Les règles dépendent toutefois de la **date du jugement de faillite**. La loi du 7 juin 2023 a réformé l'effacement pour les faillites ouvertes à partir du 1er septembre 2023. Cette page décrit ce régime actuel, et l'encadré ci-dessous signale ce qui change pour les faillites plus anciennes.
+
+!!! info "Deux régimes selon la date du jugement de faillite"
+    | | Faillite prononcée du 1er mai 2018 au 31 août 2023 | Faillite prononcée depuis le 1er septembre 2023 |
+    |---|---|---|
+    | Comment l'obtenir | Sur **requête du failli** au tribunal (le délai de forclusion de trois mois pour cette requête a été censuré par la Cour constitutionnelle en 2021) | **Automatiquement** : la clôture de la faillite libère le failli, sans demande |
+    | Avant la clôture ? | Oui : « dès que le délai de six mois est écoulé » (ancien article XX.173, § 2), le failli peut demander au tribunal de se prononcer sans attendre la clôture | Seulement une fois expiré le délai pendant lequel le refus peut être demandé (Cour constitutionnelle, arrêt n° 55/2026 du 23 avril 2026) |
+    | Délai pour demander le refus | Pas de délai butoir pendant la procédure ; tierce opposition dans les trois mois de la publication du jugement accordant l'effacement | Trois ans à compter de l'expiration du droit à l'admission des créances (article XX.165) ; tierce opposition dans les trois mois de la publication du jugement de clôture, si ce délai de trois ans n'est pas expiré |
+    | Motifs de refus | Fautes graves et caractérisées ayant contribué à la faillite | Les mêmes, plus le fait d'avoir sciemment fourni des renseignements inexacts lors de l'aveu ou au juge-commissaire et au curateur |
+
+    **Illustrons avec deux exemples.**
+
+    *Faillite prononcée le 15 mars 2022 (ancien régime).* Le failli demande l'effacement par requête. Une fois écoulé le délai de six mois prévu par l'ancien texte, soit vers la mi-septembre 2022, il peut demander au tribunal de statuer sans attendre la clôture. À défaut, le tribunal se prononce au plus tard à la clôture.
+
+    *Faillite prononcée le 10 janvier 2024 (régime actuel).* Le failli n'a rien à demander : la clôture l'effacera. Le droit à l'admission des créances expire en principe environ un an après le jugement, soit vers le 10 janvier 2025. Le refus de l'effacement peut donc être demandé jusque vers le 10 janvier 2028. Si la faillite est clôturée avant cette date, l'effacement est acquis à la clôture, sous réserve d'une tierce opposition dans les trois mois. Si la faillite est toujours ouverte après cette date, plus personne ne peut demander le refus, et le failli peut demander au tribunal de statuer sur son effacement sans attendre la clôture, en suivant par analogie l'ancienne procédure (arrêt n° 55/2026). La date exacte d'expiration du droit à l'admission dépend du dossier : elle se vérifie sur REGSOL ou auprès du curateur.
 
 ---
 
 ## Le principe : automatique et sans demande
 
-L'effacement intervient au moment de la clôture, mais il ne se confond pas avec elle : le tribunal statue sur votre effacement par une **décision distincte** du jugement de clôture, prononcée le même jour ou peu après. Cette décision propre vous concerne personnellement en tant que personne physique, là où le jugement de clôture met fin à la procédure collective elle-même. Vous n'avez aucune procédure à lancer, aucun formulaire à remplir, aucun frais à payer. Dès que le tribunal prononce l'effacement, vous êtes libéré de toutes les dettes concernées. Les créanciers ne peuvent plus vous poursuivre pour les montants effacés, et vos revenus futurs ne peuvent plus être saisis au titre de ces anciennes dettes.
+Pour les faillites prononcées depuis le 1er septembre 2023, c'est la clôture de la faillite elle-même qui vous libère du solde de vos dettes (article XX.173, § 2). Vous n'avez aucune procédure à lancer, aucun formulaire à remplir, aucun frais à payer. Les créanciers ne peuvent plus vous poursuivre pour les montants effacés, et vos revenus futurs ne peuvent plus être saisis au titre de ces anciennes dettes.
 
-Ce bénéfice n'est cependant pas automatiquement garanti : le tribunal peut le refuser à la demande du procureur du Roi, du curateur, d'un créancier impayé ou d'office, en cas de fautes graves et caractérisées ayant contribué à la faillite. Voir plus bas : [Quand l'effacement peut-il être refusé ?](#quand-leffacement-peut-il-etre-refuse).
+Ce bénéfice n'est cependant pas garanti : le tribunal peut le refuser, totalement ou partiellement, si le curateur, le procureur du Roi ou un autre intéressé le lui demande, en cas de fautes graves et caractérisées ayant contribué à la faillite ou de renseignements sciemment inexacts. Voir plus bas : [Quand l'effacement peut-il être refusé ?](#quand-leffacement-peut-il-etre-refuse).
 
 C'est une rupture nette avec le passé. Elle vous permet de repartir sur de nouvelles bases, d'emprunter à nouveau, d'entreprendre, de reconstruire — sans porter indéfiniment le poids d'obligations nées d'une activité qui n'existe plus.
 
@@ -48,7 +64,7 @@ Certaines dettes échappent toutefois à l'effacement :
     Tous les engagements que vous prenez après la date du jugement déclaratif — achats, abonnements, crédits — restent entièrement à votre charge personnelle. L'effacement ne concerne que les dettes antérieures à ce jugement.
 
 !!! note "Le refus d'effacement est possible"
-    Même quand vos dettes entrent dans le périmètre ci-dessus, l'effacement n'est pas garanti. Si vous avez commis des fautes graves et caractérisées ayant contribué à la faillite, le tribunal peut le refuser à la demande du curateur, du procureur du Roi, d'un créancier impayé ou d'office. Voir plus bas : [Quand l'effacement peut-il être refusé ?](#quand-leffacement-peut-il-etre-refuse).
+    Même quand vos dettes entrent dans le périmètre ci-dessus, l'effacement n'est pas garanti. Si vous avez commis des fautes graves et caractérisées ayant contribué à la faillite, le tribunal peut le refuser à la demande du curateur, du procureur du Roi ou d'un créancier impayé. Voir plus bas : [Quand l'effacement peut-il être refusé ?](#quand-leffacement-peut-il-etre-refuse).
 
 ---
 
@@ -77,11 +93,11 @@ Deux mécanismes peuvent néanmoins libérer une caution. D'une part, votre conj
 
 ## Quand l'effacement peut-il être refusé ?
 
-Le tribunal peut refuser totalement ou partiellement l'effacement si vous avez commis des **fautes graves et caractérisées** ayant contribué à la faillite. Ces fautes peuvent concerner la comptabilité (absence totale, falsification, destruction de documents), la gestion (poursuite d'une activité manifestement déficitaire sans espoir raisonnable, prélèvements excessifs, train de vie somptuaire financé par l'entreprise), les paiements (non-paiement systématique des cotisations ONSS et de la TVA, paiements préférentiels de certains créanciers en période suspecte), ou les actifs (détournement, ventes à prix dérisoire à des proches, dilapidation du patrimoine).
+Le tribunal peut refuser totalement ou partiellement l'effacement si vous avez commis des **fautes graves et caractérisées** ayant contribué à la faillite. Pour les faillites prononcées depuis le 1er septembre 2023, il peut aussi le refuser si vous avez **sciemment fourni des renseignements inexacts** lors de l'aveu ou en réponse aux demandes du juge-commissaire ou du curateur (article XX.173, § 3). Ces fautes peuvent concerner la comptabilité (absence totale, falsification, destruction de documents), la gestion (poursuite d'une activité manifestement déficitaire sans espoir raisonnable, prélèvements excessifs, train de vie somptuaire financé par l'entreprise), les paiements (non-paiement systématique des cotisations ONSS et de la TVA, paiements préférentiels de certains créanciers en période suspecte), ou les actifs (détournement, ventes à prix dérisoire à des proches, dilapidation du patrimoine).
 
 Les faillites répétées — deux, trois, quatre faillites successives — ou des condamnations pénales liées à la gestion de l'entreprise (organisation frauduleuse d'insolvabilité, abus de biens sociaux, faux comptables, etc.) sont également des motifs de refus.
 
-Le refus peut être total (toutes vos dettes restent dues) ou partiel (seule une catégorie ou un montant spécifique reste dû). La demande de refus peut être formulée par le curateur, le procureur du Roi, un créancier impayé, ou soulevée d'office par le tribunal. Le délai pour une demande préventive est de quatre ans après le jugement déclaratif ; après la publication du jugement de clôture, le délai pour former une tierce opposition est de trois mois.
+Le refus peut être total (toutes vos dettes restent dues) ou partiel (seule une catégorie ou un montant spécifique reste dû). La demande de refus peut être formulée par tout intéressé, notamment le curateur, le procureur du Roi ou un créancier impayé. Pour les faillites prononcées depuis le 1er septembre 2023, elle doit être introduite dans les trois ans qui suivent l'expiration du droit à l'admission des créances, soit en pratique environ quatre ans après le jugement de faillite. Elle peut aussi l'être par tierce opposition dans les trois mois de la publication du jugement de clôture, à condition que ce délai de trois ans ne soit pas expiré. Pour les faillites plus anciennes, voir l'encadré en tête de page.
 
 ### La requête en refus d'effacement
 
@@ -89,7 +105,7 @@ Le refus n'est jamais prononcé automatiquement par le tribunal : il faut qu'une
 
 **Trois voies** mènent à un examen du refus.
 
-Le **procureur du Roi** (le parquet) est l'acteur central. Il peut déposer une **requête en refus d'effacement** devant le tribunal de l'entreprise lorsqu'il estime qu'une faute grave et caractérisée a contribué à la faillite. Cette requête peut être déposée à tout moment de la procédure, jusqu'à quatre ans après le jugement déclaratif. Elle est généralement motivée par les éléments transmis au parquet par le curateur dans son rapport sur les causes de la faillite, ou par une plainte qui aboutit à un signalement.
+Le **procureur du Roi** (le parquet) est l'acteur central. Il peut déposer une **requête en refus d'effacement** devant le tribunal de l'entreprise lorsqu'il estime qu'une faute grave et caractérisée a contribué à la faillite. Cette requête peut être déposée à tout moment de la procédure, dans le délai de trois ans indiqué ci-dessus pour les faillites prononcées depuis le 1er septembre 2023. Elle est généralement motivée par les éléments transmis au parquet par le curateur dans son rapport sur les causes de la faillite, ou par une plainte qui aboutit à un signalement.
 
 Le **curateur** peut lui aussi former une demande, dans le cadre de son rapport au juge-commissaire ; il agit en représentant des intérêts de la masse des créanciers.
 
@@ -134,7 +150,9 @@ Après l'effacement, aucun créancier ne peut plus vous réclamer les dettes con
 
 **Mes dettes personnelles non liées à l'activité sont-elles effacées ?** Oui pour les personnes physiques en faillite. Un crédit consommation contracté pour des achats privés est une dette dans la masse faillie. 
 
-**Puis-je refuser l'effacement ?** Non. L'effacement est automatique et d'ordre public. Vous ne pouvez pas y renoncer formellement. Vous pouvez toutefois, de votre propre initiative, rembourser volontairement vos anciens créanciers après la clôture — mais vous n'y êtes juridiquement pas tenu.
+**Ma faillite date d'avant le 1er septembre 2023 : que dois-je faire ?** Dans l'ancien régime, l'effacement n'est pas automatique : il est accordé sur requête du failli. Si vous ne l'avez pas encore demandé, faites-le sans attendre (voir l'encadré en tête de page).
+
+**Puis-je refuser l'effacement ?** Non. Pour les faillites prononcées depuis le 1er septembre 2023, l'effacement est automatique et d'ordre public. Vous ne pouvez pas y renoncer formellement. Vous pouvez toutefois, de votre propre initiative, rembourser volontairement vos anciens créanciers après la clôture — mais vous n'y êtes juridiquement pas tenu.
 
 ---
 

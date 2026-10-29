@@ -4,7 +4,7 @@ description: Vos droits dans la procédure de faillite en tant que créancier - 
   dirigeants
 keywords: droits créanciers faillite, REGSOL consultation créancier, assemblée créanciers
   faillite, action responsabilité dirigeants, contester honoraires curateur belgique
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # Vos droits dans la procédure de faillite
 
@@ -69,7 +69,9 @@ Si le juge-commissaire rend une ordonnance que vous estimez contraire à vos int
 
 ### Appel des jugements du tribunal
 
-Les jugements du tribunal de l'entreprise — jugement déclaratif de faillite, jugement sur contestation de créance, jugement de taxation des honoraires, jugement de clôture — sont susceptibles d'appel devant la cour d'appel dans le mois qui suit leur prononcé. Si le jugement contient une erreur de droit, un pourvoi en cassation reste possible.
+Les jugements du tribunal de l'entreprise — jugement sur contestation de créance, jugement de taxation des honoraires, jugement de clôture — sont susceptibles d'appel devant la cour d'appel dans le mois qui suit leur prononcé. Si le jugement contient une erreur de droit, un pourvoi en cassation reste possible.
+
+Le jugement déclaratif de faillite et celui qui fixe la date de cessation de paiement obéissent à des délais plus courts. Un créancier qui n'était pas partie au jugement peut former tierce opposition dans les quinze jours de sa publication au Moniteur belge (article XX.108, § 3, du Code de droit économique). Le délai d'appel est également de quinze jours à compter de cette publication.
 
 ### Agir à la place du curateur contre les dirigeants
 
@@ -82,7 +84,7 @@ Si le curateur refuse d'engager une action en responsabilité contre les dirigea
 
 ## Le droit de revendiquer vos biens propres
 
-Si des biens vous appartenant se trouvent dans le patrimoine de la masse faillie — marchandises vendues avec clause de réserve de propriété et non payées, matériel en leasing, stock en dépôt —, vous avez le droit de les revendiquer auprès du curateur. La revendication doit être exercée rapidement, idéalement avant l'inventaire ou la première vente des actifs. Après la vente, la revendication ne porte plus que sur le prix identifiable.
+Si des biens vous appartenant se trouvent dans le patrimoine de la masse faillie — marchandises vendues avec clause de réserve de propriété et non payées, matériel en leasing, stock en dépôt —, vous avez le droit de les revendiquer auprès du curateur. Le délai est strict : selon l'article XX.194 du Code de droit économique, la revendication doit être exercée avant le dépôt du premier procès-verbal de vérification des créances. Passé ce délai, votre droit de propriété n'est plus opposable à la masse et le curateur peut vendre le bien. La Cour constitutionnelle a jugé ce délai compatible avec le droit de propriété (arrêt n° 80/2025 du 15 mai 2025). Agissez donc dès la publication du jugement, idéalement avant l'inventaire ou la première vente des actifs. Après la vente, la revendication ne porte plus que sur le prix identifiable.
 
 Pour les détails sur les clauses de réserve de propriété et les autres sûretés réelles, consultez [les sûretés et cautions dans la faillite](suretes-cautions.md).
 
@@ -94,7 +96,9 @@ Pour les détails sur les clauses de réserve de propriété et les autres sûre
 |---|---|---|
 | Déclaration de créance | 30 jours (1 an maximum) | Jugement de faillite |
 | Contredit contre une créance admise | 1 mois | Publication du procès-verbal |
-| Appel d'un jugement | 1 mois | Prononcé du jugement |
+| Tierce opposition ou appel contre le jugement déclaratif de faillite | 15 jours | Publication au Moniteur belge |
+| Revendication d'un bien | Avant le dépôt du premier procès-verbal de vérification | Jugement de faillite |
+| Appel d'un autre jugement | 1 mois | Prononcé du jugement |
 | Action en responsabilité contre les dirigeants | 3 ans | Clôture de la faillite |
 
 !!! danger "Des délais stricts sans exception"

@@ -3,7 +3,7 @@ description: Reprendre une activité après faillite - Droits, restrictions, dro
   indépendants, nouvelle entreprise
 keywords: travailler après faillite, reprendre activité faillite, droit passerelle
   belgique, créer entreprise après faillite, salarié failli
-updated: '2026-05-15'
+updated: '2026-10-29'
 ---
 # Reprendre une activité après votre faillite
 
@@ -51,7 +51,9 @@ Si vous n'êtes pas frappé d'interdiction de gérer, vous pouvez créer une SRL
 
 Si vous étiez indépendant avant la faillite, vous pouvez bénéficier du droit passerelle : une prestation mensuelle selon votre situation familiale, maintenue pendant douze mois au maximum, accompagnée du maintien de vos droits aux soins de santé.
 
-Pour en bénéficier, vous devez avoir été assujetti au statut social des indépendants pendant au moins quatre trimestres avant la faillite, ne pas avoir fait l'objet de poursuites pénales en lien avec la faillite ou avec vos cotisations sociales, et résider principalement en Belgique. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena, ou la caisse publique nationale auxiliaire) pour démarrer la procédure. Ils vous guideront dans la constitution du dossier.
+Selon l'INASTI, la prestation mensuelle s'élève à 1.704,40 euros sans charge de famille et à 2.128,11 euros avec charge de famille (montants indexés au 1er septembre 2026). Pendant cette période, vous ne payez pas de cotisations sociales.
+
+Pour en bénéficier, l'INASTI pose les conditions suivantes : être indépendant, aidant ou conjoint aidant au maxi-statut ; avoir été assujetti au statut social pendant le trimestre de la faillite et les trois trimestres précédents ; avoir payé des cotisations provisoires pour au moins quatre trimestres au cours des seize trimestres précédents ; avoir sa résidence principale en Belgique ; et ne pas avoir été condamné pénalement dans le cadre de la faillite. La demande doit être introduite auprès de votre caisse au plus tard à la fin du deuxième trimestre qui suit celui de la faillite : pour un jugement prononcé en février, au plus tard le 30 septembre. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena, ou la caisse publique nationale auxiliaire) pour démarrer la procédure. Ils vous guideront dans la constitution du dossier.
 
 ---
 
