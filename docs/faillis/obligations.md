@@ -10,13 +10,13 @@ public:
 ---
 # Vos obligations légales en tant que failli
 
-Dès le prononcé du jugement déclaratif, vous êtes soumis à un ensemble d'obligations légales précises, définies par l'article XX.146 du Code de droit économique. Ces obligations ne sont pas facultatives : les manquer expose à des sanctions qui peuvent compromettre votre droit à l'effacement des dettes et votre capacité à exercer une activité à l'avenir.
+Dès le prononcé du jugement déclaratif, vous êtes soumis à un ensemble d'obligations légales précises, définies par l'article XX.146 du Code de droit économique. Ces obligations ne sont pas facultatives : les manquer expose à des sanctions qui peuvent compromettre votre capacité à exercer une activité à l'avenir et, si vous êtes indépendant en nom propre, votre droit à l'effacement des dettes.
 
 !!! note "Si c'est votre société qui est en faillite"
     Une société n'agit que par ses dirigeants : c'est donc à vous, administrateur ou gérant, d'accomplir ces démarches pour elle. La loi vous sanctionne d'ailleurs personnellement si vous ne collaborez pas avec le curateur, notamment par une interdiction de gérer (article XX.229). Le refus de l'effacement, mentionné plus bas, ne concerne que le failli personne physique. Voir aussi [ce que la faillite de votre société change pour vous](societe-en-faillite.md).
 
 !!! danger "Deux raisons essentielles de coopérer"
-    Un comportement collaboratif est déterminant pour deux raisons majeures. D'abord, le tribunal peut refuser l'effacement de vos dettes si vous avez commis des fautes graves, parmi lesquelles figure le refus de coopérer avec le curateur. Ensuite, le procureur du Roi peut demander votre interdiction de gérer si vous n'avez pas respecté vos obligations légales pendant la procédure.
+    Un comportement collaboratif est déterminant pour deux raisons majeures. D'abord, le manquement à vos obligations pendant la procédure permet au tribunal de vous interdire d'exercer des fonctions de dirigeant pendant trois ans, à la demande du ministère public, du curateur ou d'un créancier impayé (articles XX.229 et XX.230) : cela vaut pour l'indépendant comme pour le dirigeant de société. Ensuite, si vous êtes indépendant en nom propre, le tribunal peut refuser l'effacement de vos dettes en cas de fautes graves, parmi lesquelles figure le refus de coopérer avec le curateur.
 
 ---
 
@@ -76,7 +76,7 @@ Si le tribunal estime que vous avez commis des fautes graves et caractérisées 
 
 ### Les poursuites pénales
 
-Indépendamment de la procédure civile de faillite, le parquet peut engager des poursuites pénales. Le nouveau Code pénal, en vigueur depuis le 1er septembre 2026, consacre ses articles 489 à 495 aux infractions liées à l'insolvabilité des entreprises. La **banqueroute simple** (art. 490) vise notamment le fait de ne pas avoir fait aveu dans le délai d'un mois pour retarder la faillite, d'avoir favorisé un créancier au préjudice de la masse, de ne pas avoir fourni les renseignements exigés lors de l'aveu ou d'avoir donné des renseignements inexacts au juge-commissaire ou au curateur. La **banqueroute frauduleuse** (art. 491) vise le détournement ou la dissimulation d'actifs et la soustraction des documents comptables. Selon les faits, d'autres qualifications restent possibles : abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité. Ces poursuites sont indépendantes de la clôture de la faillite : même si vos dettes sont effacées, une condamnation pénale reste possible.
+Indépendamment de la procédure civile de faillite, le parquet peut engager des poursuites pénales. Le nouveau Code pénal, en vigueur depuis le 1er septembre 2026, consacre ses articles 489 à 497 aux infractions liées à l'insolvabilité des entreprises. La **banqueroute simple** (art. 490) vise notamment le fait de ne pas avoir fait aveu dans le délai d'un mois pour retarder la faillite, d'avoir favorisé un créancier au préjudice de la masse, de ne pas avoir fourni les renseignements exigés lors de l'aveu ou d'avoir donné des renseignements inexacts au juge-commissaire ou au curateur. La **banqueroute frauduleuse** (art. 491) vise le détournement ou la dissimulation d'actifs et la soustraction des documents comptables. Selon les faits, d'autres qualifications restent possibles : abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité. Ces poursuites sont indépendantes de la clôture de la faillite : même si vos dettes sont effacées, une condamnation pénale reste possible.
 
 ---
 

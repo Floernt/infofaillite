@@ -71,9 +71,9 @@ Remettez au curateur l'intégralité des clés des locaux professionnels, les co
 
 ## Jours 1 à 30 — Les démarches urgentes
 
-### Renseignez-vous sur le droit passerelle (si vous étiez indépendant)
+### Renseignez-vous sur le droit passerelle
 
-Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle qui s'élève, selon l'INASTI, à 1.704,40 euros sans charge de famille et à 2.128,11 euros avec charge de famille (montants indexés au 1er septembre 2026), pendant douze mois au maximum. La demande doit être introduite au plus tard à la fin du deuxième trimestre qui suit celui de la faillite. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena ou la caisse nationale auxiliaire) dans les jours qui suivent le jugement.
+Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle qui s'élève, selon l'INASTI, à 1.704,40 euros sans charge de famille et à 2.128,11 euros avec charge de famille (montants indexés au 1er septembre 2026), pendant douze mois au maximum. La demande doit être introduite au plus tard à la fin du deuxième trimestre qui suit celui de la faillite. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena ou la caisse nationale auxiliaire) dans les jours qui suivent le jugement. Si c'est votre société qui est en faillite et que vous étiez affilié au statut social des indépendants comme gérant ou administrateur, le droit passerelle peut aussi vous être ouvert : votre caisse vérifiera les conditions.
 
 ### Informez vos proches ou associés qui se sont portés caution
 

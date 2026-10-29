@@ -53,13 +53,15 @@ Si vous n'êtes pas frappé d'interdiction de gérer, vous pouvez créer une SRL
 
 ---
 
-## Le droit passerelle pour les indépendants faillis
+## Le droit passerelle
 
 Si vous étiez indépendant avant la faillite, vous pouvez bénéficier du droit passerelle : une prestation mensuelle selon votre situation familiale, maintenue pendant douze mois au maximum, accompagnée du maintien de vos droits aux soins de santé.
 
 Selon l'INASTI, la prestation mensuelle s'élève à 1.704,40 euros sans charge de famille et à 2.128,11 euros avec charge de famille (montants indexés au 1er septembre 2026). Pendant cette période, vous ne payez pas de cotisations sociales.
 
 Pour en bénéficier, l'INASTI pose les conditions suivantes : être indépendant, aidant ou conjoint aidant au maxi-statut ; avoir été assujetti au statut social pendant le trimestre de la faillite et les trois trimestres précédents ; avoir payé des cotisations provisoires pour au moins quatre trimestres au cours des seize trimestres précédents ; avoir sa résidence principale en Belgique ; et ne pas avoir été condamné pénalement dans le cadre de la faillite. La demande doit être introduite auprès de votre caisse au plus tard à la fin du deuxième trimestre qui suit celui de la faillite : pour un jugement prononcé en février, au plus tard le 30 septembre. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena, ou la caisse publique nationale auxiliaire) pour démarrer la procédure. Ils vous guideront dans la constitution du dossier.
+
+Le gérant ou l'administrateur d'une société faillie, affilié au statut social des indépendants, peut aussi y avoir droit. Les conditions s'apprécient au cas par cas : interrogez votre caisse dès le jugement.
 
 ---
 

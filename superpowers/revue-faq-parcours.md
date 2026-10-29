@@ -6,17 +6,29 @@ Document interne, non publié (29 octobre 2026). Sources légales consultées : 
 
 - **Interdiction de gérer pour défaut de collaboration** : la durée est fixée par la loi à **trois ans** (art. XX.229, § 5, al. 2, depuis le 1er septembre 2023), et non « au maximum dix ans ». Le plafond de dix ans ne vaut que pour la faute grave et caractérisée. Corrigé dans [interdiction.md](../docs/faillis/interdiction.md), [obligations.md](../docs/faillis/obligations.md) et le [glossaire](../docs/glossaire.md). Ajout dans interdiction.md : l'assimilation au failli de l'administrateur dont la démission n'a pas été publiée au moins un an avant la faillite (art. XX.229, § 3). Texte vérifié sur le Code consolidé.
 
-## Contradictions repérées dans le guide, NON corrigées (à arbitrer)
+## Contradictions repérées dans le guide : corrigées le 29 octobre 2026
 
-- [delais.md](../docs/delais.md) et [declarer-creance.md](../docs/creanciers/declarer-creance.md) font courir le délai de déclaration de 30 jours à partir de la **publication** ; l'art. XX.104 parle d'un délai fixé « à compter du jugement ».
-- [verification-contestation.md](../docs/creanciers/verification-contestation.md) fait du 3e procès-verbal une limite plus stricte que l'art. XX.165.
-- [creanciers-categories.md](../docs/creanciers/creanciers-categories.md) traite l'indemnité du bailleur comme dette de masse ; l'art. XX.139 dit qu'elle « entre dans la masse ».
-- [definition-faillite.md](../docs/comprendre/definition-faillite.md) situe la compétence territoriale au domicile ; l'art. XX.12 retient le centre des intérêts principaux.
-- [liquidation-actifs.md](../docs/comprendre/liquidation-actifs.md) : ne mentionne pas l'exception des petites sociétés de l'art. XX.225, § 2 (chiffre d'affaires moyen < 620.000 € HTVA et bilan ≤ 370.000 €), renvoie pour l'ONSS à une « loi spéciale » au lieu de l'art. XX.226, et range la poursuite d'une activité déficitaire sous XX.225 au lieu de XX.227.
-- [delais.md](../docs/delais.md) : l'aveu tardif y est présenté comme cause d'« interdiction pour inaction » ; l'inaction (XX.229, § 2) vise les obligations de XX.146 pendant la faillite.
-- Numérotation du nouveau Code pénal à harmoniser : 489 à 491 (glossaire), 489 à 495 (obligations), 489 à 497 (note d'actualité).
-- **Terminologie** : le Livre XX consolidé parle désormais de « tribunal de l'insolvabilité » ; le site dit « tribunal de l'entreprise ».
-- Délais d'appel d'un mois des jugements autres que le jugement déclaratif (point déjà signalé dans [revue-actualites.md](revue-actualites.md)).
+Consigne de Florian : corriger en retenant la formulation la plus générale si besoin. Texte vérifié sur le CDE consolidé.
+
+- **Délai de déclaration** (XX.104) : « au maximum trente jours à compter du jugement déclaratif », et non de la publication. Corrigé dans delais, declarer-creance, creanciers/README, acteurs-secondaires, deroulement-phase-1-3, glossaire, ressources.
+- **Déclarations tardives** (XX.165) : la « forclusion au dépôt du 3e PV » est retirée partout ; formulation retenue : participation aux seules répartitions sur l'actif non encore distribué, frais à charge du créancier, prescription d'un an à compter du jugement sauf exceptions (verification-contestation, delais, declarer-creance, creanciers/README, acteurs-secondaires, deroulement-phase-1-3, glossaire « Forclusion », FAQ).
+- **Arrêt des intérêts** : XX.117 (et non XX.113) ; l'exception vise les créances garanties par hypothèque, gage ou privilège spécial, pas seulement l'hypothèque (dettes-avant-faillite, paiement-dividendes, verification-contestation).
+- **Bail** (XX.139) : l'indemnité de résiliation « entre dans la masse » ; ajout de la mise en demeure de quinze jours (creanciers-categories).
+- **Compétence territoriale** (XX.12) : centre des intérêts principaux, présomptions siège / lieu d'activité principal (definition-faillite, ressources).
+- **liquidation-actifs** : exception des petites sociétés (XX.225, § 2), fraude fiscale grave réputée faute grave, XX.227 distinct (action exclusive du curateur, plafond 2:57 CSA), XX.226 pour l'ONSS.
+- **Aveu tardif** : n'est plus présenté comme cause d'« interdiction pour inaction » ; formulation : faute grave possible (interdiction, responsabilité, refus d'effacement pour l'indépendant), banqueroute simple s'il vise à retarder la faillite (delais, definition-faillite, deroulement-phase-1-3).
+- **Code pénal** : « articles 489 à 497 » harmonisé (glossaire, obligations).
+- **PRJ privée** : sursis ciblé de XX.83/24 ajouté (procedures-alternatives).
+- **Appels** : interdiction de gérer, délai courant de la notification (XX.232) ; refus d'effacement, droit commun (art. 1051 C. jud., signification ou notification) (delais).
+- **Terminologie** : pas de correction. Le « tribunal de l'insolvabilité » est défini à l'art. XX.1, 4°, comme « le tribunal de l'entreprise compétent pour ouvrir une procédure d'insolvabilité » : le site reste exact.
+
+Biais « personne physique » corrigés : interdiction (§§ 1er et 4, sursis du § 6 pour toute interdiction, réhabilitation pensée pour le failli personne physique, levée du sursis XX.235, § 2), obligations (sanctions présentées pour les deux profils, demandeurs de XX.230), checklist et reprendre-activite (droit passerelle du dirigeant affilié comme indépendant, sans chiffre propre), dessaisissement (encart dirigeant), procedures-alternatives, glossaire « Failli ».
+
+Restent à arbitrer :
+
+- **Amendes pénales** parmi les dettes non effacées (effacement.md) : absentes de XX.173, source à citer.
+- **Réhabilitation du dirigeant** : la page affirme désormais que le texte ne prévoit pas de réhabilitation propre au dirigeant (lecture de XX.229, § 3, qui n'assimile au failli que « pour l'application du présent article »). Interprétation à confirmer.
+- **Appel du refus d'effacement** : aucune règle spéciale trouvée dans le Livre XX, d'où le renvoi au droit commun ; à confirmer.
 
 ---
 
