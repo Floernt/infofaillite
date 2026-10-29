@@ -208,6 +208,18 @@ body { background: var(--ifa-bg); }
 }
 .ifa-pagehead h1 .headerlink { display: none; }
 .ifa-pagehead__meta { margin-top: .9rem; font-size: .7rem; color: var(--ifa-fg-muted); }
+.ifa-public { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem; margin-top: .8rem; font-size: .7rem; }
+.ifa-public__label { color: var(--ifa-fg-muted); margin-right: .1rem; }
+.ifa-public__tag {
+  padding: .1rem .55rem;
+  border-radius: 999px;
+  font-weight: 600;
+  color: #ffffff;
+  background: var(--ifa-yale);
+}
+.ifa-public__tag--independant { background: #037089; }
+.ifa-public__tag--dirigeant { background: #2e4057; }
+[data-md-color-scheme="slate"] .ifa-public__tag--dirigeant { background: #3d5574; }
 
 /* Premier paragraphe d'une page : chapeau */
 .md-content__inner > p:first-of-type {
@@ -597,6 +609,79 @@ body { background: var(--ifa-bg); }
   color: var(--ifa-fg-muted);
 }
 .md-typeset .ifa-filters__empty { color: var(--ifa-fg-muted); font-style: italic; }
+
+/* --- Questions fréquentes (docs/faq/README.md, javascripts/faq.js) --------- */
+
+.md-typeset .ifa-faq-search {
+  width: 100%;
+  padding: .5rem .7rem;
+  font: inherit;
+  font-size: .75rem;
+  color: var(--md-typeset-color);
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--ifa-line);
+  border-radius: .2rem;
+}
+.md-typeset .ifa-faq-search:focus { outline: 2px solid var(--ifa-orange); outline-offset: 1px; }
+.md-typeset .ifa-faq-count { margin: .4rem 0 1rem; font-size: .7rem; }
+.md-typeset .ifa-faq-reset {
+  padding: 0;
+  font: inherit;
+  color: var(--md-typeset-a-color);
+  text-decoration: underline;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+.md-typeset mark.ifa-hit {
+  padding: 0 .05em;
+  color: inherit;
+  background: rgba(241, 143, 1, .25);
+  border-radius: .1em;
+}
+.md-typeset details.ifa-faq {
+  margin: 0;
+  border: 0;
+  border-bottom: 1px solid var(--ifa-line);
+  border-radius: 0;
+  box-shadow: none;
+  background: none;
+  font-size: inherit;
+}
+.md-typeset details.ifa-faq:first-of-type { border-top: 1px solid var(--ifa-line); }
+.md-typeset details.ifa-faq > summary {
+  position: relative;
+  display: block;
+  padding: .75rem 2rem .75rem 0;
+  font-weight: 600;
+  color: var(--ifa-heading);
+  cursor: pointer;
+  list-style: none;
+  background: none;
+  border: 0;
+}
+.md-typeset details.ifa-faq > summary::-webkit-details-marker { display: none; }
+.md-typeset details.ifa-faq > summary::before { display: none; }
+.md-typeset details.ifa-faq > summary::after {
+  content: "+";
+  position: absolute;
+  top: .55rem;
+  right: .2rem;
+  width: auto;
+  height: auto;
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: var(--ifa-orange-text);
+  background: none;
+  -webkit-mask-image: none;
+  mask-image: none;
+  transform: none;
+}
+.md-typeset details.ifa-faq[open] > summary::after { content: "−"; }
+.md-typeset details.ifa-faq > summary:hover { color: var(--ifa-orange-text); }
+.md-typeset details.ifa-faq > :not(summary) { margin-left: 0; margin-right: 0; }
+.md-typeset details.ifa-faq[open] { padding-bottom: .6rem; }
+.md-typeset details.ifa-faq + h2 { margin-top: 2rem; }
 
 /* --- Ajustements : liens des composants, listes, recherche ---------------- */
 

@@ -25,13 +25,15 @@ Veuillez citer la source : infofaillite.be
 
 ## Structure du site
 
-Le site est organisé en quatre rubriques, chacune ouverte par une page d'entrée qui renvoie à ses pages dans l'ordre de lecture. La liste exhaustive des pages figure dans le sitemap.
+Le site est organisé en cinq rubriques, chacune ouverte par une page d'entrée qui renvoie à ses pages dans l'ordre de lecture. La rubrique « Je suis en faillite » distingue deux parcours : l'indépendant en nom propre (personne physique, seul concerné par l'effacement des dettes) et le dirigeant d'une société en faillite. La liste exhaustive des pages figure dans le sitemap.
 
 - Accueil : https://infofaillite.be/
-- Je suis en faillite (failli ou dirigeant) : https://infofaillite.be/faillis/
-  - Obligations du failli : https://infofaillite.be/faillis/obligations/
+- Je suis en faillite : https://infofaillite.be/faillis/
+  - Indépendant en nom propre, effacement des dettes : https://infofaillite.be/faillis/effacement/
+  - Dirigeant, votre société en faillite : https://infofaillite.be/faillis/societe-en-faillite/
+  - Dirigeant, responsabilité personnelle : https://infofaillite.be/faillis/responsabilite-dirigeant/
+  - Obligations du failli et des dirigeants : https://infofaillite.be/faillis/obligations/
   - Droits du failli : https://infofaillite.be/faillis/droits/
-  - Effacement des dettes : https://infofaillite.be/faillis/effacement/
   - Interdiction de gérer : https://infofaillite.be/faillis/interdiction/
 - Je suis créancier : https://infofaillite.be/creanciers/
   - Déclarer une créance : https://infofaillite.be/creanciers/declarer-creance/
@@ -41,6 +43,7 @@ Le site est organisé en quatre rubriques, chacune ouverte par une page d'entré
   - Définition de la faillite : https://infofaillite.be/comprendre/definition-faillite/
   - Curateur et juge-commissaire : https://infofaillite.be/comprendre/acteurs/
   - Déroulement chronologique : https://infofaillite.be/comprendre/deroulement-chronologique/
+- Questions fréquentes (61 questions, par profil et par thème) : https://infofaillite.be/faq/
 - Pages utiles :
   - Délais importants : https://infofaillite.be/delais/
   - Glossaire : https://infofaillite.be/glossaire/

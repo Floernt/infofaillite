@@ -66,7 +66,7 @@ suretes-reelles:
 
 caution:
   label: Cautions
-  pages: [creanciers/suretes-cautions.md, faillis/effacement.md]
+  pages: [creanciers/suretes-cautions.md, faillis/effacement.md, faillis/societe-en-faillite.md]
 
 creanciers-publics:
   label: Fisc et ONSS
@@ -86,7 +86,7 @@ liquidation:
 
 responsabilite-dirigeants:
   label: Comblement de passif et responsabilité des dirigeants
-  pages: [comprendre/liquidation-actifs.md]
+  pages: [faillis/responsabilite-dirigeant.md, comprendre/liquidation-actifs.md]
 
 dividendes:
   label: Répartition et dividendes
@@ -102,7 +102,7 @@ effacement:
 
 obligations-failli:
   label: Obligations du failli
-  pages: [faillis/obligations.md, faillis/checklist-premiere-semaine.md]
+  pages: [faillis/obligations.md, faillis/checklist-premiere-semaine.md, faillis/societe-en-faillite.md]
 
 droits-failli:
   label: Droits du failli

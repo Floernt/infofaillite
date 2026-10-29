@@ -12,7 +12,7 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 !!! danger "Des délais de forclusion sans tolérance"
     Les délais en droit de la faillite sont des délais de forclusion : une fois écoulés, le droit correspondant est perdu définitivement. Il n'existe pas de prolongation, pas de régularisation, pas de bonne volonté qui compense un retard. Notez chaque délai dans votre agenda dès que vous en avez connaissance, avec une alarme plusieurs jours avant l'échéance.
 
-    Une exception notable concerne la **déclaration de créance** : passé le délai de trente jours, une déclaration tardive reste recevable jusqu'au dépôt du troisième procès-verbal de vérification (environ douze mois après le jugement). Voir le détail dans la section [Déclaration de créance](#declaration-de-creance) plus bas.
+    Une exception notable concerne la **déclaration de créance** : passé le délai fixé par le jugement, une déclaration tardive reste possible, dans la limite d'un an à compter du jugement déclaratif (article XX.165). Voir le détail dans la section [Déclaration de créance](#declaration-de-creance) plus bas.
 
 ---
 
@@ -20,8 +20,8 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 
 | Délai | Action | Pour qui | Conséquence du non-respect |
 |---|---|---|---|
-| **30 jours** | Déclarer sa créance | Créanciers | Exclusion des répartitions provisoires ; forclusion au dépôt du 3ᵉ PV (≈ 12 mois) |
-| **1 mois** | Déposer l'aveu de faillite | Débiteur | Risque d'interdiction de gérer pour inaction |
+| **30 jours** | Déclarer sa créance | Créanciers | Exclusion des répartitions déjà faites ; prescription d'un an à compter du jugement |
+| **1 mois** | Déposer l'aveu de faillite | Débiteur (ses dirigeants, pour une société) | Faute grave possible : interdiction de gérer, responsabilité, refus d'effacement (indépendant) |
 | **1 mois** | Former un contredit | Créanciers | La créance contestée devient définitive |
 | **15 jours** | Contester le jugement de faillite (appel, tierce opposition) | Failli, tiers intéressés | Le jugement devient définitif |
 
@@ -31,7 +31,7 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 
 ### Déclaration de créance
 
-Le délai de trente jours court à compter de la publication du jugement déclaratif au Moniteur belge — et non à compter du moment où vous en prenez connaissance. Une déclaration tardive reste recevable jusqu'au dépôt du **troisième procès-verbal de vérification** (environ douze mois après le jugement, voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)) ; elle est alors examinée au 2ᵉ ou au 3ᵉ procès-verbal. Vous perdez en revanche le droit aux éventuelles répartitions provisoires. Au-delà du 3ᵉ procès-verbal, la créance est forclose.
+Le jugement déclaratif fixe la date limite de déclaration, qui ne peut dépasser trente jours à compter du jugement (article XX.104) : le délai court du jugement, et non de sa publication ni du moment où vous en prenez connaissance. Une déclaration tardive reste possible : le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance. Son droit d'agir en admission se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165). La déclaration tardive est examinée lors d'un procès-verbal de vérification ultérieur (voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)).
 
 Si votre créance est garantie par une caution, il est utile de la mentionner dans votre déclaration de créance — mais aucun délai spécifique n'est attaché à cette mention et son omission n'entraîne pas la libération de la caution. Votre droit contre la caution reste indépendant de la procédure de faillite. Pour les détails, consultez [les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md).
 
@@ -62,13 +62,13 @@ Le contredit — la contestation d'une créance admise par le curateur — doit 
 
 ### Obligations immédiates
 
-L'obligation la plus importante est l'aveu de faillite : dès que vous constatez que vous êtes en état de faillite (cessation durable de paiements et crédit ébranlé), vous avez un mois pour en faire l'aveu au greffe du tribunal de l'entreprise. Un dépôt tardif ou une absence d'aveu peut conduire à une interdiction de gérer pour inaction et à un refus d'effacement des dettes à la clôture.
+L'obligation la plus importante est l'aveu de faillite : dès que vous constatez que vous êtes en état de faillite (cessation durable de paiements et crédit ébranlé), vous avez un mois pour en faire l'aveu au greffe du tribunal de l'entreprise. Pour une société, l'aveu incombe à ses dirigeants. Un dépôt tardif ou une absence d'aveu peut être retenu comme faute grave et caractérisée : interdiction de gérer, responsabilité personnelle du dirigeant, refus d'effacement pour l'indépendant en nom propre et, si l'aveu a été omis pour retarder la faillite, banqueroute simple.
 
 | Délai | Point de départ | Action | Conséquence du non-respect |
 |---|---|---|---|
-| 1 mois | Cessation de paiements | Déposer l'aveu de faillite | Risque d'interdiction de gérer ; refus d'effacement |
-| 48 heures | Convocation du curateur ou du juge-commissaire | Répondre ou se présenter | Sanctions procédurales ; défaut pouvant affecter l'effacement |
-| Immédiatement | Jugement de faillite | Remettre tous les documents au curateur | Risque de poursuites pénales ; refus d'effacement |
+| 1 mois | Cessation de paiements | Déposer l'aveu de faillite | Risque d'interdiction de gérer ; refus d'effacement (indépendant) |
+| 48 heures | Convocation du curateur ou du juge-commissaire | Répondre ou se présenter | Interdiction de gérer de trois ans (article XX.229, § 2) ; défaut pouvant affecter l'effacement (indépendant) |
+| Immédiatement | Jugement de faillite | Remettre tous les documents au curateur | Risque de poursuites pénales ; interdiction de gérer ; refus d'effacement (indépendant) |
 
 ### Droit passerelle (indépendants)
 
@@ -83,8 +83,8 @@ Pour tous les détails, consultez [reprendre une activité professionnelle aprè
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
 | 15 jours | Signification du jugement déclaratif par le curateur | Appel du jugement (tierce opposition si la faillite a été prononcée sur aveu) | La faillite est confirmée définitivement |
-| 1 mois | Jugement d'interdiction de gérer | Appel | L'interdiction est définitive |
-| 1 mois | Jugement refusant l'effacement | Appel | Le refus est définitif |
+| 1 mois | Notification du jugement d'interdiction de gérer (article XX.232) | Appel | L'interdiction est définitive |
+| 1 mois | Signification ou notification du jugement refusant l'effacement (droit commun, article 1051 du Code judiciaire) | Appel | Le refus est définitif |
 
 L'article XX.108, § 3, du Code de droit économique fait courir le délai de quinze jours à partir de la publication du jugement au Moniteur belge. Pour le failli, la Cour constitutionnelle a jugé que ce point de départ était discriminatoire : son délai court à partir de la signification que le curateur doit lui faire du jugement (arrêts n° 108/2024 du 3 octobre 2024 pour la tierce opposition après aveu, et n° 139/2025 du 23 octobre 2025 pour l'appel).
 

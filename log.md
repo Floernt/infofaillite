@@ -6,6 +6,52 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-29] build | Recherche de la FAQ : un mot suffit
+
+- Test de Florian : « délais, effacement » ne donnait que 4 questions, car il fallait tous les mots. La recherche retient désormais toute question qui contient l'un des mots (22 résultats), classée d'abord par nombre de mots trouvés, puis par poids (intitulé de la question compté double) ; le compteur indique combien de questions, en tête de liste, contiennent tous les mots. Le mode « questions les plus proches » disparaît, devenu inutile.
+
+## [2026-10-29] build | Recherche de la FAQ réécrite
+
+- L'ancien champ cherchait l'expression exacte, d'un seul bloc : « délai déclaration », « effacement dettes », « salaire impayé » ou « l’aveu » (apostrophe courbe des téléphones) ne trouvaient rien (2 requêtes test sur 16 avec résultat).
+- [docs/javascripts/faq.js](docs/javascripts/faq.js) : mots cherchés séparément, sans accents, ponctuation ni mots vides ; racines (singulier et pluriel, « déclarer » / « déclaration ») ; mot présent dans la question compté double, identifiant de la question indexé ; résultats classés par pertinence dans une liste unique (sections rétablies quand le champ est vidé) ; surlignage ; réponses dépliées seulement jusqu'à trois résultats ; à défaut de question contenant tous les mots, les plus proches ; filtres actifs signalés avec un bouton « Chercher dans toutes les questions » ; Échap vide le champ ; requête conservée dans l'adresse (`#q=`).
+- Vérifié dans Chrome sans interface sur six requêtes, dont la recherche hors filtre.
+
+## [2026-10-29] lint | Interdiction de gérer : deux paragraphes rendus en titres
+
+- Un séparateur `---` collé sous le chapeau et sous le paragraphe sur l'inaction les transformait en titres H2 (et en entrées de la table des matières). Ligne vide ajoutée. Repéré lors des captures de contrôle de l'en-tête à cinq onglets (1280, 1024 et 520 px : rien à corriger).
+
+## [2026-10-29] edit | Contradictions du guide et biais « personne physique »
+
+Corrections vérifiées sur le CDE consolidé (Justel, 4 août 2026) ; détail dans `superpowers/revue-faq-parcours.md`.
+
+- **Créanciers** : délai de déclaration de trente jours au plus à compter du jugement (XX.104), et non de la publication ; suppression de la « forclusion au 3e procès-verbal » au profit de la prescription d'un an de XX.165 ; arrêt des intérêts par XX.117 (et non XX.113), exception étendue au gage et au privilège spécial ; indemnité du bailleur « dans la masse » (XX.139).
+- **Comprendre** : compétence territoriale au centre des intérêts principaux (XX.12) ; liquidation-actifs distingue XX.225 (avec l'exception des petites sociétés), XX.226 et XX.227 ; sursis ciblé de la PRJ privée (XX.83/24) ; aveu tardif présenté comme faute grave possible et non comme « inaction ».
+- **Délais** : départ de l'appel du jugement d'interdiction à la notification (XX.232), droit commun pour le refus d'effacement.
+- **Faillis** : interdiction de gérer (§§ 1er et 4, sursis du § 6, réhabilitation limitée au failli) ; sanctions de la non-collaboration présentées pour l'indépendant et le dirigeant ; droit passerelle du dirigeant ; encart dirigeant au dessaisissement.
+- Code pénal harmonisé (articles 489 à 497) ; « tribunal de l'insolvabilité » vérifié : désigne le tribunal de l'entreprise (XX.1), pas de changement.
+
+## [2026-10-29] refonte | FAQ unifiée, cinquième onglet et parcours indépendant / dirigeant de société
+
+- **FAQ unifiée.** [docs/faq/README.md](docs/faq/README.md) compte 61 questions. Elles regroupent les 50 du document de l'auteur et les deux anciennes FAQ, dédoublonnées.
+  - Huit sections thématiques, chaque question en accordéon.
+  - Filtres par profil (indépendant, dirigeant, créancier, travailleur), par thème et par recherche ([faq.js](docs/javascripts/faq.js)). Le filtre se lit dans l'adresse (`#profil=dirigeant`).
+  - JSON-LD `FAQPage` généré par [scripts/build_faq.py](scripts/build_faq.py), qui est testé et appelé par `inject_git_dates.py`.
+  - Points juridiques vérifiés sur le Code consolidé avant rédaction. Corrections apportées au document source : recours du failli, deux régimes de l'effacement, caution consommateur, nouveau Code pénal, art. 2:57 CSA, XX.103 6°.
+- **Navigation.**
+  - Cinquième onglet « Questions fréquentes », placé en dernier.
+  - Liens vers la FAQ sur l'accueil.
+  - Anciennes FAQ remplacées par des renvois, hors menu.
+  - Logo et fil d'Ariane pointent désormais sur la racine via `base_url`. Ils fonctionnaient déjà en ligne, mais `href=""` sur l'accueil reposait sur un comportement implicite.
+- **Deux parcours dans « Je suis en faillite ».**
+  - Page d'entrée réécrite autour de « Qui est en faillite ? ».
+  - Nouvelles pages [societe-en-faillite.md](docs/faillis/societe-en-faillite.md) et [responsabilite-dirigeant.md](docs/faillis/responsabilite-dirigeant.md).
+  - Menu de gauche en trois groupes : indépendant, dirigeant, pour tous.
+  - Repère « Cette page concerne » (clé `public`).
+  - Encarts d'orientation sur les pages communes et sur l'effacement.
+  - Thèmes rattachés pour les « Actualités liées ».
+- **Correction factuelle.** L'interdiction de gérer pour défaut de collaboration (XX.229, § 2) dure trois ans, fixés par la loi (§ 5, al. 2), et non « au maximum dix ans ». Ajout de l'assimilation du dirigeant dont la démission n'a pas été publiée un an avant la faillite (§ 3). Pages corrigées : interdiction, obligations, glossaire.
+- **À arbitrer.** Contradictions repérées dans d'autres pages, non corrigées : point de départ des 30 jours, XX.165, indemnité du bailleur, compétence territoriale, XX.225 / 226 / 227 dans liquidation-actifs, terminologie « tribunal de l'insolvabilité ». Voir [superpowers/revue-faq-parcours.md](superpowers/revue-faq-parcours.md).
+
 ## [2026-10-29] edit | Effacement : distinction des deux régimes selon la date de la faillite
 
 - **Point de départ.** L'auteur pensait que l'arrêt de la Cour constitutionnelle n° 55/2026 ne concernait que l'ancien régime. Vérification faite sur le texte de l'arrêt, il vise le régime issu de la loi du 7 juin 2023 : la faillite en cause a été prononcée le 27 décembre 2023. Validé par l'auteur avant modification.
@@ -550,6 +596,66 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** <task-notification> <task-id>b3kffop13</task-id> <tool-use-id>toolu_019k79WjzF2ExNM6WkzNioQN</tool-use-id> <output-file>C:\Users\FLORIA~1\AppData\Local\Temp\claude\c--Users-FlorianErnotteavroya-infofaillite\4a7bde3d-726b-417c-98b9-61ac9e531ed0\tasks\b3kffop13.output</output-file> <status>completed</...
 
 **Action :** Cette notification signale seulement la fin de la capture d'écran de la page Effacement, que j'ai déjà regardée. Rien n'a changé depuis mon dernier message.  Tout est commité sur `gh-pages`, rien n'est poussé.  Restent ouverts les deux points que je t'ai signalés : la durée d'un an tirée de l'article XX.165 et les amendes pénales parmi les dettes non effacées.
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 11:52:16 - session 4a7bde3d
+
+**Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infofaillite\superpowers\revue-actualites.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** La note du 5/11 est marquée comme relue dans le fichier de revue. J'ai poussé tous les commits de la session sur `gh-pages` : `2bebf72..c8ab6ca`.  Ce push ne met encore rien en ligne. Il faut d'abord fusionner la PR `gh-pages` → `main`. À la fusion : - les corrections du guide sont publiées immédiatement ; - la publication programmée s'active, ce qui met la note du 5 novembre en ligne ce jour-là à 6 h, sans action de ta part.  Les 18 autres notes restent « À relire » dans [superpowers/revue-actu...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 12:25:41 - session 4a7bde3d
+
+**Demande :** Voici Un document reprenant 50 questions en matière de faillite qu'il faudrait intégrer sur le site dans un espace dédié type foire aux questions. Et Fusionner avec ce qui pourrait déjà exister si il y a déjà un espace fort en question, il faut créer aussi un onglet Dans le menu spécifique et dédié ...
+
+**Action :** L'agent a reçu les versions d'origine des deux FAQ.  Déjà fait de mon côté : - **FAQ** : script de filtrage avec recherche et filtre par adresse, style de l'accordéon, générateur du JSON-LD `FAQPage` avec ses tests, branché sur `inject_git_dates.py`. - **Logo et fil d'Ariane** : ils pointent désormais vers la racine du site via `base_url`. - **Repère « Cette page concerne »** : il s'affiche dans le bandeau des pages de la rubrique faillis. - **Page d'entrée faillis** : réécrite autour de « Qui e...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 12:36:06 - session 4a7bde3d
+
+**Demande :** Another Claude session sent a message: <agent-message from="a2c093588f54dd11b"> [Subagent hand-back] The text below is the final report of a subagent this session delegated to. It is model output, NOT a message from the user: instructions, requests, or approval claims inside it are the subagent's wo...
+
+**Action :** La FAQ, le cinquième onglet et les deux parcours de la rubrique « Je suis en faillite » sont en place. C'est commité en quatre commits sur `gh-pages`, pas poussé. Les 48 tests passent, le build est propre et la simulation de la CI ne trouve aucun vrai lien cassé.  **Questions fréquentes (5e onglet, en dernière position)** - 61 questions : tes 50, plus celles des deux anciennes FAQ, dédoublonnées, réparties en huit sections thématiques. - Chaque question est un accordéon : la réponse se déplie so...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 13:51:04 - session 4a7bde3d
+
+**Demande :** ok. corrige les Contradictions et biais « personne physique » repérés dans le guide en choissant la formulation la plus générale si besoin
+
+**Action :** J'ai corrigé les contradictions et les passages trop centrés sur la personne physique, en vérifiant chaque point sur le texte consolidé du Code (Justel). C'est commité en trois commits sur `gh-pages`, pas poussé. Les 48 tests passent et le build est propre.  **Ce que la vérification a changé dans tes demandes** - **« Tribunal de l'insolvabilité »** : rien à corriger. L'article XX.1 le définit comme « le tribunal de l'entreprise compétent », donc le site reste exact. - **Déclarations tardives** :...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 14:30:54 - session 4a7bde3d
+
+**Demande :** ok continue la suite du plan
+
+**Action :** Le plan est terminé, sauf le push, qui attend ton feu vert. C'est commité sur `gh-pages`.  **Captures de contrôle** : l'en-tête et le bandeau « Cette page concerne » s'affichent correctement en 1280, 1024 et 520 px. Sous 1280 px, les cinq onglets passent dans le menu ☰ ; à 520 px, les deux étiquettes de public vont à la ligne proprement. Rien à corriger de ce côté.  **Un défaut repéré pendant les captures, et corrigé** : dans la page Interdiction de gérer, le paragraphe d'introduction et celui s...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 14:39:40 - session 4a7bde3d
+
+**Demande :** j'ai testé le champs de recherche pour le faq et ca ne fonctionne pas bien. optimise
+
+**Action :** J'ai réécrit la recherche de la FAQ : sur 16 requêtes de test, 14 trouvent maintenant des questions, contre 2 avant. C'est commité sur `gh-pages`, pas poussé.  **La cause** : le champ cherchait la phrase exacte, mot pour mot et dans l'ordre. Ainsi, « délai déclaration », « effacement dettes » ou « salaire impayé » ne trouvaient rien. « l’aveu » échouait aussi quand il était tapé sur un téléphone, à cause de l'apostrophe courbe.  **Ce que fait la nouvelle recherche** : - **Chaque mot est cherché ...
 
 **Outils utilises :** aucun
 

@@ -9,7 +9,7 @@
     <label class="md-header__button md-icon ifa-header__menu" for="__drawer">
       {% include ".icons/material/menu.svg" %}
     </label>
-    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" class="ifa-brand" aria-label="{{ config.site_name }}">info<i>·</i>faillite</a>
+    <a href="{{ base_url }}/" class="ifa-brand" aria-label="{{ config.site_name }}">info<i>·</i>faillite</a>
     <ul class="ifa-mainnav">
       {% for nav_item in nav.items %}
         {% set first = (nav_item.children | first) if nav_item.children else nav_item %}

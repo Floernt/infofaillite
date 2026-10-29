@@ -4,10 +4,16 @@ description: Checklist pratique après le jugement de faillite - Ce qu'il faut f
 keywords: que faire après jugement faillite, checklist faillite belgique, premières
   actions faillite, priorités failli, semaine faillite
 updated: '2026-10-29'
+public:
+- independant
+- dirigeant
 ---
 # La checklist pratique pour la première semaine
 
 Les premiers jours qui suivent le jugement de faillite sont les plus importants. Ils conditionnent la suite de la procédure, votre droit à l'effacement des dettes et votre capacité à rebondir rapidement. Cette checklist vous donne les actions prioritaires à effectuer dans l'ordre, sans rien oublier.
+
+!!! note "Indépendant ou dirigeant de société ?"
+    Cette checklist suit le point de vue de l'indépendant en nom propre. Si c'est votre société qui est en faillite, les étapes de collaboration (documents, descente de faillite, clés et accès, réponses au curateur) valent pour vous en tant que dirigeant ; l'ouverture d'un compte personnel et l'effacement ne vous concernent pas de la même manière, puisque vos biens personnels ne sont pas dans la masse. Voir [les premiers jours pour le dirigeant](societe-en-faillite.md#les-premiers-jours-votre-checklist).
 
 ---
 
@@ -65,9 +71,9 @@ Remettez au curateur l'intégralité des clés des locaux professionnels, les co
 
 ## Jours 1 à 30 — Les démarches urgentes
 
-### Renseignez-vous sur le droit passerelle (si vous étiez indépendant)
+### Renseignez-vous sur le droit passerelle
 
-Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle qui s'élève, selon l'INASTI, à 1.704,40 euros sans charge de famille et à 2.128,11 euros avec charge de famille (montants indexés au 1er septembre 2026), pendant douze mois au maximum. La demande doit être introduite au plus tard à la fin du deuxième trimestre qui suit celui de la faillite. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena ou la caisse nationale auxiliaire) dans les jours qui suivent le jugement.
+Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle qui s'élève, selon l'INASTI, à 1.704,40 euros sans charge de famille et à 2.128,11 euros avec charge de famille (montants indexés au 1er septembre 2026), pendant douze mois au maximum. La demande doit être introduite au plus tard à la fin du deuxième trimestre qui suit celui de la faillite. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena ou la caisse nationale auxiliaire) dans les jours qui suivent le jugement. Si c'est votre société qui est en faillite et que vous étiez affilié au statut social des indépendants comme gérant ou administrateur, le droit passerelle peut aussi vous être ouvert : votre caisse vérifiera les conditions.
 
 ### Informez vos proches ou associés qui se sont portés caution
 

@@ -4,7 +4,7 @@ description: Guide complet et accessible sur la faillite en Belgique - Informati
 keywords: faillite belgique, insolvabilité belgique, faillis droits obligations, créanciers
   faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance,
   tribunal entreprise
-updated: '2026-10-28'
+updated: '2026-10-29'
 template: home.html
 hide:
 - navigation
@@ -19,7 +19,7 @@ hide:
 Un guide pratique pour les faillis, les dirigeants et les créanciers : vos obligations, vos droits, les délais et le déroulement de la procédure, article par article.
 {: .ifa-lead }
 
-[Je suis en faillite](faillis/README.md){ .ifa-arrow } [Je suis créancier](creanciers/README.md){ .ifa-arrow }
+[Je suis en faillite](faillis/README.md){ .ifa-arrow } [Je suis créancier](creanciers/README.md){ .ifa-arrow } [Questions fréquentes](faq/README.md){ .ifa-arrow }
 {: .ifa-ctas }
 </div>
 <div class="ifa-featured" markdown>
@@ -68,8 +68,8 @@ Chaque rubrique répond aux questions que l'on se pose réellement, dans l'ordre
 </div>
 
 - [Que faire la première semaine ?](faillis/checklist-premiere-semaine.md)
-- [Mes dettes seront-elles effacées ?](faillis/effacement.md)
-- [Puis-je encore travailler ?](faillis/reprendre-activite.md)
+- [Indépendant : mes dettes seront-elles effacées ?](faillis/effacement.md)
+- [Ma société est en faillite : suis-je responsable ?](faillis/responsabilite-dirigeant.md)
 </div>
 <div class="ifa-tile ifa-tile--bondi" markdown>
 <div class="ifa-tile__cover" markdown>
@@ -113,6 +113,6 @@ Chaque rubrique répond aux questions que l'on se pose réellement, dans l'ordre
 
 Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 à XX.241) et sur le vademecum de la faillite édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025). Il s'applique aux faillites déclarées à partir du 1er septembre 2023. Chaque faillite a ses particularités : pour votre situation, consultez le curateur désigné, le juge-commissaire ou un avocat spécialisé en droit de l'insolvabilité.
 
-[Ressources et organismes](ressources.md){ .ifa-btn } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
+[Questions fréquentes](faq/README.md){ .ifa-btn } [Ressources et organismes](ressources.md){ .ifa-btn .ifa-btn--ghost } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
 {: .ifa-ctas }
 </div>

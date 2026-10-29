@@ -3,7 +3,7 @@ description: Comment déclarer votre créance dans une faillite - Délai de 30 j
   procédure REGSOL, contenu obligatoire, déclarations tardives
 keywords: déclarer créance faillite, délai 30 jours belgique, REGSOL créance, formulaire
   déclaration créance faillite, procédure déclaration faillite
-updated: '2026-05-15'
+updated: '2026-10-29'
 ---
 # Déclarer votre créance dans les trente jours
 
@@ -15,10 +15,10 @@ Pour tout ce qui concerne les garanties spécifiques — hypothèques, gages, ca
 
 ## Le délai de trente jours
 
-Le jugement déclaratif de faillite est publié au Moniteur belge dans les cinq jours qui suivent son prononcé. Dès cette publication, le délai de trente jours commence à courir. Ces trente jours sont des jours calendrier — les week-ends et jours fériés comptent. Si le trentième jour tombe un samedi, un dimanche ou un jour férié, le délai est prorogé au premier jour ouvrable suivant.
+Le jugement déclaratif fixe la date limite de déclaration, qui ne peut dépasser trente jours à compter du jugement lui-même (article XX.104), et non de sa publication. Il est publié au Moniteur belge dans les cinq jours qui suivent son prononcé : vérifiez la date exacte dans l'extrait publié ou sur Regsol, sans calculer à partir de la publication. Ces trente jours sont des jours calendrier — les week-ends et jours fériés comptent. Si le trentième jour tombe un samedi, un dimanche ou un jour férié, le délai est prorogé au premier jour ouvrable suivant.
 
 !!! danger "Ne manquez pas le délai de trente jours"
-    Une déclaration effectuée après le trentième jour peut encore être acceptée, mais vous serez exclu de toutes les répartitions provisoires. La déclaration tardive reste recevable jusqu'au dépôt du troisième procès-verbal de vérification (environ douze mois après le jugement) ; au-delà, elle est irrecevable. La date limite des trente jours est indiquée clairement dans l'onglet "Délais" de votre dossier sur REGSOL.
+    Une déclaration effectuée après la date limite peut encore être prise en compte, mais vous ne participez qu'aux répartitions faites sur l'actif non encore distribué et vous supportez les frais de vérification de votre créance. Le droit d'agir en admission se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165). La date limite est indiquée clairement dans l'onglet "Délais" de votre dossier sur REGSOL.
 
 Le curateur publie également les coordonnées de votre dossier sur [REGSOL](https://www.regsol.be) dès le premier jour ouvrable suivant le jugement. Vérifiez-y la date limite exacte avant d'agir.
 
@@ -99,7 +99,7 @@ Vous pouvez modifier votre déclaration après envoi, à condition de contacter 
 
 **Le curateur peut-il refuser ma déclaration ?** Non. Il ne peut pas refuser d'enregistrer une déclaration reçue dans les délais. Il peut en revanche contester votre créance lors de la vérification — ce qui est une démarche distincte.
 
-**J'ai dépassé le délai de trente jours. Est-il trop tard ?** Pas nécessairement. Une déclaration tardive reste recevable jusqu'au dépôt du troisième procès-verbal de vérification (environ douze mois après le jugement), mais vous ne participerez pas aux répartitions provisoires éventuelles. Une fois le 3ᵉ procès-verbal déposé, la forclusion est acquise. Voir [la vérification des créances et les procès-verbaux](verification-contestation.md) pour le détail.
+**J'ai dépassé le délai de trente jours. Est-il trop tard ?** Pas nécessairement. Une déclaration tardive reste possible : le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance. Son droit d'agir en admission se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165). Déclarez sans attendre. Voir [la vérification des créances et les procès-verbaux](verification-contestation.md) pour le détail.
 
 ---
 

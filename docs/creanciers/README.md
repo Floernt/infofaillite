@@ -3,14 +3,14 @@ description: Guide complet pour les créanciers d'une faillite en Belgique - Dé
   votre créance, comprendre la vérification, recevoir votre dividende
 keywords: créancier faillite belgique, déclarer créance faillite, délai 30 jours créance,
   dividende faillite, rang créanciers belgique
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # Je suis créancier d'une entreprise en faillite
 
 Votre client, locataire ou partenaire commercial a été déclaré en faillite ? Vous êtes désormais créancier de la masse faillie. Cette section vous explique concrètement les démarches à effectuer, les délais à respecter et les droits dont vous disposez.
 
 !!! danger "Priorité absolue : déclarez votre créance dans les 30 jours"
-    Vous avez trente jours à compter de la publication du jugement au Moniteur belge pour déclarer votre créance auprès du curateur. Passé ce délai, vous ne participez plus aux répartitions provisoires. Une déclaration tardive reste cependant recevable tant que le curateur n'a pas déposé le troisième procès-verbal de vérification (en pratique environ douze mois après le jugement) ; au-delà, votre droit est forclos. Commencez par [déclarer votre créance dans les trente jours](declarer-creance.md).
+    Le jugement de faillite fixe la date limite de déclaration : trente jours au plus à compter du jugement (article XX.104). Passé ce délai, vous ne participez plus qu'aux répartitions faites sur l'actif non encore distribué. Le droit d'agir en admission se prescrit par un an à compter du jugement, sauf exceptions limitées (article XX.165). Commencez par [déclarer votre créance dans les trente jours](declarer-creance.md).
 
 <div class="ifa-subtiles" markdown>
 [**Déclarer sa créance** Le délai de trente jours, REGSOL et le contenu de la déclaration.](declarer-creance.md){ .ifa-subtile }
@@ -90,5 +90,5 @@ En tant que créancier, vous avez le droit d'être informé de l'avancement de l
 - [Le paiement des dividendes aux créanciers](paiement-dividendes.md)
 - [Vos droits dans la procédure de faillite](droits-specifiques.md)
 - [Les droits des créanciers selon leur catégorie](creanciers-categories.md)
-- [Questions fréquentes des créanciers](faq.md)
+- [Questions fréquentes des créanciers](../faq/README.md#profil=creancier)
 - [Les délais importants à ne pas manquer](../delais.md)

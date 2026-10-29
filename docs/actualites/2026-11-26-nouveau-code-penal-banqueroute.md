@@ -69,7 +69,9 @@ Plusieurs manquements de la banqueroute simple renvoient directement au Livre XX
 
 - [Vos obligations légales en tant que failli](../faillis/obligations.md)
 - [La checklist pratique pour la première semaine](../faillis/checklist-premiere-semaine.md)
+- [Votre société est en faillite : ce qui change pour vous](../faillis/societe-en-faillite.md)
 - [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
+- [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md)
 - [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
 - [Les procédures alternatives à la faillite](../comprendre/procedures-alternatives.md)
 

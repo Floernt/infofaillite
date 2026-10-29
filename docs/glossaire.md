@@ -25,7 +25,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ## B
 
-**Banqueroute** — Infraction pénale propre à la faillite, reprise aux articles 489 à 491 du nouveau Code pénal, en vigueur depuis le 1er septembre 2026. La **banqueroute simple** (art. 490) vise l'entreprise faillie ou le dirigeant qui, notamment, a omis de faire aveu dans le délai pour retarder la faillite, a payé ou favorisé un créancier au préjudice de la masse, n'a pas fourni les renseignements exigés lors de l'aveu ou a fourni des renseignements inexacts au juge-commissaire ou au curateur. La **banqueroute frauduleuse** (art. 491) suppose une intention frauduleuse ou le dessein de nuire : détourner ou dissimuler une partie de l'actif, ou soustraire les livres et documents comptables. Les poursuites sont indépendantes de la procédure devant le tribunal de l'entreprise. D'autres infractions peuvent s'y ajouter : abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité (art. 496).
+**Banqueroute** — Infraction pénale propre à la faillite, reprise parmi les infractions liées à l'insolvabilité (articles 489 à 497 du nouveau Code pénal), en vigueur depuis le 1er septembre 2026. La **banqueroute simple** (art. 490) vise l'entreprise faillie ou le dirigeant qui, notamment, a omis de faire aveu dans le délai pour retarder la faillite, a payé ou favorisé un créancier au préjudice de la masse, n'a pas fourni les renseignements exigés lors de l'aveu ou a fourni des renseignements inexacts au juge-commissaire ou au curateur. La **banqueroute frauduleuse** (art. 491) suppose une intention frauduleuse ou le dessein de nuire : détourner ou dissimuler une partie de l'actif, ou soustraire les livres et documents comptables. Les poursuites sont indépendantes de la procédure devant le tribunal de l'entreprise. D'autres infractions peuvent s'y ajouter : abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité (art. 496).
 
 ---
 
@@ -57,7 +57,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ## D
 
-**Déclaration de créance** — Formalité obligatoire par laquelle un créancier informe le curateur de l'existence et du montant de sa créance. Elle doit être déposée via REGSOL ou par recommandé au curateur dans les trente jours suivant la publication du jugement de faillite. Sans déclaration, le créancier ne peut pas être payé.
+**Déclaration de créance** — Formalité obligatoire par laquelle un créancier informe le curateur de l'existence et du montant de sa créance. Elle doit être déposée via REGSOL ou par recommandé au curateur dans le délai fixé par le jugement de faillite, au maximum trente jours à compter de celui-ci (article XX.104). Sans déclaration, le créancier ne peut pas être payé.
 
 **Décharge** — Libération d'une obligation. La caution déchargée est libérée de son engagement de garantie. Le curateur déchargé est libéré de sa mission à la clôture de la faillite.
 
@@ -81,11 +81,11 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ## F
 
-**Failli** — Personne physique ou entreprise déclarée en état de faillite par jugement du tribunal de l'entreprise.
+**Failli** — Entreprise déclarée en faillite par jugement du tribunal de l'entreprise : une personne physique qui exerce en nom propre (indépendant, profession libérale) ou une personne morale (société, ASBL, fondation). Dans la faillite d'une société, ce sont ses dirigeants qui accomplissent pour elle les obligations du failli.
 
 **Faillite** — Procédure judiciaire collective organisant le règlement ordonné des dettes d'un commerçant ou d'une entreprise qui ne peut plus faire face à ses engagements. Régie par le Livre XX du Code de droit économique (articles XX.1 à XX.241).
 
-**Forclusion** — Perte définitive et irréversible d'un droit en raison du dépassement d'un délai légal impératif. La forclusion ne peut pas être régularisée après coup. Pour la déclaration de créance dans une faillite, la forclusion intervient au dépôt du 3ᵉ procès-verbal de vérification (voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)).
+**Forclusion** — Perte définitive et irréversible d'un droit en raison du dépassement d'un délai légal impératif. La forclusion ne peut pas être régularisée après coup. Pour la déclaration de créance dans une faillite, le droit d'agir en admission se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165 ; voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)).
 
 ---
 
@@ -111,7 +111,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 **Insuffisance d'actif** — Situation où la valeur des biens du failli est insuffisante pour couvrir les frais de procédure et les honoraires du curateur. C'est le cas dans environ 70 % des faillites. Elle conduit à une clôture rapide, sans paiement aux créanciers chirographaires.
 
-**Interdiction de gérer** — Sanction prononcée par le tribunal de l'entreprise interdisant à une personne de diriger, gérer ou contrôler une entreprise commerciale, pendant une durée maximale de dix ans (article XX.229). Le tribunal peut l'assortir d'un sursis, partiel ou total, d'une durée maximale de trois ans. Elle est inscrite au registre JustBan, consultable publiquement. Elle ne peut être levée pour bonne conduite : voir *Réhabilitation*.
+**Interdiction de gérer** — Sanction prononcée par le tribunal de l'entreprise interdisant à une personne de diriger, gérer ou contrôler une entreprise commerciale, pendant une durée maximale de dix ans en cas de faute grave et caractérisée ayant contribué à la faillite, et de trois ans en cas de défaut de collaboration pendant la faillite (article XX.229). Le tribunal peut l'assortir d'un sursis, partiel ou total, d'une durée maximale de trois ans. Elle est inscrite au registre JustBan, consultable publiquement. Elle ne peut être levée pour bonne conduite : voir *Réhabilitation*.
 
 **Inventaire** — Liste exhaustive de tous les biens du failli, dressée par le curateur sans délai après la descente de faillite. Elle constitue le périmètre de la masse active que le curateur va liquider.
 

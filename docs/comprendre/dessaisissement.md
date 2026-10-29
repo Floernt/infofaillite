@@ -3,11 +3,14 @@ description: Le dessaisissement en faillite - Perte du droit de gérer ses biens
   de la masse faillie, biens insaisissables, revendications des tiers
 keywords: dessaisissement faillite belgique, masse faillie, biens insaisissables faillite,
   curateur gestion biens, revendication propriété faillite
-updated: '2026-08-31'
+updated: '2026-10-29'
 ---
 # Le dessaisissement
 
 Dès que le tribunal prononce le jugement déclaratif de faillite, le failli perd de plein droit l'administration et la disposition de l'ensemble de ses biens. Ce mécanisme, prévu par le Code de droit économique, s'appelle le dessaisissement. Il ne signifie pas que vous perdez la propriété de vos biens : vous en restez juridiquement propriétaire. Mais c'est le curateur qui les gère désormais, les vend et encaisse les créances, dans l'intérêt collectif des créanciers.
+
+!!! note "Si c'est votre société qui est en faillite"
+    C'est la société qui est dessaisie de ses biens, pas vous : votre patrimoine personnel n'entre pas dans la masse. En tant que dirigeant, vous ne pouvez plus engager la société ni disposer de ses biens, et vous restez tenu de collaborer avec le curateur. Les passages de cette page sur le patrimoine unique, les biens insaisissables et vos revenus futurs visent l'indépendant en nom propre. Voir [ce que la faillite de votre société change pour vous](../faillis/societe-en-faillite.md).
 
 ---
 

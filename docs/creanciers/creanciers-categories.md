@@ -5,7 +5,7 @@ description: Les droits des créanciers selon leur catégorie - Salarié, baille
 keywords: créancier salarié faillite, bailleur commercial faillite, banque hypothèque
   faillite, fournisseur chirographaire faillite, ONSS privilège faillite, administration
   fiscale faillite
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 # Les droits des créanciers selon leur catégorie
 
@@ -42,7 +42,7 @@ Le privilège est limité aux meubles présents dans les lieux loués — il ne 
 
 ### La résiliation automatique du bail
 
-En règle générale, la faillite n'entraîne pas la résiliation automatique du bail commercial — le curateur hérite du bail et peut choisir de le poursuivre ou d'y mettre fin. Si le curateur choisit de résilier, le bailleur est créancier de la masse pour l'indemnité de résiliation anticipée, qui sera traitée comme dette de masse (payée en priorité). Si le curateur refuse de payer les loyers courants, le bailleur peut saisir le juge-commissaire.
+En règle générale, la faillite n'entraîne pas la résiliation automatique du bail commercial — le curateur hérite du bail et peut choisir de le poursuivre ou d'y mettre fin. Si le curateur choisit de résilier, l'indemnité éventuellement due au bailleur « entre dans la masse » (article XX.139, § 1er) : c'est une créance dans la masse, à déclarer, et non une dette de masse payée en priorité. Le bailleur peut mettre le curateur en demeure de se prononcer dans les quinze jours ; à défaut de décision expresse, le bail est considéré comme résilié. Si le curateur refuse de payer les loyers courants, le bailleur peut saisir le juge-commissaire.
 
 ### La revendication des biens propres
 

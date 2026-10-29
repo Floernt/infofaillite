@@ -163,16 +163,18 @@ def main(argv: list[str] | None = None) -> int:
     print(f"{changed} fichier(s) mis à jour, {unchanged} inchangé(s).")
 
     # Le sitemap statique reprend les dates `updated` : il suit leur mise à jour.
-    sitemap_code = 0
+    # Le JSON-LD de la FAQ suit le contenu de la page des questions fréquentes.
+    sitemap_code = faq_code = 0
     if (repo_root / "overrides").is_dir() and (repo_root / "zensical.toml").is_file():
         sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import build_faq
         import build_sitemap
 
-        sitemap_code = build_sitemap.main(
-            ["--check"] if args.check else [], repo_root=repo_root
-        )
+        check = ["--check"] if args.check else []
+        faq_code = build_faq.main(check, repo_root=repo_root)
+        sitemap_code = build_sitemap.main(check, repo_root=repo_root)
 
-    if args.check and (changed > 0 or sitemap_code):
+    if args.check and (changed > 0 or sitemap_code or faq_code):
         return 1
     return 0
 

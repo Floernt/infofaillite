@@ -65,6 +65,7 @@ Le délai d'aveu de faillite de l'article XX.102 du CDE, un mois, est plus court
 
 - [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
 - [La période suspecte et les nullités en faillite](../comprendre/periode-suspecte.md)
+- [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md)
 - [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
 - [Les procédures alternatives à la faillite](../comprendre/procedures-alternatives.md)
 

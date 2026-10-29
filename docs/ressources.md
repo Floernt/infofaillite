@@ -3,7 +3,7 @@ description: Ressources officielles et contacts utiles pour la faillite en Belgi
   - REGSOL, tribunaux, SPF Justice, organismes d'aide, textes légaux
 keywords: ressources faillite belgique, REGSOL, tribunaux entreprise belgique, SPF
   Justice faillite, aide faillite indépendant, Fonds Fermeture Entreprises
-updated: '2026-09-02'
+updated: '2026-10-29'
 ---
 # Ressources et organismes utiles
 
@@ -19,7 +19,7 @@ Cette page rassemble les liens officiels, contacts et organismes d'aide utiles p
 
 ### Moniteur belge
 
-Le [Moniteur belge](https://www.ejustice.just.fgov.be/cgi/welcome.pl) publie les jugements déclaratifs de faillite dans les cinq jours suivant leur prononcé. C'est à partir de cette publication que les délais courent — notamment le délai de trente jours pour déclarer votre créance. Consultez la rubrique "Faillites" en recherchant par nom d'entreprise ou par numéro BCE.
+Le [Moniteur belge](https://www.ejustice.just.fgov.be/cgi/welcome.pl) publie les jugements déclaratifs de faillite dans les cinq jours suivant leur prononcé. Certains délais courent à partir de cette publication, comme l'appel ou la tierce opposition contre le jugement. Le délai de déclaration de créance, lui, court du jugement : l'extrait publié en indique la date limite. Consultez la rubrique "Faillites" en recherchant par nom d'entreprise ou par numéro BCE.
 
 ### JustBan — Registre des interdictions de gérer
 
@@ -29,7 +29,7 @@ Le registre [JustBan](https://www.juridat.be) (accessible via juridat.be) vous p
 
 ## Tribunaux de l'entreprise
 
-Le tribunal de l'entreprise compétent est celui du siège social de l'entreprise faillie (ou du domicile du commerçant personne physique). Vous trouverez les coordonnées de l'ensemble des tribunaux sur [www.rechtbanken-tribunaux.be](https://www.rechtbanken-tribunaux.be).
+Le tribunal de l'entreprise compétent est celui du centre des intérêts principaux du débiteur : en principe le siège pour une société, le lieu d'activité principal pour un indépendant en nom propre (article XX.12). Vous trouverez les coordonnées de l'ensemble des tribunaux sur [www.rechtbanken-tribunaux.be](https://www.rechtbanken-tribunaux.be).
 
 **Quelques tribunaux principaux :**
 

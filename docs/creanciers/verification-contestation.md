@@ -3,7 +3,7 @@ description: La vérification des créances dans la faillite - Les trois procès
   comment le curateur examine votre créance, admission et réserve
 keywords: vérification créance faillite, procès verbal créance faillite, admission
   créance faillite belgique, réserve créance faillite, REGSOL créances
-updated: '2026-08-31'
+updated: '2026-10-29'
 ---
 # La vérification des créances et les procès-verbaux
 
@@ -29,7 +29,7 @@ Le deuxième procès-verbal intervient environ six mois après le jugement. Il p
 
 Le troisième procès-verbal intervient environ douze mois après le jugement. Il a un caractère définitif : les réserves doivent être levées, sauf si un litige judiciaire est encore pendant ou si une créance conditionnelle n'est pas encore réalisée. Après ce procès-verbal, les créances admises ne peuvent plus être contestées sauf en cas de fraude avérée ou d'erreur matérielle manifeste.
 
-Le dépôt du 3ᵉ procès-verbal est aussi la **date limite pratique pour qu'une déclaration de créance tardive soit recevable** : une déclaration parvenue au curateur après ce dépôt n'est plus traitée, même si elle arrive avant le délai légal d'un an.
+Pour les déclarations tardives, la limite est fixée par la loi : le créancier défaillant peut agir en admission jusqu'à la convocation à l'assemblée de clôture, et son droit se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165). Il ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance.
 
 ---
 
@@ -83,7 +83,7 @@ Vous pouvez assister physiquement aux procès-verbaux, même si votre présence 
 
 **Le curateur peut-il revenir sur une admission au premier procès-verbal ?** Oui, jusqu'au troisième procès-verbal. C'est rare en pratique, mais possible si une preuve de paiement antérieur est découverte ou si la comptabilité révèle une anomalie.
 
-**Les créances admises produisent-elles des intérêts pendant la faillite ?** Non, en règle générale. L'article XX.113 du Code de droit économique arrête le cours des intérêts à l'égard de la masse dès le jugement déclaratif. Exception : les créanciers hypothécaires continuent à percevoir des intérêts sur le produit de la vente du bien grevé, dans la limite du rang hypothécaire. Le montant à déclarer est donc arrêté à la date du jugement — voir [les dettes avant la faillite : intérêts, frais et saisies](../comprendre/dettes-avant-faillite.md) pour ce qui s'accumule avant cette date.
+**Les créances admises produisent-elles des intérêts pendant la faillite ?** Non, en règle générale. L'article XX.117 du Code de droit économique arrête le cours des intérêts à l'égard de la masse dès le jugement déclaratif. Exception : les créances garanties par une hypothèque, un gage ou un privilège spécial continuent à produire des intérêts, payables uniquement sur le produit des biens grevés. Le montant à déclarer est donc arrêté à la date du jugement — voir [les dettes avant la faillite : intérêts, frais et saisies](../comprendre/dettes-avant-faillite.md) pour ce qui s'accumule avant cette date.
 
 **Que faire si le curateur ne donne pas suite à mes demandes d'information ?** Relancez d'abord par email puis par recommandé. Si le silence persiste, contactez le juge-commissaire par courrier en exposant les tentatives de contact et le problème rencontré.
 

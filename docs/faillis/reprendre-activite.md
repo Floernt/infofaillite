@@ -4,10 +4,16 @@ description: Reprendre une activité après faillite - Droits, restrictions, dro
 keywords: travailler après faillite, reprendre activité faillite, droit passerelle
   belgique, créer entreprise après faillite, salarié failli
 updated: '2026-10-29'
+public:
+- independant
+- dirigeant
 ---
 # Reprendre une activité après votre faillite
 
 La faillite ne vous interdit pas de travailler. Dès le jugement déclaratif, vous pouvez chercher un emploi salarié, démarrer une nouvelle activité indépendante ou créer une nouvelle société — sauf si vous faites l'objet d'une interdiction de gérer. Vos revenus futurs vous appartiennent entièrement et ne tombent pas dans la masse faillie.
+
+!!! note "Indépendant ou dirigeant de société ?"
+    Ces règles valent dans les deux cas : la faillite n'empêche ni de travailler comme salarié, ni de lancer une nouvelle activité, ni de créer une société, sauf interdiction de gérer prononcée par le tribunal. Si vous dirigiez une société faillie, lisez aussi [votre responsabilité personnelle de dirigeant](responsabilite-dirigeant.md) avant de vous engager dans un nouveau mandat.
 
 ---
 
@@ -47,13 +53,15 @@ Si vous n'êtes pas frappé d'interdiction de gérer, vous pouvez créer une SRL
 
 ---
 
-## Le droit passerelle pour les indépendants faillis
+## Le droit passerelle
 
 Si vous étiez indépendant avant la faillite, vous pouvez bénéficier du droit passerelle : une prestation mensuelle selon votre situation familiale, maintenue pendant douze mois au maximum, accompagnée du maintien de vos droits aux soins de santé.
 
 Selon l'INASTI, la prestation mensuelle s'élève à 1.704,40 euros sans charge de famille et à 2.128,11 euros avec charge de famille (montants indexés au 1er septembre 2026). Pendant cette période, vous ne payez pas de cotisations sociales.
 
 Pour en bénéficier, l'INASTI pose les conditions suivantes : être indépendant, aidant ou conjoint aidant au maxi-statut ; avoir été assujetti au statut social pendant le trimestre de la faillite et les trois trimestres précédents ; avoir payé des cotisations provisoires pour au moins quatre trimestres au cours des seize trimestres précédents ; avoir sa résidence principale en Belgique ; et ne pas avoir été condamné pénalement dans le cadre de la faillite. La demande doit être introduite auprès de votre caisse au plus tard à la fin du deuxième trimestre qui suit celui de la faillite : pour un jugement prononcé en février, au plus tard le 30 septembre. Contactez votre caisse d'assurances sociales (Xerius, Acerta, Liantis, Securex, Partena, ou la caisse publique nationale auxiliaire) pour démarrer la procédure. Ils vous guideront dans la constitution du dossier.
+
+Le gérant ou l'administrateur d'une société faillie, affilié au statut social des indépendants, peut aussi y avoir droit. Les conditions s'apprécient au cas par cas : interrogez votre caisse dès le jugement.
 
 ---
 
