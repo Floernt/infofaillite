@@ -53,13 +53,20 @@ Copyright &copy; 2026 Info-faillite
 nav = [
   { "Je suis en faillite" = [
     "faillis/README.md",
-    { "La première semaine" = "faillis/checklist-premiere-semaine.md" },
-    { "Vos obligations" = "faillis/obligations.md" },
-    { "Vos droits" = "faillis/droits.md" },
-    { "Effacement des dettes" = "faillis/effacement.md" },
-    { "Reprendre une activité" = "faillis/reprendre-activite.md" },
-    { "Interdiction de gérer" = "faillis/interdiction.md" },
-    { "Questions fréquentes" = "faillis/faq.md" },
+    { "Indépendant en nom propre" = [
+      { "Effacement des dettes" = "faillis/effacement.md" },
+    ] },
+    { "Dirigeant de société" = [
+      { "Votre société en faillite" = "faillis/societe-en-faillite.md" },
+      { "Votre responsabilité" = "faillis/responsabilite-dirigeant.md" },
+    ] },
+    { "Pour tous" = [
+      { "La première semaine" = "faillis/checklist-premiere-semaine.md" },
+      { "Vos obligations" = "faillis/obligations.md" },
+      { "Vos droits" = "faillis/droits.md" },
+      { "Reprendre une activité" = "faillis/reprendre-activite.md" },
+      { "Interdiction de gérer" = "faillis/interdiction.md" },
+    ] },
   ] },
   { "Je suis créancier" = [
     "creanciers/README.md",
@@ -70,7 +77,6 @@ nav = [
     { "Paiement des dividendes" = "creanciers/paiement-dividendes.md" },
     { "Vos droits" = "creanciers/droits-specifiques.md" },
     { "Créanciers par catégorie" = "creanciers/creanciers-categories.md" },
-    { "Questions fréquentes" = "creanciers/faq.md" },
   ] },
   { "Comprendre la procédure" = [
     "comprendre/README.md",
@@ -91,6 +97,9 @@ nav = [
     "actualites/README.md",
     { "Par thème" = "actualites/themes.md" },
   ] },
+  { "Questions fréquentes" = [
+    "faq/README.md",
+  ] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -109,7 +118,7 @@ extra_css = ["stylesheets/extra.css"]
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-extra_javascript = ["javascripts/clicky.js", "javascripts/schema.js", "javascripts/actualites.js"]
+extra_javascript = ["javascripts/clicky.js", "javascripts/schema.js", "javascripts/actualites.js", "javascripts/faq.js"]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options

@@ -27,6 +27,10 @@
   'legislation': 'Date du texte',
   'pratique': 'Date de publication',
 } %}
+{% set _publics = {
+  'independant': "l'indépendant en nom propre",
+  'dirigeant': 'le dirigeant de société',
+} %}
 {% set _mois_fr = {
   '01': 'janvier', '02': 'février', '03': 'mars',
   '04': 'avril',   '05': 'mai',     '06': 'juin',
@@ -41,7 +45,6 @@
 {#- Rubrique (premier niveau du menu) et sa page d'entrée -#}
 {% set _section = (page.ancestors | last) if (page and page.ancestors) else none %}
 {% set _section_url = ((_section.children | first).url) if _section else none %}
-{% set _home_url = config.extra.homepage | d(nav.homepage.url, true) %}
 
 {#- Découpage du H1 en tête du contenu -#}
 {% set _content = (page.content | trim) if page and page.content else "" %}
@@ -112,7 +115,7 @@
   <section class="ifa-pagehead">
     <div class="md-grid ifa-pagehead__inner">
       <nav class="ifa-crumbs" aria-label="Fil d'Ariane">
-        <a href="{{ _home_url | url }}">Accueil</a>
+        <a href="{{ base_url }}/">Accueil</a>
         {% if _section %}
           <span aria-hidden="true">/</span>
           <a href="{{ _section_url | url }}">{{ _section.title }}</a>
@@ -130,6 +133,15 @@
         {{ _h1_parts | first }}</h1>
       {% else %}
         <h1>{{ page.meta.title if (page.meta and page.meta.title) else page.title }}</h1>
+      {% endif %}
+      {#- Profil de lecteur concerné (front matter `public`) -#}
+      {% if page.meta and page.meta.public %}
+        <div class="ifa-public">
+          <span class="ifa-public__label">Cette page concerne :</span>
+          {% for p in page.meta.public %}
+            <span class="ifa-public__tag ifa-public__tag--{{ p }}">{{ _publics[p] | d(p) }}</span>
+          {% endfor %}
+        </div>
       {% endif %}
       {% if page.meta and page.meta.updated and not _is_note %}
         <div class="ifa-pagehead__meta">Mise à jour le {{ format_fr(page.meta.updated) }}</div>

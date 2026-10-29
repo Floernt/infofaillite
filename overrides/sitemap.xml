@@ -114,7 +114,6 @@
   </url>
   <url>
     <loc>https://infofaillite.be/creanciers/faq/</loc>
-    <lastmod>2026-05-13</lastmod>
   </url>
   <url>
     <loc>https://infofaillite.be/creanciers/paiement-dividendes/</loc>
@@ -150,7 +149,6 @@
   </url>
   <url>
     <loc>https://infofaillite.be/faillis/faq/</loc>
-    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://infofaillite.be/faillis/interdiction/</loc>
@@ -167,6 +165,15 @@
   <url>
     <loc>https://infofaillite.be/faillis/reprendre-activite/</loc>
     <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://infofaillite.be/faillis/responsabilite-dirigeant/</loc>
+  </url>
+  <url>
+    <loc>https://infofaillite.be/faillis/societe-en-faillite/</loc>
+  </url>
+  <url>
+    <loc>https://infofaillite.be/faq/</loc>
   </url>
   <url>
     <loc>https://infofaillite.be/glossaire/</loc>

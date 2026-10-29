@@ -6,12 +6,15 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# Pages publiées volontairement hors du menu (accueil, pied de page).
+# Pages publiées volontairement hors du menu (accueil, pied de page, anciennes FAQ
+# devenues des renvois vers la FAQ générale).
 OFF_NAV = {
     "README.md",
     "a-propos.md",
     "contact.md",
+    "creanciers/faq.md",
     "delais.md",
+    "faillis/faq.md",
     "glossaire.md",
     "ressources.md",
 }
@@ -49,11 +52,12 @@ def test_every_nav_entry_points_to_an_existing_page() -> None:
     assert missing == [], f"Entrées du menu sans fichier : {missing}"
 
 
-def test_top_level_nav_has_the_four_sections() -> None:
+def test_top_level_nav_has_the_five_sections() -> None:
     titles = [next(iter(item)) for item in _config()["project"]["nav"]]
     assert titles == [
         "Je suis en faillite",
         "Je suis créancier",
         "Comprendre la procédure",
         "Actualités",
+        "Questions fréquentes",
     ]

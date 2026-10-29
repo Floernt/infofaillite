@@ -90,5 +90,5 @@ En tant que créancier, vous avez le droit d'être informé de l'avancement de l
 - [Le paiement des dividendes aux créanciers](paiement-dividendes.md)
 - [Vos droits dans la procédure de faillite](droits-specifiques.md)
 - [Les droits des créanciers selon leur catégorie](creanciers-categories.md)
-- [Questions fréquentes des créanciers](faq.md)
+- [Questions fréquentes des créanciers](../faq/README.md#profil=creancier)
 - [Les délais importants à ne pas manquer](../delais.md)
