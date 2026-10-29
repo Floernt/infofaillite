@@ -4,10 +4,15 @@ description: L'effacement automatique des dettes après faillite - Conditions, p
 keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
   graves faillite, contestation effacement
 updated: '2026-10-29'
+public:
+- independant
 ---
 # L'effacement des dettes
 
 Pour les personnes physiques déclarées en faillite, l'effacement des dettes est l'un des aspects les plus importants de la procédure. Prévu par l'article XX.173 du Code de droit économique, il offre une véritable seconde chance : les dettes qui restent impayées après la liquidation sont effacées.
+
+!!! warning "Vous dirigez une société en faillite ?"
+    L'effacement est réservé au failli **personne physique**. Si c'est votre société qui est en faillite, ni elle ni vous n'en bénéficiez : la société est dissoute à la clôture, et vos engagements personnels (cautions, compte courant, responsabilité éventuelle) suivent leurs propres règles. Voir [ce que la faillite de votre société change pour vous](societe-en-faillite.md).
 
 Les règles dépendent toutefois de la **date du jugement de faillite**. La loi du 7 juin 2023 a réformé l'effacement pour les faillites ouvertes à partir du 1er septembre 2023. Cette page décrit ce régime actuel, et l'encadré ci-dessous signale ce qui change pour les faillites plus anciennes.
 

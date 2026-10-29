@@ -64,6 +64,7 @@ En pratique, un dirigeant qui contrôle plusieurs sociétés doit savoir qu'apur
 ## Pour approfondir sur infofaillite.be
 
 - [La période suspecte et les nullités en faillite](../comprendre/periode-suspecte.md)
+- [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md)
 - [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
 - [Vos droits dans la procédure de faillite](../creanciers/droits-specifiques.md)
 

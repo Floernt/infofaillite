@@ -4,10 +4,16 @@ description: Obligations légales du failli - Documents à fournir, convocations
 keywords: obligations failli, documents faillite, inventaire, descente faillite, collaboration
   curateur, banqueroute
 updated: '2026-10-29'
+public:
+- independant
+- dirigeant
 ---
 # Vos obligations légales en tant que failli
 
 Dès le prononcé du jugement déclaratif, vous êtes soumis à un ensemble d'obligations légales précises, définies par l'article XX.146 du Code de droit économique. Ces obligations ne sont pas facultatives : les manquer expose à des sanctions qui peuvent compromettre votre droit à l'effacement des dettes et votre capacité à exercer une activité à l'avenir.
+
+!!! note "Si c'est votre société qui est en faillite"
+    Une société n'agit que par ses dirigeants : c'est donc à vous, administrateur ou gérant, d'accomplir ces démarches pour elle. La loi vous sanctionne d'ailleurs personnellement si vous ne collaborez pas avec le curateur, notamment par une interdiction de gérer (article XX.229). Le refus de l'effacement, mentionné plus bas, ne concerne que le failli personne physique. Voir aussi [ce que la faillite de votre société change pour vous](societe-en-faillite.md).
 
 !!! danger "Deux raisons essentielles de coopérer"
     Un comportement collaboratif est déterminant pour deux raisons majeures. D'abord, le tribunal peut refuser l'effacement de vos dettes si vous avez commis des fautes graves, parmi lesquelles figure le refus de coopérer avec le curateur. Ensuite, le procureur du Roi peut demander votre interdiction de gérer si vous n'avez pas respecté vos obligations légales pendant la procédure.
@@ -62,7 +68,7 @@ Si vous découvrez un actif qui n'a pas été inventorié — un compte oublié,
 
 ### L'interdiction de gérer
 
-Le tribunal peut prononcer une interdiction de gérer pour une durée maximale de 10 ans si vous avez omis de respecter vos obligations légales pendant la faillite : ne pas répondre aux convocations, refuser de fournir des informations, ne pas remettre les documents requis. Pendant cette période, vous ne pouvez plus créer ni diriger une personne morale. Vous pouvez en savoir plus sur [l'interdiction de gérer et comment l'éviter](interdiction.md).
+Le tribunal peut prononcer une interdiction de gérer d'une durée de trois ans, fixée par la loi (article XX.229, § 2 et § 5), si vous avez omis sans empêchement légitime de respecter vos obligations légales pendant la faillite : ne pas répondre aux convocations, refuser de fournir des informations, ne pas remettre les documents requis. Pendant cette période, vous ne pouvez plus créer ni diriger une personne morale. Vous pouvez en savoir plus sur [l'interdiction de gérer et comment l'éviter](interdiction.md).
 
 ### Le refus de l'effacement des dettes
 
@@ -80,5 +86,5 @@ Indépendamment de la procédure civile de faillite, le parquet peut engager des
 - [L'effacement automatique des dettes à la clôture](effacement.md)
 - [L'interdiction de gérer et comment l'éviter](interdiction.md)
 - [La checklist pratique pour la première semaine](checklist-premiere-semaine.md)
-- [La foire aux questions pour les personnes en faillite](faq.md)
+- [Les questions fréquentes](../faq/README.md#profil=independant)
 - [Votre dossier sur REGSOL](https://www.regsol.be)

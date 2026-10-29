@@ -63,6 +63,7 @@ Plusieurs questions restent ouvertes et devront être tranchées par la jurispru
 
 - [Les sûretés et cautions dans la faillite](../creanciers/suretes-cautions.md)
 - [L'effacement des dettes](../faillis/effacement.md)
+- [Votre société est en faillite : ce qui change pour vous](../faillis/societe-en-faillite.md)
 - [Les procédures alternatives à la faillite](../comprendre/procedures-alternatives.md)
 
 ## Sur le même thème

@@ -4,6 +4,9 @@ description: L'interdiction de gérer en Belgique - Causes, durée, conséquence
 keywords: interdiction de gérer belgique, interdiction gérer faillite, JustBan, fautes
   graves faillite, durée interdiction, contestation interdiction
 updated: '2026-10-28'
+public:
+- independant
+- dirigeant
 ---
 # L'interdiction de gérer
 
@@ -20,7 +23,7 @@ En revanche, l'interdiction ne vous empêche pas de travailler comme salarié da
 
 ## Qui peut être concerné ?
 
-L'article XX.229 du Code de droit économique vise les faillis personnes physiques (indépendants, artisans, professions libérales) et les dirigeants de la société faillie : gérants de SRL, administrateurs de SA, membres du comité de direction, liquidateurs. Les dirigeants de fait — ceux qui gèrent réellement l'entreprise sans en avoir le titre officiel, comme un conjoint qui administre en pratique ou un associé occulte — sont également concernés.
+L'article XX.229 du Code de droit économique vise les faillis personnes physiques (indépendants, artisans, professions libérales) et les dirigeants de la société faillie : gérants de SRL, administrateurs de SA, membres du comité de direction, liquidateurs. Les dirigeants de fait — ceux qui gèrent réellement l'entreprise sans en avoir le titre officiel, comme un conjoint qui administre en pratique ou un associé occulte — sont également concernés. La loi assimile aussi au failli l'administrateur ou le gérant dont la démission n'a pas été publiée au moins un an avant la déclaration de faillite (article XX.229, § 3) : une démission tardive ne met donc pas à l'abri.
 
 Être simple actionnaire ou associé passif, sans aucune implication dans la gestion quotidienne, ne suffit pas pour être frappé d'interdiction.
 
@@ -36,12 +39,12 @@ Le tribunal peut assortir cette interdiction d'un sursis partiel ou total pour u
 
 ### L'inaction pendant la faillite (art. XX.229§2)
 
-Une interdiction peut être prononcée si vous n'avez pas respecté vos obligations légales pendant la procédure : refus de répondre aux convocations du curateur ou du juge-commissaire, non-remise des documents comptables, refus de fournir les renseignements demandés, absence à l'inventaire, obstruction aux opérations. 
+Une interdiction peut être prononcée si vous n'avez pas respecté vos obligations légales pendant la procédure : refus de répondre aux convocations du curateur ou du juge-commissaire, non-remise des documents comptables, refus de fournir les renseignements demandés, absence à l'inventaire, obstruction aux opérations. Dans ce cas, la loi ne laisse pas de marge au tribunal sur la durée : depuis le 1er septembre 2023, l'interdiction « s'élève à trois ans » (article XX.229, § 5, alinéa 2). Elle vise alors les fonctions d'administrateur, de gérant ou toute fonction qui confère le pouvoir d'engager une personne morale.
 ---
 
 ## La durée et la modulation par le tribunal
 
-Le tribunal fixe la durée au cas par cas, en tenant compte de la gravité des fautes, du montant du passif, du nombre de faillites antérieures, du préjudice causé aux créanciers et de l'attitude du failli pendant la procédure. En pratique, des fautes légères conduisent à des interdictions de deux à trois ans ; des fautes moyennes, de cinq à sept ans ; des fautes très graves ou une fraude avérée, à dix ans.
+Pour une interdiction fondée sur une faute grave et caractérisée, le tribunal fixe la durée au cas par cas, dans la limite de dix ans (article XX.229, § 5). L'interdiction pour défaut de collaboration pendant la faillite est, elle, fixée par la loi à trois ans. Pour la faute grave, le tribunal tient compte de la gravité des fautes, du montant du passif, du nombre de faillites antérieures, du préjudice causé aux créanciers et de l'attitude du failli pendant la procédure. En pratique, des fautes légères conduisent à des interdictions de deux à trois ans ; des fautes moyennes, de cinq à sept ans ; des fautes très graves ou une fraude avérée, à dix ans.
 
 ---
 

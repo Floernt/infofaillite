@@ -60,6 +60,7 @@ Depuis la loi du 11 août 2017, la règle figure à l'article XX.226 du Code de 
 
 ## Pour approfondir sur infofaillite.be
 
+- [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md)
 - [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
 - [Les droits des créanciers selon leur catégorie](../creanciers/creanciers-categories.md)
 

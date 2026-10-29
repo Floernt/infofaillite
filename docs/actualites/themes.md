@@ -24,7 +24,7 @@ Dans le guide : [La période suspecte et les nullités en faillite](../comprendr
 
 ## Cautions { #caution }
 
-Dans le guide : [Les sûretés et cautions dans la faillite](../creanciers/suretes-cautions.md) · [L'effacement des dettes](../faillis/effacement.md)
+Dans le guide : [Les sûretés et cautions dans la faillite](../creanciers/suretes-cautions.md) · [L'effacement des dettes](../faillis/effacement.md) · [Votre société est en faillite : ce qui change pour vous](../faillis/societe-en-faillite.md)
 
 - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
 - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
@@ -49,7 +49,7 @@ Dans le guide : [La liquidation des actifs et la réalisation du patrimoine](../
 
 ## Comblement de passif et responsabilité des dirigeants { #responsabilite-dirigeants }
 
-Dans le guide : [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
+Dans le guide : [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md) · [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
 
 - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026

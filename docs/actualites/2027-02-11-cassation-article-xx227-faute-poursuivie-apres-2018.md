@@ -57,6 +57,7 @@ Le constat précis de la date jusqu'à laquelle la faute a duré devient ainsi u
 
 ## Pour approfondir sur infofaillite.be
 
+- [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md)
 - [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
 
 ## Sur le même thème

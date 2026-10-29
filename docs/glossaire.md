@@ -111,7 +111,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 **Insuffisance d'actif** — Situation où la valeur des biens du failli est insuffisante pour couvrir les frais de procédure et les honoraires du curateur. C'est le cas dans environ 70 % des faillites. Elle conduit à une clôture rapide, sans paiement aux créanciers chirographaires.
 
-**Interdiction de gérer** — Sanction prononcée par le tribunal de l'entreprise interdisant à une personne de diriger, gérer ou contrôler une entreprise commerciale, pendant une durée maximale de dix ans (article XX.229). Le tribunal peut l'assortir d'un sursis, partiel ou total, d'une durée maximale de trois ans. Elle est inscrite au registre JustBan, consultable publiquement. Elle ne peut être levée pour bonne conduite : voir *Réhabilitation*.
+**Interdiction de gérer** — Sanction prononcée par le tribunal de l'entreprise interdisant à une personne de diriger, gérer ou contrôler une entreprise commerciale, pendant une durée maximale de dix ans en cas de faute grave et caractérisée ayant contribué à la faillite, et de trois ans en cas de défaut de collaboration pendant la faillite (article XX.229). Le tribunal peut l'assortir d'un sursis, partiel ou total, d'une durée maximale de trois ans. Elle est inscrite au registre JustBan, consultable publiquement. Elle ne peut être levée pour bonne conduite : voir *Réhabilitation*.
 
 **Inventaire** — Liste exhaustive de tous les biens du failli, dressée par le curateur sans délai après la descente de faillite. Elle constitue le périmètre de la masse active que le curateur va liquider.
 

@@ -1,77 +1,94 @@
 ---
-description: Vue d'ensemble pour les personnes en faillite - Ce que cela signifie,
-  vos biens, durée de la procédure
-keywords: failli belgique, dessaisissement, biens faillite, durée faillite, que faire
-  faillite
+description: Faillite en Belgique - Par où commencer selon votre situation, indépendant
+  en nom propre ou dirigeant d'une société en faillite
+keywords: failli belgique, que faire faillite, société en faillite dirigeant, indépendant
+  faillite, dessaisissement, effacement des dettes, responsabilité dirigeant
+public:
+- independant
+- dirigeant
 updated: '2026-10-29'
 ---
 # Je suis en faillite : par où commencer ?
 
-Le jugement vient d'être prononcé. Vous avez probablement de nombreuses questions : qu'est-ce que cela change concrètement ? Que va-t-il se passer ? Que pouvez-vous encore faire ? Ce guide vous explique l'essentiel pour comprendre votre situation et prendre les bonnes décisions dès maintenant.
+Le jugement vient d'être prononcé. Avant toute chose, une question détermine presque tout le reste : **qui est en faillite ?** Vous personnellement, parce que vous exercez votre activité en nom propre, ou la société que vous dirigez ? Les conséquences pour votre patrimoine, vos dettes et votre avenir ne sont pas les mêmes.
+
+<div class="ifa-tiles" markdown>
+<div class="ifa-tile ifa-tile--bondi" markdown>
+<div class="ifa-tile__cover" markdown>
+<span class="ifa-kicker">Vous exercez en nom propre</span>
+
+### [Je suis indépendant en faillite](#independant)
+</div>
+
+- [Ce que la faillite change pour vous](#independant)
+- [Mes dettes seront-elles effacées ?](effacement.md)
+- [Que puis-je garder ?](droits.md)
+- [Ai-je droit au droit passerelle ?](reprendre-activite.md)
+</div>
+<div class="ifa-tile ifa-tile--yale" markdown>
+<div class="ifa-tile__cover" markdown>
+<span class="ifa-kicker">Vous êtes administrateur ou gérant</span>
+
+### [Ma société est en faillite](societe-en-faillite.md)
+</div>
+
+- [Ce que la faillite change pour vous](societe-en-faillite.md)
+- [Suis-je responsable des dettes de la société ?](responsabilite-dirigeant.md)
+- [Mes cautions personnelles restent-elles dues ?](societe-en-faillite.md#vos-engagements-personnels)
+- [Puis-je créer une nouvelle société ?](interdiction.md)
+</div>
+</div>
+
+## Pour tous : les pages communes
+
+Que la faillite vise votre entreprise individuelle ou votre société, certaines règles valent dans les deux cas : collaborer avec le curateur, respecter les délais, préparer la suite.
 
 <div class="ifa-subtiles" markdown>
 [**La première semaine** Les démarches urgentes après le jugement.](checklist-premiere-semaine.md){ .ifa-subtile }
 [**Vos obligations** Collaborer avec le curateur, remettre documents et biens.](obligations.md){ .ifa-subtile }
-[**Vos droits** Revenus, logement, biens insaisissables.](droits.md){ .ifa-subtile }
-[**L'effacement des dettes** Une seconde chance à la clôture, et ses limites.](effacement.md){ .ifa-subtile }
+[**Vos droits** Être entendu, être informé, contester des créances.](droits.md){ .ifa-subtile }
 [**Reprendre une activité** Travailler ou entreprendre pendant et après la faillite.](reprendre-activite.md){ .ifa-subtile }
 [**L'interdiction de gérer** Quand elle est prononcée, combien de temps elle dure.](interdiction.md){ .ifa-subtile }
 </div>
 
 ---
 
-## Ce que le jugement change immédiatement
+## Vous êtes indépendant en nom propre { #independant }
 
-Dès le prononcé du jugement déclaratif de faillite, vous êtes dessaisi de la gestion de vos biens. Cela signifie que vous ne pouvez plus vendre, acheter, payer ou encaisser au nom de votre activité. Un curateur — un avocat spécialisé désigné par le tribunal — prend en charge votre patrimoine pour l'inventorier, le vendre et distribuer le produit aux créanciers.
+Vous exercez sans société : commerçant, artisan, profession libérale, indépendant en personne physique. C'est donc vous qui êtes déclaré en faillite, et votre patrimoine privé et professionnel ne forment qu'un.
 
-Vous restez propriétaire de vos biens, mais c'est le curateur qui en assure la gestion jusqu'à la clôture de la procédure. Vous conservez en revanche vos biens personnels insaisissables — vêtements, literie, mobilier indispensable — et, surtout, tous les revenus que vous générerez à partir de maintenant : salaires, honoraires, allocations. Ces revenus futurs ne tombent pas dans la masse faillie. Pour comprendre dans le détail ce qui entre ou non dans la masse, consultez [les effets du dessaisissement sur vos biens](../comprendre/dessaisissement.md).
+Dès le jugement, vous êtes **dessaisi** de la gestion de vos biens : vous ne pouvez plus vendre, acheter, payer ou encaisser. Un curateur, avocat désigné par le tribunal, prend en charge votre patrimoine pour l'inventorier, le vendre et répartir le produit entre les créanciers. Vous conservez vos biens insaisissables (vêtements, literie, mobilier indispensable) et surtout tous les revenus que vous générez après le jugement : salaires, honoraires, allocations. Pour le détail, consultez [les effets du dessaisissement](../comprendre/dessaisissement.md).
 
----
+Votre perspective de nouveau départ est **l'effacement des dettes**. Pour les faillites prononcées depuis le 1er septembre 2023, les dettes restées impayées sont effacées automatiquement à la clôture ; pour les faillites plus anciennes, l'effacement est accordé sur requête. Il peut être refusé en cas de fautes graves et caractérisées ou de renseignements sciemment inexacts : collaborer activement est donc dans votre intérêt direct. Tout est expliqué dans [l'effacement des dettes](effacement.md).
 
-## Vos deux priorités immédiates
+Si vous étiez indépendant à titre principal, vous pouvez aussi demander le **droit passerelle**, une prestation mensuelle versée par votre caisse d'assurances sociales : voir [reprendre une activité](reprendre-activite.md).
 
-**Comprendre vos obligations**, d'abord. La procédure impose des exigences précises : remettre vos documents comptables, répondre aux convocations avec diligence, assister à l'inventaire, ne plus toucher aux comptes bancaires. Ne pas les respecter expose à des sanctions lourdes, notamment le refus de l'effacement des dettes et une interdiction de gérer. Lisez attentivement [vos obligations légales pour éviter les sanctions](obligations.md) et, pour ne rien oublier, la [checklist pratique pour la première semaine](checklist-premiere-semaine.md).
+## Vous dirigez une société en faillite { #dirigeant }
 
-**Connaître vos droits**, ensuite. La faillite ne vous prive pas de tout. Vous pouvez donner votre avis sur la vente de vos actifs, demander un secours alimentaire si vous êtes dans le besoin, contester des créances injustifiées, travailler immédiatement, et recevoir des informations sur l'avancement de votre dossier. Découvrez [les droits que vous conservez malgré la faillite](droits.md).
+C'est la société qui est déclarée en faillite, pas vous. Elle est dessaisie et sera dissoute à la clôture ; vos biens personnels n'entrent pas dans la masse. En revanche, **l'effacement ne vous concerne pas** : il est réservé au failli personne physique, et la société elle-même n'en bénéficie pas.
 
----
+Trois points méritent votre attention dès maintenant :
 
-## L'effacement des dettes : votre perspective de nouveau départ
+- **vos obligations comme organe de la société** : faire aveu dans le délai, collaborer avec le curateur, remettre documents et renseignements ;
+- **vos engagements personnels** : les cautions que vous avez données à la banque ou aux fournisseurs restent dues, et votre compte courant d'administrateur devient une créance à déclarer ou une dette que le curateur peut réclamer ;
+- **votre responsabilité personnelle** : en cas de faute grave et caractérisée, de poursuite déraisonnable d'une activité sans issue ou de dettes sociales et fiscales impayées, une partie des dettes de la société peut être mise à votre charge.
 
-L'un des aspects les plus importants de la faillite pour les personnes physiques est l'effacement des dettes. Pour les faillites prononcées depuis le 1er septembre 2023, toutes vos dettes impayées sont automatiquement effacées à la clôture de la procédure, sans démarche de votre part. Si votre faillite est plus ancienne, l'effacement doit être demandé au tribunal. Vous repartez sans le poids du passé, libéré des poursuites des anciens créanciers.
+Commencez par [ce que la faillite de votre société change pour vous](societe-en-faillite.md), puis [votre responsabilité personnelle de dirigeant](responsabilite-dirigeant.md).
 
-Ce droit n'est pas garanti : il peut être refusé si vous avez commis des fautes graves ou si vous n'avez pas collaboré avec le curateur. Coopérer activement est donc dans votre intérêt direct. Pour tout comprendre sur ce mécanisme, consultez la page sur [l'effacement automatique de vos dettes à la clôture](effacement.md).
+## Vos priorités immédiates, dans les deux cas
 
----
+**Comprendre vos obligations**, d'abord. La procédure impose des exigences précises : remettre les documents comptables, répondre aux convocations avec diligence, assister à l'inventaire, ne plus toucher aux comptes de l'entreprise. Ne pas les respecter expose à des sanctions lourdes, notamment une interdiction de gérer. Lisez [vos obligations légales](obligations.md) et, pour ne rien oublier, la [checklist de la première semaine](checklist-premiere-semaine.md).
 
-## Reprendre une activité : c'est possible dès maintenant
+**Connaître vos droits**, ensuite. Vous pouvez donner votre avis sur la vente des actifs, contester des créances injustifiées, travailler immédiatement et être informé de l'avancement du dossier. Découvrez [les droits que vous conservez](droits.md).
 
-Contrairement à une idée répandue, la faillite ne vous empêche pas de travailler. Vous pouvez vous mettre au service d'un employeur comme salarié dès le lendemain du jugement, lancer une nouvelle activité indépendante ou créer une nouvelle société — à condition de ne pas faire l'objet d'une interdiction de gérer. Consultez la page [reprendre une activité professionnelle dès maintenant](reprendre-activite.md) pour connaître les précautions pratiques à prendre.
-
----
-
-## Les pages de ce guide
-
-**[Vos obligations immédiates](obligations.md)** détaille tout ce que vous devez faire pendant la procédure : remise des documents, réponse aux convocations, présence à l'inventaire. C'est la page à lire en premier.
-
-**[La checklist pratique pour la première semaine](checklist-premiere-semaine.md)** vous donne un plan d'action chronologique jour par jour, pour ne rien oublier dans les jours critiques qui suivent le jugement.
-
-**[Vos droits](droits.md)** liste les droits que vous conservez malgré la faillite : être entendu sur la vente de vos actifs, demander un secours alimentaire, contester des créances, accéder à votre dossier.
-
-**[L'effacement des dettes](effacement.md)** explique ce mécanisme essentiel : quelles dettes sont effacées, quelles exceptions existent, et comment préserver votre droit à l'effacement.
-
-**[Reprendre une activité](reprendre-activite.md)** couvre vos possibilités de rebond : emploi salarié, activité indépendante, nouvelle société, droit passerelle pour indépendants.
-
-**[L'interdiction de gérer](interdiction.md)** explique ce qu'est cette sanction, comment elle est prononcée, comment l'éviter, et ce que vous pouvez encore faire si vous en faites l'objet.
-
-**[La foire aux questions](faq.md)** répond aux questions les plus courantes des personnes en faillite.
+**Préparer la suite**, enfin. La faillite ne vous empêche pas de travailler comme salarié, ni, sauf interdiction de gérer, d'exercer une nouvelle activité ou de créer une société. Consultez [reprendre une activité](reprendre-activite.md) et [l'interdiction de gérer](interdiction.md).
 
 ---
 
 ## Pour aller plus loin
 
+- [Les questions fréquentes, filtrées pour l'indépendant](../faq/README.md#profil=independant) ou [pour le dirigeant de société](../faq/README.md#profil=dirigeant)
 - [Le rôle du curateur et des acteurs de la procédure](../comprendre/acteurs.md)
 - [Le déroulement chronologique de la procédure](../comprendre/deroulement-chronologique.md)
-- [Comprendre le dessaisissement](../comprendre/dessaisissement.md)
 - [Les délais importants à ne pas manquer](../delais.md)
 - [Votre dossier sur REGSOL](https://www.regsol.be)

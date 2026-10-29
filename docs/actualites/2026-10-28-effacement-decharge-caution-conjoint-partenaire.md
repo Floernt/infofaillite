@@ -55,6 +55,7 @@ Le partenaire qui envisage cette demande doit déposer une requête dans le regi
 - [L'effacement des dettes](../faillis/effacement.md)
 - [La clôture de la faillite](../comprendre/cloture.md)
 - [Les sûretés et cautions dans la faillite](../creanciers/suretes-cautions.md)
+- [Votre société est en faillite : ce qui change pour vous](../faillis/societe-en-faillite.md)
 
 ## Sur le même thème
 

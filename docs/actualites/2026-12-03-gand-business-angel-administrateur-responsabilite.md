@@ -61,6 +61,7 @@ Le jugement rappelle qu'un siège au conseil emporte toutes les responsabilités
 
 ## Pour approfondir sur infofaillite.be
 
+- [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md)
 - [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
 - [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
 - [Vos obligations légales en tant que failli](../faillis/obligations.md)

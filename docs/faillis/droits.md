@@ -4,10 +4,16 @@ description: Droits du failli - Être entendu, secours alimentaire, contester cr
 keywords: droits failli, secours alimentaire, être entendu, contester créances, travailler
   faillite, effets personnels
 updated: '2026-05-15'
+public:
+- independant
+- dirigeant
 ---
 # Vos droits pendant la procédure de faillite
 
 La faillite ne vous prive pas de tous vos droits. Même dessaisi de la gestion de vos biens, vous conservez un ensemble de droits légaux que vous pouvez — et devez — exercer activement. Les connaître vous permet de participer utilement à la procédure, de protéger vos intérêts et de préparer votre rebond.
+
+!!! note "Indépendant ou dirigeant de société ?"
+    Ces droits appartiennent au failli. Si vous êtes indépendant en nom propre, ils sont les vôtres. Si c'est votre société qui est en faillite, vous les exercez pour elle en tant que dirigeant : être entendu sur la vente des actifs, contester des créances, suivre le dossier. Le secours alimentaire, le courrier personnel et les effets personnels ne concernent en revanche que le failli personne physique, puisque votre patrimoine privé de dirigeant n'entre pas dans la masse. Voir [ce que la faillite de votre société change pour vous](societe-en-faillite.md).
 
 ---
 

@@ -4,10 +4,16 @@ description: Checklist pratique après le jugement de faillite - Ce qu'il faut f
 keywords: que faire après jugement faillite, checklist faillite belgique, premières
   actions faillite, priorités failli, semaine faillite
 updated: '2026-10-29'
+public:
+- independant
+- dirigeant
 ---
 # La checklist pratique pour la première semaine
 
 Les premiers jours qui suivent le jugement de faillite sont les plus importants. Ils conditionnent la suite de la procédure, votre droit à l'effacement des dettes et votre capacité à rebondir rapidement. Cette checklist vous donne les actions prioritaires à effectuer dans l'ordre, sans rien oublier.
+
+!!! note "Indépendant ou dirigeant de société ?"
+    Cette checklist suit le point de vue de l'indépendant en nom propre. Si c'est votre société qui est en faillite, les étapes de collaboration (documents, descente de faillite, clés et accès, réponses au curateur) valent pour vous en tant que dirigeant ; l'ouverture d'un compte personnel et l'effacement ne vous concernent pas de la même manière, puisque vos biens personnels ne sont pas dans la masse. Voir [les premiers jours pour le dirigeant](societe-en-faillite.md#les-premiers-jours-votre-checklist).
 
 ---
 
