@@ -29,6 +29,9 @@ updated: '2026-10-29'
 
 Par un arrêt du 23 avril 2026, la Cour constitutionnelle juge que l'article XX.173, § 2, du Code de droit économique est discriminatoire en ce qu'il oblige le failli personne physique à attendre la clôture de sa faillite pour bénéficier de l'effacement de ses dettes, même lorsque plus personne ne peut en demander le refus. En attendant une loi, le failli peut saisir le tribunal pour qu'il statue sur l'effacement.
 
+!!! info "Quelles faillites sont concernées ?"
+    L'arrêt vise uniquement le régime actuel de l'effacement, issu de la loi du 7 juin 2023, qui s'applique aux faillites **prononcées à partir du 1er septembre 2023**. Pour les faillites prononcées du 1er mai 2018 au 31 août 2023, l'ancien article XX.173 permettait déjà au failli de demander au tribunal de statuer sur l'effacement sans attendre la clôture : l'arrêt ne change rien pour elles.
+
 ## Les faits
 
 Une personne physique est déclarée en faillite le 27 décembre 2023. Sa faillite relève donc du régime issu de la loi du 7 juin 2023, applicable aux faillites ouvertes à partir du 1er septembre 2023. Le 6 janvier 2025, elle demande au tribunal de l'entreprise de Gand, division de Bruges, de lui accorder l'effacement total de ses dettes. Elle ajoute ensuite que l'impossibilité de le demander avant la clôture est inconstitutionnelle. Le tribunal interroge la Cour constitutionnelle.
@@ -49,7 +52,7 @@ La Cour rejette en revanche la comparaison avec les faillis de l'ancien régime 
 
 Certaines faillites restent ouvertes de longues années, par exemple en raison d'un litige ou de la vente d'un immeuble. Pendant tout ce temps, le failli restait dans l'incertitude, ce qui pouvait freiner un nouveau départ (emprunter, entreprendre). L'arrêt lui ouvre une voie concrète pour obtenir une décision sur l'effacement dès que plus aucun refus ne peut être demandé.
 
-Le calcul du délai de trois ans part de l'expiration du droit de demander l'admission des créances, et non du jugement de faillite. Il est utile de le vérifier dans le dossier avant de saisir le tribunal.
+Le calcul du délai de trois ans part de l'expiration du droit de demander l'admission des créances, et non du jugement de faillite. Illustrons avec un exemple. Pour une faillite prononcée le 10 janvier 2024, le droit à l'admission expire en principe environ un an plus tard, vers le 10 janvier 2025. Le refus de l'effacement peut alors être demandé jusque vers le 10 janvier 2028. Si la faillite est toujours ouverte après cette date, le failli peut saisir le tribunal sans attendre la clôture. La date exacte dépend du dossier : il est utile de la vérifier sur REGSOL ou auprès du curateur avant de saisir le tribunal.
 
 *C. const., 23 avril 2026, arrêt n° 55/2026, rôle n° 8465.*
 

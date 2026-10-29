@@ -31,7 +31,7 @@ Par un arrêt du 20 novembre 2024, la Cour de cassation juge que l'effacement li
 
 Une SA de crédit consent un prêt hypothécaire à un couple pour l'achat d'un immeuble, dont la vente est conclue le 27 mai 2010. Par un jugement du 13 février 2015, le tribunal correctionnel de Mons condamne les parties à cette vente, dont les deux époux, pour organisation frauduleuse d'insolvabilité : l'opération devait permettre au vendeur d'échapper à deux de ses créanciers. Le 18 avril 2016, le tribunal civil annule la vente pour cause illicite. Cette décision, opposable au prêteur, vaut mainlevée de ses inscriptions hypothécaires.
 
-Le mari est déclaré en faillite le 17 décembre 2018. Un jugement du 30 mai 2022 lui accorde l'effacement du solde de ses dettes après la clôture de la procédure.
+Le mari est déclaré en faillite le 17 décembre 2018. Un jugement du 30 mai 2022 lui accorde l'effacement du solde de ses dettes après la clôture de la procédure. Prononcée avant le 1er septembre 2023, cette faillite relève de l'ancien régime de l'effacement, accordé par le tribunal sur requête du failli.
 
 Entre-temps, le 15 novembre 2021, le tribunal correctionnel condamne les deux époux à payer au prêteur 190.000 euros, qui représentent la perte d'une chance d'imputer le prix de vente de l'immeuble hypothéqué sur le solde impayé du crédit. Le 11 juin 2024, la cour d'appel de Mons décide qu'en raison de l'effacement, le prêteur ne justifie plus d'aucun dommage indemnisable par le mari. Elle condamne en revanche l'épouse à une indemnité provisionnelle.
 
@@ -46,6 +46,8 @@ La cour d'appel avait situé la naissance de la dette au jour où l'hypothèque 
 La condamnation de l'épouse, qui n'était pas en faillite, n'est pas remise en cause : son pourvoi ne critiquait pas le principe de sa responsabilité et elle s'en est désistée pour le surplus.
 
 ## Pourquoi cette décision intéresse les praticiens
+
+La règle appliquée par la Cour figure à l'article XX.173, § 1er, que la loi du 7 juin 2023 n'a pas modifié sur ce point. Elle vaut donc aussi pour les faillites prononcées depuis le 1er septembre 2023, où l'effacement est désormais acquis automatiquement à la clôture.
 
 Pour savoir si une dette est couverte par l'effacement, il faut rechercher le moment où elle est née, et non celui où un juge l'a chiffrée. Une condamnation prononcée après la faillite peut donc porter sur une dette effacée. Le sommaire officiel de l'arrêt rapproche cette solution d'un arrêt du 24 juin 2021 relatif au recours de la caution, qui existe dès la naissance de son engagement.
 

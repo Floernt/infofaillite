@@ -232,6 +232,17 @@ Texte intégral lu sur juportal (ECLI:BE:ORGNT:2026:JUG.20260629.1). Jugement lo
 - [docs/faillis/effacement.md](../docs/faillis/effacement.md) : encadré sur l'effacement avant clôture (C. const. 55/2026).
 - **Non modifié, à vérifier** : les délais d'appel d'un mois indiqués pour le jugement d'interdiction de gérer et le jugement refusant l'effacement ([docs/delais.md](../docs/delais.md)), ainsi que les autres mentions d'appel « dans le mois qui suit le prononcé » (le droit commun fait en principe courir le délai à partir de la signification, art. 1051 C. jud.).
 
+## Effacement : distinction des deux régimes (29 octobre 2026)
+
+Pages harmonisées : [effacement](../docs/faillis/effacement.md) (encadré « Deux régimes » et deux exemples chiffrés), [clôture](../docs/comprendre/cloture.md), [vérification, liquidation et clôture](../docs/comprendre/deroulement-phase-4-5.md), [délais](../docs/delais.md), [glossaire](../docs/glossaire.md) (effacement, tierce opposition), [rubrique faillis](../docs/faillis/README.md), notes du 5 novembre 2026 et du 21 janvier 2027. Source des deux versions de l'article XX.173 : C. const. 55/2026, B.1.4 et B.1.6.
+
+À vérifier :
+
+- **Exemple chiffré du régime actuel** : « le droit à l'admission expire en principe environ un an après le jugement » repose sur les travaux préparatoires cités par la Cour (« c'est le délai d'un an fixé par l'article XX.165 »). À confirmer sur le texte de l'article XX.165, alinéa 3.
+- **Ancien régime, « délai de six mois »** : l'ancien article XX.173, § 2, ne précise pas le point de départ ; la page reprend la formule de la loi et situe l'exemple « vers la mi-septembre 2022 » pour une faillite du 15 mars 2022.
+- **Corrections au passage** : le refus « d'office » par le tribunal a été retiré (l'article XX.173, § 3, exige une requête) ; la « décision distincte du jugement de clôture » a été remplacée par la libération par la clôture elle-même (§ 2 actuel) ; « si aucune requête en effacement n'est déposée » corrigé en demande de refus.
+- **Non corrigé, à vérifier** : le tableau des dettes non effacées ([effacement](../docs/faillis/effacement.md)) cite les **amendes pénales**, qui ne figurent pas parmi les exceptions de l'article XX.173, § 1er (dettes alimentaires et réparation du dommage lié au décès ou à l'atteinte à l'intégrité physique).
+
 ## Éléments trouvés mais écartés
 
 - **C. const., 26 septembre 2024, n° 99/2024** (gratuité des documents sociaux remis au curateur, art. XX.103) : porte sur la version antérieure à la loi du 7 juin 2023, qui a déjà étendu l'obligation ; intérêt pratique limité.
