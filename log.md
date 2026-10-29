@@ -534,3 +534,23 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Outils utilises :** aucun
 
 ---
+
+## 2026-10-29 11:03:03 - session 4a7bde3d
+
+**Demande :** ok très bien
+
+**Action :** Le site distingue désormais les deux régimes de l'effacement partout où il en parle. C'est commité en trois commits sur `gh-pages`, pas poussé. Les tests passent, le build est propre et j'ai vérifié visuellement l'encadré.  **Page Effacement.** En tête de page, un encadré compare les deux régimes : faillites prononcées du 1er mai 2018 au 31 août 2023, et faillites prononcées depuis le 1er septembre 2023. Il porte sur quatre points : - comment obtenir l'effacement ; - s'il peut être obtenu avant ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 11:06:54 - session 4a7bde3d
+
+**Demande :** <task-notification> <task-id>b3kffop13</task-id> <tool-use-id>toolu_019k79WjzF2ExNM6WkzNioQN</tool-use-id> <output-file>C:\Users\FLORIA~1\AppData\Local\Temp\claude\c--Users-FlorianErnotteavroya-infofaillite\4a7bde3d-726b-417c-98b9-61ac9e531ed0\tasks\b3kffop13.output</output-file> <status>completed</...
+
+**Action :** Cette notification signale seulement la fin de la capture d'écran de la page Effacement, que j'ai déjà regardée. Rien n'a changé depuis mon dernier message.  Tout est commité sur `gh-pages`, rien n'est poussé.  Restent ouverts les deux points que je t'ai signalés : la durée d'un an tirée de l'article XX.165 et les amendes pénales parmi les dettes non effacées.
+
+**Outils utilises :** aucun
+
+---
