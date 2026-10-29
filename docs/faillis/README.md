@@ -38,7 +38,7 @@ Vous restez propriétaire de vos biens, mais c'est le curateur qui en assure la 
 
 ## L'effacement des dettes : votre perspective de nouveau départ
 
-L'un des aspects les plus importants de la faillite pour les personnes physiques est l'effacement des dettes. À la clôture de la procédure, toutes vos dettes impayées sont automatiquement effacées — sans démarche de votre part. Vous repartez sans le poids du passé, libéré des poursuites des anciens créanciers.
+L'un des aspects les plus importants de la faillite pour les personnes physiques est l'effacement des dettes. Pour les faillites prononcées depuis le 1er septembre 2023, toutes vos dettes impayées sont automatiquement effacées à la clôture de la procédure, sans démarche de votre part. Si votre faillite est plus ancienne, l'effacement doit être demandé au tribunal. Vous repartez sans le poids du passé, libéré des poursuites des anciens créanciers.
 
 Ce droit n'est pas garanti : il peut être refusé si vous avez commis des fautes graves ou si vous n'avez pas collaboré avec le curateur. Coopérer activement est donc dans votre intérêt direct. Pour tout comprendre sur ce mécanisme, consultez la page sur [l'effacement automatique de vos dettes à la clôture](effacement.md).
 

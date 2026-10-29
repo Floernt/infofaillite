@@ -47,7 +47,7 @@ Le contredit — la contestation d'une créance admise par le curateur — doit 
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
 | 1 mois | Publication du PV au Moniteur/REGSOL | Former un contredit | La créance admise devient définitive |
-| 3 mois | Publication du jugement de clôture | Tierce opposition contre l'effacement | L'effacement devient définitif |
+| 3 mois | Publication du jugement de clôture (faillites prononcées depuis le 1er septembre 2023) | Tierce opposition contre l'effacement, si le délai de trois ans pour demander le refus n'est pas expiré | L'effacement devient définitif |
 
 ### Recours judiciaires
 
@@ -122,8 +122,9 @@ Pour comprendre le déroulement des procès-verbaux, consultez [la vérification
 | Nullités de la période suspecte (de plein droit) | 3 ans | Jugement de faillite |
 | Action en comblement de passif (curateur) | 4 ans | Jugement de faillite |
 | Action en comblement de passif (créanciers) | 3 ans | Clôture de la faillite |
-| Tierce opposition contre l'effacement | 3 mois | Publication du jugement de clôture |
-| Demande préventive de refus d'effacement | 4 ans | Jugement déclaratif |
+| Demande de refus d'effacement (faillites prononcées depuis le 1er septembre 2023) | 3 ans | Expiration du droit à l'admission des créances (en pratique, environ 4 ans après le jugement de faillite) |
+| Tierce opposition contre l'effacement (même régime) | 3 mois, et dans la limite du délai de 3 ans | Publication du jugement de clôture |
+| Tierce opposition contre l'effacement (faillites prononcées du 1er mai 2018 au 31 août 2023) | 3 mois | Publication du jugement accordant l'effacement |
 
 ---
 

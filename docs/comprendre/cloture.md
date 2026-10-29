@@ -27,7 +27,7 @@ Dans les faillites où un actif suffisant est présent, le curateur a pu vendre 
 
 Le jugement de clôture produit trois effets simultanés.
 
-Il met fin à la faillite et publie cette fin au Moniteur belge ainsi que sur REGSOL. Il prononce la décharge du curateur, qui est libéré de son mandat. Pour les personnes physiques, il efface automatiquement les dettes impayées sans qu'aucune démarche ne soit nécessaire. 
+Il met fin à la faillite et publie cette fin au Moniteur belge ainsi que sur REGSOL. Il prononce la décharge du curateur, qui est libéré de son mandat. Pour les personnes physiques dont la faillite a été prononcée depuis le 1er septembre 2023, la clôture efface automatiquement les dettes impayées, sans qu'aucune démarche ne soit nécessaire. Pour les faillites plus anciennes, l'effacement est accordé sur requête du failli (voir ci-dessous).
 
 ---
 
@@ -37,9 +37,15 @@ Il met fin à la faillite et publie cette fin au Moniteur belge ainsi que sur RE
 
 Prévu par l'article XX.173 du Code de droit économique, l'effacement s'applique uniquement aux personnes physiques — indépendants, artisans, professions libérales en nom propre. Les sociétés n'en bénéficient pas : leurs dettes subsistent après la dissolution, même si elles ne peuvent plus être recouvrées en pratique. Pour tout le détail sur les dettes concernées et les exceptions, consultez [l'effacement automatique des dettes](../faillis/effacement.md).
 
+!!! info "Le régime dépend de la date du jugement de faillite"
+    - **Faillite prononcée depuis le 1er septembre 2023** (loi du 7 juin 2023) : la clôture libère le failli automatiquement (article XX.173, § 2). Le refus peut être demandé pendant trois ans à compter de l'expiration du droit à l'admission des créances. Une fois ce délai passé, si la faillite n'est pas clôturée, le failli peut demander au tribunal de statuer sur l'effacement sans attendre la clôture (Cour constitutionnelle, arrêt n° 55/2026 du 23 avril 2026).
+    - **Faillite prononcée du 1er mai 2018 au 31 août 2023** : l'effacement est accordé par le tribunal sur requête du failli. Après un délai de six mois, le failli peut demander au tribunal de se prononcer sans attendre la clôture ; à défaut, le tribunal statue au plus tard à la clôture.
+
+    Exemples chiffrés : voir [l'effacement des dettes](../faillis/effacement.md).
+
 ### Les causes de refus
 
-Le tribunal peut refuser totalement ou partiellement l'effacement si le failli a commis des fautes graves et caractérisées ayant contribué à la faillite. Les fautes les plus fréquentes sont l'absence ou la falsification de la comptabilité, la poursuite délibérée d'une activité manifestement déficitaire sans espoir raisonnable, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs. Les faillites répétées — deux, trois faillites successives — constituent également un motif de refus.
+Le tribunal peut refuser totalement ou partiellement l'effacement si le failli a commis des fautes graves et caractérisées ayant contribué à la faillite, ou, pour les faillites prononcées depuis le 1er septembre 2023, s'il a sciemment fourni des renseignements inexacts lors de l'aveu ou au juge-commissaire et au curateur. Les fautes les plus fréquentes sont l'absence ou la falsification de la comptabilité, la poursuite délibérée d'une activité manifestement déficitaire sans espoir raisonnable, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs. Les faillites répétées — deux, trois faillites successives — constituent également un motif de refus.
 
 La demande de refus peut être formulée avant la clôture par le curateur, [le procureur du Roi](acteurs-secondaires.md#le-procureur-du-roi) ou un créancier impayé. Cette demande est déposée sous la forme d'une [requête en refus d'effacement](../faillis/effacement.md#la-requete-en-refus-deffacement). C'est l'arme procédurale principale dans les dossiers où une faute grave a contribué à la faillite. 
 
