@@ -25,7 +25,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ## B
 
-**Banqueroute** — Terme historique désignant les infractions pénales propres à la faillite (banqueroute simple pour fautes graves de gestion, banqueroute frauduleuse pour dissimulation d'actifs ou paiements préférentiels frauduleux). En pratique, les faits reprochés au failli sont aujourd'hui le plus souvent poursuivis sous des qualifications de droit pénal commun — abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité, escroquerie — plutôt que sous la qualification autonome de banqueroute. Les sanctions encourues peuvent aller jusqu'à plusieurs années d'emprisonnement et de lourdes amendes.
+**Banqueroute** — Infraction pénale propre à la faillite, reprise aux articles 489 à 491 du nouveau Code pénal, en vigueur depuis le 1er septembre 2026. La **banqueroute simple** (art. 490) vise l'entreprise faillie ou le dirigeant qui, notamment, a omis de faire aveu dans le délai pour retarder la faillite, a payé ou favorisé un créancier au préjudice de la masse, n'a pas fourni les renseignements exigés lors de l'aveu ou a fourni des renseignements inexacts au juge-commissaire ou au curateur. La **banqueroute frauduleuse** (art. 491) suppose une intention frauduleuse ou le dessein de nuire : détourner ou dissimuler une partie de l'actif, ou soustraire les livres et documents comptables. Les poursuites sont indépendantes de la procédure devant le tribunal de l'entreprise. D'autres infractions peuvent s'y ajouter : abus de biens sociaux, faux et usage de faux, organisation frauduleuse d'insolvabilité (art. 496).
 
 ---
 
