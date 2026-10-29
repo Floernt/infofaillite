@@ -5,7 +5,7 @@ description: Les dettes avant la faillite en Belgique - Cours des intérêts, fr
 keywords: dettes qui augmentent belgique, intérêts de retard dette, frais de recouvrement
   belgique, saisie sur salaire belgique, quotité insaisissable, saisie-arrêt salaire,
   indépendant complémentaire dettes, huissier saisie belgique
-updated: '2026-08-31'
+updated: '2026-10-29'
 ---
 # Les dettes avant la faillite : intérêts, frais et saisies
 
