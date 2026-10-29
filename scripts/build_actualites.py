@@ -1,7 +1,7 @@
 """Génère la section Actualités et ses renvois croisés avec le guide.
 
 Workflow:
-    python scripts/build_actualites.py [--check]
+    python scripts/build_actualites.py [--check] [--today AAAA-MM-JJ] [--drop-future]
 
 À partir des notes ``docs/actualites/AAAA-MM-JJ-slug.md`` et de la taxonomie
 ``data/themes.yml`` :
@@ -15,6 +15,11 @@ Workflow:
 
 Le script n'écrit qu'entre les marqueurs START / END et ne réécrit un fichier
 que si son contenu change.
+
+Publication programmée : une note dont la ``date`` est postérieure au jour
+(``--today``, par défaut la date du jour) n'apparaît dans aucune liste ni
+aucun renvoi. En CI, ``--drop-future`` supprime en plus son fichier de
+l'espace de travail, pour qu'elle ne soit pas construite avant sa date.
 """
 from __future__ import annotations
 
@@ -412,10 +417,24 @@ def render_home_block(notes: list[Note]) -> str:
 # --- orchestration -----------------------------------------------------------
 
 
-def build(docs_root: Path, themes_path: Path) -> dict[Path, str]:
-    """Retourne {fichier: nouveau contenu} pour tous les fichiers concernés."""
+def split_scheduled(notes: list[Note], today: str) -> tuple[list[Note], list[Note]]:
+    """Sépare les notes publiées (date <= today) des notes programmées."""
+    published = [n for n in notes if n.date <= today]
+    scheduled = [n for n in notes if n.date > today]
+    return published, scheduled
+
+
+def build(
+    docs_root: Path, themes_path: Path, today: str | None = None
+) -> dict[Path, str]:
+    """Retourne {fichier: nouveau contenu} pour tous les fichiers concernés.
+
+    Les notes programmées reçoivent leur bloc de fin de note (prêt pour leur
+    parution) mais n'apparaissent nulle part ailleurs.
+    """
     themes = load_themes(themes_path, docs_root)
-    notes = load_notes(docs_root, themes)
+    all_notes = load_notes(docs_root, themes)
+    notes, _ = split_scheduled(all_notes, today or date.today().isoformat())
     titles = {p: page_title(docs_root, p) for t in themes.values() for p in t.pages}
 
     outputs: dict[Path, str] = {}
@@ -430,7 +449,7 @@ def build(docs_root: Path, themes_path: Path) -> dict[Path, str]:
     plan(f"{NOTES_DIR}/README.md", render_index(notes, themes), append=False)
     plan(f"{NOTES_DIR}/themes.md", render_themes_page(notes, themes, titles), append=False)
     plan("README.md", render_home_block(notes), append=False)
-    for note in notes:
+    for note in all_notes:
         plan(note.rel, render_note_block(note, notes, themes, titles), append=True)
     for path in sorted(docs_root.rglob("*.md")):
         rel = path.relative_to(docs_root).as_posix()
@@ -449,15 +468,42 @@ def main(argv: list[str] | None = None, repo_root: Path | None = None) -> int:
         action="store_true",
         help="Ne pas écrire ; exit 1 si au moins un fichier est désynchronisé.",
     )
+    parser.add_argument(
+        "--today",
+        metavar="AAAA-MM-JJ",
+        help="Date de référence pour la publication programmée (défaut : aujourd'hui).",
+    )
+    parser.add_argument(
+        "--drop-future",
+        action="store_true",
+        help="Supprimer les fichiers des notes programmées (CI, avant le build).",
+    )
     args = parser.parse_args(argv)
+    if args.today and not _ISO_DATE_RE.match(args.today):
+        parser.error("--today attend une date AAAA-MM-JJ")
+    today = args.today or date.today().isoformat()
 
     repo_root = repo_root or Path.cwd()
     docs_root = repo_root / "docs"
+    themes_path = repo_root / "data" / "themes.yml"
     try:
-        outputs = build(docs_root, repo_root / "data" / "themes.yml")
+        outputs = build(docs_root, themes_path, today)
+        _, scheduled = split_scheduled(
+            load_notes(docs_root, load_themes(themes_path, docs_root)), today
+        )
     except ValueError as exc:
         print(f"Erreur de validation :\n{exc}", file=sys.stderr)
         return 2
+
+    for note in sorted(scheduled, key=lambda n: n.date):
+        print(f"Programmée le {note.date} : {note.rel}")
+    if args.drop_future:
+        for note in scheduled:
+            path = docs_root / note.rel
+            outputs.pop(path, None)
+            path.unlink()
+        if scheduled:
+            print(f"{len(scheduled)} note(s) programmée(s) retirée(s) du build.")
 
     changed = 0
     for path, content in outputs.items():

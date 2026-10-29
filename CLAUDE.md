@@ -45,6 +45,8 @@ Règles :
 - **Ne jamais éditer à la main** le contenu entre `<!-- actualites:auto:start -->` et `<!-- actualites:auto:end -->` : il est écrasé à chaque génération.
 - **Front matter compatible Zensical** : dates toujours entre guillemets (`'2026-10-15'`) et aucune valeur vide (`""` ou ligne supprimée). Sinon le build échoue avec « failed to extract field Markdown.meta », sans nommer le fichier. Le script de génération détecte ces deux cas et indique le fichier en cause.
 - Ajouter un thème ou rattacher une page à un thème : éditer seulement [data/themes.yml](data/themes.yml), puis relancer la génération.
+- **Publication programmée** : une note dont la `date` est future n'apparaît nulle part (liste, thèmes, accueil, pages du guide, sitemap) tant que la date n'est pas atteinte. Le workflow [deploy.yml](.github/workflows/deploy.yml) reconstruit le site chaque matin (05:00 UTC) et lance `build_actualites.py --drop-future` pour retirer les fichiers des notes futures avant le build : elles ne sont pas accessibles par URL avant leur date. Le cron ne tourne que sur `main` : une note programmée paraît seule, à condition d'avoir été fusionnée dans `main`. En local, `--check` peut signaler un écart après le passage d'une date : relancer la génération. `--today AAAA-MM-JJ` simule une autre date.
+- Calendrier et points à vérifier des notes programmées : [superpowers/revue-actualites.md](superpowers/revue-actualites.md) (non publié).
 
 ## Conventions éditoriales
 

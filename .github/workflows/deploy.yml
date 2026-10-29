@@ -4,6 +4,18 @@ on:
   push:
     branches:
       - main
+  # Reconstruction quotidienne : publie les notes d'actualité programmées
+  # dont la date est atteinte (scripts/build_actualites.py --drop-future).
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  TZ: Europe/Brussels
 
 permissions:
   contents: read
@@ -25,8 +37,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Retirer les notes programmées
+        run: |
+          python scripts/build_actualites.py --drop-future
+          python scripts/build_sitemap.py
+
       - name: Build site
-        run: zensical build
+        run: zensical build --clean
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
