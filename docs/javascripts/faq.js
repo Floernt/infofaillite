@@ -244,38 +244,34 @@
       var ts = terms(state.q);
       var filtered = !!(state.profil || state.theme);
       var shown = [];
-      var partial = false;
+      var full = 0;
       var outside = 0;
 
       if (!ts.length) {
         shown = items.filter(inFilters);
       } else {
-        // Score : nombre de mots trouvés ; un mot présent dans la question compte double
+        // Une question est retenue dès qu'elle contient l'un des mots.
+        // Classement : d'abord le nombre de mots trouvés, puis le poids
+        // (un mot présent dans l'intitulé de la question compte double).
         items.forEach(function (d) {
+          d._hits = 0;
           d._score = 0;
-          d._full = ts.every(function (t) { return hasTerm(d._roots, t); });
           ts.forEach(function (t) {
-            if (hasTerm(d._qRoots, t)) d._score += 2;
-            else if (hasTerm(d._roots, t)) d._score += 1;
+            if (hasTerm(d._qRoots, t)) { d._hits++; d._score += 2; }
+            else if (hasTerm(d._roots, t)) { d._hits++; d._score += 1; }
           });
         });
-        var pool = items.filter(inFilters);
-        shown = pool.filter(function (d) { return d._full; });
-        if (filtered) outside = items.filter(function (d) { return d._full && !inFilters(d); }).length;
-        if (!shown.length && !outside) {
-          // Aucune question ne contient tous les mots : on montre les plus proches
-          var best = Math.max.apply(null, pool.map(function (d) { return d._score; }).concat(0));
-          if (best > 0) {
-            shown = pool.filter(function (d) { return d._score === best; });
-            partial = true;
-          }
-        }
+        shown = items.filter(function (d) { return d._hits && inFilters(d); });
+        full = shown.filter(function (d) { return d._hits === ts.length; }).length;
+        if (filtered) outside = items.filter(function (d) { return d._hits && !inFilters(d); }).length;
       }
 
       // Recherche : résultats classés par pertinence dans une liste unique ;
       // sans recherche, chaque question regagne sa section.
       if (ts.length) {
-        shown.sort(function (a, b) { return (b._score - a._score) || (a._index - b._index); });
+        shown.sort(function (a, b) {
+          return (b._hits - a._hits) || (b._score - a._score) || (a._index - b._index);
+        });
         shown.forEach(function (d) { results.appendChild(d); });
       } else {
         items.forEach(function (d) {
@@ -308,11 +304,14 @@
         setCount(n === items.length ? items.length + " questions" :
           (n ? plural(n, "question") + " sur " + items.length : "Aucune question ne correspond à ces filtres."),
           null);
-      } else if (partial) {
-        setCount("Aucune question ne contient tous ces mots. " +
-          (n > 1 ? "Les " + n + " plus proches :" : "La plus proche :"), null);
       } else if (n) {
-        setCount(plural(n, "question") + " pour « " + state.q.trim() + " »" +
+        var detail = "";
+        if (ts.length > 1) {
+          detail = full === n ? ", toutes avec l'ensemble des mots" :
+            full ? " ; " + (full > 1 ? "les " + full + " premières contiennent" : "la première contient") + " tous les mots" :
+            " ; aucune ne contient tous les mots";
+        }
+        setCount(plural(n, "question") + " pour « " + state.q.trim() + " »" + detail +
           (outside ? ", et " + outside + " hors des filtres sélectionnés." : "."),
           outside ? "Chercher dans toutes les questions" : null);
       } else if (outside) {

@@ -6,6 +6,10 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-29] build | Recherche de la FAQ : un mot suffit
+
+- Test de Florian : « délais, effacement » ne donnait que 4 questions, car il fallait tous les mots. La recherche retient désormais toute question qui contient l'un des mots (22 résultats), classée d'abord par nombre de mots trouvés, puis par poids (intitulé de la question compté double) ; le compteur indique combien de questions, en tête de liste, contiennent tous les mots. Le mode « questions les plus proches » disparaît, devenu inutile.
+
 ## [2026-10-29] build | Recherche de la FAQ réécrite
 
 - L'ancien champ cherchait l'expression exacte, d'un seul bloc : « délai déclaration », « effacement dettes », « salaire impayé » ou « l’aveu » (apostrophe courbe des téléphones) ne trouvaient rien (2 requêtes test sur 16 avec résultat).
@@ -642,6 +646,16 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** ok continue la suite du plan
 
 **Action :** Le plan est terminé, sauf le push, qui attend ton feu vert. C'est commité sur `gh-pages`.  **Captures de contrôle** : l'en-tête et le bandeau « Cette page concerne » s'affichent correctement en 1280, 1024 et 520 px. Sous 1280 px, les cinq onglets passent dans le menu ☰ ; à 520 px, les deux étiquettes de public vont à la ligne proprement. Rien à corriger de ce côté.  **Un défaut repéré pendant les captures, et corrigé** : dans la page Interdiction de gérer, le paragraphe d'introduction et celui s...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 14:39:40 - session 4a7bde3d
+
+**Demande :** j'ai testé le champs de recherche pour le faq et ca ne fonctionne pas bien. optimise
+
+**Action :** J'ai réécrit la recherche de la FAQ : sur 16 requêtes de test, 14 trouvent maintenant des questions, contre 2 avant. C'est commité sur `gh-pages`, pas poussé.  **La cause** : le champ cherchait la phrase exacte, mot pour mot et dans l'ordre. Ainsi, « délai déclaration », « effacement dettes » ou « salaire impayé » ne trouvaient rien. « l’aveu » échouait aussi quand il était tapé sur un téléphone, à cause de l'apostrophe courbe.  **Ce que fait la nouvelle recherche** : - **Chaque mot est cherché ...
 
 **Outils utilises :** aucun
 
