@@ -34,7 +34,7 @@ Toute entreprise au sens du Livre XX — entreprises au sens large (anciennement
 
 **[Les mesures amiables](https://florianernotte.be/matieres/prj/mesures-amiables/)** regroupent la médiation, l'accord amiable extrajudiciaire et l'accord collectif extrajudiciaire. Renforcées par la réforme de 2023, elles permettent de restructurer la dette en toute confidentialité, sans publication au Moniteur belge ni audience publique — même lorsque l'accord est ultérieurement homologué. Elles conviennent aux entreprises qui veulent agir tôt, préserver leur image commerciale, et négocier avec un nombre limité de créanciers stratégiques. L'accord ne lie que les créanciers signataires.
 
-**[La PRJ privée](https://florianernotte.be/prj-privee/)** est la grande nouveauté de la réforme 2023. Elle ouvre une procédure judiciaire entièrement confidentielle, sans publication au Moniteur belge ni audience publique, dans laquelle seuls les créanciers impliqués dans les négociations sont informés. Son principal compromis : elle **ne suspend pas automatiquement les poursuites** de l'ensemble des créanciers — les créanciers non impliqués conservent leurs droits d'exécution. Elle convient aux difficultés financières précoces, lorsque la situation reste gérable et la crédibilité commerciale intacte.
+**[La PRJ privée](https://florianernotte.be/prj-privee/)** est la grande nouveauté de la réforme 2023. Elle ouvre une procédure judiciaire entièrement confidentielle, sans publication au Moniteur belge ni audience publique, dans laquelle seuls les créanciers impliqués dans les négociations sont informés. Son principal compromis : elle **ne suspend pas automatiquement les poursuites** de l'ensemble des créanciers. Le praticien de la réorganisation peut toutefois demander au président du tribunal un sursis à l'égard de créanciers nommément désignés, pour quatre mois au plus (article XX.83/24). Elle convient aux difficultés financières précoces, lorsque la situation reste gérable et la crédibilité commerciale intacte.
 
 **[La PRJ publique](https://florianernotte.be/prj-publique/)** est la procédure historique, ouverte par le tribunal de l'entreprise et publiée. Elle offre un **moratoire général** sur l'ensemble des poursuites, d'une durée initiale de **quatre mois**, prorogeable mais strictement encadrée par la réforme de 2023. Dans ce cadre, le débiteur peut négocier un accord amiable judiciaire ou un accord collectif (plan d'apurement homologué imposable aux créanciers minoritaires). C'est la voie indiquée lorsque la pression des créanciers est forte et qu'un moratoire général est indispensable pour structurer la restructuration.
 
@@ -44,7 +44,7 @@ Toute entreprise au sens du Livre XX — entreprises au sens large (anciennement
 
 Le sursis attaché à la **PRJ publique** est désormais accordé pour une durée initiale de **quatre mois**, les prorogations étant strictement encadrées. Pendant cette période, le débiteur est protégé : aucun créancier visé par le moratoire ne peut le poursuivre ou le saisir.
 
-La **PRJ privée** et les **mesures amiables** ne comportent pas de moratoire général : les négociations ont lieu créancier par créancier, dans la confidentialité, sans suspension automatique des poursuites des autres créanciers.
+La **PRJ privée** et les **mesures amiables** ne comportent pas de moratoire général : les négociations ont lieu créancier par créancier, dans la confidentialité. En PRJ privée, un sursis ciblé peut être demandé à l'égard de certains créanciers (article XX.83/24).
 
 !!! warning "Si la réorganisation judiciaire échoue"
     Si le plan d'apurement est rejeté par les créanciers, si la procédure ne débouche sur aucun accord dans les délais, ou si le débiteur manque à ses obligations pendant le sursis, le tribunal peut mettre fin à la procédure et prononcer la faillite d'office. C'est l'une des raisons pour lesquelles il est nécessaire de préparer son dossier avec [un avocat spécialisé](https://florianernotte.be/matieres/prj/) avant le dépôt de la requête.
@@ -62,7 +62,7 @@ La **PRJ privée** et les **mesures amiables** ne comportent pas de moratoire g�
 | Durée | 4 mois (sursis PRJ publique) à plusieurs mois selon la voie | 6 mois à plusieurs années |
 | Coût | Honoraires praticien / médiateur | Honoraires curateur |
 
-La réorganisation judiciaire n'a de sens que si l'activité est économiquement viable et qu'un accord avec les créanciers est réellement possible. Si l'entreprise est insolvable quelle que soit la durée du plan, la faillite offre la seule perspective d'un véritable nouveau départ grâce à l'effacement automatique (pour la personne physique). Pour un diagnostic adapté à la situation concrète de votre entreprise, [un avocat spécialisé en réorganisation judiciaire](https://florianernotte.be/matieres/prj/) peut comparer les quatre voies et arbitrer entre PRJ et faillite.
+La réorganisation judiciaire n'a de sens que si l'activité est économiquement viable et qu'un accord avec les créanciers est réellement possible. Si l'entreprise est insolvable quelle que soit la durée du plan, la faillite organise une liquidation ordonnée : pour l'indépendant en nom propre, elle ouvre aussi la perspective d'un nouveau départ grâce à l'effacement des dettes ; pour une société, elle aboutit à sa dissolution. Pour un diagnostic adapté à la situation concrète de votre entreprise, [un avocat spécialisé en réorganisation judiciaire](https://florianernotte.be/matieres/prj/) peut comparer les quatre voies et arbitrer entre PRJ et faillite.
 
 ---
 
@@ -108,7 +108,7 @@ Le choix dépend d'abord de votre situation concrète :
 
 **L'activité est économiquement viable mais vous traversez une crise de trésorerie.** La réorganisation judiciaire est faite pour vous. Agissez tôt, avant d'atteindre la cessation de paiements, pour avoir accès à tous ses outils — confidentiels ([mesures amiables](https://florianernotte.be/matieres/prj/mesures-amiables/), [PRJ privée](https://florianernotte.be/prj-privee/)) ou avec moratoire ([PRJ publique](https://florianernotte.be/prj-publique/)).
 
-**Vous avez cessé de payer vos dettes de façon durable et le crédit est rompu.** Vous êtes en état de faillite. La réorganisation judiciaire n'est plus accessible. Déposez l'aveu au plus vite pour préserver votre droit à l'effacement des dettes.
+**Vous avez cessé de payer vos dettes de façon durable et le crédit est rompu.** Vous êtes en état de faillite. La réorganisation judiciaire n'est plus accessible. Déposez l'aveu au plus vite, dans le mois de la cessation de paiements : pour un indépendant, c'est aussi préserver son droit à l'effacement des dettes ; pour le dirigeant d'une société, c'est limiter le risque de responsabilité personnelle et d'interdiction de gérer.
 
 **Vous souhaitez fermer votre société de manière ordonnée alors que la situation est équilibrée.** La liquidation volontaire est la voie appropriée sans intervention judiciaire lourde.
 

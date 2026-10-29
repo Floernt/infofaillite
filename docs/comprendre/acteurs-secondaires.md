@@ -84,9 +84,9 @@ Les créanciers sont les personnes physiques ou morales à qui le failli devait 
 
 ### L'obligation de déclarer sa créance
 
-Déclarer sa créance dans les trente jours qui suivent la publication du jugement au Moniteur belge est la démarche la plus importante pour tout créancier. Sans déclaration, aucun remboursement n'est possible. La déclaration doit comporter tous les documents justificatifs et mentionner explicitement toute sûreté détenue — hypothèque, gage, privilège, caution, réserve de propriété.
+Déclarer sa créance dans le délai fixé par le jugement, au maximum trente jours à compter du jugement déclaratif (article XX.104), est la démarche la plus importante pour tout créancier. Sans déclaration, aucun remboursement n'est possible. La déclaration doit comporter tous les documents justificatifs et mentionner explicitement toute sûreté détenue — hypothèque, gage, privilège, caution, réserve de propriété.
 
-Le délai de trente jours n'est cependant pas un couperet absolu : une déclaration tardive reste recevable tant que le curateur n'a pas déposé le **troisième procès-verbal de vérification** (en pratique environ douze mois après le jugement). Au-delà du 3ᵉ procès-verbal, la créance est forclose. Pour le détail de la procédure et des conséquences pratiques, consultez [déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md) et [la vérification des créances et les procès-verbaux](../creanciers/verification-contestation.md).
+Ce délai n'est cependant pas un couperet absolu. Une déclaration tardive reste possible : le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance. Son droit d'agir en admission se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165). Pour le détail de la procédure et des conséquences pratiques, consultez [déclarer votre créance dans les trente jours](../creanciers/declarer-creance.md) et [la vérification des créances et les procès-verbaux](../creanciers/verification-contestation.md).
 
 ### L'ordre de priorité entre créanciers
 

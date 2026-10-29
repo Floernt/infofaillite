@@ -42,7 +42,7 @@ Pour le détail de ces mesures d'exécution — titre exécutoire, commandement 
 Le débiteur lui-même peut se déclarer en faillite en déposant un aveu auprès du tribunal de l'entreprise compétent. Il n'est pas obligatoire d'être assisté d'un avocat pour cette démarche, même si c'est recommandé.
 
 !!! danger "Délai d'un mois pour l'aveu"
-    La loi impose de déposer l'aveu de faillite dans le mois qui suit la cessation de paiements. Dépasser ce délai peut constituer une faute grave : le tribunal peut refuser l'effacement des dettes et prononcer une interdiction de gérer pour inaction. Agir dans les délais démontre votre bonne foi et joue en votre faveur lors du jugement de clôture.
+    La loi impose de déposer l'aveu de faillite dans le mois qui suit la cessation de paiements. Un retard peut être retenu comme faute grave et caractérisée ayant contribué à la faillite : il expose l'indépendant à un refus d'effacement de ses dettes et, indépendant comme dirigeant de société, à une interdiction de gérer ou à une action en responsabilité. Omettre l'aveu pour retarder la faillite est en outre une banqueroute simple (article 490 du nouveau Code pénal). Agir dans les délais démontre votre bonne foi.
 
 Effectuer l'aveu dans les délais démontre la bonne foi du débiteur, limite l'aggravation du passif et réduit le risque d'interdiction de gérer. Pour les obligations qui s'ensuivent, consultez [vos obligations légales envers le curateur](../faillis/obligations.md).
 
@@ -55,7 +55,7 @@ Un créancier dont la créance est certaine, liquide et exigible peut citer le d
 
 ## Le tribunal de l'entreprise : juridiction compétente
 
-Le tribunal de l'entreprise est la juridiction spécialisée qui connaît des faillites, des réorganisations judiciaires et des litiges commerciaux. La compétence territoriale est déterminée par le siège principal de l'entreprise ou le domicile de l'entreprise personne physique. 
+Le tribunal de l'entreprise est la juridiction spécialisée qui connaît des faillites, des réorganisations judiciaires et des litiges commerciaux. Le tribunal compétent est celui du lieu où se situe le centre des intérêts principaux du débiteur (article XX.12). Il est présumé se trouver au siège pour une société ou une autre personne morale, et au lieu d'activité principal pour l'indépendant en nom propre ou le titulaire d'une profession libérale, sauf transfert dans les trois mois qui précèdent la demande. 
 
 ---
 

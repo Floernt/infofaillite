@@ -339,7 +339,7 @@ L'envoi par écrit au curateur reste possible, notamment pour les travailleurs, 
 
 Le jugement de faillite fixe une date limite, qui ne peut dépasser trente jours à compter du jugement (article XX.104 du CDE). Elle figure sur Regsol et dans l'extrait publié au Moniteur belge.
 
-Ce délai n'est pas fatal. Une déclaration tardive reste possible, mais le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance (article XX.165). En pratique, elle est examinée jusqu'au dépôt du troisième procès-verbal de vérification, environ douze mois après le jugement. Le droit d'agir en admission se prescrit par un an à compter du jugement, sauf exceptions limitées. Déclarer dans le délai fixé par le jugement reste la règle prudente.
+Ce délai n'est pas fatal. Une déclaration tardive reste possible, mais le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance (article XX.165). Le droit d'agir en admission se prescrit par un an à compter du jugement, sauf exceptions limitées. Déclarer dans le délai fixé par le jugement reste la règle prudente.
 
 [Pour aller plus loin : les délais de déclaration](../delais.md){ .ifa-more }
 
@@ -708,7 +708,7 @@ Oui, sous conditions : c'est le droit passerelle, versé par la caisse d'assuran
 
 Il faut notamment avoir été assujetti au statut social pendant le trimestre de la faillite et les trois trimestres précédents, et ne pas avoir été condamné pénalement en lien avec la faillite. Le dirigeant d'une société faillie, affilié comme indépendant, peut aussi y prétendre. La demande doit être introduite au plus tard à la fin du deuxième trimestre qui suit celui de la faillite : pour un jugement prononcé en février, au plus tard le 30 septembre.
 
-[Pour aller plus loin : le droit passerelle](../faillis/reprendre-activite.md#le-droit-passerelle-pour-les-independants-faillis){ .ifa-more }
+[Pour aller plus loin : le droit passerelle](../faillis/reprendre-activite.md#le-droit-passerelle){ .ifa-more }
 
 </details>
 
@@ -993,7 +993,7 @@ Si le failli est une personne physique, le dessaisissement prend fin et il retro
       "name": "Dans quel délai déclarer ma créance, et si je l'ai manqué ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Le jugement de faillite fixe une date limite, qui ne peut dépasser trente jours à compter du jugement (article XX.104 du CDE). Elle figure sur Regsol et dans l'extrait publié au Moniteur belge. Ce délai n'est pas fatal. Une déclaration tardive reste possible, mais le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance (article XX.165). En pratique, elle est examinée jusqu'au dépôt du troisième procès-verbal de vérification, environ douze mois après le jugement. Le droit d'agir en admission se prescrit par un an à compter du jugement, sauf exceptions limitées. Déclarer dans le délai fixé par le jugement reste la règle prudente."
+        "text": "Le jugement de faillite fixe une date limite, qui ne peut dépasser trente jours à compter du jugement (article XX.104 du CDE). Elle figure sur Regsol et dans l'extrait publié au Moniteur belge. Ce délai n'est pas fatal. Une déclaration tardive reste possible, mais le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance (article XX.165). Le droit d'agir en admission se prescrit par un an à compter du jugement, sauf exceptions limitées. Déclarer dans le délai fixé par le jugement reste la règle prudente."
       }
     },
     {

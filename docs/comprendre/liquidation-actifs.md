@@ -65,11 +65,15 @@ Les nullités facultatives nécessitent la preuve d'un préjudice pour la masse 
 
 ### L'action en comblement de passif
 
-Les dirigeants d'une société faillie peuvent être condamnés personnellement à combler tout ou partie du passif social si leur faute grave de gestion a contribué à la faillite. Cette action, prévue par l' article XX.225 du Code de droit économique, peut être engagée par le curateur. Si le curateur refuse d'agir, les créanciers peuvent l'y contraindre après une mise en demeure restée sans suite pendant un mois.
+Les dirigeants d'une société faillie, de droit ou de fait, actuels ou anciens, peuvent être condamnés personnellement à supporter tout ou partie des dettes sociales, à concurrence de l'insuffisance d'actif, si leur faute grave et caractérisée a contribué à la faillite (article XX.225 du Code de droit économique). L'action appartient au curateur ; un créancier lésé peut l'introduire lui-même si le curateur, sommé de le faire, n'agit pas dans le mois. Elle n'est pas ouverte lorsque la société avait, sur les trois derniers exercices, un chiffre d'affaires moyen inférieur à 620.000 euros hors TVA et un total du bilan du dernier exercice ne dépassant pas 370.000 euros (§ 2).
 
-Les fautes les plus souvent retenues par les tribunaux sont l'absence totale de comptabilité ou sa falsification, la poursuite délibérée d'une activité manifestement déficitaire sans espoir raisonnable de redressement (wrongful trading), les prélèvements personnels excessifs ou les dépenses somptuaires financées par la société, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs. La somme obtenue à l'issue de l'action entre dans la masse et augmente le dividende des créanciers.
+Les fautes les plus souvent retenues par les tribunaux sont l'absence totale de comptabilité ou sa falsification, les prélèvements personnels excessifs ou les dépenses somptuaires financées par la société, le non-paiement systématique des cotisations ONSS et de la TVA, et le détournement d'actifs. La loi répute aussi faute grave et caractérisée toute fraude fiscale grave, organisée ou non.
 
-Les dirigeants d'une société faillie peuvent également être tenus personnellement responsables des arriérés de cotisations ONSS en vertu de la loi spéciale sur la responsabilité solidaire des dirigeants.
+La poursuite d'une activité alors qu'il n'y avait manifestement plus de perspective raisonnable d'éviter la faillite relève d'une action distincte, sans exception pour les petites sociétés : l'article XX.227 permet de condamner le dirigeant qui savait ou devait savoir que la faillite était inévitable et n'a pas agi comme l'aurait fait un administrateur normalement prudent et diligent. Cette action appartient au seul curateur, et la responsabilité qui en découle est plafonnée par l'article 2:57 du Code des sociétés et des associations.
+
+Les sommes obtenues au terme de ces actions sont réparties entre les créanciers et augmentent leur dividende.
+
+Enfin, l'ONSS ou le curateur peuvent tenir les dirigeants personnellement et solidairement responsables des cotisations sociales impayées lorsqu'ils ont été impliqués, au cours des cinq années précédentes, dans au moins deux faillites ou liquidations laissant des dettes sociales impayées (article XX.226). Pour le détail, voir [votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md).
 
 ---
 

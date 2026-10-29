@@ -20,7 +20,7 @@ La durée totale d'une procédure varie de six mois (insuffisance d'actif simple
 Lorsqu'un indépendant ou une société constate qu'il remplit [les trois conditions de l'état de faillite](definition-faillite.md) — qualité d'entreprise, cessation persistante de paiements et ébranlement du crédit —, il a l'obligation légale de déposer un aveu de faillite devant le tribunal de l'entreprise compétent endéans le mois qui suit la cessation de paiements.
 
 !!! danger "Ne dépassez pas le délai d'un mois pour l'aveu"
-    Le non-respect de ce délai peut constituer une faute grave. Le tribunal pourrait, sur requête motivée refuser l'effacement des dettes et prononcer une interdiction de gérer pour inaction. Agir dans les délais démontre votre bonne foi et joue favorablement lors du jugement de clôture.
+    Le non-respect de ce délai peut être retenu comme faute grave et caractérisée. Il expose l'indépendant à un refus d'effacement de ses dettes et, indépendant comme dirigeant de société, à une interdiction de gérer ou à une action en responsabilité ; omettre l'aveu pour retarder la faillite est en outre une banqueroute simple (article 490 du nouveau Code pénal). Agir dans les délais démontre votre bonne foi.
 
 L'aveu se dépose entièrement en ligne sur [REGSOL](https://www.regsol.be), le registre central de la solvabilité. La plateforme guide le débiteur pas à pas et la démarche est simple à suivre : il n'y a pas de déplacement au greffe à prévoir. Il faut joindre le dernier bilan et compte de résultats, la liste des actifs et des dettes, la liste des créanciers avec les montants dus et un exposé des causes de la faillite. Un avocat n'est pas légalement obligatoire, mais son assistance reste fortement recommandée — notamment pour rédiger l'exposé des causes, qui pèsera ensuite sur la décision d'effacement des dettes.
 
@@ -75,10 +75,10 @@ Le failli doit être convoqué pour assister à l'inventaire. C'est son droit, m
 
 ### Les déclarations de créances
 
-La publication du jugement au Moniteur belge déclenche le délai de trente jours pendant lequel les créanciers doivent déclarer leurs créances auprès du curateur.
+Le jugement fixe le délai dans lequel les créanciers doivent déclarer leurs créances dans le registre : trente jours au plus à compter du jugement (article XX.104). La publication au Moniteur belge et sur Regsol le porte à leur connaissance.
 
 !!! danger "Le délai de trente jours est impératif pour les créanciers"
-    Une créance non déclarée dans les trente jours ne peut pas bénéficier des répartitions provisoires. Les déclarations tardives restent acceptées jusqu'au dépôt du troisième procès-verbal de vérification (en pratique environ douze mois après le jugement). La déclaration via REGSOL est le moyen le plus rapide et le plus sûr.
+    Une créance non déclarée dans le délai ne peut pas bénéficier des répartitions déjà faites. Une déclaration tardive reste possible : le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance. Son droit d'agir en admission se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165). La déclaration via REGSOL est le moyen le plus rapide et le plus sûr.
 
 La déclaration doit indiquer l'identité du créancier, le montant exact de la créance (capital, intérêts, frais), la cause de la dette (factures, prêt, loyers, etc.), les garanties détenues (hypothèque, gage, privilège, caution, réserve de propriété) et les justificatifs correspondants.
 
