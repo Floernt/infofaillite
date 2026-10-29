@@ -19,7 +19,7 @@ description: Conjoint, cohabitant ou partenaire du failli - Effacement (art. XX.
 keywords: conjoint failli, cohabitant failli, effacement conjoint, décharge caution
   faillite, article XX.174, article XX.176, caution disproportionnée, partenaire du
   failli
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 Depuis le 1er janvier 2026, la caution qui a la qualité de consommateur peut être déchargée si son engagement est manifestement disproportionné à ses facultés de remboursement. Elle n'a plus à prouver que son engagement était gratuit, ce qui ouvre une possibilité réelle de décharge au partenaire de vie du failli.
 

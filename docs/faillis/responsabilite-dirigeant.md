@@ -1,8 +1,12 @@
 ---
-description: Responsabilité personnelle du dirigeant d'une société en faillite - Faute grave, activité sans issue, ONSS, TVA, plafonds du CSA, démission
-keywords: responsabilité dirigeant faillite, article XX.225, article XX.227, article XX.226, comblement de passif, responsabilité administrateur, plafond 2:57 CSA, démission administrateur faillite
+description: Responsabilité personnelle du dirigeant d'une société en faillite - Faute
+  grave, activité sans issue, ONSS, TVA, plafonds du CSA, démission
+keywords: responsabilité dirigeant faillite, article XX.225, article XX.227, article
+  XX.226, comblement de passif, responsabilité administrateur, plafond 2:57 CSA, démission
+  administrateur faillite
 public:
 - dirigeant
+updated: '2026-10-29'
 ---
 # Votre responsabilité personnelle de dirigeant
 

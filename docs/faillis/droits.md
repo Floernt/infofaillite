@@ -3,7 +3,7 @@ description: Droits du failli - Être entendu, secours alimentaire, contester cr
   travailler, ouvrir courrier
 keywords: droits failli, secours alimentaire, être entendu, contester créances, travailler
   faillite, effets personnels
-updated: '2026-05-15'
+updated: '2026-10-29'
 public:
 - independant
 - dirigeant

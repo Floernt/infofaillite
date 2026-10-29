@@ -1,8 +1,12 @@
 ---
-description: Gérant ou administrateur d'une société en faillite - Votre patrimoine, vos obligations, vos cautions, votre statut social et vos premiers jours
-keywords: dirigeant société faillite, gérant SRL faillite, administrateur société faillite, caution dirigeant faillite, compte courant administrateur faillite, obligations dirigeant curateur
+description: Gérant ou administrateur d'une société en faillite - Votre patrimoine,
+  vos obligations, vos cautions, votre statut social et vos premiers jours
+keywords: dirigeant société faillite, gérant SRL faillite, administrateur société
+  faillite, caution dirigeant faillite, compte courant administrateur faillite, obligations
+  dirigeant curateur
 public:
 - dirigeant
+updated: '2026-10-29'
 ---
 # Votre société est en faillite : ce qui change pour vous
 

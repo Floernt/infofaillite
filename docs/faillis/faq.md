@@ -2,6 +2,7 @@
 description: Les questions fréquentes des faillis et des dirigeants sont regroupées
   dans la FAQ générale d'infofaillite.be
 keywords: questions fréquentes faillite, FAQ faillite belgique, failli questions
+updated: '2026-10-29'
 ---
 # Questions fréquentes : je suis en faillite
 

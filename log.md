@@ -6,6 +6,28 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-29] refonte | FAQ unifiée, cinquième onglet et parcours indépendant / dirigeant de société
+
+- **FAQ unifiée.** [docs/faq/README.md](docs/faq/README.md) compte 61 questions. Elles regroupent les 50 du document de l'auteur et les deux anciennes FAQ, dédoublonnées.
+  - Huit sections thématiques, chaque question en accordéon.
+  - Filtres par profil (indépendant, dirigeant, créancier, travailleur), par thème et par recherche ([faq.js](docs/javascripts/faq.js)). Le filtre se lit dans l'adresse (`#profil=dirigeant`).
+  - JSON-LD `FAQPage` généré par [scripts/build_faq.py](scripts/build_faq.py), qui est testé et appelé par `inject_git_dates.py`.
+  - Points juridiques vérifiés sur le Code consolidé avant rédaction. Corrections apportées au document source : recours du failli, deux régimes de l'effacement, caution consommateur, nouveau Code pénal, art. 2:57 CSA, XX.103 6°.
+- **Navigation.**
+  - Cinquième onglet « Questions fréquentes », placé en dernier.
+  - Liens vers la FAQ sur l'accueil.
+  - Anciennes FAQ remplacées par des renvois, hors menu.
+  - Logo et fil d'Ariane pointent désormais sur la racine via `base_url`. Ils fonctionnaient déjà en ligne, mais `href=""` sur l'accueil reposait sur un comportement implicite.
+- **Deux parcours dans « Je suis en faillite ».**
+  - Page d'entrée réécrite autour de « Qui est en faillite ? ».
+  - Nouvelles pages [societe-en-faillite.md](docs/faillis/societe-en-faillite.md) et [responsabilite-dirigeant.md](docs/faillis/responsabilite-dirigeant.md).
+  - Menu de gauche en trois groupes : indépendant, dirigeant, pour tous.
+  - Repère « Cette page concerne » (clé `public`).
+  - Encarts d'orientation sur les pages communes et sur l'effacement.
+  - Thèmes rattachés pour les « Actualités liées ».
+- **Correction factuelle.** L'interdiction de gérer pour défaut de collaboration (XX.229, § 2) dure trois ans, fixés par la loi (§ 5, al. 2), et non « au maximum dix ans ». Ajout de l'assimilation du dirigeant dont la démission n'a pas été publiée un an avant la faillite (§ 3). Pages corrigées : interdiction, obligations, glossaire.
+- **À arbitrer.** Contradictions repérées dans d'autres pages, non corrigées : point de départ des 30 jours, XX.165, indemnité du bailleur, compétence territoriale, XX.225 / 226 / 227 dans liquidation-actifs, terminologie « tribunal de l'insolvabilité ». Voir [superpowers/revue-faq-parcours.md](superpowers/revue-faq-parcours.md).
+
 ## [2026-10-29] edit | Effacement : distinction des deux régimes selon la date de la faillite
 
 - **Point de départ.** L'auteur pensait que l'arrêt de la Cour constitutionnelle n° 55/2026 ne concernait que l'ancien régime. Vérification faite sur le texte de l'arrêt, il vise le régime issu de la loi du 7 juin 2023 : la faillite en cause a été prononcée le 27 décembre 2023. Validé par l'auteur avant modification.
@@ -550,6 +572,26 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** <task-notification> <task-id>b3kffop13</task-id> <tool-use-id>toolu_019k79WjzF2ExNM6WkzNioQN</tool-use-id> <output-file>C:\Users\FLORIA~1\AppData\Local\Temp\claude\c--Users-FlorianErnotteavroya-infofaillite\4a7bde3d-726b-417c-98b9-61ac9e531ed0\tasks\b3kffop13.output</output-file> <status>completed</...
 
 **Action :** Cette notification signale seulement la fin de la capture d'écran de la page Effacement, que j'ai déjà regardée. Rien n'a changé depuis mon dernier message.  Tout est commité sur `gh-pages`, rien n'est poussé.  Restent ouverts les deux points que je t'ai signalés : la durée d'un an tirée de l'article XX.165 et les amendes pénales parmi les dettes non effacées.
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 11:52:16 - session 4a7bde3d
+
+**Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infofaillite\superpowers\revue-actualites.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** La note du 5/11 est marquée comme relue dans le fichier de revue. J'ai poussé tous les commits de la session sur `gh-pages` : `2bebf72..c8ab6ca`.  Ce push ne met encore rien en ligne. Il faut d'abord fusionner la PR `gh-pages` → `main`. À la fusion : - les corrections du guide sont publiées immédiatement ; - la publication programmée s'active, ce qui met la note du 5 novembre en ligne ce jour-là à 6 h, sans action de ta part.  Les 18 autres notes restent « À relire » dans [superpowers/revue-actu...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 12:25:41 - session 4a7bde3d
+
+**Demande :** Voici Un document reprenant 50 questions en matière de faillite qu'il faudrait intégrer sur le site dans un espace dédié type foire aux questions. Et Fusionner avec ce qui pourrait déjà exister si il y a déjà un espace fort en question, il faut créer aussi un onglet Dans le menu spécifique et dédié ...
+
+**Action :** L'agent a reçu les versions d'origine des deux FAQ.  Déjà fait de mon côté : - **FAQ** : script de filtrage avec recherche et filtre par adresse, style de l'accordéon, générateur du JSON-LD `FAQPage` avec ses tests, branché sur `inject_git_dates.py`. - **Logo et fil d'Ariane** : ils pointent désormais vers la racine du site via `base_url`. - **Repère « Cette page concerne »** : il s'affiche dans le bandeau des pages de la rubrique faillis. - **Page d'entrée faillis** : réécrite autour de « Qui e...
 
 **Outils utilises :** aucun
 

@@ -22,7 +22,7 @@ description: Entr. fr. Bruxelles, 10 septembre 2025 - Cession de créances et co
 keywords: fraude créanciers faillite, article XX.114, action paulienne faillite, compensation
   intragroupe, cession de créance faillite, responsabilité dirigeant faillite, compte
   courant administrateur
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 Dans un jugement du 10 septembre 2025, le tribunal de l'entreprise francophone de Bruxelles a déclaré inopposables à la masse deux conventions conclues le même jour par une société en difficulté. Ces conventions lui avaient fait perdre toutes ses créances sur des sociétés liées et avaient remboursé son administrateur, qui les avait signées « sous plusieurs casquettes ». Le tribunal a aussi condamné cet administrateur personnellement, in solidum avec les sociétés concernées.
 

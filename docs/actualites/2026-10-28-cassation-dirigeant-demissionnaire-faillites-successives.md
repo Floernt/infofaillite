@@ -21,7 +21,7 @@ description: Cass., 6 mars 2025, C.24.0113.F - Faillites successives et dettes O
 keywords: faillites successives ONSS, article XX.226, responsabilité dirigeant cotisations
   sociales, dirigeant démissionnaire faillite, Cour de cassation 6 mars 2025, article
   265 Code des sociétés
-updated: '2026-10-28'
+updated: '2026-10-29'
 ---
 Dans un arrêt du 6 mars 2025, la Cour de cassation a jugé que la responsabilité objective pour dettes de cotisations sociales en cas de faillites successives vise aussi le dirigeant qui avait démissionné plusieurs mois avant les faillites antérieures. La gérante concernée avait été condamnée à payer 553.681,73 euros à l'ONSS.
 
