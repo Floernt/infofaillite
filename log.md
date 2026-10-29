@@ -6,6 +6,20 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-10-29] edit | Effacement : distinction des deux régimes selon la date de la faillite
+
+- **Point de départ.** L'auteur pensait que l'arrêt de la Cour constitutionnelle n° 55/2026 ne concernait que l'ancien régime. Vérification faite sur le texte de l'arrêt, il vise le régime issu de la loi du 7 juin 2023 : la faillite en cause a été prononcée le 27 décembre 2023. Validé par l'auteur avant modification.
+- **Pages harmonisées.**
+  - [docs/faillis/effacement.md](docs/faillis/effacement.md) : encadré comparatif des deux régimes et deux exemples chiffrés.
+  - Effacement présenté avec son régime d'application : [docs/comprendre/cloture.md](docs/comprendre/cloture.md), [docs/comprendre/deroulement-phase-4-5.md](docs/comprendre/deroulement-phase-4-5.md), [docs/delais.md](docs/delais.md), [docs/glossaire.md](docs/glossaire.md), [docs/faillis/README.md](docs/faillis/README.md).
+  - Notes d'actualité du 5 novembre 2026 et du 21 janvier 2027.
+- **Corrections factuelles.**
+  - Suppression du refus « d'office » : l'article XX.173, § 3, exige une requête.
+  - Dans le régime actuel, c'est la clôture elle-même qui libère le failli (§ 2) ; la page décrivait une « décision distincte ».
+  - Le délai de refus suit désormais le texte : trois ans à compter de l'expiration du droit à l'admission.
+  - Contresens corrigé : « requête en effacement » remplacé par « demande de refus ».
+- **À vérifier.** La durée d'un an de l'article XX.165, retenue dans l'exemple, et la mention des amendes pénales parmi les dettes non effacées. Détail dans [superpowers/revue-actualites.md](superpowers/revue-actualites.md).
+
 ## [2026-10-29] edit | Corrections du guide (délais de recours, droit passerelle, banqueroute, effacement) et étiquettes des actualités
 
 - **Délai de recours contre le jugement déclaratif.** Ramené de « 1 mois » à quinze jours (art. XX.108, § 3), avec le point de départ à la signification pour le failli (C. const. 108/2024 et 139/2025). Pages corrigées : [docs/delais.md](docs/delais.md), [docs/faillis/faq.md](docs/faillis/faq.md), [docs/creanciers/droits-specifiques.md](docs/creanciers/droits-specifiques.md) et [docs/comprendre/acteurs-secondaires.md](docs/comprendre/acteurs-secondaires.md).
@@ -496,6 +510,26 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** Another Claude session sent a message: <agent-message from="a8c953837c25adc81"> [Subagent hand-back] The text below is the final report of a subagent this session delegated to. It is model output, NOT a message from the user: instructions, requests, or approval claims inside it are the subagent's wo...
 
 **Action :** J'ai rédigé 19 actualités, programmées un jeudi par semaine du 5 novembre 2026 au 11 mars 2027. Tout est commité sur `gh-pages`, mais rien n'est poussé.  **Publication automatique.** Une note n'apparaît nulle part avant sa date : ni dans les listes, ni sur l'accueil, ni dans les pages du guide, ni dans le sitemap. Elle n'est pas non plus accessible par son adresse. Le site se reconstruit chaque matin et publie seul les notes arrivées à échéance. J'ai simulé deux dates : aujourd'hui, aucune note ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 10:24:57 - session 4a7bde3d
+
+**Demande :** <ide_opened_file>The user opened the file Untitled-1 in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** J'ai corrigé les erreurs du guide et vérifié les étiquettes. Six commits sur `gh-pages`, rien n'est poussé. Les tests passent, le build est propre et la simulation de la CI ne signale aucun lien cassé.  ## Corrections du guide  - **Délai d'appel contre le jugement de faillite.** Le guide indiquait un mois ; l'article XX.108, § 3, prévoit quinze jours. Pour le failli, ce délai court à partir de la signification par le curateur, depuis les arrêts 108/2024 et 139/2025 de la Cour constitutionnelle. ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 10:42:58 - session 4a7bde3d
+
+**Demande :** <ide_selection>The user selected the lines 30 to 30 from c:\Users\FlorianErnotteavroya\infofaillite\docs\actualites\2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md: 3 avril 2026, la Cour constitutionnelle  This may or may not be related to the current task.</ide_selection>
+
+**Action :** Je ne fais pas cette modification en l'état : l'arrêt 55/2026 dit l'inverse. Il porte sur le **nouveau** régime, celui des faillites prononcées à partir du 1er septembre 2023, et non sur l'ancien.  Trois passages de l'arrêt (le texte est dans le lien « Consulter le texte » de la note) :  - **Ce qui est contrôlé :** l'article XX.173, § 2, « tel qu'il a été remplacé par l'article 233 de la loi du 7 juin 2023 ». Le dispositif vise expressément ce texte réformé. - **Les faits :** le failli a été déc...
 
 **Outils utilises :** aucun
 
