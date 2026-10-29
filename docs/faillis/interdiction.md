@@ -11,6 +11,7 @@ public:
 # L'interdiction de gérer
 
 L'interdiction de gérer est une sanction hybride prononcée par le tribunal de l'entreprise à l'encontre de personnes ayant commis des fautes graves dans la gestion de leur entreprise ou n'ayant pas respecté leurs obligations légales pendant la faillite. Elle vous empêche, pendant une durée déterminée, d'exploiter une entreprise ou d'exercer des fonctions de dirigeant dans une personne morale, selon la cause de l'interdiction et votre qualité. 
+
 ---
 
 ## Ce que l'interdiction implique concrètement
@@ -42,6 +43,7 @@ Le tribunal peut assortir l'interdiction, quelle qu'en soit la cause, d'un sursi
 ### L'inaction pendant la faillite (art. XX.229, § 2)
 
 Une interdiction peut être prononcée si vous n'avez pas respecté vos obligations légales pendant la procédure : refus de répondre aux convocations du curateur ou du juge-commissaire, non-remise des documents comptables, refus de fournir les renseignements demandés, absence à l'inventaire, obstruction aux opérations. Dans ce cas, la loi ne laisse pas de marge au tribunal sur la durée : depuis le 1er septembre 2023, l'interdiction « s'élève à trois ans » (article XX.229, § 5, alinéa 2). Elle vise alors les fonctions d'administrateur, de gérant ou toute fonction qui confère le pouvoir d'engager une personne morale.
+
 ---
 
 ## La durée et la modulation par le tribunal
