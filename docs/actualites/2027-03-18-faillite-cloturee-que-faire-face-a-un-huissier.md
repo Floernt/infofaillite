@@ -1,18 +1,24 @@
 ---
-title: "Faillite clôturée : que faire face à un huissier qui réclame une dette de la faillite ?"
+title: 'Faillite clôturée : que faire face à un huissier qui réclame une dette de
+  la faillite ?'
 date: '2027-03-18'
 type: pratique
-themes: [effacement, cloture, dettes-anterieures]
-articles_cde: [XX.173, XX.174]
-resume: >-
-  Après la clôture, un huissier réclame encore une dette née avant la faillite.
-  Pour le failli personne physique, l'effacement fait en principe obstacle au
-  recouvrement ; le dirigeant de société, lui, doit vérifier à quel titre il est
-  poursuivi. Les vérifications à faire et les recours possibles.
+themes:
+- effacement
+- cloture
+- dettes-anterieures
+articles_cde:
+- XX.173
+- XX.174
+resume: Après la clôture, un huissier réclame encore une dette née avant la faillite.
+  Pour le failli personne physique, l'effacement fait en principe obstacle au recouvrement
+  ; le dirigeant de société, lui, doit vérifier à quel titre il est poursuivi. Les
+  vérifications à faire et les recours possibles.
 description: Faillite clôturée et huissier - effacement des dettes (article XX.173),
   vérifications à faire, réaction écrite et recours devant le juge des saisies
 keywords: faillite clôturée huissier, saisie après faillite, effacement des dettes,
   dette antérieure à la faillite, juge des saisies, dirigeant société faillie huissier
+updated: '2026-11-06'
 ---
 # Faillite clôturée : que faire face à un huissier qui réclame une dette de la faillite ?
 

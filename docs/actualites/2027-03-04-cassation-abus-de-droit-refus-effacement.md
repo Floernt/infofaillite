@@ -22,7 +22,7 @@ description: Cass., 28 juin 2024, C.23.0288.F - Refus de l'effacement des dettes
 keywords: refus effacement des dettes, fautes graves et caractérisées, abus de droit
   faillite, article XX.173, aveu de faillite personne physique, Cour de cassation
   C.23.0288.F
-updated: '2026-10-29'
+updated: '2026-11-06'
 ---
 # L'abus de droit ne suffit pas à refuser l'effacement sans fautes graves et caractérisées
 

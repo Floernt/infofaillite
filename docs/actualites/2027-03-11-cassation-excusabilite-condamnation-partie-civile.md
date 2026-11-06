@@ -21,7 +21,7 @@ description: Cass., 13 mai 2026, P.25.1472.F - Excusabilité du failli (loi du 8
 keywords: excusabilité failli, article 82 loi sur les faillites, partie civile failli,
   condamnation pénale failli excusable, dommages et intérêts infraction faillite,
   Cour de cassation P.25.1472.F
-updated: '2026-10-29'
+updated: '2026-11-06'
 ---
 # Un failli déclaré excusable peut encore être condamné par le juge pénal à indemniser la victime
 

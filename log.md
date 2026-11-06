@@ -6,6 +6,12 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-11-06] edit | Juge-commissaire non professionnel ; note « huissier après clôture »
+
+- **Correction factuelle** : le juge-commissaire était présenté comme un « magistrat professionnel ». Il est nommé parmi les membres du tribunal, le président excepté (XX.104), et c'est en pratique un juge consulaire. Corrigé dans [comprendre/acteurs.md](docs/comprendre/acteurs.md) et [glossaire.md](docs/glossaire.md) ; la FAQ (« un juge du tribunal ») était déjà exacte.
+- **Actualité programmée le 18 mars 2027** : [Faillite clôturée : que faire face à un huissier qui réclame une dette de la faillite ?](docs/actualites/2027-03-18-faillite-cloturee-que-faire-face-a-un-huissier.md) (type pratique ; thèmes effacement, clôture, dettes antérieures). Points à vérifier dans [superpowers/revue-actualites.md](superpowers/revue-actualites.md).
+- La régénération a aussi fait paraître la note du 5 novembre 2026 (date atteinte) dans l'accueil et les pages liées.
+
 ## [2026-10-29] build | Recherche de la FAQ : un mot suffit
 
 - Test de Florian : « délais, effacement » ne donnait que 4 questions, car il fallait tous les mots. La recherche retient désormais toute question qui contient l'un des mots (22 résultats), classée d'abord par nombre de mots trouvés, puis par poids (intitulé de la question compté double) ; le compteur indique combien de questions, en tête de liste, contiennent tous les mots. Le mode « questions les plus proches » disparaît, devenu inutile.
@@ -656,6 +662,26 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** j'ai testé le champs de recherche pour le faq et ca ne fonctionne pas bien. optimise
 
 **Action :** J'ai réécrit la recherche de la FAQ : sur 16 requêtes de test, 14 trouvent maintenant des questions, contre 2 avant. C'est commité sur `gh-pages`, pas poussé.  **La cause** : le champ cherchait la phrase exacte, mot pour mot et dans l'ordre. Ainsi, « délai déclaration », « effacement dettes » ou « salaire impayé » ne trouvaient rien. « l’aveu » échouait aussi quand il était tapé sur un téléphone, à cause de l'apostrophe courbe.  **Ce que fait la nouvelle recherche** : - **Chaque mot est cherché ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 15:05:10 - session 4a7bde3d
+
+**Demande :** Faire un test et y a un problème, j'ai tapé délais, effacement et Il m'est notifié que 4 questions sont choisies. Or il ira beaucoup plus dans les résultats. Il faudrait donc optimiser le la recherche. Par mot clé ou alors supprimer la recherche par mot clé Si le développement Est trop compliqué.
+
+**Action :** C'est corrigé : avec « délais, effacement », la recherche affiche maintenant 22 questions au lieu de 4.  **La cause** : il fallait qu'une question contienne tous les mots pour apparaître. Avec deux mots, seules les questions qui parlent à la fois des délais et de l'effacement restaient.  **Ce qui change** : une question s'affiche dès qu'elle contient l'un des mots. Les questions qui contiennent tous les mots passent en tête. Viennent ensuite celles où le mot figure dans l'intitulé, puis celles o...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-29 15:11:01 - session 4a7bde3d
+
+**Demande :** ok pousse su github
+
+**Action :** J'ai poussé `gh-pages` sur GitHub : 11 commits, de la FAQ unifiée jusqu'à la nouvelle recherche.  Pour la mise en ligne, il reste à fusionner la PR `gh-pages` → `main` sur GitHub. Je ne peux pas la créer ni vérifier si elle existe déjà, car l'outil en ligne de commande de GitHub n'est pas installé sur ce poste. Si aucune PR n'est ouverte, crée-la depuis la page du dépôt.  Une fois la fusion faite, mets à jour la page avec Ctrl+F5 pour vérifier la FAQ et sa recherche en ligne.  Le journal `log.md...
 
 **Outils utilises :** aucun
 

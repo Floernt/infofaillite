@@ -21,7 +21,7 @@ description: Cass., 20 novembre 2024, P.24.0991.F - Effacement des dettes du fai
   (art. XX.173 CDE), dette de dommages et intérêts née avant la faillite
 keywords: effacement des dettes, article XX.173, solde des dettes, dette née avant
   la faillite, dommages et intérêts infraction faillite, Cour de cassation P.24.0991.F
-updated: '2026-10-29'
+updated: '2026-11-06'
 ---
 # L'effacement couvre les dettes nées avant la faillite, même si un juge ne les fixe que plus tard
 
