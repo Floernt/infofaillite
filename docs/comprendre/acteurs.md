@@ -73,7 +73,7 @@ Les coordonnées du curateur de votre dossier sont disponibles sur [REGSOL](http
 
 ### Qui est-il ?
 
-Le juge-commissaire est un magistrat professionnel du tribunal de l'entreprise, désigné dans le même jugement que le curateur. Son rôle est fondamentalement différent : il ne gère pas la faillite, il la surveille et la contrôle. Si le curateur est le gestionnaire, le juge-commissaire est le garant du bon déroulement de la procédure.
+Le juge-commissaire est un juge du tribunal de l'entreprise, désigné dans le même jugement que le curateur, parmi les membres du tribunal, le président excepté (article XX.104). En pratique, il s'agit d'un juge consulaire : un juge non professionnel, issu du monde de l'entreprise, qui siège aux côtés des magistrats de carrière. Son rôle est fondamentalement différent : il ne gère pas la faillite, il la surveille et la contrôle. Si le curateur est le gestionnaire, le juge-commissaire est le garant du bon déroulement de la procédure.
 
 ### La surveillance du curateur
 

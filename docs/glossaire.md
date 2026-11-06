@@ -119,7 +119,7 @@ Tous les termes juridiques de la procédure de faillite expliqués simplement, c
 
 ## J
 
-**Juge-commissaire** — Magistrat professionnel du tribunal de l'entreprise, désigné pour surveiller l'avancement de la procédure, autoriser certains actes du curateur (ventes d'immeubles, continuations d'activité), trancher les litiges simples et protéger les droits des créanciers et du failli.
+**Juge-commissaire** — Juge du tribunal de l'entreprise, en pratique un juge consulaire (juge non professionnel issu du monde de l'entreprise), désigné dans le jugement de faillite (article XX.104) pour surveiller l'avancement de la procédure, autoriser certains actes du curateur (ventes d'immeubles, continuations d'activité), trancher les litiges simples et protéger les droits des créanciers et du failli.
 
 **JustBan** — Registre public des interdictions de gérer, accessible sur [juridat.be](https://www.juridat.be). Les données sont conservées trente ans après la fin de l'interdiction.
 
