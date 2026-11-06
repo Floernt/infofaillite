@@ -14,6 +14,18 @@ Vous pouvez aussi [parcourir les notes par thème](themes.md).
 <!-- actualites:auto:start -->
 ## 2026
 
+<div class="ifa-note" data-type="jurisprudence" data-themes="effacement cloture" markdown>
+
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-note__meta">Publiée le 5 novembre 2026 · Cour constitutionnelle, 23 avril 2026</span>
+
+### [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md)
+
+Depuis la réforme de 2023, l'effacement des dettes n'est acquis qu'à la clôture de la faillite. La Cour constitutionnelle juge discriminatoire d'imposer cette attente au failli une fois écoulé le délai de trois ans pendant lequel le refus de l'effacement peut être demandé.
+
+[Effacement des dettes](themes.md#effacement){ .ifa-tag } [Clôture](themes.md#cloture){ .ifa-tag }
+
+</div>
+
 <div class="ifa-note" data-type="jurisprudence" data-themes="interdiction-gerer" markdown>
 
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-note__meta">Publiée le 28 octobre 2026 · Tribunal de l'entreprise du Hainaut, division Mons (5e ch.), 28 juillet 2026</span>

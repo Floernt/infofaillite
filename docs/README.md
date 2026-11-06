@@ -27,6 +27,13 @@ Un guide pratique pour les faillis, les dirigeants et les créanciers : vos obli
 
 <!-- actualites:auto:start -->
 <div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.04.2026 · Cour constitutionnelle</span>
+
+### [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md)
+
+[Lire la note](actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">28.07.2026 · Tribunal de l'entreprise du Hainaut, division Mons (5e ch.)</span>
 
 ### [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md)
@@ -39,13 +46,6 @@ Un guide pratique pour les faillis, les dirigeants et les créanciers : vos obli
 ### [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md)
 
 [Lire la note](actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md){ .ifa-more }
-</div>
-<div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--doctrine">Doctrine</span> <span class="ifa-date">28.10.2026</span>
-
-### [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md)
-
-[Lire la note](actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md){ .ifa-more }
 </div>
 
 [Toutes les actualités](actualites/README.md){ .ifa-more }

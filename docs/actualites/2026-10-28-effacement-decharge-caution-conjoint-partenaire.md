@@ -59,5 +59,6 @@ Le partenaire qui envisage cette demande doit déposer une requête dans le regi
 
 ## Sur le même thème
 
+- [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) — jurisprudence, 5 novembre 2026
 - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
 <!-- actualites:auto:end -->

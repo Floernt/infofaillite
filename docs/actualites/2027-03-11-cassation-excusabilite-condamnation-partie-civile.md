@@ -66,5 +66,6 @@ La portée de l'arrêt est limitée aux faillites encore régies par la loi du 8
 
 ## Sur le même thème
 
+- [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) — jurisprudence, 5 novembre 2026
 - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
 <!-- actualites:auto:end -->

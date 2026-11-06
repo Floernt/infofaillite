@@ -54,10 +54,17 @@ Dans le guide : [Votre responsabilité personnelle de dirigeant](../faillis/resp
 - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 
+## Clôture { #cloture }
+
+Dans le guide : [La clôture de la faillite](../comprendre/cloture.md) · [La vérification des créances, la liquidation et la clôture](../comprendre/deroulement-phase-4-5.md)
+
+- [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) — jurisprudence, 5 novembre 2026
+
 ## Effacement des dettes { #effacement }
 
 Dans le guide : [L'effacement des dettes](../faillis/effacement.md) · [La clôture de la faillite](../comprendre/cloture.md)
 
+- [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) — jurisprudence, 5 novembre 2026
 - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
 
 ## Interdiction de gérer { #interdiction-gerer }
