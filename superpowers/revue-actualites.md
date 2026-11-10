@@ -8,7 +8,7 @@ Document interne, non publié. Notes rédigées le 29 octobre 2026 à partir d'u
 |---|---|---|---|---|
 | 2026-11-05 | jurisprudence | [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](../docs/actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) | [lien](https://fr.const-court.be/public/f/2026/2026-055f.pdf) | Relue le 29 octobre 2026 |
 | 2026-11-12 | pratique | [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](../docs/actualites/2026-11-12-faillites-2025-statbel.md) | [lien](https://statbel.fgov.be/fr/nouvelles/11665-faillites-en-2025-resultats-regionaux-contrastes) | Pré-relue le 9 novembre 2026 (FLO-6) : une phrase corrigée dans « Ce qu'il faut retenir », chiffres recoupés dans la presse (Statbel inaccessible en direct), voir le rapport du ticket |
-| 2026-11-19 | jurisprudence | [La publication du jugement de faillite au Moniteur belge devra indiquer les voies de recours](../docs/actualites/2026-11-19-publication-moniteur-voies-de-recours.md) | [lien](https://fr.const-court.be/public/f/2025/2025-155f.pdf) | À relire |
+| 2026-11-19 | jurisprudence | [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](../docs/actualites/2026-11-19-publication-moniteur-voies-de-recours.md) | [lien](https://fr.const-court.be/public/f/2025/2025-155f.pdf) | Pré-relue le 9 novembre 2026 (FLO-34), à reconfirmer le 18 novembre |
 | 2026-11-26 | legislation | [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../docs/actualites/2026-11-26-nouveau-code-penal-banqueroute.md) | [lien](https://etaamb.openjustice.be/fr/loi-du-29-fevrier-2024_n2024002088.html) | À relire |
 | 2026-12-03 | jurisprudence | [Un investisseur devenu administrateur répond de la poursuite d'une activité sans issue](../docs/actualites/2026-12-03-gand-business-angel-administrateur-responsabilite.md) | [lien](https://juportal.be/content/ECLI:BE:ORGNT:2026:JUG.20260805.1/NL) | À relire |
 | 2026-12-10 | pratique | [En 2026, le droit passerelle verse jusqu'à 2.128,11 euros par mois à l'indépendant déclaré en faillite](../docs/actualites/2026-12-10-droit-passerelle-faillite-2026.md) | [lien](https://www.inasti.be/fr/faq/je-suis-oblige-dinterrompre-mon-activite-ou-de-larreter-cause-de-difficultes-economiques-et) | À relire |
@@ -49,10 +49,11 @@ Sources lues : communiqué Statbel du 16 janvier 2026 « 11.665 faillites en 202
 6. **Taille et âge** : calculés par Statbel sur 13 mois (décembre 2024 à décembre 2025), pas sur l'année civile 2025. La note le précise.
 7. Le communiqué contient un chiffre ambigu (« parmi les SRL (4.409 contre 4.074 en 2024) » sans région précisée) : non utilisé.
 
-### 2026-11-19 : La publication du jugement de faillite au Moniteur belge devra indiquer les voies de recours
+### 2026-11-19 : La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge
 
 - Arrêt lu intégralement. Les noms des sociétés (publiés par la Cour) ont été remplacés par « une SA » et « une société néerlandaise ».
-- « Près de huit ans plus tôt » : calcul (22 décembre 2015 / 8 mai 2023), à garder ou supprimer.
+- « Près de huit ans avant ce jugement » : calcul (22 décembre 2015 / 13 novembre 2023 = 7 ans et près de 11 mois). Mesuré depuis la faillite (8 mai 2023), l'écart serait de 7 ans et 4 mois : la formulation vise bien le jugement du 13 novembre 2023.
+- Pré-relecture du 9 novembre 2026 (FLO-34) : chiffres, dates, citations et références contrôlés contre le texte intégral de l'arrêt. Titre reformulé (« devra indiquer » affirmait une obligation que la Cour n'a pas créée), effets maintenus « effectués ou à venir » (dispositif), tierce opposition précisée (B.6.2), « souvent » remplacé par « peuvent » (non sourcé).
 - Thème « periode-suspecte » : rattachement par le biais de la date de cessation de paiement ; l'arrêt ne traite pas de la période suspecte elle-même.
 - **À vérifier avant le 19 novembre 2026** : aucune loi imposant la mention des voies de recours dans l'extrait n'a été trouvée lors de la recherche (29 octobre 2026). Si le législateur intervient d'ici là, ou après le 31 décembre 2026 sans loi, la note devra être mise à jour.
 
