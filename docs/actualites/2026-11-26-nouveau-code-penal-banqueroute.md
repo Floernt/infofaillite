@@ -46,13 +46,13 @@ Le nouveau Code pénal est entré en vigueur le 1er septembre 2026, et non le 8 
 5. pour retarder la faillite, payé ou favorisé un créancier au préjudice de la masse ;
 6. pour retarder la faillite, omis de faire aveu dans le délai de l'article XX.102 du Code de droit économique ;
 7. délibérément omis de fournir, lors de l'aveu, les renseignements exigés par l'article XX.103 ;
-8. délibérément fourni des renseignements inexacts lors de l'aveu, au juge-commissaire ou aux curateurs.
+8. délibérément fourni des renseignements inexacts lors de l'aveu, ou ultérieurement en réponse aux demandes du juge-commissaire ou des curateurs.
 
 Elle est punie d'une peine de niveau 1.
 
 **La banqueroute frauduleuse** (art. 491) suppose une intention frauduleuse ou le dessein de nuire : détourner ou dissimuler une partie de l'actif, ou soustraire tout ou partie des livres et documents comptables. Elle est punie d'une peine de niveau 3.
 
-**Les autres infractions.** Le tiers qui, dans une intention frauduleuse, soustrait, dissimule ou recèle l'actif dans l'intérêt de l'entreprise faillie, ou produit des créances supposées ou exagérées, encourt une peine de niveau 3 (art. 492). Il en va de même du curateur coupable de malversation, qui est en outre condamné aux restitutions et dommages et intérêts envers la masse (art. 493). Les manœuvres du débiteur pour obtenir une réorganisation judiciaire et les fraudes de tiers au vote sur le plan sont punies d'une peine de niveau 2 (art. 494 et 495). Enfin, l'organisation frauduleuse d'insolvabilité est punie d'une peine de niveau 2 (art. 496). Le tiers qui y a participé est exempté de peine s'il restitue les biens reçus (art. 497).
+**Les autres infractions.** Le tiers qui, dans une intention frauduleuse, soustrait, dissimule ou recèle l'actif dans l'intérêt de l'entreprise faillie, ou produit des créances supposées ou exagérées, encourt une peine de niveau 3 (art. 492). Il en va de même du curateur coupable de malversation, qui est en outre condamné aux restitutions et dommages et intérêts envers la masse (art. 493). Les manœuvres du débiteur pour obtenir une réorganisation judiciaire et les atteintes frauduleuses d'un tiers à cette procédure (vote sans être créancier, créances exagérées, avantages particuliers pour orienter le vote) sont punies d'une peine de niveau 2 (art. 494 et 495). Enfin, l'organisation frauduleuse d'insolvabilité est punie d'une peine de niveau 2 (art. 496). Le tiers qui y a participé est exempté de peine s'il restitue les biens reçus (art. 497).
 
 ## Pourquoi cela intéresse les praticiens
 
