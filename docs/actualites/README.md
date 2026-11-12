@@ -14,6 +14,18 @@ Vous pouvez aussi [parcourir les notes par thème](themes.md).
 <!-- actualites:auto:start -->
 ## 2026
 
+<div class="ifa-note" data-type="pratique" data-themes="conditions-faillite travailleurs" markdown>
+
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-note__meta">Publiée le 12 novembre 2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés », 16 janvier 2026</span>
+
+### [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](2026-11-12-faillites-2025-statbel.md)
+
+Selon Statbel, les tribunaux de l'entreprise ont prononcé 11.665 faillites en 2025 (+5,4 %), qui ont entraîné 29.842 pertes d'emploi. La hausse est portée par la Flandre et Bruxelles. En septembre 2026, le nombre mensuel de faillites était en recul sur un an.
+
+[Conditions de la faillite](themes.md#conditions-faillite){ .ifa-tag } [Travailleurs et Fonds de fermeture](themes.md#travailleurs){ .ifa-tag }
+
+</div>
+
 <div class="ifa-note" data-type="jurisprudence" data-themes="effacement cloture" markdown>
 
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-note__meta">Publiée le 5 novembre 2026 · Cour constitutionnelle, 23 avril 2026</span>

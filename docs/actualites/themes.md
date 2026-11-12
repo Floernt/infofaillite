@@ -10,6 +10,12 @@ updated: '2026-11-06'
 Chaque thème regroupe les notes qui s'y rapportent et renvoie aux pages du guide qui en exposent les règles. Pour la liste chronologique, voir [toutes les actualités](README.md).
 
 <!-- actualites:auto:start -->
+## Conditions de la faillite { #conditions-faillite }
+
+Dans le guide : [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
+
+- [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](2026-11-12-faillites-2025-statbel.md) — pratique, 12 novembre 2026
+
 ## Le curateur { #curateur }
 
 Dans le guide : [Le curateur et le juge-commissaire](../comprendre/acteurs.md)
@@ -34,6 +40,12 @@ Dans le guide : [Les sûretés et cautions dans la faillite](../creanciers/suret
 Dans le guide : [Les droits des créanciers selon leur catégorie](../creanciers/creanciers-categories.md)
 
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
+
+## Travailleurs et Fonds de fermeture { #travailleurs }
+
+Dans le guide : [Les droits des créanciers selon leur catégorie](../creanciers/creanciers-categories.md)
+
+- [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](2026-11-12-faillites-2025-statbel.md) — pratique, 12 novembre 2026
 
 ## Compensation { #compensation }
 

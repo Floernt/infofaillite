@@ -134,13 +134,18 @@ Comme l'ONSS, les administrations fiscales disposent, dans certains cas, d'actio
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+[La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](../actualites/2026-11-12-faillites-2025-statbel.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">06.03.2025 · Cour de cassation (1re ch.)</span>
 
 [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](../actualites/2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md)
 </div>
 </div>
 
-Toutes les notes sur : [Fisc et ONSS](../actualites/themes.md#creanciers-publics)
+Toutes les notes sur : [Fisc et ONSS](../actualites/themes.md#creanciers-publics) · [Travailleurs et Fonds de fermeture](../actualites/themes.md#travailleurs)
 
 </div>
 <!-- actualites:auto:end -->

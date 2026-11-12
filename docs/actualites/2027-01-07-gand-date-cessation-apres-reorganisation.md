@@ -68,6 +68,7 @@ Pour les créanciers qui ont voté contre un plan, le jugement confirme que le p
 
 ## Sur le même thème
 
+- [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](2026-11-12-faillites-2025-statbel.md) — pratique, 12 novembre 2026
 - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
 - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
 <!-- actualites:auto:end -->

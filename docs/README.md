@@ -27,6 +27,13 @@ Un guide pratique pour les faillis, les dirigeants et les créanciers : vos obli
 
 <!-- actualites:auto:start -->
 <div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+### [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](actualites/2026-11-12-faillites-2025-statbel.md)
+
+[Lire la note](actualites/2026-11-12-faillites-2025-statbel.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.04.2026 · Cour constitutionnelle</span>
 
 ### [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md)
@@ -39,13 +46,6 @@ Un guide pratique pour les faillis, les dirigeants et les créanciers : vos obli
 ### [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md)
 
 [Lire la note](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md){ .ifa-more }
-</div>
-<div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">10.09.2025 · Tribunal de l'entreprise francophone de Bruxelles</span>
-
-### [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md)
-
-[Lire la note](actualites/2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md){ .ifa-more }
 </div>
 
 [Toutes les actualités](actualites/README.md){ .ifa-more }
