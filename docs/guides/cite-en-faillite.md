@@ -2,13 +2,14 @@
 description: 'Cité en faillite, pas à pas : lire la citation, comprendre le rôle de
   la chambre des entreprises en difficulté et du procureur du Roi, envisager une alternative,
   préparer l''audience, le jugement et les recours.'
-keywords: cité en faillite que faire, citation en faillite étapes, assignation en faillite
-  créancier, procureur du Roi citation faillite, se défendre contre une citation en
-  faillite, appel jugement de faillite délai, opposition jugement de faillite
+keywords: cité en faillite que faire, citation en faillite étapes, assignation en
+  faillite créancier, procureur du Roi citation faillite, se défendre contre une citation
+  en faillite, appel jugement de faillite délai, opposition jugement de faillite
 public:
 - independant
 - dirigeant
 draft: true
+updated: '2026-11-12'
 ---
 # Cité en faillite : de la citation au jugement, en six étapes
 

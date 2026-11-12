@@ -1,13 +1,14 @@
 ---
 description: 'Créancier d''une entreprise en faillite, pas à pas : apprendre la faillite,
-  déclarer dans les trente jours, signaler vos garanties, suivre la vérification, défendre
-  votre créance, surveiller la liquidation et recevoir votre dividende.'
+  déclarer dans les trente jours, signaler vos garanties, suivre la vérification,
+  défendre votre créance, surveiller la liquidation et recevoir votre dividende.'
 keywords: créancier faillite étapes, que faire client en faillite, déclarer créance
   faillite délai, Regsol déclaration de créance, créance contestée curateur, contredit
   faillite, dividende chirographaire, fournisseur impayé faillite, guide créancier
 public:
 - creancier
 draft: true
+updated: '2026-11-12'
 ---
 # Créancier : récupérer votre créance en sept étapes
 

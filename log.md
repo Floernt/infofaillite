@@ -6,6 +6,16 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-11-12] config | Rubrique Guides et dix guides pas à pas en brouillon
+
+- **Rubrique Guides** reprise d'infoprj : sixième entrée du menu, entre Comprendre et Actualités (la FAQ reste au menu) ; page d'entrée [guides/README.md](docs/guides/README.md) à grille, encore vide ; bouton sur l'accueil ; libellés de public `creancier`, `travailleur`, `caution`.
+- **Brouillons** (`draft: true`) : hors menu ([tests/test_nav.py](tests/test_nav.py)), hors sitemap ([scripts/build_sitemap.py](scripts/build_sitemap.py), filtre porté d'infoprj) et `noindex` ([overrides/main.html](overrides/main.html)) ; ils restent accessibles par leur adresse après fusion.
+- **Dix guides en brouillon**, sans numéro d'article, qui réordonnent les pages de fond : aveu de faillite, cité en faillite, indépendant jusqu'à l'effacement, dirigeant de société, caution, créancier ordinaire, créancier garanti, revendication d'un bien, travailleur, reprise d'activité.
+- **Points à vérifier** avant toute levée : [superpowers/points-a-verifier.md](superpowers/points-a-verifier.md), dont une liste de contradictions entre pages de fond (premier procès-verbal, paiement partiel d'une caution, rang du super-privilège, effacement et interdiction de gérer, etc.).
+- Procédure de levée d'un guide consignée dans [CLAUDE.md](CLAUDE.md). Avant la PR vers `main` : lever au moins un guide, sans quoi la rubrique paraît vide.
+
+---
+
 ## [2026-11-06] edit | Juge-commissaire non professionnel ; note « huissier après clôture »
 
 - **Correction factuelle** : le juge-commissaire était présenté comme un « magistrat professionnel ». Il est nommé parmi les membres du tribunal, le président excepté (XX.104), et c'est en pratique un juge consulaire. Corrigé dans [comprendre/acteurs.md](docs/comprendre/acteurs.md) et [glossaire.md](docs/glossaire.md) ; la FAQ (« un juge du tribunal ») était déjà exacte.
@@ -682,6 +692,36 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** ok pousse su github
 
 **Action :** J'ai poussé `gh-pages` sur GitHub : 11 commits, de la FAQ unifiée jusqu'à la nouvelle recherche.  Pour la mise en ligne, il reste à fusionner la PR `gh-pages` → `main` sur GitHub. Je ne peux pas la créer ni vérifier si elle existe déjà, car l'outil en ligne de commande de GitHub n'est pas installé sur ce poste. Si aucune PR n'est ouverte, crée-la depuis la page du dépôt.  Une fois la fusion faite, mets à jour la page avec Ctrl+F5 pour vérifier la FAQ et sa recherche en ligne.  Le journal `log.md...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-06 14:00:27 - session 90992264
+
+**Demande :** Base directory for this skill: C:\Users\FlorianErnotteavroya\.claude\skills\synced\18472447-dc13-459c-959d-77ff4bb2a762_980b9208-3b7e-4230-8f4d-ce7c20db9108\article-info-faillite  # Article d'actualité info-faillite.be  ## Objectif  Produire un article court et gratuit qui vulgarise une décision ou ...
+
+**Action :** Les deux tâches sont faites et commitées en trois commits sur `gh-pages`, sans push. Les tests passent (48/48) et les vérifications des dates et des actualités ne signalent aucun écart.  ## Juge-commissaire  J'ai cherché dans tout le site, y compris les gabarits, `llms.txt` et les données. L'erreur ne figurait qu'à deux endroits : - [acteurs.md:76](docs/comprendre/acteurs.md#L76) : le texte dit maintenant qu'il est désigné « parmi les membres du tribunal, le président excepté » (art. XX.104) et ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-06 16:20:17 - session 90992264
+
+**Demande :** voila l'arrêt de la cour. vérifie l'article avec ces éléments car je pense que l'article est inexacte :  <pasted_content id="e555"> ECLI:BE:GHCC:2025:ARR.155 Cour constitutionnelle Arrêt n° 155/2025 du 27 novembre 2025 Numéro du rôle : 8383 En cause : la question préjudicielle relative à l’article X...
+
+**Action :** J'ai corrigé et commité la note du 19 novembre 2026 ([2026-11-19-publication-moniteur-voies-de-recours.md](docs/actualites/2026-11-19-publication-moniteur-voies-de-recours.md)). Les faits et le raisonnement de la Cour étaient bien rendus, et la citation « de la manière la plus explicite possible » est exacte. Le problème venait surtout du maintien des effets.  ## Ce qui était inexact  - **Le maintien des effets :** la note disait que la Cour maintenait les effets des « publications passées ». Le...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 17:19:53 - session 6d4f246e
+
+**Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infofaillite\docs\actualites\2026-12-03-gand-business-angel-administrateur-responsabilite.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** J'attends les rapports des agents ; je relirai chaque guide à leur retour.
 
 **Outils utilises :** aucun
 

@@ -1,12 +1,13 @@
 ---
 description: 'Guides pas à pas sur la faillite en Belgique : les procédures dans l''ordre
   où vous les vivrez, étape par étape, avec ce qu''il faut préparer à chaque moment.'
-keywords: guide faillite, faillite étape par étape, faillite mode d'emploi, guide pratique
-  failli, guide créancier faillite, procédure de faillite pas à pas
+keywords: guide faillite, faillite étape par étape, faillite mode d'emploi, guide
+  pratique failli, guide créancier faillite, procédure de faillite pas à pas
 public:
 - independant
 - dirigeant
 - creancier
+updated: '2026-11-12'
 ---
 # Guides pas à pas
 

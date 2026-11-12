@@ -1,13 +1,14 @@
 ---
 description: 'Créancier garanti dans une faillite, pas à pas : qualifier votre hypothèque,
-  votre gage ou votre privilège, le déclarer, ce que la suspension des poursuites vous
-  laisse, la vente du bien grevé, votre rang, le solde non couvert et les cautions.'
+  votre gage ou votre privilège, le déclarer, ce que la suspension des poursuites
+  vous laisse, la vente du bien grevé, votre rang, le solde non couvert et les cautions.'
 keywords: créancier hypothécaire faillite, gage fonds de commerce faillite, privilège
   faillite, banque créancier faillite, vente immeuble hypothéqué faillite, rang créancier
   garanti, solde non couvert chirographaire, poursuivre la caution, guide créancier
 public:
 - creancier
 draft: true
+updated: '2026-11-12'
 ---
 # Créancier garanti : hypothèque, gage, privilège, en six étapes
 

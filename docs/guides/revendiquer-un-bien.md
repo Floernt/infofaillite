@@ -3,11 +3,12 @@ description: 'Propriétaire d''un bien qui se trouve chez le failli, pas à pas 
   votre droit, réunir la preuve, revendiquer auprès du curateur avant le premier procès-verbal
   de vérification, suivre sa réponse et saisir le tribunal en cas de contestation.'
 keywords: revendiquer un bien faillite, revendication curateur, réserve de propriété
-  faillite, bien en leasing faillite, marchandises en dépôt faillite, consignation faillite,
-  premier procès-verbal de vérification, guide créancier
+  faillite, bien en leasing faillite, marchandises en dépôt faillite, consignation
+  faillite, premier procès-verbal de vérification, guide créancier
 public:
 - creancier
 draft: true
+updated: '2026-11-12'
 ---
 # Revendiquer un bien chez le failli en cinq étapes
 

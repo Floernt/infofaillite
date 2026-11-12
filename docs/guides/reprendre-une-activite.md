@@ -1,7 +1,8 @@
 ---
 description: 'Rebondir après une faillite, pas à pas : ce qui vous appartient pendant
   la procédure, l''emploi salarié, le droit passerelle et son délai, la nouvelle activité
-  indépendante ou la nouvelle société, l''interdiction de gérer, puis la clôture et l''effacement.'
+  indépendante ou la nouvelle société, l''interdiction de gérer, puis la clôture et
+  l''effacement.'
 keywords: reprendre une activité après faillite, travailler pendant la faillite, droit
   passerelle délai, se réinstaller indépendant après faillite, créer une société après
   faillite, interdiction de gérer vérifier, rebondir après faillite, guide failli
@@ -9,6 +10,7 @@ public:
 - independant
 - dirigeant
 draft: true
+updated: '2026-11-12'
 ---
 # Rebondir après la faillite : reprendre une activité en six étapes
 

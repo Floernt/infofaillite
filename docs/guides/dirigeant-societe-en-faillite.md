@@ -10,6 +10,7 @@ keywords: dirigeant société faillite étapes, gérant SRL faillite que faire, 
 public:
 - dirigeant
 draft: true
+updated: '2026-11-12'
 ---
 # Dirigeant : la faillite de votre société en sept étapes
 

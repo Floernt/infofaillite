@@ -1,13 +1,14 @@
 ---
-description: 'Travailleur dont l''employeur est en faillite, pas à pas : la fin du contrat,
-  le C4 et le chômage, la déclaration de créance, le Fonds de fermeture des entreprises,
-  le privilège et le dividende, la reprise par un repreneur.'
+description: 'Travailleur dont l''employeur est en faillite, pas à pas : la fin du
+  contrat, le C4 et le chômage, la déclaration de créance, le Fonds de fermeture des
+  entreprises, le privilège et le dividende, la reprise par un repreneur.'
 keywords: employeur en faillite que faire, travailleur faillite étapes, salaire impayé
   faillite, Fonds de fermeture des entreprises, C4 faillite, déclarer créance salariale,
   super-privilège travailleur, reprise going concern travailleurs
 public:
 - travailleur
 draft: true
+updated: '2026-11-12'
 ---
 # Travailleur : la faillite de votre employeur en six étapes
 

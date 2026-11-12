@@ -9,6 +9,7 @@ public:
 - independant
 - dirigeant
 draft: true
+updated: '2026-11-12'
 ---
 # Faire aveu de faillite en six étapes
 

@@ -8,6 +8,7 @@ keywords: indépendant faillite étapes, faillite personne physique mode d'emplo
 public:
 - independant
 draft: true
+updated: '2026-11-12'
 ---
 # Indépendant en nom propre : de la faillite à l'effacement, en huit étapes
 
