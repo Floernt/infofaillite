@@ -30,6 +30,9 @@
 {% set _publics = {
   'independant': "l'indépendant en nom propre",
   'dirigeant': 'le dirigeant de société',
+  'creancier': 'le créancier',
+  'travailleur': 'le travailleur',
+  'caution': 'la caution',
 } %}
 {% set _mois_fr = {
   '01': 'janvier', '02': 'février', '03': 'mars',
@@ -55,6 +58,10 @@
   {#- Icônes complémentaires au favicon SVG (zensical.toml) et aperçu de partage -#}
   <link rel="icon" href="{{ 'assets/favicon.ico' | url }}" sizes="32x32">
   <link rel="apple-touch-icon" href="{{ 'assets/apple-touch-icon.png' | url }}">
+  {#- Guide en brouillon : accessible par son adresse, mais ni indexé ni au menu -#}
+  {% if page and page.meta and page.meta.draft %}
+    <meta name="robots" content="noindex, nofollow">
+  {% endif %}
   {% if page and page.canonical_url %}
     {% set _og_title = page.meta.title if (page.meta and page.meta.title) else (_h1_parts | first | striptags | replace("¶", "") if _has_h1 else config.site_name) %}
     {% set _og_desc = (page.meta.description or page.meta.resume) if page.meta else none %}

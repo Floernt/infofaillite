@@ -113,6 +113,6 @@ Chaque rubrique répond aux questions que l'on se pose réellement, dans l'ordre
 
 Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 à XX.241) et sur le vademecum de la faillite édité par la Conférence francophone des tribunaux de l'entreprise (édition 2025). Il s'applique aux faillites déclarées à partir du 1er septembre 2023. Chaque faillite a ses particularités : pour votre situation, consultez le curateur désigné, le juge-commissaire ou un avocat spécialisé en droit de l'insolvabilité.
 
-[Questions fréquentes](faq/README.md){ .ifa-btn } [Ressources et organismes](ressources.md){ .ifa-btn .ifa-btn--ghost } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
+[Questions fréquentes](faq/README.md){ .ifa-btn } [Guides pas à pas](guides/README.md){ .ifa-btn .ifa-btn--ghost } [Ressources et organismes](ressources.md){ .ifa-btn .ifa-btn--ghost } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
 {: .ifa-ctas }
 </div>

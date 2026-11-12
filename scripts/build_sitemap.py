@@ -9,7 +9,8 @@ pied de page en sortiraient. Ce script écrit donc ``overrides/sitemap.xml``
 en dur, à partir de tous les fichiers ``docs/**/*.md`` :
     - URL construite depuis ``site_url`` (zensical.toml) ;
     - ``<lastmod>`` repris de la clé ``updated`` du front matter ;
-    - notes d'actualité programmées (``date`` future) exclues.
+    - notes d'actualité programmées (``date`` future) et pages ``draft: true``
+      exclues.
 
 Appelé automatiquement à la fin de ``inject_git_dates.py``.
 """
@@ -55,6 +56,12 @@ def updated(file: Path) -> str | None:
     return front_value(file, "updated")
 
 
+def is_draft(file: Path) -> bool:
+    """Page marquée ``draft: true`` : hors sitemap et hors llms.txt avant décision."""
+    match = _FRONT_MATTER_RE.match(file.read_text(encoding="utf-8"))
+    return bool(match and (yaml.safe_load(match.group(1)) or {}).get("draft") is True)
+
+
 def is_scheduled(rel: str, file: Path, today: str) -> bool:
     """Note d'actualité dont la date de publication n'est pas encore atteinte."""
     if not rel.startswith(NOTES_PREFIX):
@@ -74,7 +81,7 @@ def render_sitemap(repo_root: Path, today: str | None = None) -> str:
     ]
     for file in sorted(docs.rglob("*.md")):
         rel = file.relative_to(docs).as_posix()
-        if is_scheduled(rel, file, today):
+        if is_draft(file) or is_scheduled(rel, file, today):
             continue
         lines.append("  <url>")
         lines.append(f"    <loc>{page_url(base, rel)}</loc>")
