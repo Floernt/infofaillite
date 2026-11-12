@@ -14,8 +14,7 @@ updated: '2026-11-12'
 Les rubriques consacrées aux [faillis](../faillis/README.md) et aux [créanciers](../creanciers/README.md) partent de votre situation ; la rubrique [Comprendre la procédure](../comprendre/README.md) expose les règles. Les guides font autre chose : ils prennent une procédure et la déroulent dans l'ordre où vous la vivrez, de la première démarche à la dernière décision du tribunal. Pour chaque étape, vous trouverez ce qui se passe, ce que vous devez préparer et ce qui vous attend ensuite.
 
 <div class="ifa-subtiles" markdown>
+[**Rebondir après la faillite : reprendre une activité en six étapes** Travailler, demander le droit passerelle, entreprendre à nouveau sans reprendre l'activité faillie.](reprendre-une-activite.md){ .ifa-subtile }
 </div>
-
-Les premiers guides paraîtront prochainement. En attendant, la [vue chronologique](../comprendre/deroulement-chronologique.md) donne les grandes phases de la procédure.
 
 Les délais de toutes les procédures sont rassemblés dans la page [Délais](../delais.md) et les termes techniques définis dans le [glossaire](../glossaire.md).

@@ -97,6 +97,7 @@ nav = [
   ] },
   { "Guides" = [
     "guides/README.md",
+    { "Reprendre une activité" = "guides/reprendre-une-activite.md" },
   ] },
   { "Actualités" = [
     "actualites/README.md",

@@ -47,6 +47,7 @@ Que la faillite vise votre entreprise individuelle ou votre société, certaines
 [**La première semaine** Les démarches urgentes après le jugement.](checklist-premiere-semaine.md){ .ifa-subtile }
 [**Vos obligations** Collaborer avec le curateur, remettre documents et biens.](obligations.md){ .ifa-subtile }
 [**Vos droits** Être entendu, être informé, contester des créances.](droits.md){ .ifa-subtile }
+[**Guide : reprendre une activité en six étapes** Vos démarches dans l'ordre, du jugement à l'effacement.](../guides/reprendre-une-activite.md){ .ifa-subtile }
 [**Reprendre une activité** Travailler ou entreprendre pendant et après la faillite.](reprendre-activite.md){ .ifa-subtile }
 [**L'interdiction de gérer** Quand elle est prononcée, combien de temps elle dure.](interdiction.md){ .ifa-subtile }
 </div>

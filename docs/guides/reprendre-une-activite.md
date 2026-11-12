@@ -9,7 +9,6 @@ keywords: reprendre une activité après faillite, travailler pendant la faillit
 public:
 - independant
 - dirigeant
-draft: true
 updated: '2026-11-12'
 ---
 # Rebondir après la faillite : reprendre une activité en six étapes
@@ -23,17 +22,17 @@ La rubrique [Je suis en faillite](../faillis/README.md) traite vos droits, vos o
 
 ## Avant de commencer : de quelle faillite s'agit-il ? { #avant }
 
-Ce guide suit principalement l'indépendant en nom propre, déclaré en faillite depuis le 1er septembre 2023 : c'est la situation dans laquelle la clôture efface automatiquement ses dettes. Le dirigeant d'une société faillie y trouvera aussi l'essentiel, avec deux différences signalées au fil des étapes : son patrimoine personnel n'entre pas dans la masse, et il ne bénéficie pas de l'effacement.
+Ce guide suit principalement l'indépendant en personne physique, déclaré en faillite depuis le 1er septembre 2023 : c'est la situation dans laquelle la clôture efface automatiquement ses dettes. Le dirigeant d'une société faillie y trouvera aussi l'essentiel, avec deux différences signalées au fil des étapes : son patrimoine personnel n'entre pas dans la masse, et il ne bénéficie pas de l'effacement.
 
 Pour une faillite prononcée entre le 1er mai 2018 et le 31 août 2023, l'effacement n'est pas automatique : il est accordé sur requête du failli. Voyez [les deux régimes de l'effacement](../faillis/effacement.md).
 
-Un exemple simplifié et fictif accompagne le guide. Sophie exploitait en nom propre un restaurant. Le tribunal la déclare en faillite le 12 février 2026, en cours du premier trimestre. Elle souhaite d'abord retrouver un revenu, puis, à terme, lancer une activité de traiteur pour entreprises, dans une autre commune.
+Un exemple simplifié et fictif accompagne le guide. Sophie exploitait en nom personnel un restaurant. Le tribunal la déclare en faillite le 12 février 2026, en cours du premier trimestre. Elle souhaite d'abord retrouver un revenu, puis, à terme, lancer une activité de traiteur pour entreprises, dans une autre commune.
 
 ---
 
 ## Étape 1 : savoir ce qui vous appartient pendant la faillite { #etape-1 }
 
-**Le dessaisissement porte sur le passé.** Dès le jugement, vous perdez l'administration et la disposition des biens qui composaient votre patrimoine à cette date. Pour l'indépendant en nom propre, il n'existe qu'un seul patrimoine : vos biens privés y entrent aussi, à l'exception des biens insaisissables. Pour le dirigeant, c'est la société qui est dessaisie, pas vous.
+**Le dessaisissement porte sur le passé.** Dès le jugement, vous perdez l'administration et la disposition des biens qui composaient votre patrimoine à cette date. Pour l'indépendant, il n'existe qu'un seul patrimoine : vos biens privés y entrent aussi, à l'exception des biens insaisissables. Pour le dirigeant, c'est la société qui est dessaisie, pas vous.
 
 **Vos nouveaux revenus vous appartiennent.** Les revenus d'une activité commencée après le jugement, qu'il s'agisse d'un salaire, d'honoraires, des bénéfices d'une nouvelle entreprise ou d'allocations, ne tombent pas dans la masse. Le curateur ne peut pas les saisir.
 
@@ -82,10 +81,10 @@ Dans l'exemple, Sophie contacte sa caisse dès la fin février, avant de signer 
 
 **C'est possible dès le jugement.** Sauf interdiction de gérer, vous pouvez vous inscrire comme indépendant, créer une SRL, une SA ou une autre forme de société, en être actionnaire et en assurer la gestion. Les démarches sont les démarches habituelles : inscription à la Banque-Carrefour des Entreprises, affiliation à une caisse d'assurances sociales, identification à la TVA.
 
-**L'activité doit être réellement distincte.** Tant que le curateur ne les a pas régulièrement cédés, le fonds de commerce, la clientèle, l'enseigne, le savoir-faire commercial, le stock et les contrats en cours appartiennent à la masse. Les exploiter dans une nouvelle structure, même sous un autre nom, est un détournement d'actifs : il expose à des poursuites pénales, à la réintégration des actifs dans la masse et, pour l'indépendant, au refus de l'effacement.
+**L'activité doit être réellement distincte.** Tant que le curateur ne les a pas régulièrement cédés, le fonds de commerce, la clientèle, l'enseigne, le savoir-faire commercial, le stock et les contrats en cours appartiennent à la masse. Les exploiter dans une nouvelle structure, même sous un autre nom, est un détournement d'actifs : il expose à des poursuites pénales, à la réintégration des actifs dans la masse et, pour l'indépendant, au risque d'une requête en refus de l'effacement.
 
 !!! warning "Les indices d'une reprise déguisée"
-    Même enseigne, même numéro de téléphone, même site internet, démarchage des anciens clients : ces indices suffisent en pratique pour qu'un curateur ou un créancier établisse la continuité. Nouveau compte, nouveau local, nouveaux fournisseurs si possible, clientèle construite par vos efforts postérieurs au jugement : c'est la séparation qui vous protège.
+    Même enseigne, même numéro de téléphone, même site internet, démarchage des anciens clients : ces indices suffisent en pratique pour qu'un curateur ou le Parquet établisse la continuité. Nouveau compte, nouveau local, nouveaux fournisseurs si possible, clientèle construite par vos efforts postérieurs au jugement : c'est cette distinction qui vous protège.
 
 **Ou racheter, dans les formes.** Si vous voulez réellement poursuivre l'activité faillie, la seule voie régulière est de racheter les actifs au curateur, comme n'importe quel acquéreur, à un prix conforme au marché et en justifiant l'origine des fonds. Le curateur et le juge-commissaire examinent ces opérations de près.
 
@@ -125,9 +124,9 @@ Le détail figure dans [l'interdiction de gérer](../faillis/interdiction.md).
 
 **Le dirigeant de société.** Il ne bénéficie pas de l'effacement : la société est dissoute à la clôture, et ses engagements personnels, notamment ses cautions, restent dus.
 
-**Ce qui ne disparaît pas.** La faillite reste consultable sur Regsol, et les banques en tiennent souvent compte. Une interdiction de gérer éventuelle continue de courir jusqu'à son terme, indépendamment de la clôture.
+**Ce qui ne disparaît pas.** La faillite reste consultable sur Regsol, et les banques en tiennent parfois compte. Une interdiction de gérer éventuelle continue de courir jusqu'à son terme, indépendamment de la clôture.
 
-Dans l'exemple, le droit à l'admission des créances expire en principe vers le 12 février 2027. Un refus de l'effacement peut donc être demandé jusque vers le 12 février 2030. Les dettes du restaurant seront effacées à la clôture, sauf refus ; celles de l'activité de traiteur restent celles de Sophie.
+Dans notre exemple, le droit à l'admission des créances expire en principe vers le 12 février 2027. Un refus de l'effacement peut donc être demandé jusque vers le 12 février 2030. Les dettes du restaurant seront effacées à la clôture, sauf refus ; celles de l'activité de traiteur restent celles de Sophie.
 
 ---
 
