@@ -25,7 +25,7 @@ description: Entr. Gand, 13 janvier 2026 - Date de cessation de paiement avancé
 keywords: report date cessation de paiement, article XX.105, réorganisation judiciaire
   homologuée puis faillite, créances intragroupe vote plan, période suspecte, tribunal
   de l'entreprise de Gand
-updated: '2026-10-29'
+updated: '2026-11-12'
 ---
 # Un plan de réorganisation homologué n'empêche pas de faire remonter la date de cessation de paiement
 

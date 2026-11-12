@@ -21,7 +21,7 @@ description: Hausse des dissolutions judiciaires (étude GraydonCreditsafe, mai 
 keywords: dissolution judiciaire, chambre des entreprises en difficulté, société fantôme,
   article 2:74 CSA, article 2:74/1 CSA, dissolution au lieu de la faillite, statistiques
   2025
-updated: '2026-10-29'
+updated: '2026-11-12'
 ---
 # Plus d'un quart des sociétés qui cessent leurs activités sur décision du tribunal de l'entreprise disparaissent par dissolution judiciaire
 
