@@ -6,7 +6,7 @@ keywords: failli belgique, que faire faillite, société en faillite dirigeant, 
 public:
 - independant
 - dirigeant
-updated: '2026-10-29'
+updated: '2026-11-12'
 ---
 # Je suis en faillite : par où commencer ?
 

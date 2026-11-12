@@ -27,7 +27,7 @@ description: Nouveau Code pénal, art. 489 à 496 - Banqueroute simple et fraudu
 keywords: nouveau Code pénal banqueroute, banqueroute simple, banqueroute frauduleuse,
   organisation frauduleuse d'insolvabilité, article 490 Code pénal, faillite infraction
   pénale, 1er septembre 2026
-updated: '2026-10-29'
+updated: '2026-11-12'
 ---
 # La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026
 
