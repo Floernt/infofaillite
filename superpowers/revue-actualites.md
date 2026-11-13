@@ -7,6 +7,9 @@ Document interne, non publié. Notes rédigées le 29 octobre 2026 à partir d'u
 | Date | Type | Note | Source | Relecture |
 |---|---|---|---|---|
 | 2026-11-05 | jurisprudence | [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](../docs/actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) | [lien](https://fr.const-court.be/public/f/2026/2026-055f.pdf) | Relue le 29 octobre 2026 |
+| 2026-11-12 | pratique | [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](../docs/actualites/2026-11-12-faillites-2025-statbel.md) | [lien](https://statbel.fgov.be/fr/nouvelles/11665-faillites-en-2025-resultats-regionaux-contrastes) | Pré-relue le 9 novembre 2026 (FLO-6) : une phrase corrigée dans « Ce qu'il faut retenir », chiffres recoupés dans la presse (Statbel inaccessible en direct), voir le rapport du ticket |
+| 2026-11-19 | jurisprudence | [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](../docs/actualites/2026-11-19-publication-moniteur-voies-de-recours.md) | [lien](https://fr.const-court.be/public/f/2025/2025-155f.pdf) | Pré-relue le 9 novembre 2026 (FLO-34), à reconfirmer le 18 novembre |
+| 2026-11-26 | legislation | [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../docs/actualites/2026-11-26-nouveau-code-penal-banqueroute.md) | [lien](https://etaamb.openjustice.be/fr/loi-du-29-fevrier-2024_n2024002088.html) | Pré-relue le 9 novembre 2026 (FLO-35) : deux précisions de formulation, voir ci-dessous |
 | 2026-11-12 | pratique | [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](../docs/actualites/2026-11-12-faillites-2025-statbel.md) | [lien](https://statbel.fgov.be/fr/nouvelles/11665-faillites-en-2025-resultats-regionaux-contrastes) | À relire |
 | 2026-11-19 | jurisprudence | [La publication du jugement de faillite au Moniteur belge devra indiquer les voies de recours](../docs/actualites/2026-11-19-publication-moniteur-voies-de-recours.md) | [lien](https://fr.const-court.be/public/f/2025/2025-155f.pdf) | À relire |
 | 2026-11-26 | legislation | [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../docs/actualites/2026-11-26-nouveau-code-penal-banqueroute.md) | [lien](https://etaamb.openjustice.be/fr/loi-du-29-fevrier-2024_n2024002088.html) | À relire |
@@ -50,10 +53,11 @@ Sources lues : communiqué Statbel du 16 janvier 2026 « 11.665 faillites en 202
 6. **Taille et âge** : calculés par Statbel sur 13 mois (décembre 2024 à décembre 2025), pas sur l'année civile 2025. La note le précise.
 7. Le communiqué contient un chiffre ambigu (« parmi les SRL (4.409 contre 4.074 en 2024) » sans région précisée) : non utilisé.
 
-### 2026-11-19 : La publication du jugement de faillite au Moniteur belge devra indiquer les voies de recours
+### 2026-11-19 : La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge
 
 - Arrêt lu intégralement. Les noms des sociétés (publiés par la Cour) ont été remplacés par « une SA » et « une société néerlandaise ».
-- « Près de huit ans plus tôt » : calcul (22 décembre 2015 / 8 mai 2023), à garder ou supprimer.
+- « Près de huit ans avant ce jugement » : calcul (22 décembre 2015 / 13 novembre 2023 = 7 ans et près de 11 mois). Mesuré depuis la faillite (8 mai 2023), l'écart serait de 7 ans et 4 mois : la formulation vise bien le jugement du 13 novembre 2023.
+- Pré-relecture du 9 novembre 2026 (FLO-34) : chiffres, dates, citations et références contrôlés contre le texte intégral de l'arrêt. Titre reformulé (« devra indiquer » affirmait une obligation que la Cour n'a pas créée), effets maintenus « effectués ou à venir » (dispositif), tierce opposition précisée (B.6.2), « souvent » remplacé par « peuvent » (non sourcé).
 - Thème « periode-suspecte » : rattachement par le biais de la date de cessation de paiement ; l'arrêt ne traite pas de la période suspecte elle-même.
 - **À vérifier avant le 19 novembre 2026** : aucune loi imposant la mention des voies de recours dans l'extrait n'a été trouvée lors de la recherche (29 octobre 2026). Si le législateur intervient d'ici là, ou après le 31 décembre 2026 sans loi, la note devra être mise à jour.
 
@@ -67,6 +71,22 @@ Sources lues : texte des articles 488 à 504 sur etaamb.openjustice.be (loi du 2
 4. **Art. 496 hors de la sous-section** : l'organisation frauduleuse d'insolvabilité figure dans la sous-section 6 « Les autres formes de fraude », pas dans la sous-section 5. La note le dit ; le titre parle d'« articles 489 à 496 » pour les englober.
 5. **Tentative non punissable** pour les art. 490, 492, 494, 495 et 496 : exact selon le texte, non repris dans la note (place).
 6. **Contradiction avec le guide** : le glossaire (docs/glossaire.md, entrée « Banqueroute ») présente la banqueroute comme un « terme historique » et range les « paiements préférentiels frauduleux » dans la banqueroute frauduleuse. Dans le nouveau Code, la banqueroute reste une qualification autonome, et le paiement d'un créancier au préjudice de la masse relève de la banqueroute simple (art. 490, 5°) ; la banqueroute frauduleuse est limitée au détournement ou à la dissimulation d'actif et à la soustraction des livres (art. 491). Le glossaire et docs/faillis/obligations.md (§ « Les poursuites pénales ») mériteraient une mise à jour.
+7. **Pré-relecture du 9 novembre 2026 (FLO-35)** : texte des art. 489 à 497 relu mot à mot sur la version M.B. (etaamb.openjustice.be, copie du Moniteur) ; niveaux de peine, renvois XX.102, XX.103, XX.146 et entrée en vigueur au 1er septembre 2026 (communiqué SPF Justice du 1er septembre 2026, huit niveaux) conformes. Corrections : art. 490, 8° (les renseignements inexacts visent aussi les demandes ultérieures du juge-commissaire ou des curateurs) ; art. 495 (atteinte de tiers à la procédure, pas seulement au vote). **À vérifier** : le texte relu est celui de 2024 ; une modification postérieure des art. 489 à 497 n'a pas été recherchée (vérifier la version coordonnée).
+
+### 2026-11-30 : Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois qui suit la cessation de paiements
+
+Guide pratique de novembre 2026 (ticket FLO-13). Rédigé uniquement à partir de pages du guide déjà sourcées et de la note du 26 novembre. Aucun texte légal n'a pu être relu à la source (Justel n'a pas restitué les articles XX.102 et XX.103).
+
+1. **Texte des articles XX.102 et XX.103 non relu à la source.** Délai d'un mois, exceptions (ASBL, fondations, réorganisation judiciaire) et liste des pièces viennent de la FAQ du guide (`obligation-aveu-faillite`, `comment-faire-aveu`). À comparer avec le texte consolidé avant publication.
+2. **Deux listes de pièces différentes dans le guide.** La FAQ cite l'article XX.103 (bilan ou état de l'actif et du passif, lieu de la comptabilité, personnel sur dix-huit mois, clients et fournisseurs, consommateurs garants). `docs/comprendre/deroulement-phase-1-3.md` parle du dernier bilan et compte de résultats, de la liste des créanciers avec les montants dus et d'un exposé des causes. La note suit la FAQ ; la rubrique « Ce qu'il faut rassembler » reprend la liste des créanciers avec montants comme préparation, sans la présenter comme pièce légale. Harmoniser les deux pages.
+3. **Point de départ du mois.** Le texte dit que le mois court de la cessation de paiements (formulation du guide) ; l'appréciation de la date n'est pas tranchée. **Passage que Florian doit faire sien.**
+4. **Conclusion et renvoi à un avocat ou conseil.** Formulation de prudence pour ne pas donner de conseil personnalisé. **À faire sien.**
+5. **Sanctions** : chaque fondement (art. 490 du Code pénal, XX.225, XX.227, XX.229) est repris des pages du guide, sans plafonds ni seuils (ils figurent sur `responsabilite-dirigeant.md`). Durées d'interdiction : jusqu'à dix ans (faute grave) et trois ans (défaut de collaboration, XX.229, § 5).
+6. **Réorganisation judiciaire et dissolution** : reprises de `procedures-alternatives.md` (art. 2:74/1 CSA), non revérifiées.
+7. **Accès bancaires, logiciels, messagerie** : la liste des « accès » est une extrapolation de « clés, codes et accès » de `societe-en-faillite.md` ; le texte de l'article XX.146 ne la détaille pas.
+8. **Date de publication** : 30 novembre 2026 (lundi), proposée parce que les jeudis de novembre sont pris et que la note renvoie à celle du 26 novembre. Si la note du 26 novembre est retirée ou modifiée, adapter le renvoi.
+9. **`draft: true`** : aucun effet connu dans le dépôt. La note n'est publiée qu'à sa date, par la reconstruction quotidienne depuis `main`, mais elle partira dès la fusion si la date est passée ou atteinte.
+10. **Longueur** : environ 1 050 mots, sous les 1 200 à 1 600 annoncés.
 
 ### 2026-11-30 : Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois qui suit la cessation de paiements
 
