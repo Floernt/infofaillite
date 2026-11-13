@@ -81,3 +81,25 @@ La réorganisation judiciaire s'adresse aux entreprises en difficulté qui n'ont
 Le mois de l'article XX.102 est un délai court, et il se prépare : pièces de l'article XX.103, comptabilité, listes et accès doivent être réunis avant le dépôt, pas après. Pour savoir si, dans une situation précise, la cessation de paiements est atteinte et à quelle date, il faut examiner les faits avec un avocat spécialisé ou le conseil de l'entreprise : ce guide ne peut pas répondre à cette question.
 
 *Code de droit économique, livre XX, art. XX.102, XX.103, XX.146, XX.225, XX.227 et XX.229 ; nouveau Code pénal, art. 490.*
+
+<!-- actualites:auto:start -->
+---
+
+**Thèmes :** [Aveu de faillite](themes.md#aveu) · [Obligations du failli](themes.md#obligations-failli) · [Comblement de passif et responsabilité des dirigeants](themes.md#responsabilite-dirigeants) · [Interdiction de gérer](themes.md#interdiction-gerer)
+
+## Pour approfondir sur infofaillite.be
+
+- [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
+- [Vos obligations légales en tant que failli](../faillis/obligations.md)
+- [La checklist pratique pour la première semaine](../faillis/checklist-premiere-semaine.md)
+- [Votre société est en faillite : ce qui change pour vous](../faillis/societe-en-faillite.md)
+- [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md)
+- [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
+- [L'interdiction de gérer](../faillis/interdiction.md)
+
+## Sur le même thème
+
+- [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — jurisprudence, 28 octobre 2026
+- [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+- [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
+<!-- actualites:auto:end -->
