@@ -3,7 +3,7 @@ description: Qu'est-ce qu'une faillite en Belgique - Définition, conditions lé
   qui peut être déclaré failli, effets immédiats et objectifs de la procédure
 keywords: définition faillite belgique, état de faillite, cessation paiements, ébranlement
   de crédit, qui peut être failli, tribunal entreprise faillite
-updated: '2026-10-29'
+updated: '2026-11-12'
 ---
 # Qu'est-ce qu'une faillite ?
 
@@ -111,3 +111,21 @@ Pour le détail de chaque phase, consultez [le déroulement chronologique de la 
 - [Guide pratique : je suis créancier](../creanciers/README.md)
 - [Les délais importants à ne pas manquer](../delais.md)
 - [REGSOL — registre central de solvabilité](https://www.regsol.be)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+[La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](../actualites/2026-11-12-faillites-2025-statbel.md)
+</div>
+</div>
+
+Toutes les notes sur : [Conditions de la faillite](../actualites/themes.md#conditions-faillite)
+
+</div>
+<!-- actualites:auto:end -->

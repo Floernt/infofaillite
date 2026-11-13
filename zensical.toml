@@ -45,10 +45,12 @@ Copyright &copy; 2026 Info-faillite
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 #
-# Menu explicite : quatre rubriques (onglets), libellés courts, ordre de
-# lecture. Le H1 et le <title> de chaque page ne dépendent pas de ces
-# libellés. Hors menu mais publiées : l'accueil, les notes d'actualité et les
-# pages du pied de page (délais, glossaire, ressources, à propos, contact).
+# Menu explicite : six rubriques (deux profils, Comprendre, Guides,
+# Actualités, FAQ), libellés courts, ordre de lecture. Le H1 et le <title> de
+# chaque page ne dépendent pas de ces libellés. Hors menu mais publiées :
+# l'accueil, les notes d'actualité et les pages du pied de page (délais,
+# glossaire, ressources, à propos, contact). Les guides en brouillon
+# (`draft: true`) restent hors menu jusqu'à leur levée.
 # Toute nouvelle page de fond doit être ajoutée ici (cf. tests/test_nav.py).
 nav = [
   { "Je suis en faillite" = [
@@ -92,6 +94,10 @@ nav = [
     { "Liquidation et responsabilités" = "comprendre/liquidation-actifs.md" },
     { "La clôture" = "comprendre/cloture.md" },
     { "Les alternatives à la faillite" = "comprendre/procedures-alternatives.md" },
+  ] },
+  { "Guides" = [
+    "guides/README.md",
+    { "Reprendre une activité" = "guides/reprendre-une-activite.md" },
   ] },
   { "Actualités" = [
     "actualites/README.md",

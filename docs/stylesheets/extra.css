@@ -220,6 +220,10 @@ body { background: var(--ifa-bg); }
 .ifa-public__tag--independant { background: #037089; }
 .ifa-public__tag--dirigeant { background: #2e4057; }
 [data-md-color-scheme="slate"] .ifa-public__tag--dirigeant { background: #3d5574; }
+.ifa-public__tag--creancier { background: #a35b00; }
+.ifa-public__tag--travailleur { background: #55731f; }
+.ifa-public__tag--caution { background: #2f2d2e; }
+[data-md-color-scheme="slate"] .ifa-public__tag--caution { background: #4a4748; }
 
 /* Premier paragraphe d'une page : chapeau */
 .md-content__inner > p:first-of-type {

@@ -20,7 +20,7 @@ description: Statistiques des faillites en Belgique en 2025 (Statbel) - 11.665 f
 keywords: nombre de faillites Belgique 2025, statistiques faillites Statbel, faillites
   par région, faillites construction horeca, pertes d'emploi faillites, faillites
   2026
-updated: '2026-10-29'
+updated: '2026-11-10'
 ---
 # La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013
 

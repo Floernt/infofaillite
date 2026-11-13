@@ -3,7 +3,7 @@ description: L'effacement automatique des dettes après faillite - Conditions, p
   exceptions et refus
 keywords: effacement dettes belgique, faillite effacement, dettes post-faillite, fautes
   graves faillite, contestation effacement
-updated: '2026-10-29'
+updated: '2026-11-06'
 public:
 - independant
 ---
@@ -180,6 +180,11 @@ Une dette particulière dont vous ne savez pas si elle sera effacée, une craint
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.04.2026 · Cour constitutionnelle</span>
+
+[Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](../actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--doctrine">Doctrine</span> <span class="ifa-date">28.10.2026</span>
 

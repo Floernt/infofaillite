@@ -21,7 +21,7 @@ description: Cass., 13 mai 2026, P.25.1472.F - Excusabilité du failli (loi du 8
 keywords: excusabilité failli, article 82 loi sur les faillites, partie civile failli,
   condamnation pénale failli excusable, dommages et intérêts infraction faillite,
   Cour de cassation P.25.1472.F
-updated: '2026-10-29'
+updated: '2026-11-06'
 ---
 # Un failli déclaré excusable peut encore être condamné par le juge pénal à indemniser la victime
 
@@ -66,5 +66,6 @@ La portée de l'arrêt est limitée aux faillites encore régies par la loi du 8
 
 ## Sur le même thème
 
+- [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) — jurisprudence, 5 novembre 2026
 - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
 <!-- actualites:auto:end -->

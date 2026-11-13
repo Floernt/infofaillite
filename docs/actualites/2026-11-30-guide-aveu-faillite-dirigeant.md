@@ -1,5 +1,6 @@
 ---
-title: "Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois qui suit la cessation de paiements"
+title: 'Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois
+  qui suit la cessation de paiements'
 date: '2026-11-30'
 type: pratique
 draft: true
@@ -18,13 +19,16 @@ articles_cde:
 - XX.225
 - XX.227
 - XX.229
-resume: "Le dirigeant d'une société qui a cessé ses paiements dispose d'un mois pour déposer l'aveu de faillite sur REGSOL. Guide pratique : les pièces à joindre, ce qu'il faut rassembler en parallèle, et les sanctions possibles en cas de retard."
+resume: 'Le dirigeant d''une société qui a cessé ses paiements dispose d''un mois
+  pour déposer l''aveu de faillite sur REGSOL. Guide pratique : les pièces à joindre,
+  ce qu''il faut rassembler en parallèle, et les sanctions possibles en cas de retard.'
 description: Aveu de faillite du dirigeant de société - délai d'un mois (art. XX.102),
   pièces de l'article XX.103, dépôt sur REGSOL, préparation du dossier et conséquences
   d'un retard (interdiction de gérer, responsabilité, banqueroute simple)
 keywords: aveu de faillite dirigeant, délai aveu faillite un mois, article XX.102,
   article XX.103, REGSOL aveu, pièces aveu de faillite, aveu tardif banqueroute simple,
   article 490 Code pénal, interdiction de gérer aveu tardif
+updated: '2026-11-13'
 ---
 # Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois qui suit la cessation de paiements
 
@@ -81,3 +85,25 @@ La réorganisation judiciaire s'adresse aux entreprises en difficulté qui n'ont
 Le mois de l'article XX.102 est un délai court, et il se prépare : pièces de l'article XX.103, comptabilité, listes et accès doivent être réunis avant le dépôt, pas après. Pour savoir si, dans une situation précise, la cessation de paiements est atteinte et à quelle date, il faut examiner les faits avec un avocat spécialisé ou le conseil de l'entreprise : ce guide ne peut pas répondre à cette question.
 
 *Code de droit économique, livre XX, art. XX.102, XX.103, XX.146, XX.225, XX.227 et XX.229 ; nouveau Code pénal, art. 490.*
+
+<!-- actualites:auto:start -->
+---
+
+**Thèmes :** [Aveu de faillite](themes.md#aveu) · [Obligations du failli](themes.md#obligations-failli) · [Comblement de passif et responsabilité des dirigeants](themes.md#responsabilite-dirigeants) · [Interdiction de gérer](themes.md#interdiction-gerer)
+
+## Pour approfondir sur infofaillite.be
+
+- [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
+- [Vos obligations légales en tant que failli](../faillis/obligations.md)
+- [La checklist pratique pour la première semaine](../faillis/checklist-premiere-semaine.md)
+- [Votre société est en faillite : ce qui change pour vous](../faillis/societe-en-faillite.md)
+- [Votre responsabilité personnelle de dirigeant](../faillis/responsabilite-dirigeant.md)
+- [La liquidation des actifs et la réalisation du patrimoine](../comprendre/liquidation-actifs.md)
+- [L'interdiction de gérer](../faillis/interdiction.md)
+
+## Sur le même thème
+
+- [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — jurisprudence, 28 octobre 2026
+- [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
+- [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
+<!-- actualites:auto:end -->

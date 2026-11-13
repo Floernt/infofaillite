@@ -29,6 +29,7 @@ Document interne, non publié. Notes rédigées le 29 octobre 2026 à partir d'u
 | 2027-02-25 | jurisprudence | [Sans état actif et passif à jour, le plan de réorganisation ne peut pas être homologué](../docs/actualites/2027-02-25-gand-homologation-refusee-etat-actif-passif.md) | [lien](https://juportal.be/content/ECLI:BE:ORGNT:2026:JUG.20260629.1/NL) | À relire |
 | 2027-03-04 | jurisprudence | [L'abus de droit ne suffit pas à refuser l'effacement sans fautes graves et caractérisées](../docs/actualites/2027-03-04-cassation-abus-de-droit-refus-effacement.md) | [lien](https://cass.be/pdf/arresten-arrets/C.23.0288.F.pdf) | À relire |
 | 2027-03-11 | jurisprudence | [Un failli déclaré excusable peut encore être condamné par le juge pénal à indemniser la victime](../docs/actualites/2027-03-11-cassation-excusabilite-condamnation-partie-civile.md) | [lien](https://juportal.be/content/ECLI:BE:CASS:2026:ARR.20260513.2F.7/FR) | À relire |
+| 2027-03-18 | pratique | [Faillite clôturée : que faire face à un huissier qui réclame une dette de la faillite ?](../docs/actualites/2027-03-18-faillite-cloturee-que-faire-face-a-un-huissier.md) | (aucune source externe) | À relire |
 
 ## Points à vérifier, note par note
 
@@ -259,6 +260,13 @@ Texte intégral lu sur juportal (ECLI:BE:ORGNT:2026:JUG.20260629.1). Jugement lo
 - L'arrêt de la Cour constitutionnelle du 21 avril 2022 n'est connu que par le résumé du moyen ; la note ne lui prête aucun contenu propre. Numéro de l'arrêt à ajouter éventuellement après vérification.
 - Les parties civiles (un administrateur provisoire de succession et une personne physique) ne sont pas identifiées dans la note.
 - Le sommaire officiel n'était pas encore disponible sur Juportal au moment de la rédaction.
+
+### 2027-03-18 : Faillite clôturée : que faire face à un huissier qui réclame une dette de la faillite ?
+
+- Note pratique sans source unique, rédigée à partir des pages du guide (effacement, responsabilité du dirigeant) et de la note du 4 février 2027.
+- Article 1395 du Code judiciaire (compétence du juge des saisies) cité de mémoire : à contrôler sur Justel. Aucune autre disposition du Code judiciaire n'est citée (l'article 1498 a été écarté faute de vérification).
+- Exceptions à l'effacement limitées aux dettes alimentaires et au dommage corporel ou décès causé par faute, comme dans la page effacement ; vérifier sur la version actuelle de l'article XX.173 s'il faut en ajouter (la page effacement mentionne aussi les amendes pénales).
+- Le renvoi au régime des faillites antérieures au 1er septembre 2023 se fait par la page effacement, sans détail dans la note.
 
 ## Incohérences du guide : corrigées le 29 octobre 2026
 

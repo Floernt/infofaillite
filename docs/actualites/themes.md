@@ -3,13 +3,19 @@ description: Les actualités du droit belge de la faillite classées par thème 
   créances, curateur, interdiction de gérer, période suspecte
 keywords: faillite belgique thèmes, jurisprudence effacement dettes, actualité déclaration
   de créance, interdiction de gérer jurisprudence
-updated: '2026-10-29'
+updated: '2026-11-12'
 ---
 # Les actualités par thème
 
 Chaque thème regroupe les notes qui s'y rapportent et renvoie aux pages du guide qui en exposent les règles. Pour la liste chronologique, voir [toutes les actualités](README.md).
 
 <!-- actualites:auto:start -->
+## Conditions de la faillite { #conditions-faillite }
+
+Dans le guide : [Qu'est-ce qu'une faillite ?](../comprendre/definition-faillite.md)
+
+- [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](2026-11-12-faillites-2025-statbel.md) — pratique, 12 novembre 2026
+
 ## Le curateur { #curateur }
 
 Dans le guide : [Le curateur et le juge-commissaire](../comprendre/acteurs.md)
@@ -35,6 +41,12 @@ Dans le guide : [Les droits des créanciers selon leur catégorie](../creanciers
 
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 
+## Travailleurs et Fonds de fermeture { #travailleurs }
+
+Dans le guide : [Les droits des créanciers selon leur catégorie](../creanciers/creanciers-categories.md)
+
+- [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](2026-11-12-faillites-2025-statbel.md) — pratique, 12 novembre 2026
+
 ## Compensation { #compensation }
 
 Dans le guide : [Vos droits dans la procédure de faillite](../creanciers/droits-specifiques.md)
@@ -54,10 +66,17 @@ Dans le guide : [Votre responsabilité personnelle de dirigeant](../faillis/resp
 - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 
+## Clôture { #cloture }
+
+Dans le guide : [La clôture de la faillite](../comprendre/cloture.md) · [La vérification des créances, la liquidation et la clôture](../comprendre/deroulement-phase-4-5.md)
+
+- [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) — jurisprudence, 5 novembre 2026
+
 ## Effacement des dettes { #effacement }
 
 Dans le guide : [L'effacement des dettes](../faillis/effacement.md) · [La clôture de la faillite](../comprendre/cloture.md)
 
+- [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) — jurisprudence, 5 novembre 2026
 - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
 
 ## Interdiction de gérer { #interdiction-gerer }

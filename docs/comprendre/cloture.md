@@ -3,7 +3,7 @@ description: La clôture de la faillite - Types de clôture, effacement automati
   des dettes pour personnes physiques, décharge de caution, fin du dessaisissement
 keywords: clôture faillite belgique, fin faillite, effacement dettes faillite, insuffisance
   actif, décharge caution faillite, jugement clôture
-updated: '2026-10-29'
+updated: '2026-11-06'
 ---
 # La clôture de la faillite
 
@@ -114,13 +114,18 @@ Si une interdiction de gérer a été prononcée, elle continue de courir jusqu'
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.04.2026 · Cour constitutionnelle</span>
+
+[Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](../actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--doctrine">Doctrine</span> <span class="ifa-date">28.10.2026</span>
 
 [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](../actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md)
 </div>
 </div>
 
-Toutes les notes sur : [Effacement des dettes](../actualites/themes.md#effacement)
+Toutes les notes sur : [Clôture](../actualites/themes.md#cloture) · [Effacement des dettes](../actualites/themes.md#effacement)
 
 </div>
 <!-- actualites:auto:end -->

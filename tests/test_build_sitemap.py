@@ -55,3 +55,11 @@ def test_scheduled_notes_are_left_out_until_their_date(tmp_path: Path) -> None:
     note.write_text("---\ndate: '2026-12-03'\n---\n# Note\n", encoding="utf-8")
     assert "programmee" not in render_sitemap(site, "2026-11-01")
     assert "https://example.be/actualites/2026-12-03-programmee/" in render_sitemap(site, "2026-12-03")
+
+
+def test_render_skips_draft_pages(tmp_path: Path) -> None:
+    site = _site(tmp_path)
+    (site / "docs" / "brouillon.md").write_text(
+        "---\ndraft: true\n---\n# Brouillon\n", encoding="utf-8"
+    )
+    assert "brouillon" not in render_sitemap(site)

@@ -3,7 +3,7 @@ description: Vérification des créances, liquidation des actifs et clôture de 
   - Phases 4 et 5 de la procédure de faillite en Belgique
 keywords: vérification créances faillite, liquidation actifs faillite, clôture faillite,
   procès-verbal créances, dividendes faillite belgique
-updated: '2026-10-29'
+updated: '2026-11-06'
 ---
 # La vérification des créances, la liquidation et la clôture
 
@@ -108,3 +108,21 @@ Dans les deux cas, le jugement de clôture constate la fin de la procédure, pro
 - [Le paiement des dividendes aux créanciers](../creanciers/paiement-dividendes.md)
 - [La clôture de la faillite et l'effacement automatique des dettes](cloture.md)
 - [Les délais importants à ne pas manquer](../delais.md)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.04.2026 · Cour constitutionnelle</span>
+
+[Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](../actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md)
+</div>
+</div>
+
+Toutes les notes sur : [Clôture](../actualites/themes.md#cloture)
+
+</div>
+<!-- actualites:auto:end -->

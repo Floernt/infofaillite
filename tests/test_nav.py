@@ -1,8 +1,11 @@
 """Garde-fou : toute page de docs/ est soit dans le menu, soit hors menu à dessein."""
 from __future__ import annotations
 
+import re
 import tomllib
 from pathlib import Path
+
+import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -20,6 +23,14 @@ OFF_NAV = {
 }
 # Les notes d'actualité sont atteintes par la liste, la page par thème et les renvois.
 OFF_NAV_PREFIX = "actualites/20"
+_FRONT_MATTER_RE = re.compile(r"\A---\s*\n(.*?\n)---\s*\n", re.DOTALL)
+
+
+def _is_draft(page: str) -> bool:
+    """Guide en brouillon (`draft: true`) : hors menu jusqu'à sa levée."""
+    text = (ROOT / "docs" / page).read_text(encoding="utf-8")
+    match = _FRONT_MATTER_RE.match(text)
+    return bool(match and (yaml.safe_load(match.group(1)) or {}).get("draft") is True)
 
 
 def _nav_files(items) -> set[str]:
@@ -41,7 +52,9 @@ def test_every_page_is_in_nav_or_explicitly_off_nav() -> None:
     nav = _nav_files(_config()["project"]["nav"])
     pages = {p.relative_to(ROOT / "docs").as_posix() for p in (ROOT / "docs").rglob("*.md")}
     orphans = sorted(
-        p for p in pages - nav - OFF_NAV if not p.startswith(OFF_NAV_PREFIX)
+        p
+        for p in pages - nav - OFF_NAV
+        if not p.startswith(OFF_NAV_PREFIX) and not _is_draft(p)
     )
     assert orphans == [], f"Pages absentes du menu (zensical.toml) : {orphans}"
 
@@ -52,12 +65,13 @@ def test_every_nav_entry_points_to_an_existing_page() -> None:
     assert missing == [], f"Entrées du menu sans fichier : {missing}"
 
 
-def test_top_level_nav_has_the_five_sections() -> None:
+def test_top_level_nav_has_the_six_sections() -> None:
     titles = [next(iter(item)) for item in _config()["project"]["nav"]]
     assert titles == [
         "Je suis en faillite",
         "Je suis créancier",
         "Comprendre la procédure",
+        "Guides",
         "Actualités",
         "Questions fréquentes",
     ]
