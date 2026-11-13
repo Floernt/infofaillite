@@ -27,7 +27,7 @@ description: Cour constitutionnelle, arrêt 155/2025 du 27 novembre 2025 - Menti
 keywords: publication jugement de faillite Moniteur belge, tierce opposition date
   de cessation de paiement, article XX.107, article XX.108, Cour constitutionnelle
   155/2025, voies de recours
-updated: '2026-11-12'
+updated: '2026-11-13'
 ---
 # La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge
 
