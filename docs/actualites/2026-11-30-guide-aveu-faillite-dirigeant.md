@@ -1,6 +1,5 @@
 ---
-title: Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois
-  qui suit la cessation de paiements
+title: "Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois qui suit la cessation de paiements"
 date: '2026-11-30'
 type: pratique
 draft: true
@@ -19,9 +18,7 @@ articles_cde:
 - XX.225
 - XX.227
 - XX.229
-resume: Le dirigeant d'une société qui a cessé ses paiements dispose d'un mois pour
-  déposer l'aveu de faillite sur REGSOL. Guide pratique : les pièces à joindre, ce
-  qu'il faut rassembler en parallèle, et les sanctions possibles en cas de retard.
+resume: "Le dirigeant d'une société qui a cessé ses paiements dispose d'un mois pour déposer l'aveu de faillite sur REGSOL. Guide pratique : les pièces à joindre, ce qu'il faut rassembler en parallèle, et les sanctions possibles en cas de retard."
 description: Aveu de faillite du dirigeant de société - délai d'un mois (art. XX.102),
   pièces de l'article XX.103, dépôt sur REGSOL, préparation du dossier et conséquences
   d'un retard (interdiction de gérer, responsabilité, banqueroute simple)
