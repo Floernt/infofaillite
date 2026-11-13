@@ -54,7 +54,7 @@ Statbel rappelle qu'il existe un décalage entre la cessation de l'activité éc
 
 ## Ce qu'il faut retenir
 
-Pour un créancier, la hausse concerne surtout de très petites structures, souvent des SRL, dans des secteurs comme la construction ou les transports : un retard de paiement prolongé dans ces secteurs mérite une attention particulière. Pour un dirigeant, ces chiffres rappellent que la faillite touche aussi des entreprises établies depuis longtemps, et qu'il existe des procédures préventives à envisager avant d'en arriver là.
+Pour un créancier, la très grande majorité des entreprises faillies sont de très petites structures, souvent des SRL, notamment dans la construction et les transports : un retard de paiement prolongé dans ces secteurs mérite une attention particulière. Pour un dirigeant, ces chiffres rappellent que la faillite touche aussi des entreprises établies depuis longtemps, et qu'il existe des procédures préventives à envisager avant d'en arriver là.
 
 *Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés », 16 janvier 2026 ; rapport mensuel de décembre 2025 ; communiqué « Septembre 2026 : 1.063 faillites », 16 octobre 2026.*
 

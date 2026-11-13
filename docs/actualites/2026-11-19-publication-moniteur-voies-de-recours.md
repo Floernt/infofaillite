@@ -1,6 +1,6 @@
 ---
-title: La publication du jugement de faillite au Moniteur belge devra indiquer les
-  voies de recours
+title: La Cour constitutionnelle censure l'absence de mention des voies de recours
+  dans la publication du jugement de faillite au Moniteur belge
 date: '2026-11-19'
 type: jurisprudence
 source:
@@ -29,7 +29,7 @@ keywords: publication jugement de faillite Moniteur belge, tierce opposition dat
   155/2025, voies de recours
 updated: '2026-11-12'
 ---
-# La publication du jugement de faillite au Moniteur belge devra indiquer les voies de recours
+# La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge
 
 Par un arrêt du 27 novembre 2025, la Cour constitutionnelle juge que l'article XX.107, § 1er, du Code de droit économique viole les articles 10 et 11 de la Constitution, lus avec l'article 6 de la Convention européenne des droits de l'homme et le droit d'accès au juge, en ce qu'il n'impose pas de mentionner, dans l'extrait publié au Moniteur belge, comment contester le jugement de faillite ou le jugement fixant la date de cessation de paiement. Elle maintient les effets des publications jusqu'à l'intervention du législateur, et au plus tard jusqu'au 31 décembre 2026.
 
@@ -41,7 +41,7 @@ Le 7 octobre 2024, une société néerlandaise forme tierce opposition contre ce
 
 ## Ce que dit la Cour
 
-La Cour rappelle que la publication au Moniteur belge est le moyen officiel par lequel le législateur assure l'accès aux jugements de faillite. Elle reste en principe un point de départ pertinent pour le délai de recours des tiers, auxquels le jugement n'est pas signifié.
+La Cour rappelle que la publication au Moniteur belge est le moyen officiel par lequel le législateur assure l'accès aux jugements de faillite. Elle reste en principe un point de départ pertinent pour le délai de quinze jours de la tierce opposition, ouverte aux tiers intéressés auxquels le jugement ne doit pas être signifié.
 
 Mais le droit d'accès au juge exige que les possibilités et délais de recours soient non seulement fixés avec clarté, mais aussi portés à la connaissance des justiciables « de la manière la plus explicite possible ». Informer est précisément l'objet de la publication par extrait. Faire courir le délai de tierce opposition à partir d'une publication qui ne mentionne ni la juridiction compétente, ni le délai, ni les formalités constitue une restriction disproportionnée de ce droit. L'objectif de sécurité juridique ne change rien à cette conclusion.
 
@@ -49,7 +49,7 @@ Pour préserver la sécurité juridique et laisser au législateur le temps de r
 
 ## Pourquoi cette décision intéresse les praticiens
 
-Le jugement qui fait remonter la date de cessation de paiement peut toucher des personnes qui ne sont ni le failli ni ses créanciers, par exemple un cocontractant dont un paiement reçu pendant la période suspecte devient contestable. Ces tiers n'apprennent souvent l'existence du jugement que tardivement.
+Le jugement qui fait remonter la date de cessation de paiement peut toucher des personnes qui ne sont ni le failli ni ses créanciers, par exemple un cocontractant dont un paiement reçu pendant la période suspecte devient contestable. Ces tiers peuvent n'apprendre l'existence du jugement que tardivement.
 
 Jusqu'à l'intervention du législateur, et au plus tard jusqu'au 31 décembre 2026, les publications conservent leurs effets et le délai de quinze jours continue de courir à partir de la publication. Il reste donc prudent, pour une entreprise qui a traité avec une société en difficulté, de surveiller les publications du Moniteur belge et de REGSOL relatives à cette société.
 
