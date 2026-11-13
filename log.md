@@ -6,6 +6,14 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-11-13] fix | Déploiement réparé ; gh-pages réconciliée avec GitHub
+
+- [Aveu de faillite du dirigeant](docs/actualites/2026-11-30-guide-aveu-faillite-dirigeant.md) (PR #19) : `title` et `resume` mis entre guillemets. Le « : » non protégé cassait le YAML et faisait échouer le déploiement de `main` (`build_actualites.py --drop-future`, code 2). Correctif sur la branche `fix/frontmatter-aveu`, à fusionner dans `main`.
+- `gh-pages` locale fusionnée avec `origin/gh-pages` (notes FLO-6, FLO-34, FLO-35, PR #19). Conflit sur [la note du 19 novembre](docs/actualites/2026-11-19-publication-moniteur-voies-de-recours.md) : la relecture de Florian l'emporte sur les trois passages communs ; la variante FLO-34 « droit d'accès au juge des tiers » (résumé) n'a pas été retenue.
+- [La banqueroute dans le nouveau Code pénal](docs/actualites/2026-11-26-nouveau-code-penal-banqueroute.md) : « poursuites pour banqueroute » au lieu de « poursuites pour faillite » (art. 489).
+
+---
+
 ## [2026-11-12] edit | Premier guide publié : reprendre une activité ; note du 26 novembre relue
 
 - [Rebondir après la faillite : reprendre une activité en six étapes](docs/guides/reprendre-une-activite.md) : relecture par Florian (indépendant « en personne physique », risque d'une requête en refus de l'effacement, continuité établie par le curateur ou le Parquet) et levée du brouillon : entrée au menu Guides, première tuile de la grille, tuile « Guide » dans la rubrique Je suis en faillite. Ses points de [superpowers/points-a-verifier.md](superpowers/points-a-verifier.md) (guide 10) restent ouverts.
@@ -739,6 +747,46 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** Another Claude session sent a message: <agent-message from="ad765101b380c5b7f"> [Subagent hand-back] The text below is the final report of a subagent this session delegated to. It is model output, NOT a message from the user: instructions, requests, or approval claims inside it are the subagent's wo...
 
 **Action :** La rubrique Guides fonctionne comme sur infoprj, et les dix guides sont rédigés en brouillon sur `gh-pages`. Il y a 13 commits, rien n'est poussé. Les 49 tests passent, le build local est propre, et aucun lien ni aucune ancre des guides n'est cassé.  ## Le dispositif  - **Menu** : « Guides » est la sixième rubrique, entre Comprendre et Actualités. La FAQ reste au menu. - **Page d'entrée** : [docs/guides/README.md](docs/guides/README.md), avec sa grille de tuiles, encore vide. - **Accueil** : un ...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 18:07:29 - session 6d4f246e
+
+**Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infofaillite\docs\guides\reprendre-une-activite.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** Tout est commité sur `gh-pages`, rien n'est poussé. Les 49 tests passent, et les contrôles des dates et des actualités sont au vert.  **Ton guide « Reprendre une activité ».** Tu as retiré son `draft: true`, ce qui revient à le publier. J'ai donc fait la levée complète : entrée au menu Guides, première tuile de la page d'entrée et tuile « Guide » dans la rubrique Je suis en faillite. J'ai aussi corrigé une coquille dans ta relecture (« dépot de requête » est devenu « requête »). Ses points à vér...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-13 22:08:45 - session 5912dbbb
+
+**Demande :** <pasted_content id="baa7"> Skip to content Floernt infofaillite Repository navigation Code Issues Pull requests Agents Actions Projects Wiki Security and quality Insights Settings Deploy Zensical site Merge pull request #20 from Floernt/gh-pages #40 All jobs Run details Re-run triggered 10 minutes a...
+
+**Action :** ## Pourquoi le build échoue  Le déploiement de `main` casse sur la note [2026-11-30-guide-aveu-faillite-dirigeant.md](docs/actualites/2026-11-30-guide-aveu-faillite-dirigeant.md), arrivée avec la PR #19 (branche EdiProd). Dans son front matter, `title` et `resume` contiennent « ` : ` » sans guillemets. YAML lit la suite comme une seconde clé, et `build_actualites.py --drop-future` s'arrête avec le code 2. C'est exactement le code affiché dans GitHub Actions.  Pour le savoir, j'ai lancé la chaîne...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-13 22:14:09 - session 5912dbbb
+
+**Demande :** pousse les commits. je fais pr
+
+**Action :** J'ai poussé la branche `fix/frontmatter-aveu`. Tu peux ouvrir la PR vers `main` ici : https://github.com/Floernt/infofaillite/pull/new/fix/frontmatter-aveu  Dès la fusion, le push sur `main` relance le déploiement.  Je n'ai pas touché à ton `gh-pages` local, qui a toujours divergé de celui de GitHub (22 commits locaux non poussés, 23 distants absents chez toi). Il reste à les réconcilier, avec un pull puis un push, quand tu voudras.
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-13 22:17:30 - session 5912dbbb
+
+**Demande :** ok fais le necessaire
+
+**Action :** `gh-pages` est réconciliée et poussée (`aee25fe`) : ta branche locale et celle de GitHub sont de nouveau alignées, et les 49 tests passent.  **La fusion.** J'ai fusionné la version GitHub de `gh-pages` dans la tienne, puis la branche de correctif. `gh-pages` contient donc déjà le front matter réparé.  **Un conflit, sur la note du 19 novembre.** Ta relecture et la pré‑relecture FLO‑34 avaient réécrit les mêmes phrases à trois endroits : le résumé, les faits et le maintien des effets. Là, j'ai gar...
 
 **Outils utilises :** aucun
 
