@@ -814,3 +814,13 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Outils utilises :** aucun
 
 ---
+
+## 2026-11-26 09:41:27 - session f40e929a
+
+**Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infofaillite\docs\actualites\2026-11-30-guide-aveu-faillite-dirigeant.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** J'ai ajouté des renvois vers infoprj.be partout où le site parle de réorganisation judiciaire. Ils sont commités sur `gh-pages` en deux commits (`058ff1e` pour les liens, `6f786cf` pour les dates et l'entrée de [log.md](log.md)), et rien n'est poussé. Toutes les adresses ajoutées répondent en ligne et les 49 tests passent.  Chaque lien vise la page d'infoprj qui traite précisément le point évoqué (sursis, PRJ privée, PRJ publique, vote du plan, signaux d'alarme…), plutôt que la page d'accueil. L...
+
+**Outils utilises :** aucun
+
+---

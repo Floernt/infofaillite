@@ -20,7 +20,7 @@ description: Cass., 14 février 2025, C.23.0150.N - Responsabilité du dirigeant
   poursuite d'une activité déficitaire (art. XX.227 CDE), application dans le temps
 keywords: article XX.227, responsabilité des dirigeants faillite, poursuite activité
   déficitaire, application dans le temps Livre XX, Cour de cassation C.23.0150.N
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # L'article XX.227 s'applique au dirigeant dont la faute s'est poursuivie après le 1er mai 2018
 

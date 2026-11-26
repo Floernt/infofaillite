@@ -6,7 +6,7 @@ keywords: dirigeant société faillite, gérant SRL faillite, administrateur soc
   dirigeant curateur
 public:
 - dirigeant
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Votre société est en faillite : ce qui change pour vous
 

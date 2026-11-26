@@ -21,7 +21,7 @@ description: Droit passerelle en cas de faillite en 2026 - montants (1.704,40 et
 keywords: droit passerelle faillite 2026, montant droit passerelle, indépendant faillite
   allocation, INASTI droit passerelle, délai demande droit passerelle, caisse d'assurances
   sociales
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # En 2026, le droit passerelle verse jusqu'à 2.128,11 euros par mois à l'indépendant déclaré en faillite
 

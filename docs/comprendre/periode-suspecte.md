@@ -3,7 +3,7 @@ description: La période suspecte en faillite belgique - Nullités de plein droi
   facultatives, délais d'action, conséquences pour les tiers et les dirigeants
 keywords: période suspecte faillite belgique, nullité actes faillite, paiements préférentiels
   annulation, actes suspects faillite, protection créanciers faillite
-updated: '2026-10-28'
+updated: '2026-11-26'
 ---
 # La période suspecte et les nullités en faillite
 

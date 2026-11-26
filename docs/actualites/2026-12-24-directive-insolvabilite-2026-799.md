@@ -26,7 +26,7 @@ description: Directive (UE) 2026/799 - Actions révocatoires, pre-pack, recherch
 keywords: directive 2026/799, harmonisation droit de l'insolvabilité, pre-pack européen,
   actions révocatoires, obligation de déposer le bilan, comité de créanciers, transposition
   Belgique
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # La directive européenne 2026/799 harmonise certains aspects du droit de l'insolvabilité, avec une transposition attendue pour le 22 janvier 2029
 

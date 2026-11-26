@@ -25,7 +25,7 @@ description: Cour constitutionnelle, arrêts 108/2024 et 139/2025 - Délai de ti
 keywords: appel jugement de faillite délai, tierce opposition aveu de faillite, article
   XX.108, signification jugement déclaratif, Cour constitutionnelle 139/2025, Cour
   constitutionnelle 108/2024
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Le délai de recours du failli contre le jugement de faillite court de la signification, pas de la publication
 
