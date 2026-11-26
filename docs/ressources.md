@@ -3,7 +3,7 @@ description: Ressources officielles et contacts utiles pour la faillite en Belgi
   - REGSOL, tribunaux, SPF Justice, organismes d'aide, textes légaux
 keywords: ressources faillite belgique, REGSOL, tribunaux entreprise belgique, SPF
   Justice faillite, aide faillite indépendant, Fonds Fermeture Entreprises
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Ressources et organismes utiles
 
@@ -16,6 +16,10 @@ Cette page rassemble les liens officiels, contacts et organismes d'aide utiles p
 ### REGSOL — Registre Central de Solvabilité
 
 [REGSOL](https://www.regsol.be) est le registre officiel belge de toutes les procédures de faillite et de réorganisation judiciaire. C'est votre outil de référence tout au long de la procédure. Après création d'un compte gratuit (via eID ou itsme), vous pouvez déclarer votre créance en ligne, consulter les coordonnées du curateur et du juge-commissaire, suivre l'état de vérification de votre créance, télécharger les rapports annuels du curateur et consulter l'état de répartition en fin de procédure.
+
+### infoprj.be — Guide de la réorganisation judiciaire
+
+[infoprj.be](https://infoprj.be/) est le site jumeau d'infofaillite.be, consacré à la procédure de réorganisation judiciaire : les voies ouvertes à l'entreprise en difficulté avant la faillite, le sursis, le plan, et la place des créanciers.
 
 ### Moniteur belge
 

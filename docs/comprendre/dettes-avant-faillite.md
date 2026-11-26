@@ -5,7 +5,7 @@ description: Les dettes avant la faillite en Belgique - Cours des intérêts, fr
 keywords: dettes qui augmentent belgique, intérêts de retard dette, frais de recouvrement
   belgique, saisie sur salaire belgique, quotité insaisissable, saisie-arrêt salaire,
   indépendant complémentaire dettes, huissier saisie belgique
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Les dettes avant la faillite : intérêts, frais et saisies
 
@@ -50,7 +50,7 @@ Ce mécanisme d'accumulation n'est pas indéfini : l'ouverture d'une procédure 
 
 En cas de **faillite**, l'article XX.117 du Code de droit économique arrête le cours des intérêts à l'égard de la masse dès le jugement déclaratif. Les créances sont figées au montant qu'elles atteignaient à cette date, et le compteur s'arrête. L'exception concerne les créances garanties par une hypothèque, un gage ou un privilège spécial : leurs intérêts continuent à courir, mais ne peuvent être réclamés que sur le produit des biens grevés. Pour le détail de ce mécanisme et son effet sur le calcul des dividendes, consultez [le paiement des dividendes aux créanciers](../creanciers/paiement-dividendes.md).
 
-En cas de **réorganisation judiciaire publique**, le moratoire général protège le débiteur des poursuites individuelles pendant toute la durée du sursis. Attention toutefois : la PRJ privée et les mesures amiables, introduites ou renforcées par la réforme de 2023, ne comportent pas de moratoire général — les créanciers non impliqués dans les négociations conservent leurs droits d'exécution. Pour comparer les quatre voies, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
+En cas de **réorganisation judiciaire publique**, le moratoire général protège le débiteur des poursuites individuelles pendant toute la durée du [sursis](https://infoprj.be/comprendre/sursis/). Attention toutefois : la PRJ privée et les mesures amiables, introduites ou renforcées par la réforme de 2023, ne comportent pas de moratoire général — les créanciers non impliqués dans les négociations conservent leurs droits d'exécution. Pour comparer les quatre voies, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
 
 ---
 

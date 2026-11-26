@@ -25,7 +25,7 @@ description: Cour constitutionnelle, arrêt 80/2025 du 15 mai 2025 - Délai de r
 keywords: revendication faillite, article XX.194, délai de revendication, premier
   procès-verbal de vérification des créances, propriétaire bien en dépôt faillite,
   Cour constitutionnelle 80/2025
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Le délai pour revendiquer ses biens détenus par le failli est conforme au droit de propriété
 
@@ -67,4 +67,8 @@ La Cour rappelle que, sous l'ancienne loi, une loi interprétative du 12 mars 20
 - [Vos droits dans la procédure de faillite](../creanciers/droits-specifiques.md)
 - [Les délais importants à ne pas manquer](../delais.md)
 - [Le déroulement chronologique de la faillite](../comprendre/deroulement-chronologique.md)
+
+## Sur le même thème
+
+- [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](2026-11-19-publication-moniteur-voies-de-recours.md) — jurisprudence, 19 novembre 2026
 <!-- actualites:auto:end -->

@@ -27,7 +27,7 @@ description: Nouveau Code pénal, art. 489 à 496 - Banqueroute simple et fraudu
 keywords: nouveau Code pénal banqueroute, banqueroute simple, banqueroute frauduleuse,
   organisation frauduleuse d'insolvabilité, article 490 Code pénal, faillite infraction
   pénale, 1er septembre 2026
-updated: '2026-11-12'
+updated: '2026-11-13'
 ---
 # La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026
 
@@ -35,7 +35,7 @@ Le nouveau Code pénal est entré en vigueur le 1er septembre 2026. Son livre II
 
 ## Ce que prévoit le texte
 
-**Le lien avec la faillite.** Les poursuites pour faillite sont indépendantes de la procédure devant le tribunal de l'entreprise. Le prévenu ne peut toutefois plus contester l'état de faillite devant le juge pénal si cet état a été tranché par une décision définitive au terme d'une procédure à laquelle il était partie, personnellement ou comme représentant de l'entreprise (art. 489).
+**Le lien avec la faillite.** Les poursuites pour banqueroute sont indépendantes de la procédure devant le tribunal de l'entreprise. Le prévenu ne peut toutefois plus contester l'état de faillite devant le juge pénal si cet état a été tranché par une décision définitive au terme d'une procédure à laquelle il était partie, personnellement ou comme représentant de l'entreprise (art. 489).
 
 **La banqueroute simple** (art. 490) vise l'entreprise faillie ou le dirigeant, de droit ou de fait, d'une société ou personne morale en faillite qui a :
 

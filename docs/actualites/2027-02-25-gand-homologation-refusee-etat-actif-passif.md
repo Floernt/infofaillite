@@ -25,7 +25,7 @@ description: Entr. Gand, 29 juin 2026 - Refus d'homologation faute d'état actif
 keywords: refus homologation plan de réorganisation, état actif et passif actualisé,
   article XX.70/1, seconde chance XX.79 § 3, bonne foi réorganisation judiciaire,
   vote créancier public, VLAIO
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Sans état actif et passif à jour, le plan de réorganisation ne peut pas être homologué
 
@@ -49,7 +49,7 @@ Le tribunal accorde une seconde chance sur la base de l'article XX.79, § 3, pro
 
 ## Pourquoi cette décision intéresse les praticiens
 
-Le jugement rappelle une exigence formelle décisive : l'état actif et passif doit être arrêté au moment du dépôt du plan. Il montre aussi que la seconde chance de l'article XX.79, § 3, peut s'accompagner d'un contrôle approfondi de la bonne foi du débiteur. Les questions posées restent à ce stade des questions : le tribunal n'a pas constaté de fraude.
+Le jugement rappelle une exigence formelle décisive : l'état actif et passif doit être arrêté au moment du dépôt du plan. Le contenu du plan et ses annexes sont décrits sur infoprj.be : [rédiger le plan de réorganisation](https://infoprj.be/dirigeants/plan-reorganisation/). Il montre aussi que la seconde chance de l'article XX.79, § 3, peut s'accompagner d'un contrôle approfondi de la bonne foi du débiteur. Les questions posées restent à ce stade des questions : le tribunal n'a pas constaté de fraude.
 
 *Entr. Gand (div. Gand), 3e ch., 29 juin 2026, Q/26/00006.*
 
@@ -65,6 +65,7 @@ Le jugement rappelle une exigence formelle décisive : l'état actif et passif d
 
 ## Sur le même thème
 
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
 - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 <!-- actualites:auto:end -->

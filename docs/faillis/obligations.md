@@ -3,7 +3,7 @@ description: Obligations légales du failli - Documents à fournir, convocations
   collaboration avec le curateur
 keywords: obligations failli, documents faillite, inventaire, descente faillite, collaboration
   curateur, banqueroute
-updated: '2026-10-29'
+updated: '2026-11-26'
 public:
 - independant
 - dirigeant
@@ -88,3 +88,21 @@ Indépendamment de la procédure civile de faillite, le parquet peut engager des
 - [La checklist pratique pour la première semaine](checklist-premiere-semaine.md)
 - [Les questions fréquentes](../faq/README.md#profil=independant)
 - [Votre dossier sur REGSOL](https://www.regsol.be)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+[La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+</div>
+</div>
+
+Toutes les notes sur : [Obligations du failli](../actualites/themes.md#obligations-failli) · [Aveu de faillite](../actualites/themes.md#aveu)
+
+</div>
+<!-- actualites:auto:end -->

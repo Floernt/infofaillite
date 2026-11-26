@@ -22,7 +22,7 @@ description: Entr. fr. Bruxelles, 10 septembre 2025 - Cession de créances et co
 keywords: fraude créanciers faillite, article XX.114, action paulienne faillite, compensation
   intragroupe, cession de créance faillite, responsabilité dirigeant faillite, compte
   courant administrateur
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 Dans un jugement du 10 septembre 2025, le tribunal de l'entreprise francophone de Bruxelles a déclaré inopposables à la masse deux conventions conclues le même jour par une société en difficulté. Ces conventions lui avaient fait perdre toutes ses créances sur des sociétés liées et avaient remboursé son administrateur, qui les avait signées « sous plusieurs casquettes ». Le tribunal a aussi condamné cet administrateur personnellement, in solidum avec les sociétés concernées.
 
@@ -70,5 +70,7 @@ En pratique, un dirigeant qui contrôle plusieurs sociétés doit savoir qu'apur
 
 ## Sur le même thème
 
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
+- [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](2026-11-19-publication-moniteur-voies-de-recours.md) — jurisprudence, 19 novembre 2026
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 <!-- actualites:auto:end -->

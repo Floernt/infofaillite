@@ -3,7 +3,7 @@ description: La liquidation des actifs en faillite - Vente du mobilier et des im
   going concern, actions en responsabilité des dirigeants, revendications des tiers
 keywords: liquidation actifs faillite, vente actifs faillite belgique, going concern
   faillite, comblement passif, période suspecte nullité, revendication tiers faillite
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # La liquidation des actifs et la réalisation du patrimoine
 
@@ -112,6 +112,11 @@ Tous les fonds encaissés doivent être déposés à la Caisse des Dépôts et C
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+[La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">10.09.2025 · Tribunal de l'entreprise francophone de Bruxelles</span>
 

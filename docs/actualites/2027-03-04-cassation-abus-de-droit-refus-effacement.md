@@ -22,7 +22,7 @@ description: Cass., 28 juin 2024, C.23.0288.F - Refus de l'effacement des dettes
 keywords: refus effacement des dettes, fautes graves et caractérisées, abus de droit
   faillite, article XX.173, aveu de faillite personne physique, Cour de cassation
   C.23.0288.F
-updated: '2026-11-06'
+updated: '2026-11-26'
 ---
 # L'abus de droit ne suffit pas à refuser l'effacement sans fautes graves et caractérisées
 
@@ -68,6 +68,7 @@ La Cour ne se prononce pas sur le second grief du failli, qui reprochait à la c
 
 ## Sur le même thème
 
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
 - [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md) — jurisprudence, 5 novembre 2026
 - [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](2026-10-28-effacement-decharge-caution-conjoint-partenaire.md) — doctrine, 28 octobre 2026
 <!-- actualites:auto:end -->

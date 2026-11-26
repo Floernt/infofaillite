@@ -23,7 +23,7 @@ description: Entr. Gand, 18 juillet 2025 - Vote du plan de réorganisation, majo
 keywords: réorganisation judiciaire vote majorité, article XX.78/2, égalité des voix
   plan de réorganisation, refus d'homologation, détournement de procédure, vendor
   loan, seconde chance XX.79
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Réorganisation judiciaire : à égalité de créanciers pour et contre, le plan n'est pas approuvé
 
@@ -45,7 +45,7 @@ Sur le fond, le tribunal constate que le second plan ne change rien à la struct
 
 ## Pourquoi cette décision intéresse les praticiens
 
-Le jugement rappelle que la double majorité de l'article XX.78/2 se vérifie d'abord en nombre de créanciers votants. Une égalité parfaite fait échouer le plan, quel que soit le poids des créances favorables. Dans un dossier comptant peu de créanciers, une seule abstention ou une seule défection peut suffire à renverser le résultat, comme ici avec le SPF Finances.
+Le jugement rappelle que la double majorité de l'article XX.78/2 se vérifie d'abord en nombre de créanciers votants. Une égalité parfaite fait échouer le plan, quel que soit le poids des créances favorables. Dans un dossier comptant peu de créanciers, une seule abstention ou une seule défection peut suffire à renverser le résultat, comme ici avec le SPF Finances. Les règles de vote sont détaillées sur infoprj.be : [voter et contester le plan de réorganisation](https://infoprj.be/creanciers/vote-plan/).
 
 Le passage sur le détournement de procédure, surabondant, illustre les limites d'une réorganisation qui sert à régler un différend entre associés.
 
@@ -62,5 +62,6 @@ Le passage sur le détournement de procédure, surabondant, illustre les limites
 
 ## Sur le même thème
 
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
 - [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
 <!-- actualites:auto:end -->

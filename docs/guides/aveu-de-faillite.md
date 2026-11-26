@@ -9,7 +9,7 @@ public:
 - independant
 - dirigeant
 draft: true
-updated: '2026-11-12'
+updated: '2026-11-26'
 ---
 # Faire aveu de faillite en six étapes
 
@@ -52,7 +52,7 @@ Un exemple simplifié et fictif accompagne le guide. Un menuisier indépendant e
 
 **Les alternatives, tant qu'elles ont un sens.** Le délai ne dispense pas de vérifier qu'une autre voie n'est pas encore ouverte :
 
-- **la réorganisation judiciaire** s'adresse aux entreprises dont la continuité est menacée et dont l'activité reste viable. Une fois l'état de faillite avéré, la fenêtre se referme. Pendant une réorganisation judiciaire, l'obligation d'aveu est suspendue ;
+- **la réorganisation judiciaire** s'adresse aux entreprises dont la continuité est menacée et dont l'activité reste viable. Une fois l'état de faillite avéré, la fenêtre se referme. Pendant une réorganisation judiciaire, l'obligation d'aveu est suspendue. Le site infoprj.be aide à [choisir la voie adaptée](https://infoprj.be/dirigeants/choisir-sa-voie/) ;
 - **la négociation directe** avec quelques créanciers (délais, plan de paiement) convient à des difficultés temporaires et explicables ;
 - **la préparation privée de la faillite** (le « pre-pack ») permet au débiteur qui s'estime en état de faillite de demander au tribunal, de manière confidentielle, de préparer la cession de tout ou partie de ses actifs avant le prononcé ;
 - **la liquidation volontaire** d'une société suppose en principe une situation financière équilibrée.

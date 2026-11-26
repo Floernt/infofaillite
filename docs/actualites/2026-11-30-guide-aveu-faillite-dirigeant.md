@@ -3,7 +3,7 @@ title: 'Aveu de faillite : ce que le dirigeant doit préparer et déposer dans l
   qui suit la cessation de paiements'
 date: '2026-11-30'
 type: pratique
-draft: true
+draft: false
 source:
   publication: Code de droit économique, livre XX, art. XX.102, XX.103, XX.146 et
     XX.229 ; nouveau Code pénal, art. 490
@@ -28,7 +28,7 @@ description: Aveu de faillite du dirigeant de société - délai d'un mois (art.
 keywords: aveu de faillite dirigeant, délai aveu faillite un mois, article XX.102,
   article XX.103, REGSOL aveu, pièces aveu de faillite, aveu tardif banqueroute simple,
   article 490 Code pénal, interdiction de gérer aveu tardif
-updated: '2026-11-13'
+updated: '2026-11-26'
 ---
 # Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois qui suit la cessation de paiements
 
@@ -36,9 +36,9 @@ Quand une société cesse durablement de payer ses dettes, la loi donne un mois 
 
 ## Le délai : un mois à partir de la cessation de paiements
 
-L'article XX.102 du Code de droit économique oblige le débiteur à faire l'aveu au greffe dans le mois de la cessation de ses paiements. Pour une société, l'obligation pèse sur son organe d'administration. Les ASBL et les fondations n'y sont pas tenues, et l'obligation est suspendue pendant une procédure de réorganisation judiciaire.
+L'article XX.102 du Code de droit économique oblige le débiteur à faire l'aveu au greffe dans le mois de la cessation de ses paiements. Pour une société, l'obligation pèse sur son organe d'administration et l'obligation est suspendue pendant une procédure de réorganisation judiciaire.
 
-Le mois court à partir de la cessation de paiements, pas à partir du jour où l'on décide de déposer. La cessation de paiements suppose que la société a cessé de payer ses dettes de manière durable : un retard ponctuel ou une difficulté passagère ne suffisent pas. Les signes les plus fréquents sont des factures de fournisseurs impayées depuis plusieurs mois, des loyers et salaires non honorés, des cotisations ONSS et de la TVA en souffrance, un compte bancaire bloqué ou à découvert permanent. Le crédit de la société doit en outre être ébranlé. Fixer la date exacte à laquelle ces conditions sont réunies relève de l'appréciation des faits, et c'est souvent là que se situe la difficulté pour un dirigeant : le guide ne peut pas la fixer à sa place.
+Le mois court à partir de la cessation de paiements, pas à partir du jour où l'on décide de déposer. La cessation de paiements suppose que la société a cessé de payer ses dettes de manière durable : un retard ponctuel ou une difficulté passagère ne suffisent pas. Les signes les plus fréquents sont des factures de fournisseurs impayées depuis plusieurs mois, des loyers et salaires non honorés, des cotisations ONSS et de la TVA en souffrance, un compte bancaire bloqué ou à découvert permanent. Le crédit de la société doit en outre être ébranlé. Fixer la date exacte à laquelle ces conditions sont réunies relève de l'appréciation des faits, et c'est souvent là que se situe la difficulté pour un dirigeant : ce guide ne peut pas la fixer à sa place.
 
 ## Les pièces à joindre
 
@@ -50,7 +50,7 @@ L'aveu se dépose par voie électronique dans le registre REGSOL, sauf impossibi
 - la liste des clients et des fournisseurs ;
 - la liste des consommateurs qui se sont portés garants de l'entreprise (cautions et autres sûretés personnelles).
 
-Il faut aussi établir le pouvoir de représenter la société. Dans une entreprise qui occupe du personnel, l'aveu doit être communiqué aux représentants des travailleurs. Une fois saisi, le tribunal prononce la faillite ou entend d'abord le débiteur pour obtenir des précisions.
+Il faut aussi établir le pouvoir de représenter la société. Dans une entreprise qui occupe du personnel. Une fois saisi, le tribunal prononce la faillite ou entend d'abord le débiteur pour obtenir des précisions.
 
 Les renseignements fournis lors de l'aveu engagent celui qui les donne : en omettre délibérément ou en fournir d'inexacts figure parmi les cas de banqueroute simple (voir plus bas).
 
@@ -78,7 +78,7 @@ Pour l'indépendant en nom propre, un aveu tardif peut en plus peser sur le refu
 
 ## Agir avant la cessation de paiements
 
-La réorganisation judiciaire s'adresse aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements. Une fois les conditions de la faillite réunies, elle n'est plus accessible. Le tribunal saisi d'un aveu peut par ailleurs, dans certains cas, prononcer la dissolution de la société plutôt que la faillite (article 2:74/1 du Code des sociétés et des associations). Ces voies sont décrites dans [les procédures alternatives à la faillite](../comprendre/procedures-alternatives.md).
+La réorganisation judiciaire s'adresse aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements. Une fois les conditions de la faillite réunies, elle n'est plus accessible. Le site infoprj.be décrit [les signaux d'alarme](https://infoprj.be/dirigeants/signaux-alarme/) qui doivent la faire envisager à temps et [les voies possibles](https://infoprj.be/dirigeants/choisir-sa-voie/). Le tribunal saisi d'un aveu peut par ailleurs, dans certains cas, prononcer la dissolution de la société plutôt que la faillite (article 2:74/1 du Code des sociétés et des associations). Ces voies sont décrites dans [les procédures alternatives à la faillite](../comprendre/procedures-alternatives.md).
 
 ## Ce qu'il faut retenir
 
@@ -103,7 +103,7 @@ Le mois de l'article XX.102 est un délai court, et il se prépare : pièces de 
 
 ## Sur le même thème
 
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
 - [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md) — jurisprudence, 28 octobre 2026
 - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
-- [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 <!-- actualites:auto:end -->

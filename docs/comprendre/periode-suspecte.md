@@ -3,7 +3,7 @@ description: La période suspecte en faillite belgique - Nullités de plein droi
   facultatives, délais d'action, conséquences pour les tiers et les dirigeants
 keywords: période suspecte faillite belgique, nullité actes faillite, paiements préférentiels
   annulation, actes suspects faillite, protection créanciers faillite
-updated: '2026-10-28'
+updated: '2026-11-26'
 ---
 # La période suspecte et les nullités en faillite
 
@@ -116,6 +116,11 @@ Pour comprendre les sanctions encourues en cas de faute grave de gestion, consul
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">27.11.2025 · Cour constitutionnelle</span>
+
+[La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](../actualites/2026-11-19-publication-moniteur-voies-de-recours.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">10.09.2025 · Tribunal de l'entreprise francophone de Bruxelles</span>
 

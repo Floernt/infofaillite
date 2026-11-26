@@ -3,7 +3,7 @@ description: Actualités du droit belge de la faillite - Jurisprudence, doctrine
   législation commentées sur le Livre XX du Code de droit économique
 keywords: actualité faillite belgique, jurisprudence faillite, doctrine insolvabilité,
   Livre XX Code de droit économique, effacement dettes jurisprudence
-updated: '2026-11-12'
+updated: '2026-11-26'
 ---
 # Actualités du droit de l'insolvabilité
 
@@ -13,6 +13,30 @@ Vous pouvez aussi [parcourir les notes par thème](themes.md).
 
 <!-- actualites:auto:start -->
 ## 2026
+
+<div class="ifa-note" data-type="legislation" data-themes="obligations-failli aveu responsabilite-dirigeants reorganisation-judiciaire" markdown>
+
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-note__meta">Publiée le 26 novembre 2026 · Loi du 29 février 2024 introduisant le livre II du Code pénal, 29 février 2024</span>
+
+### [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md)
+
+Le livre II du nouveau Code pénal, en vigueur depuis le 1er septembre 2026, regroupe la banqueroute simple, la banqueroute frauduleuse, les fraudes de tiers, la malversation du curateur et les atteintes à la réorganisation judiciaire, ainsi que l'organisation frauduleuse d'insolvabilité.
+
+[Obligations du failli](themes.md#obligations-failli){ .ifa-tag } [Aveu de faillite](themes.md#aveu){ .ifa-tag } [Comblement de passif et responsabilité des dirigeants](themes.md#responsabilite-dirigeants){ .ifa-tag } [Réorganisation judiciaire, pre-pack et dissolution judiciaire](themes.md#reorganisation-judiciaire){ .ifa-tag }
+
+</div>
+
+<div class="ifa-note" data-type="jurisprudence" data-themes="periode-suspecte delais reforme-legislative" markdown>
+
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-note__meta">Publiée le 19 novembre 2026 · Cour constitutionnelle, 27 novembre 2025</span>
+
+### [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](2026-11-19-publication-moniteur-voies-de-recours.md)
+
+L'extrait du jugement de faillite ou du jugement fixant la date de cessation de paiement publié au Moniteur belge ne mentionne pas les recours possibles. La Cour constitutionnelle juge cette lacune contraire au droit d'accès au juge et maintient les effets des publications jusqu'à l'intervention du législateur, au plus tard jusqu'au 31 décembre 2026.
+
+[Période suspecte et nullités](themes.md#periode-suspecte){ .ifa-tag } [Délais de procédure](themes.md#delais){ .ifa-tag } [Réformes du Livre XX](themes.md#reforme-legislative){ .ifa-tag }
+
+</div>
 
 <div class="ifa-note" data-type="pratique" data-themes="conditions-faillite travailleurs" markdown>
 

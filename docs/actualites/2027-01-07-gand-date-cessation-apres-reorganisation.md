@@ -25,7 +25,7 @@ description: Entr. Gand, 13 janvier 2026 - Date de cessation de paiement avancé
 keywords: report date cessation de paiement, article XX.105, réorganisation judiciaire
   homologuée puis faillite, créances intragroupe vote plan, période suspecte, tribunal
   de l'entreprise de Gand
-updated: '2026-11-12'
+updated: '2026-11-26'
 ---
 # Un plan de réorganisation homologué n'empêche pas de faire remonter la date de cessation de paiement
 
@@ -51,7 +51,7 @@ Le tribunal retient plusieurs éléments. Le passif provisoire approche 7 millio
 
 La date de cessation de paiement sert de point de départ à la période suspecte, pendant laquelle certains actes du failli peuvent être remis en cause. Le jugement montre qu'une réorganisation homologuée ne fige pas cette date : elle peut être située pendant ou juste après la procédure si les faits le justifient.
 
-Pour les créanciers qui ont voté contre un plan, le jugement confirme que le poids des créances intragroupe dans le vote peut être examiné après coup.
+Pour les créanciers qui ont voté contre un plan, le jugement confirme que le poids des créances intragroupe dans le vote peut être examiné après coup. Les règles du vote sont présentées sur infoprj.be : [voter et contester le plan de réorganisation](https://infoprj.be/creanciers/vote-plan/).
 
 *Entr. Gand (div. Gand), 2e ch., 13 janvier 2026, O/24/1045.*
 
@@ -68,7 +68,7 @@ Pour les créanciers qui ont voté contre un plan, le jugement confirme que le p
 
 ## Sur le même thème
 
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
+- [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](2026-11-19-publication-moniteur-voies-de-recours.md) — jurisprudence, 19 novembre 2026
 - [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](2026-11-12-faillites-2025-statbel.md) — pratique, 12 novembre 2026
-- [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
-- [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
 <!-- actualites:auto:end -->

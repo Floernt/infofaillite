@@ -4,7 +4,7 @@ description: Guide complet et accessible sur la faillite en Belgique - Informati
 keywords: faillite belgique, insolvabilité belgique, faillis droits obligations, créanciers
   faillite, curateur faillite, dessaisissement, effacement dettes, déclaration créance,
   tribunal entreprise
-updated: '2026-11-12'
+updated: '2026-11-26'
 template: home.html
 hide:
 - navigation
@@ -27,25 +27,25 @@ Un guide pratique pour les faillis, les dirigeants et les créanciers : vos obli
 
 <!-- actualites:auto:start -->
 <div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+### [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+
+[Lire la note](actualites/2026-11-26-nouveau-code-penal-banqueroute.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">27.11.2025 · Cour constitutionnelle</span>
+
+### [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](actualites/2026-11-19-publication-moniteur-voies-de-recours.md)
+
+[Lire la note](actualites/2026-11-19-publication-moniteur-voies-de-recours.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
 <span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
 
 ### [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](actualites/2026-11-12-faillites-2025-statbel.md)
 
 [Lire la note](actualites/2026-11-12-faillites-2025-statbel.md){ .ifa-more }
-</div>
-<div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.04.2026 · Cour constitutionnelle</span>
-
-### [Le failli peut obtenir l'effacement avant la clôture une fois expiré le délai de refus](actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md)
-
-[Lire la note](actualites/2026-11-05-cour-constitutionnelle-effacement-avant-cloture.md){ .ifa-more }
-</div>
-<div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">28.07.2026 · Tribunal de l'entreprise du Hainaut, division Mons (5e ch.)</span>
-
-### [Interdiction professionnelle après faillite : une condamnation pénale antérieure n'empêche pas le tribunal de l'entreprise de sanctionner le dirigeant](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md)
-
-[Lire la note](actualites/2026-10-28-interdiction-non-bis-in-idem-condamnation-penale.md){ .ifa-more }
 </div>
 
 [Toutes les actualités](actualites/README.md){ .ifa-more }

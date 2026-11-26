@@ -6,7 +6,7 @@ keywords: responsabilité dirigeant faillite, article XX.225, article XX.227, ar
   administrateur faillite
 public:
 - dirigeant
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Votre responsabilité personnelle de dirigeant
 
@@ -87,7 +87,7 @@ Démissionner sans rien faire n'efface pas les fautes déjà commises. Une démi
 
 **Déclenchez la sonnette d'alarme.** Dans une SRL, l'organe d'administration doit convoquer l'assemblée générale dans les deux mois lorsque l'actif net risque de devenir ou est devenu négatif, ou lorsqu'il n'est plus certain que la société pourra payer ses dettes pendant les douze mois suivants (article 5:153 du Code des sociétés et des associations). Dans une SA, la même obligation naît lorsque l'actif net tombe sous la moitié du capital (article 7:228). À défaut, le dommage subi par les tiers est présumé résulter de cette absence de convocation.
 
-**Ne laissez pas passer le délai d'aveu.** Faites aveu dans le mois de la cessation de paiements, ou envisagez à temps une réorganisation judiciaire : voir [les procédures alternatives](../comprendre/procedures-alternatives.md).
+**Ne laissez pas passer le délai d'aveu.** Faites aveu dans le mois de la cessation de paiements, ou envisagez à temps une réorganisation judiciaire : voir [les procédures alternatives](../comprendre/procedures-alternatives.md) et, sur infoprj.be, [préparer une réorganisation judiciaire](https://infoprj.be/dirigeants/preparer-prj/).
 
 **Informez-vous activement.** Un administrateur ne peut pas se retrancher derrière les informations que lui donnait le gérant ou le fondateur.
 
@@ -113,6 +113,11 @@ Démissionner sans rien faire n'efface pas les fautes déjà commises. Une démi
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+[La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">10.09.2025 · Tribunal de l'entreprise francophone de Bruxelles</span>
 

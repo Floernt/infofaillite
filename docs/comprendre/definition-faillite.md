@@ -3,7 +3,7 @@ description: Qu'est-ce qu'une faillite en Belgique - Définition, conditions lé
   qui peut être déclaré failli, effets immédiats et objectifs de la procédure
 keywords: définition faillite belgique, état de faillite, cessation paiements, ébranlement
   de crédit, qui peut être failli, tribunal entreprise faillite
-updated: '2026-11-12'
+updated: '2026-11-26'
 ---
 # Qu'est-ce qu'une faillite ?
 
@@ -75,7 +75,7 @@ Pour comprendre pleinement ce que le dessaisissement implique pour vos biens, li
 
 ## Faillite, réorganisation judiciaire et liquidation volontaire
 
-La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre V) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les actionnaires : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
+La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre V) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les actionnaires : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md) ; la réorganisation judiciaire elle-même est expliquée sur [infoprj.be](https://infoprj.be/comprendre/definition-prj/).
 
 ---
 
@@ -119,13 +119,23 @@ Pour le détail de chaque phase, consultez [le déroulement chronologique de la 
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+[La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">27.11.2025 · Cour constitutionnelle</span>
+
+[La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](../actualites/2026-11-19-publication-moniteur-voies-de-recours.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
 
 [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](../actualites/2026-11-12-faillites-2025-statbel.md)
 </div>
 </div>
 
-Toutes les notes sur : [Conditions de la faillite](../actualites/themes.md#conditions-faillite)
+Toutes les notes sur : [Conditions de la faillite](../actualites/themes.md#conditions-faillite) · [Aveu de faillite](../actualites/themes.md#aveu) · [Réformes du Livre XX](../actualites/themes.md#reforme-legislative)
 
 </div>
 <!-- actualites:auto:end -->

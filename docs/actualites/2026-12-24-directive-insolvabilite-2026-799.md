@@ -26,7 +26,7 @@ description: Directive (UE) 2026/799 - Actions révocatoires, pre-pack, recherch
 keywords: directive 2026/799, harmonisation droit de l'insolvabilité, pre-pack européen,
   actions révocatoires, obligation de déposer le bilan, comité de créanciers, transposition
   Belgique
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # La directive européenne 2026/799 harmonise certains aspects du droit de l'insolvabilité, avec une transposition attendue pour le 22 janvier 2029
 
@@ -71,7 +71,7 @@ Le délai d'aveu de faillite de l'article XX.102 du CDE, un mois, est plus court
 
 ## Sur le même thème
 
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
+- [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](2026-11-19-publication-moniteur-voies-de-recours.md) — jurisprudence, 19 novembre 2026
 - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
-- [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](2026-10-28-caution-consommateur-loi-5-juin-2025.md) — législation, 28 octobre 2026
-- [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 <!-- actualites:auto:end -->

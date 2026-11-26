@@ -25,7 +25,7 @@ description: Cour constitutionnelle, arrêts 108/2024 et 139/2025 - Délai de ti
 keywords: appel jugement de faillite délai, tierce opposition aveu de faillite, article
   XX.108, signification jugement déclaratif, Cour constitutionnelle 139/2025, Cour
   constitutionnelle 108/2024
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Le délai de recours du failli contre le jugement de faillite court de la signification, pas de la publication
 
@@ -67,4 +67,9 @@ Le délai reste court. Un failli qui envisage de contester le jugement a intér�
 - [Vos obligations légales en tant que failli](../faillis/obligations.md)
 - [Les délais importants à ne pas manquer](../delais.md)
 - [Le déroulement chronologique de la faillite](../comprendre/deroulement-chronologique.md)
+
+## Sur le même thème
+
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
+- [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](2026-11-19-publication-moniteur-voies-de-recours.md) — jurisprudence, 19 novembre 2026
 <!-- actualites:auto:end -->

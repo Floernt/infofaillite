@@ -24,7 +24,7 @@ description: Entr. Gand, 5 août 2026 - Responsabilité d'un business angel admi
 keywords: responsabilité administrateur faillite, article XX.227, business angel administrateur,
   poursuite activité déficitaire, conseil d'administration collégial, article XX.225,
   démission administrateur
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Un investisseur devenu administrateur répond de la poursuite d'une activité sans issue
 
@@ -68,6 +68,7 @@ Le jugement rappelle qu'un siège au conseil emporte toutes les responsabilités
 
 ## Sur le même thème
 
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
 - [Fraude intragroupe avant faillite : le tribunal écarte les conventions et condamne personnellement le dirigeant](2026-10-28-fraude-intragroupe-inopposabilite-dirigeant.md) — jurisprudence, 28 octobre 2026
 - [La Cour de cassation confirme qu'un dirigeant démissionnaire reste « impliqué » dans la faillite de la société qu'il a quittée](2026-10-28-cassation-dirigeant-demissionnaire-faillites-successives.md) — jurisprudence, 28 octobre 2026
 <!-- actualites:auto:end -->
