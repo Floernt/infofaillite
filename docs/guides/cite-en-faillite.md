@@ -9,7 +9,7 @@ public:
 - independant
 - dirigeant
 draft: true
-updated: '2026-11-12'
+updated: '2026-11-26'
 ---
 # Cité en faillite : de la citation au jugement, en six étapes
 

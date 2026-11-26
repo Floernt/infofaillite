@@ -6,6 +6,19 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-11-26] edit | Renvois vers infoprj.be
+
+Liens ciblés vers les pages de fond d'infoprj.be partout où la réorganisation judiciaire est évoquée. Les liens florianernotte.be existants sont conservés. Les guides d'infoprj ne sont pas liés : ils répondent encore 404 en ligne. Toutes les URL ajoutées vérifiées (200).
+
+- [Procédures alternatives](docs/comprendre/procedures-alternatives.md) : encadré « Un site dédié », liens réforme 2023, transfert, échec de la réorganisation, et liste « Sur infoprj.be » en fin de page.
+- [Définition](docs/comprendre/definition-faillite.md), [dettes avant la faillite](docs/comprendre/dettes-avant-faillite.md), [responsabilité du dirigeant](docs/faillis/responsabilite-dirigeant.md) : un renvoi chacun.
+- Guides [aveu](docs/guides/aveu-de-faillite.md) et [cité en faillite](docs/guides/cite-en-faillite.md) : un renvoi chacun.
+- [FAQ](docs/faq/README.md) : lien `ifa-more` « Sur infoprj.be » sur cinq questions (chambre des entreprises, PRJ, PRJ privée/publique, sursis, plan) et lien créancier dans la question Regsol.
+- [Ressources](docs/ressources.md) : rubrique infoprj.be.
+- Notes : [aveu du dirigeant](docs/actualites/2026-11-30-guide-aveu-faillite-dirigeant.md) et les trois notes de Gand programmées (janvier-février 2027).
+
+---
+
 ## [2026-11-13] fix | Déploiement réparé ; gh-pages réconciliée avec GitHub
 
 - [Aveu de faillite du dirigeant](docs/actualites/2026-11-30-guide-aveu-faillite-dirigeant.md) (PR #19) : `title` et `resume` mis entre guillemets. Le « : » non protégé cassait le YAML et faisait échouer le déploiement de `main` (`build_actualites.py --drop-future`, code 2). Correctif sur la branche `fix/frontmatter-aveu`, à fusionner dans `main`.
@@ -787,6 +800,16 @@ Ajout du test lecteur d'écran à la liste des vérifications manuelles défér�
 **Demande :** ok fais le necessaire
 
 **Action :** `gh-pages` est réconciliée et poussée (`aee25fe`) : ta branche locale et celle de GitHub sont de nouveau alignées, et les 49 tests passent.  **La fusion.** J'ai fusionné la version GitHub de `gh-pages` dans la tienne, puis la branche de correctif. `gh-pages` contient donc déjà le front matter réparé.  **Un conflit, sur la note du 19 novembre.** Ta relecture et la pré‑relecture FLO‑34 avaient réécrit les mêmes phrases à trois endroits : le résumé, les faits et le maintien des effets. Là, j'ai gar...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-13 22:33:44 - session 5912dbbb
+
+**Demande :** commit tout dans gh pages et dis moi si je peux supprimer les autres brances (hors main & gh pages)
+
+**Action :** Tout est commité sur `gh-pages` en deux commits :  - `9769eee` : ta correction de la note du 26 novembre (« poursuites pour banqueroute », art. 489) ; - `5e26905` : une entrée `fix` en tête de [log.md](log.md). Elle consigne la réparation du déploiement, la réconciliation de `gh-pages` et l'arbitrage du conflit sur la note du 19 novembre.  Les dates `updated` sont à jour. Ces deux commits ne sont pas encore sur GitHub : dis‑moi si je les pousse.  **Oui, tu peux supprimer toutes les autres branch...
 
 **Outils utilises :** aucun
 

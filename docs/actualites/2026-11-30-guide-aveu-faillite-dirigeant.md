@@ -28,7 +28,7 @@ description: Aveu de faillite du dirigeant de société - délai d'un mois (art.
 keywords: aveu de faillite dirigeant, délai aveu faillite un mois, article XX.102,
   article XX.103, REGSOL aveu, pièces aveu de faillite, aveu tardif banqueroute simple,
   article 490 Code pénal, interdiction de gérer aveu tardif
-updated: '2026-11-13'
+updated: '2026-11-26'
 ---
 # Aveu de faillite : ce que le dirigeant doit préparer et déposer dans le mois qui suit la cessation de paiements
 

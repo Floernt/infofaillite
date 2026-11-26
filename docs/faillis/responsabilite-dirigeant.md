@@ -6,7 +6,7 @@ keywords: responsabilité dirigeant faillite, article XX.225, article XX.227, ar
   administrateur faillite
 public:
 - dirigeant
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Votre responsabilité personnelle de dirigeant
 

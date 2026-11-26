@@ -25,7 +25,7 @@ description: Entr. Gand, 29 juin 2026 - Refus d'homologation faute d'état actif
 keywords: refus homologation plan de réorganisation, état actif et passif actualisé,
   article XX.70/1, seconde chance XX.79 § 3, bonne foi réorganisation judiciaire,
   vote créancier public, VLAIO
-updated: '2026-10-29'
+updated: '2026-11-26'
 ---
 # Sans état actif et passif à jour, le plan de réorganisation ne peut pas être homologué
 
