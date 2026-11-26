@@ -75,7 +75,7 @@ Pour comprendre pleinement ce que le dessaisissement implique pour vos biens, li
 
 ## Faillite, réorganisation judiciaire et liquidation volontaire
 
-La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre V) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les actionnaires : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md).
+La faillite se distingue des autres procédures par son caractère judiciaire et liquidatif. La réorganisation judiciaire (Livre XX, Titre V) est une procédure préventive destinée aux entreprises en difficulté qui n'ont pas encore atteint la cessation de paiements : elle accorde un sursis et permet d'élaborer un plan d'apurement ou d'organiser un transfert d'activité. Si la réorganisation échoue, le tribunal peut prononcer la faillite. La liquidation volontaire, à l'inverse, est décidée par les actionnaires : c'est eux qui choisissent le liquidateur et organisent la dissolution, sans contrôle judiciaire renforcé. Pour explorer ces alternatives en détail, consultez [les procédures alternatives à la faillite](procedures-alternatives.md) ; la réorganisation judiciaire elle-même est expliquée sur [infoprj.be](https://infoprj.be/comprendre/definition-prj/).
 
 ---
 

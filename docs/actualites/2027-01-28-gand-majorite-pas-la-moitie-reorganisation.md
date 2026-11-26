@@ -45,7 +45,7 @@ Sur le fond, le tribunal constate que le second plan ne change rien à la struct
 
 ## Pourquoi cette décision intéresse les praticiens
 
-Le jugement rappelle que la double majorité de l'article XX.78/2 se vérifie d'abord en nombre de créanciers votants. Une égalité parfaite fait échouer le plan, quel que soit le poids des créances favorables. Dans un dossier comptant peu de créanciers, une seule abstention ou une seule défection peut suffire à renverser le résultat, comme ici avec le SPF Finances.
+Le jugement rappelle que la double majorité de l'article XX.78/2 se vérifie d'abord en nombre de créanciers votants. Une égalité parfaite fait échouer le plan, quel que soit le poids des créances favorables. Dans un dossier comptant peu de créanciers, une seule abstention ou une seule défection peut suffire à renverser le résultat, comme ici avec le SPF Finances. Les règles de vote sont détaillées sur infoprj.be : [voter et contester le plan de réorganisation](https://infoprj.be/creanciers/vote-plan/).
 
 Le passage sur le détournement de procédure, surabondant, illustre les limites d'une réorganisation qui sert à régler un différend entre associés.
 

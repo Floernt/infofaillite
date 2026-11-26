@@ -22,6 +22,8 @@ Le débiteur peut aussi prendre les devants. Lorsqu'il estime qu'une insolvabili
 
 [Pour aller plus loin : les autres acteurs de la procédure](../comprendre/acteurs-secondaires.md){ .ifa-more }
 
+[Sur infoprj.be : la chambre des entreprises en difficulté, accord et médiation](https://infoprj.be/dirigeants/chambre-entreprises-difficulte/){ .ifa-more }
+
 </details>
 
 <details class="ifa-faq" id="convocation-chambre-entreprises-difficulte" data-profils="independant dirigeant" markdown>
@@ -44,6 +46,8 @@ Le régime a été profondément réformé par la loi du 7 juin 2023, en vigueur
 
 [Pour aller plus loin : la réorganisation judiciaire](../comprendre/procedures-alternatives.md#la-procedure-de-reorganisation-judiciaire-prj){ .ifa-more }
 
+[Sur infoprj.be : qu'est-ce qu'une procédure de réorganisation judiciaire ?](https://infoprj.be/comprendre/definition-prj/){ .ifa-more }
+
 </details>
 
 <details class="ifa-faq" id="prj-publique-prj-privee" data-profils="independant dirigeant creancier" markdown>
@@ -55,6 +59,8 @@ La PRJ privée, créée en 2023, est confidentielle : elle ne fait l'objet d'auc
 
 [Pour aller plus loin : les quatre voies de la réorganisation](../comprendre/procedures-alternatives.md#la-procedure-de-reorganisation-judiciaire-prj){ .ifa-more }
 
+[Sur infoprj.be : la PRJ privée](https://infoprj.be/comprendre/prj-privee/){ .ifa-more }
+
 </details>
 
 <details class="ifa-faq" id="duree-sursis-prj-publique" data-profils="independant dirigeant creancier" markdown>
@@ -65,6 +71,8 @@ Le jugement qui ouvre la procédure fixe la durée du sursis, qui ne peut dépas
 Pendant le sursis, aucune voie d'exécution ne peut être poursuivie sur les biens du débiteur pour les créances sursitaires, et le débiteur ne peut pas être déclaré en faillite, sauf sur son propre aveu (article XX.50). Le sursis ne dispense pas de payer les dettes nées pendant la procédure.
 
 [Pour aller plus loin : la durée et les conditions de la réorganisation](../comprendre/procedures-alternatives.md#la-procedure-de-reorganisation-judiciaire-prj){ .ifa-more }
+
+[Sur infoprj.be : le sursis](https://infoprj.be/comprendre/sursis/){ .ifa-more }
 
 </details>
 
@@ -78,6 +86,8 @@ Une fois homologué par le tribunal, il s'impose à tous les créanciers concern
 Si le plan est rejeté ou si le débiteur ne l'exécute pas, la procédure peut déboucher sur la faillite.
 
 [Pour aller plus loin : la réorganisation judiciaire après la réforme de 2023](../comprendre/procedures-alternatives.md){ .ifa-more }
+
+[Sur infoprj.be : rédiger le plan de réorganisation](https://infoprj.be/dirigeants/plan-reorganisation/){ .ifa-more }
 
 </details>
 
@@ -317,7 +327,7 @@ Les rapports du curateur, déposés dans le registre, permettent aussi de vérif
 
 Le registre Regsol est la source la plus rapide : une recherche par nom ou par numéro d'entreprise donne la date du jugement, le curateur désigné et la date limite de déclaration des créances. Le jugement est aussi publié par extrait au Moniteur belge.
 
-Le curateur écrit aux créanciers qu'il connaît, mais ce courrier n'est pas une condition pour agir. Le délai de déclaration court même si vous n'avez reçu aucune notification, et l'ignorance de la faillite ne le suspend pas. Pour les clients qui montrent des signes de fragilité (retards répétés, procédure de réorganisation en cours), une consultation régulière de Regsol évite les mauvaises surprises.
+Le curateur écrit aux créanciers qu'il connaît, mais ce courrier n'est pas une condition pour agir. Le délai de déclaration court même si vous n'avez reçu aucune notification, et l'ignorance de la faillite ne le suspend pas. Pour les clients qui montrent des signes de fragilité (retards répétés, [procédure de réorganisation en cours](https://infoprj.be/creanciers/debiteur-en-prj/)), une consultation régulière de Regsol évite les mauvaises surprises.
 
 [Pour aller plus loin : déclarer votre créance](../creanciers/declarer-creance.md){ .ifa-more }
 

@@ -49,7 +49,7 @@ Le tribunal accorde une seconde chance sur la base de l'article XX.79, § 3, pro
 
 ## Pourquoi cette décision intéresse les praticiens
 
-Le jugement rappelle une exigence formelle décisive : l'état actif et passif doit être arrêté au moment du dépôt du plan. Il montre aussi que la seconde chance de l'article XX.79, § 3, peut s'accompagner d'un contrôle approfondi de la bonne foi du débiteur. Les questions posées restent à ce stade des questions : le tribunal n'a pas constaté de fraude.
+Le jugement rappelle une exigence formelle décisive : l'état actif et passif doit être arrêté au moment du dépôt du plan. Le contenu du plan et ses annexes sont décrits sur infoprj.be : [rédiger le plan de réorganisation](https://infoprj.be/dirigeants/plan-reorganisation/). Il montre aussi que la seconde chance de l'article XX.79, § 3, peut s'accompagner d'un contrôle approfondi de la bonne foi du débiteur. Les questions posées restent à ce stade des questions : le tribunal n'a pas constaté de fraude.
 
 *Entr. Gand (div. Gand), 3e ch., 29 juin 2026, Q/26/00006.*
 

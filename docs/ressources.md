@@ -17,6 +17,10 @@ Cette page rassemble les liens officiels, contacts et organismes d'aide utiles p
 
 [REGSOL](https://www.regsol.be) est le registre officiel belge de toutes les procédures de faillite et de réorganisation judiciaire. C'est votre outil de référence tout au long de la procédure. Après création d'un compte gratuit (via eID ou itsme), vous pouvez déclarer votre créance en ligne, consulter les coordonnées du curateur et du juge-commissaire, suivre l'état de vérification de votre créance, télécharger les rapports annuels du curateur et consulter l'état de répartition en fin de procédure.
 
+### infoprj.be — Guide de la réorganisation judiciaire
+
+[infoprj.be](https://infoprj.be/) est le site jumeau d'infofaillite.be, consacré à la procédure de réorganisation judiciaire : les voies ouvertes à l'entreprise en difficulté avant la faillite, le sursis, le plan, et la place des créanciers.
+
 ### Moniteur belge
 
 Le [Moniteur belge](https://www.ejustice.just.fgov.be/cgi/welcome.pl) publie les jugements déclaratifs de faillite dans les cinq jours suivant leur prononcé. Certains délais courent à partir de cette publication, comme l'appel ou la tierce opposition contre le jugement. Le délai de déclaration de créance, lui, court du jugement : l'extrait publié en indique la date limite. Consultez la rubrique "Faillites" en recherchant par nom d'entreprise ou par numéro BCE.

@@ -22,9 +22,12 @@ La [réorganisation judiciaire](https://florianernotte.be/matieres/prj/) (Livre 
 
 Selon la voie choisie, le débiteur peut bénéficier d'un sursis de paiement qui le protège des poursuites individuelles de ses créanciers. Ce répit permet de négocier un plan d'apurement, de trouver un investisseur ou un repreneur, ou de restructurer la dette de manière confidentielle.
 
+!!! note "Un site dédié à la réorganisation judiciaire"
+    Cette page présente la réorganisation judiciaire comme alternative à la faillite. Le site [infoprj.be](https://infoprj.be/) lui est entièrement consacré : [définition de la procédure](https://infoprj.be/comprendre/definition-prj/), [sursis](https://infoprj.be/comprendre/sursis/), parcours du dirigeant et du créancier.
+
 ### La réforme du 7 juin 2023 : un paysage entièrement reconfiguré
 
-Depuis l'entrée en vigueur de la loi du 7 juin 2023 (transposition de la directive européenne 2019/1023), applicable depuis le 1er septembre 2023, le paysage de la réorganisation judiciaire a été profondément remanié. Quatre voies coexistent désormais — confidentielles ou publiques, souples ou contraignantes — chacune calibrée pour un profil de difficulté différent. Par ailleurs, le **transfert sous autorité de justice** n'est plus une modalité de la PRJ : il est devenu une procédure de liquidation distincte. Le choix de la bonne voie est devenu une question stratégique qui mérite généralement [l'analyse d'un avocat spécialisé en insolvabilité](https://florianernotte.be/matieres/prj/).
+Depuis l'entrée en vigueur de la loi du 7 juin 2023 (transposition de la directive européenne 2019/1023), applicable depuis le 1er septembre 2023, le paysage de la réorganisation judiciaire a été [profondément remanié](https://infoprj.be/comprendre/reforme-2023/). Quatre voies coexistent désormais — confidentielles ou publiques, souples ou contraignantes — chacune calibrée pour un profil de difficulté différent. Par ailleurs, le **[transfert sous autorité de justice](https://infoprj.be/comprendre/transfert-alternatives/)** n'est plus une modalité de la PRJ : il est devenu une procédure de liquidation distincte. Le choix de la bonne voie est devenu une question stratégique qui mérite généralement [l'analyse d'un avocat spécialisé en insolvabilité](https://florianernotte.be/matieres/prj/).
 
 ### Qui peut y avoir recours ?
 
@@ -47,7 +50,7 @@ Le sursis attaché à la **PRJ publique** est désormais accordé pour une duré
 La **PRJ privée** et les **mesures amiables** ne comportent pas de moratoire général : les négociations ont lieu créancier par créancier, dans la confidentialité. En PRJ privée, un sursis ciblé peut être demandé à l'égard de certains créanciers (article XX.83/24).
 
 !!! warning "Si la réorganisation judiciaire échoue"
-    Si le plan d'apurement est rejeté par les créanciers, si la procédure ne débouche sur aucun accord dans les délais, ou si le débiteur manque à ses obligations pendant le sursis, le tribunal peut mettre fin à la procédure et prononcer la faillite d'office. C'est l'une des raisons pour lesquelles il est nécessaire de préparer son dossier avec [un avocat spécialisé](https://florianernotte.be/matieres/prj/) avant le dépôt de la requête.
+    Si le plan d'apurement est rejeté par les créanciers, si la procédure ne débouche sur aucun accord dans les délais, ou si le débiteur manque à ses obligations pendant le sursis, le tribunal peut mettre fin à la procédure et prononcer la faillite d'office. C'est l'une des raisons pour lesquelles il est nécessaire de préparer son dossier avec [un avocat spécialisé](https://florianernotte.be/matieres/prj/) avant le dépôt de la requête. Voir aussi, sur infoprj.be, [ce qui se passe si la réorganisation échoue](https://infoprj.be/dirigeants/en-cas-echec/).
 
 ### PRJ ou faillite — comment choisir ?
 
@@ -135,6 +138,16 @@ Le choix dépend d'abord de votre situation concrète :
 - [La PRJ privée — réorganisation confidentielle](https://florianernotte.be/prj-privee/) (florianernotte.be)
 - [La PRJ publique — obtenir un moratoire pour restructurer](https://florianernotte.be/prj-publique/) (florianernotte.be)
 - [Le régime spécial de PRJ pour les grandes entreprises](https://florianernotte.be/grandes-entreprises/) (florianernotte.be)
+
+### Sur infoprj.be, le guide de la réorganisation judiciaire
+
+- [Quelle voie choisir pour votre entreprise en difficulté ?](https://infoprj.be/dirigeants/choisir-sa-voie/)
+- [Les signaux d'alarme : reconnaître à temps une entreprise en difficulté](https://infoprj.be/dirigeants/signaux-alarme/)
+- [Accord amiable et accord collectif](https://infoprj.be/comprendre/accord-amiable-collectif/)
+- [La PRJ privée](https://infoprj.be/comprendre/prj-privee/)
+- [La PRJ publique : de la requête à la clôture](https://infoprj.be/comprendre/prj-publique/)
+- [Grandes entreprises et classes de créanciers](https://infoprj.be/comprendre/grandes-entreprises-classes/)
+- [Votre débiteur est en réorganisation judiciaire : ce qui change pour vous](https://infoprj.be/creanciers/debiteur-en-prj/) (créanciers)
 
 <!-- actualites:auto:start -->
 <div class="ifa-related" markdown>

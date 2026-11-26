@@ -51,7 +51,7 @@ Le tribunal retient plusieurs éléments. Le passif provisoire approche 7 millio
 
 La date de cessation de paiement sert de point de départ à la période suspecte, pendant laquelle certains actes du failli peuvent être remis en cause. Le jugement montre qu'une réorganisation homologuée ne fige pas cette date : elle peut être située pendant ou juste après la procédure si les faits le justifient.
 
-Pour les créanciers qui ont voté contre un plan, le jugement confirme que le poids des créances intragroupe dans le vote peut être examiné après coup.
+Pour les créanciers qui ont voté contre un plan, le jugement confirme que le poids des créances intragroupe dans le vote peut être examiné après coup. Les règles du vote sont présentées sur infoprj.be : [voter et contester le plan de réorganisation](https://infoprj.be/creanciers/vote-plan/).
 
 *Entr. Gand (div. Gand), 2e ch., 13 janvier 2026, O/24/1045.*
 

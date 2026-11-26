@@ -87,7 +87,7 @@ Démissionner sans rien faire n'efface pas les fautes déjà commises. Une démi
 
 **Déclenchez la sonnette d'alarme.** Dans une SRL, l'organe d'administration doit convoquer l'assemblée générale dans les deux mois lorsque l'actif net risque de devenir ou est devenu négatif, ou lorsqu'il n'est plus certain que la société pourra payer ses dettes pendant les douze mois suivants (article 5:153 du Code des sociétés et des associations). Dans une SA, la même obligation naît lorsque l'actif net tombe sous la moitié du capital (article 7:228). À défaut, le dommage subi par les tiers est présumé résulter de cette absence de convocation.
 
-**Ne laissez pas passer le délai d'aveu.** Faites aveu dans le mois de la cessation de paiements, ou envisagez à temps une réorganisation judiciaire : voir [les procédures alternatives](../comprendre/procedures-alternatives.md).
+**Ne laissez pas passer le délai d'aveu.** Faites aveu dans le mois de la cessation de paiements, ou envisagez à temps une réorganisation judiciaire : voir [les procédures alternatives](../comprendre/procedures-alternatives.md) et, sur infoprj.be, [préparer une réorganisation judiciaire](https://infoprj.be/dirigeants/preparer-prj/).
 
 **Informez-vous activement.** Un administrateur ne peut pas se retrancher derrière les informations que lui donnait le gérant ou le fondateur.
 
