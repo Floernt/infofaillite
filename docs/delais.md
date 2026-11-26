@@ -147,3 +147,21 @@ Le point de départ (dies a quo) est généralement le jour du jugement ou de la
 - [Vos obligations légales envers le curateur](faillis/obligations.md)
 - [L'effacement automatique des dettes à la clôture](comprendre/cloture.md)
 - [REGSOL — suivre votre dossier et les dates officielles](https://www.regsol.be)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">27.11.2025 · Cour constitutionnelle</span>
+
+[La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](actualites/2026-11-19-publication-moniteur-voies-de-recours.md)
+</div>
+</div>
+
+Toutes les notes sur : [Délais de procédure](actualites/themes.md#delais)
+
+</div>
+<!-- actualites:auto:end -->

@@ -67,4 +67,9 @@ Le délai reste court. Un failli qui envisage de contester le jugement a intér�
 - [Vos obligations légales en tant que failli](../faillis/obligations.md)
 - [Les délais importants à ne pas manquer](../delais.md)
 - [Le déroulement chronologique de la faillite](../comprendre/deroulement-chronologique.md)
+
+## Sur le même thème
+
+- [La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](2026-11-26-nouveau-code-penal-banqueroute.md) — législation, 26 novembre 2026
+- [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](2026-11-19-publication-moniteur-voies-de-recours.md) — jurisprudence, 19 novembre 2026
 <!-- actualites:auto:end -->

@@ -74,4 +74,8 @@ Le droit passerelle n'est pas automatique : seul l'indépendant qui en fait la d
 - [Vos droits pendant la procédure de faillite](../faillis/droits.md)
 - [Les délais importants à ne pas manquer](../delais.md)
 - [Le déroulement chronologique de la faillite](../comprendre/deroulement-chronologique.md)
+
+## Sur le même thème
+
+- [La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](2026-11-19-publication-moniteur-voies-de-recours.md) — jurisprudence, 19 novembre 2026
 <!-- actualites:auto:end -->

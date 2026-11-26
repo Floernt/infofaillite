@@ -156,6 +156,11 @@ Le choix dépend d'abord de votre situation concrète :
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+[La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">05.06.2025 · Loi du 5 juin 2025 (Code civil, livre 9, titre 1er, chapitre 4)</span>
 
 [Depuis le 1er janvier 2026, le conjoint, le parent ou l'actionnaire qui se porte caution est mieux protégé](../actualites/2026-10-28-caution-consommateur-loi-5-juin-2025.md)

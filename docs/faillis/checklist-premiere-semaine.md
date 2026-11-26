@@ -123,3 +123,21 @@ Chacun de ces comportements peut entraîner le refus de l'effacement de vos dett
 ---
 
 Une étape de cette checklist reste floue dans votre situation, ou un point manque ? [Posez votre question via la page de contact](../contact.md) — les questions reçues nourrissent les prochaines révisions du guide.
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+[La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+</div>
+</div>
+
+Toutes les notes sur : [Obligations du failli](../actualites/themes.md#obligations-failli)
+
+</div>
+<!-- actualites:auto:end -->

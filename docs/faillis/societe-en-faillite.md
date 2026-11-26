@@ -119,6 +119,11 @@ En principe, les dettes de la société restent les siennes. Le Livre XX et le C
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+[La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--doctrine">Doctrine</span> <span class="ifa-date">28.10.2026</span>
 
 [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](../actualites/2026-10-28-effacement-decharge-caution-conjoint-partenaire.md)
@@ -130,7 +135,7 @@ En principe, les dettes de la société restent les siennes. Le Livre XX et le C
 </div>
 </div>
 
-Toutes les notes sur : [Cautions](../actualites/themes.md#caution)
+Toutes les notes sur : [Cautions](../actualites/themes.md#caution) · [Obligations du failli](../actualites/themes.md#obligations-failli)
 
 </div>
 <!-- actualites:auto:end -->

@@ -119,13 +119,23 @@ Pour le détail de chaque phase, consultez [le déroulement chronologique de la 
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">29.02.2024 · Loi du 29 février 2024 introduisant le livre II du Code pénal</span>
+
+[La banqueroute dans le nouveau Code pénal, en vigueur depuis le 1er septembre 2026](../actualites/2026-11-26-nouveau-code-penal-banqueroute.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">27.11.2025 · Cour constitutionnelle</span>
+
+[La Cour constitutionnelle censure l'absence de mention des voies de recours dans la publication du jugement de faillite au Moniteur belge](../actualites/2026-11-19-publication-moniteur-voies-de-recours.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
 
 [La Belgique a compté 11.665 faillites en 2025, son plus haut niveau depuis 2013](../actualites/2026-11-12-faillites-2025-statbel.md)
 </div>
 </div>
 
-Toutes les notes sur : [Conditions de la faillite](../actualites/themes.md#conditions-faillite)
+Toutes les notes sur : [Conditions de la faillite](../actualites/themes.md#conditions-faillite) · [Aveu de faillite](../actualites/themes.md#aveu) · [Réformes du Livre XX](../actualites/themes.md#reforme-legislative)
 
 </div>
 <!-- actualites:auto:end -->
