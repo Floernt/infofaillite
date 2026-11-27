@@ -185,7 +185,9 @@ Oui, mais vite : chaque recours doit être formé dans les quinze jours (article
 
 - **L'opposition** est ouverte au failli cité qui a fait défaut, dans les quinze jours de la signification du jugement.
 - **La tierce opposition** est ouverte aux intéressés qui n'étaient pas parties, dans les quinze jours de la publication au Moniteur belge. C'est aussi la voie du failli qui a fait aveu, puisque la loi ne le considère pas comme partie au jugement (article XX.108, § 2) ; pour lui, le délai court de la signification (Cour constitutionnelle, arrêt n° 108/2024 du 3 octobre 2024).
-- **L'appel** est ouvert aux parties dans les quinze jours de la publication ; pour le failli, ce délai court de la signification par le curateur (arrêt n° 139/2025 du 23 octobre 2025).
+- **L'appel** est ouvert aux parties dans les quinze jours de la publication ; pour le failli, sur aveu comme sur citation, ce délai court de la signification (arrêt n° 139/2025 du 23 octobre 2025).
+
+Ces deux arrêts, rendus sur question préjudicielle, n'ont pas modifié le texte de la loi : si la publication précède la signification, il est prudent pour le failli d'agir dans les quinze jours de la publication. Pour les créanciers et les autres tiers, le délai court toujours de la publication.
 
 Le recours ne suspend pas la procédure.
 
@@ -881,7 +883,7 @@ Si le failli est une personne physique, le dessaisissement prend fin et il retro
       "name": "Peut-on contester un jugement de faillite ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Oui, mais vite : chaque recours doit être formé dans les quinze jours (article XX.108, § 3, du CDE). L'opposition est ouverte au failli cité qui a fait défaut, dans les quinze jours de la signification du jugement. La tierce opposition est ouverte aux intéressés qui n'étaient pas parties, dans les quinze jours de la publication au Moniteur belge. C'est aussi la voie du failli qui a fait aveu, puisque la loi ne le considère pas comme partie au jugement (article XX.108, § 2) ; pour lui, le délai court de la signification (Cour constitutionnelle, arrêt n° 108/2024 du 3 octobre 2024). L'appel est ouvert aux parties dans les quinze jours de la publication ; pour le failli, ce délai court de la signification par le curateur (arrêt n° 139/2025 du 23 octobre 2025). Le recours ne suspend pas la procédure."
+        "text": "Oui, mais vite : chaque recours doit être formé dans les quinze jours (article XX.108, § 3, du CDE). L'opposition est ouverte au failli cité qui a fait défaut, dans les quinze jours de la signification du jugement. La tierce opposition est ouverte aux intéressés qui n'étaient pas parties, dans les quinze jours de la publication au Moniteur belge. C'est aussi la voie du failli qui a fait aveu, puisque la loi ne le considère pas comme partie au jugement (article XX.108, § 2) ; pour lui, le délai court de la signification (Cour constitutionnelle, arrêt n° 108/2024 du 3 octobre 2024). L'appel est ouvert aux parties dans les quinze jours de la publication ; pour le failli, sur aveu comme sur citation, ce délai court de la signification (arrêt n° 139/2025 du 23 octobre 2025). Ces deux arrêts, rendus sur question préjudicielle, n'ont pas modifié le texte de la loi : si la publication précède la signification, il est prudent pour le failli d'agir dans les quinze jours de la publication. Pour les créanciers et les autres tiers, le délai court toujours de la publication. Le recours ne suspend pas la procédure."
       }
     },
     {

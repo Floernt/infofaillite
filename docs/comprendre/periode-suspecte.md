@@ -1,7 +1,7 @@
 ---
 description: La période suspecte en faillite en Belgique - actes inopposables à la
-  masse de plein droit ou sur décision du tribunal, report de la date de cessation de
-  paiement, actes frauduleux, conséquences pour les tiers et les dirigeants
+  masse de plein droit ou sur décision du tribunal, report de la date de cessation
+  de paiement, actes frauduleux, conséquences pour les tiers et les dirigeants
 keywords: période suspecte faillite belgique, nullité actes faillite, paiements préférentiels
   annulation, inopposabilité à la masse, actes suspects faillite, protection créanciers
   faillite

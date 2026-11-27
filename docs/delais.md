@@ -68,12 +68,12 @@ L'obligation la plus importante est l'aveu de faillite : dès que vous constatez
 | Délai | Point de départ | Action | Conséquence du non-respect |
 |---|---|---|---|
 | 1 mois | Cessation de paiements | Déposer l'aveu de faillite | Risque d'interdiction de gérer ; refus d'effacement (indépendant) |
-| 48 heures | Convocation du curateur ou du juge-commissaire | Répondre ou se présenter | Interdiction de gérer de trois ans (article XX.229, § 2) ; défaut pouvant affecter l'effacement (indépendant) |
+| Pas de délai légal fixe | Convocation du curateur ou du juge-commissaire | Se présenter à la date fixée par la convocation et répondre sans retard aux demandes de renseignements (article XX.146) | Interdiction de gérer de trois ans possible, sauf empêchement légitime (article XX.229, § 2 et § 5) ; défaut pouvant affecter l'effacement (indépendant) |
 | Immédiatement | Jugement de faillite | Remettre tous les documents au curateur | Risque de poursuites pénales ; interdiction de gérer ; refus d'effacement (indépendant) |
 
 ### Droit passerelle (indépendants)
 
-Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle pendant douze mois au maximum. La demande doit être déposée auprès de votre caisse d'assurances sociales au plus tard le dernier jour du deuxième trimestre civil qui suit le trimestre de la faillite. Ce délai est absolu et n'admet aucune exception.
+Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle pendant douze mois au maximum. La demande doit être déposée auprès de votre caisse d'assurances sociales au plus tard le dernier jour du deuxième trimestre civil qui suit le trimestre de la faillite. Passé ce délai, la demande est en principe tardive.
 
 **Exemple :** faillite prononcée en février 2026 (1er trimestre) → demande à déposer au plus tard le 30 septembre 2026 (fin du 3e trimestre, soit le deuxième trimestre qui suit celui de la faillite).
 
@@ -83,11 +83,12 @@ Pour tous les détails, consultez [reprendre une activité professionnelle aprè
 
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
-| 15 jours | Signification du jugement déclaratif par le curateur | Appel du jugement (tierce opposition si la faillite a été prononcée sur aveu) | La faillite est confirmée définitivement |
+| 15 jours | Signification du jugement déclaratif au failli (par prudence, publication au Moniteur belge si elle est antérieure) | Recours du failli : appel, tierce opposition si la faillite a été prononcée sur aveu, opposition s'il a fait défaut sur citation | La faillite est confirmée définitivement |
+| 15 jours | Publication du jugement déclaratif au Moniteur belge | Recours des tiers (créanciers et autres intéressés) : tierce opposition, ou appel s'ils étaient parties | La faillite est confirmée définitivement |
 | 1 mois | Notification du jugement d'interdiction de gérer (article XX.232) | Appel | L'interdiction est définitive |
 | 1 mois | Signification ou notification du jugement refusant l'effacement (droit commun, article 1051 du Code judiciaire) | Appel | Le refus est définitif |
 
-L'article XX.108, § 3, du Code de droit économique fait courir le délai de quinze jours à partir de la publication du jugement au Moniteur belge. Pour le failli, la Cour constitutionnelle a jugé que ce point de départ était discriminatoire : son délai court à partir de la signification que le curateur doit lui faire du jugement (arrêts n° 108/2024 du 3 octobre 2024 pour la tierce opposition après aveu, et n° 139/2025 du 23 octobre 2025 pour l'appel).
+L'article XX.108, § 3, du Code de droit économique fait courir les délais d'appel et de tierce opposition à partir de la publication du jugement au Moniteur belge (l'opposition, à partir de la signification). Saisie de questions préjudicielles, la Cour constitutionnelle a jugé cette règle contraire à la Constitution en ce que, pour le failli, le délai court de la publication et non de la signification du jugement qui lui est faite (arrêts n° 108/2024 du 3 octobre 2024 pour la tierce opposition du failli qui a fait aveu, et n° 139/2025 du 23 octobre 2025 pour l'appel du failli, sur aveu comme sur citation). Le texte de la loi n'a pas été modifié : si la publication intervient avant la signification, il est prudent pour le failli d'agir dans les quinze jours de la publication. Pour les tiers, le délai court toujours de la publication.
 
 ---
 
