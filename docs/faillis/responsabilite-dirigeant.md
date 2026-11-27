@@ -3,7 +3,7 @@ description: Responsabilité personnelle du dirigeant d'une société en faillit
   grave, activité sans issue, ONSS, TVA, plafonds du CSA, démission
 keywords: responsabilité dirigeant faillite, article XX.225, article XX.227, article
   XX.226, comblement de passif, responsabilité administrateur, plafond 2:57 CSA, démission
-  administrateur faillite
+  administrateur faillite, article 51 CRAF, prescription 2:143 CSA
 public:
 - dirigeant
 updated: '2026-11-26'
@@ -18,12 +18,12 @@ Les dettes d'une société en faillite restent les siennes : ses créanciers ne 
 
 En cas de faillite et d'insuffisance d'actif, l'article XX.225 du Code de droit économique permet de déclarer un dirigeant personnellement tenu, avec ou sans solidarité, de tout ou partie des dettes sociales, à concurrence de l'insuffisance d'actif, s'il est établi qu'une faute grave et caractérisée de sa part a contribué à la faillite. C'est l'action souvent appelée « comblement de passif ».
 
-La loi répute faute grave et caractérisée toute fraude fiscale grave, organisée ou non. Les tribunaux retiennent aussi, notamment, l'absence de comptabilité, le détournement d'actifs, les prélèvements excessifs dans une société en difficulté ou le non-paiement systématique des dettes publiques. Voir [l'action en comblement de passif](../comprendre/liquidation-actifs.md).
+La loi répute faute grave et caractérisée toute fraude fiscale grave, organisée ou non. Les tribunaux retiennent aussi, notamment, l'absence de comptabilité, le détournement d'actifs, les prélèvements excessifs dans une société en difficulté ou le non-paiement systématique des dettes publiques. La Cour de cassation a jugé qu'une proposition de distribuer des dividendes et des tantièmes peut constituer une faute grave et caractérisée, même lorsque la distribution respecte les limites légales de protection du capital, et que l'approbation de l'assemblée générale suivie d'une décharge n'exclut pas cette responsabilité (Cass., 23 mai 2024, C.23.0088.N, rendu sous l'ancien article 265 du Code des sociétés). Voir [l'action en comblement de passif](../comprendre/liquidation-actifs.md).
 
 L'action est intentée par le curateur ou, s'il reste inactif un mois après avoir été sommé d'agir, par un créancier lésé.
 
 !!! note "Une exception pour les petites sociétés"
-    L'article XX.225 ne s'applique pas lorsque la société a réalisé, au cours des trois exercices précédant la faillite (ou de tous ses exercices si elle a moins de trois ans), un chiffre d'affaires moyen inférieur à 620.000 euros hors TVA **et** que le total du bilan du dernier exercice n'a pas dépassé 370.000 euros. Les autres actions décrites ci-dessous restent possibles.
+    L'article XX.225 ne s'applique pas lorsque la société a réalisé, au cours des trois exercices précédant la faillite (ou de tous ses exercices si elle a moins de trois ans), un chiffre d'affaires moyen inférieur à 620.000 euros hors TVA **et** que le total du bilan du dernier exercice n'a pas dépassé 370.000 euros. C'est au dirigeant qui invoque cette exception de prouver que la société restait sous ces seuils, et non au curateur de prouver qu'elle les dépassait (Cass., 2 décembre 2021, C.21.0016.N, rendu sous l'ancien article 265 du Code des sociétés, qui prévoyait la même règle). Les autres actions décrites ci-dessous restent possibles.
 
 ---
 
@@ -45,7 +45,18 @@ L'ONSS ou le curateur peuvent tenir un dirigeant personnellement et solidairemen
 
 ## Le précompte professionnel et la TVA
 
-Le Code des impôts sur les revenus (article 442quater) et le Code de la TVA (article 93undecies C) organisent la responsabilité solidaire des dirigeants pour le précompte professionnel et la TVA que la société n'a pas payés, lorsque ce non-paiement résulte d'une faute de gestion. En cas de manquements répétés, cette faute est en principe présumée. La présomption ne joue toutefois pas lorsque le non-paiement résulte de difficultés financières qui ont conduit à une faillite ou à une réorganisation judiciaire : l'administration doit alors prouver la faute. Elle doit aussi vous adresser un avertissement préalable par lettre recommandée avant d'agir en justice.
+L'article 51 du Code du recouvrement amiable et forcé des créances fiscales et non fiscales (CRAF) organise la responsabilité des dirigeants lorsque la société n'a pas payé le précompte professionnel ou la TVA. Il vise les sociétés, ainsi que les ASBL, AISBL et associations étrangères qui dépassent plus d'un des critères de l'article 3:47, § 2, du Code des sociétés et des associations. Les dirigeants chargés de la gestion journalière sont solidairement responsables si le manquement est imputable à une faute qu'ils ont commise dans la gestion, au sens de l'article 6.6 du Code civil. Cette responsabilité peut être étendue aux autres dirigeants lorsqu'une faute ayant contribué au manquement est établie dans leur chef. Est dirigeant toute personne qui, en fait ou en droit, détient ou a détenu le pouvoir de gérer la société, à l'exclusion des mandataires de justice. La responsabilité couvre le précompte et la TVA en principal, ainsi que les intérêts de retard et accessoires, et rien d'autre.
+
+En principe, l'administration doit prouver la faute. Le non-paiement répété est toutefois présumé, sauf preuve contraire, résulter d'une faute : il faut au moins trois dettes de précompte échues ou de TVA exigibles sur une période d'un an pour un redevable mensuel, au moins deux pour un redevable trimestriel.
+
+**En cas de faillite, cette présomption tombe.** L'article 51, § 3, du CRAF le dit ainsi : « Il n'y a pas présomption de faute au sens du § 2, alinéa 1er, lorsque le non-paiement provient de difficultés financières qui ont donné lieu à l'ouverture de la procédure de réorganisation judiciaire, de faillite ou de dissolution judiciaire. » L'administration doit alors établir une faute de gestion concrète dans votre chef ; le seul constat des dettes impayées ne suffit plus.
+
+**Un avertissement doit précéder l'action.** L'action judiciaire contre les dirigeants n'est recevable qu'un mois après un avertissement que le receveur adresse par envoi recommandé, invitant le dirigeant à remédier au manquement ou à démontrer que celui-ci n'est pas imputable à une faute de sa part (article 51, § 5). Ce délai est l'occasion de faire valoir vos explications par écrit. Le receveur peut néanmoins prendre des mesures conservatoires pendant ce mois.
+
+Si une procédure d'insolvabilité est ouverte, l'action est portée devant le tribunal de l'insolvabilité (article 51, § 6). Lorsqu'une action en comblement de passif (article XX.225) a par ailleurs été introduite, le texte prévoit une imputation entre ce que l'administration fiscale obtient sur la base de l'article 51 et ce qui lui revient au titre de cette action (article 51, § 7).
+
+!!! note "Ancienne numérotation"
+    Avant le 1er janvier 2020, ce régime figurait aux articles 442quater du Code des impôts sur les revenus 1992 et 93undecies C du Code de la TVA. Ces références se rencontrent encore dans d'anciens courriers, jugements et ouvrages.
 
 ---
 
@@ -53,7 +64,7 @@ Le Code des impôts sur les revenus (article 442quater) et le Code de la TVA (ar
 
 En dehors du Livre XX, l'article 2:56 du Code des sociétés et des associations rend les dirigeants responsables des décisions qui sortent manifestement de la marge d'appréciation d'un administrateur normalement prudent et diligent. Les membres d'un organe collégial répondent solidairement des décisions du collège, et tous répondent solidairement des infractions au Code ou aux statuts.
 
-L'article 2:57 plafonne cette responsabilité, ainsi que celle fondée sur l'article XX.227. Le plafond vaut pour l'ensemble des dirigeants pris ensemble et par fait ou ensemble de faits. Il dépend de la taille de la société sur les trois derniers exercices :
+L'article 2:57 plafonne cette responsabilité, ainsi que celle fondée sur l'article XX.227. Le plafond vaut pour l'ensemble des dirigeants pris ensemble et par fait ou ensemble de faits. Il dépend de la taille de la société sur les trois exercices qui précèdent l'introduction de l'action :
 
 | Taille de la société | Plafond |
 |---|---|
@@ -63,7 +74,19 @@ L'article 2:57 plafonne cette responsabilité, ainsi que celle fondée sur l'art
 | Au-delà, sans atteindre 50 millions de chiffre d'affaires ni 43 millions de total du bilan | 3 millions d'euros |
 | Grandes entités et entités d'intérêt public | 12 millions d'euros |
 
-Les seuils de chiffre d'affaires et de bilan sont adaptés à l'indice des prix. Le plafond ne s'applique pas en cas de faute grave, d'intention frauduleuse ou de faute légère habituelle, ni à la responsabilité pour le précompte professionnel et la TVA, ni à celle de l'article XX.226.
+Les seuils de chiffre d'affaires et de bilan (pas les plafonds eux-mêmes) sont adaptés chaque fois que l'indice des prix à la consommation varie de 5 % ou plus, l'indice de base étant celui de décembre 2017 ; les montants adaptés sont publiés par avis au Moniteur belge. Le tableau reprend les montants de base du texte légal. Le plafond ne s'applique pas en cas de faute grave, d'intention frauduleuse ou de faute légère habituelle, ni à la responsabilité pour le précompte professionnel et la TVA (article 51 du CRAF), ni à celle de l'article XX.226.
+
+---
+
+## Un délai de cinq ans { #prescription }
+
+Le Livre XX ne fixe pas de délai propre pour les actions des articles XX.225 à XX.227. L'article 2:143, § 1er, du Code des sociétés et des associations prévoit que se prescrivent par cinq ans « toutes actions contre les membres de l'organe d'administration […] ou contre toutes les autres personnes qui ont effectivement détenu le pouvoir de gérer la société, pour faits de leurs fonctions », et ce « à partir de ces faits ou, s'ils ont été celés par dol, à partir de la découverte de ces faits ».
+
+La Cour constitutionnelle a jugé cette règle conforme à la Constitution, y compris en cas de faillite : le délai court en principe à partir des faits, sans égard au moment où le curateur les découvre (C. const., 18 septembre 2025, n° 116/2025). La Cour de cassation a ensuite confirmé la prescription d'une action introduite par les curateurs plus de cinq ans après l'aveu de faillite (Cass., 13 mars 2026, C.23.0433.F). Dès 2007, la Cour constitutionnelle avait retenu ce délai pour l'action en comblement de passif de l'ancien Code des sociétés, que l'article XX.225 reprend (C. const., 21 mars 2007, n° 47/2007).
+
+La règle connaît des tempéraments. Si les faits ont été cachés par dol, le délai ne court qu'à partir de leur découverte. Lorsque les fautes forment une série indivisible, il court à partir du dernier fait. Enfin, l'action civile qui naît d'une infraction ne se prescrit pas avant l'action publique.
+
+En pratique, le délai peut donc être entamé, voire expiré, au jour de la faillite, puisqu'il se calcule à partir des faits reprochés et non à partir du jugement. Ces décisions portaient toutefois sur des actions fondées sur l'ancien Code des sociétés et sur le droit commun. Il n'existe pas, à notre connaissance, de jurisprudence publiée sur la prescription des actions des articles XX.226 et XX.227. Voir aussi [la page des délais](../delais.md).
 
 ---
 

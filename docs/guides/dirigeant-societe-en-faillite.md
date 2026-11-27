@@ -117,9 +117,9 @@ Dans l'exemple, la SRL reste sous les deux seuils : l'action pour faute grave et
 
 **Le report de la date de cessation de paiements.** Par défaut, les paiements sont réputés avoir cessé le jour du jugement. Le curateur peut demander au tribunal de fixer cette date plus tôt, mais pas plus de six mois avant le jugement, et sa demande doit être formée dans les six mois du jugement. Entre cette date et le jugement s'étend la période suspecte.
 
-**Les actes visés.** Certains actes accomplis pendant cette période peuvent être déclarés inopposables à la masse : une donation, une vente à prix dérisoire, le paiement d'une dette non échue, le paiement d'une dette échue par un moyen anormal, comme la remise d'un bien, une sûreté constituée pour une dette ancienne. Un paiement ordinaire peut aussi être remis en cause si celui qui l'a reçu savait que la société avait cessé ses paiements. Le bénéficiaire restitue ce qu'il a reçu et ne garde qu'une créance ordinaire.
+**Les actes visés.** Certains actes accomplis pendant cette période sont inopposables à la masse sans autre condition : une donation, une vente à prix dérisoire, le paiement d'une dette non échue, le paiement d'une dette échue par un moyen anormal, comme la remise d'un bien, une sûreté constituée pour une dette ancienne. Un paiement ordinaire peut aussi être déclaré inopposable si celui qui l'a reçu savait que la société avait cessé ses paiements. Le bénéficiaire restitue ce qu'il a reçu et ne garde qu'une créance ordinaire.
 
-**Hors période suspecte.** L'action paulienne permet au curateur d'atteindre, sans limite de temps, les actes accomplis en fraude des droits des créanciers, à condition de prouver la fraude.
+**Hors période suspecte.** L'action paulienne permet au curateur d'atteindre les actes accomplis en fraude des droits des créanciers, quelle que soit leur date, à condition de prouver la fraude.
 
 Dans l'exemple, si le tribunal reporte la date de cessation de paiements avant janvier, le remboursement de 8 000 euros obtenu par la gérante sur son compte courant pourra être examiné. La question sera alors de savoir si elle connaissait la cessation de paiements au moment où elle a été remboursée. Si l'acte tombe, elle restitue les 8 000 euros et sa créance déclarée passe à 15 000 euros, payée au rang ordinaire.
 
@@ -174,7 +174,7 @@ Le tribunal peut assortir l'interdiction d'un sursis de trois ans ou suspendre l
 | 6 mois après le jugement | Dernier jour pour demander le report de la date de cessation de paiements | 3 septembre 2026 |
 | Fin du 2e trimestre qui suit celui de la faillite | Dernier jour pour demander le droit passerelle | 30 septembre 2026 |
 | 1 mois après la notification | Appel contre un jugement d'interdiction de gérer | Selon la date de notification |
-| 4 ans après le jugement | Prescription de l'action en comblement de passif du curateur | Sans objet : petite société |
+| 5 ans après les faits reprochés (ou leur découverte s'ils ont été cachés) | Prescription, en principe, des actions contre le dirigeant pour des faits de sa gestion, dont l'action pour faute grave et caractérisée | Sans objet pour la faute grave et caractérisée : petite société |
 
 Ces délais sont repris, avec ceux des créanciers et du curateur, dans [la page des délais](../delais.md#delais-pour-les-faillis).
 

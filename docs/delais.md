@@ -54,7 +54,7 @@ Le contredit — la contestation d'une créance admise par le curateur — doit 
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
 | 15 jours | Publication du jugement déclaratif au Moniteur belge | Tierce opposition contre le jugement de faillite ou contre celui qui fixe la date de cessation de paiement (art. XX.108, § 3) | Le jugement devient définitif |
-| 3 ans | Clôture de la faillite | Action en responsabilité contre les dirigeants | Prescription de l'action |
+| 5 ans | Les faits reprochés au dirigeant, ou leur découverte s'ils ont été cachés par dol (art. 2:143 CSA) | Action en responsabilité contre les dirigeants pour faits de leurs fonctions | Prescription de l'action (voir [les délais de prescription](#delais-de-prescription-des-actions-en-justice)) |
 
 ---
 
@@ -119,12 +119,13 @@ Pour comprendre le déroulement des procès-verbaux, consultez [la vérification
 
 | Action | Délai | Point de départ |
 |---|---|---|
-| Nullités de la période suspecte (de plein droit) | 3 ans | Jugement de faillite |
-| Action en comblement de passif (curateur) | 4 ans | Jugement de faillite |
-| Action en comblement de passif (créanciers) | 3 ans | Clôture de la faillite |
+| Demande de report de la date de cessation de paiement | 6 mois | Jugement de faillite (art. XX.105) |
+| Actions contre les dirigeants pour faits de leurs fonctions, dont l'action en comblement de passif (art. XX.225) | 5 ans | Les faits fautifs, ou leur découverte s'ils ont été cachés par dol (art. 2:143 CSA) |
 | Demande de refus d'effacement (faillites prononcées depuis le 1er septembre 2023) | 3 ans | Expiration du droit à l'admission des créances (en pratique, environ 4 ans après le jugement de faillite) |
 | Tierce opposition contre l'effacement (même régime) | 3 mois, et dans la limite du délai de 3 ans | Publication du jugement de clôture |
 | Tierce opposition contre l'effacement (faillites prononcées du 1er mai 2018 au 31 août 2023) | 3 mois | Publication du jugement accordant l'effacement |
+
+Le délai de cinq ans court en principe des faits reprochés au dirigeant, et non du jugement de faillite : il peut donc être entamé, voire expiré, au jour de la faillite. Le Livre XX ne fixe pas de délai propre pour les actions des articles XX.226 et XX.227, ni pour les actions en inopposabilité de la période suspecte, et certaines actions obéissent à des délais particuliers. Voyez [la responsabilité du dirigeant](faillis/responsabilite-dirigeant.md#prescription).
 
 ---
 
