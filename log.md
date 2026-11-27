@@ -18,6 +18,13 @@ Suite de l'entrée ci-dessous, sur deux arbitrages de Florian.
 
 ---
 
+## [2026-11-27] edit | Prescription : dernier fait d'une série, action XX.227
+
+- `delais.md` et calendrier du guide dirigeant : le point de départ des cinq ans est la faute ou, pour une série de fautes, le dernier fait. Le tableau cite C. const. n° 116/2025.
+- `faillis/responsabilite-dirigeant.md#prescription` et `delais.md` : l'art. 2:143 CSA couvre aussi l'action XX.227, position retenue par Florian et présentée « à notre sens », faute de décision publiée. La question reste ouverte pour XX.226.
+
+---
+
 ## [2026-11-27] edit | Mention de la caution (XX.156, al. 3), délais de recours, convocations
 
 Travail de la session du 26 novembre (398b4cdf), commité le 27.
