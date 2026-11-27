@@ -92,7 +92,7 @@ Le tribunal déclare inopposables à la masse une cession de créances et une co
 
 ### [Faillite : ce que l'effacement et la décharge de caution changent pour le conjoint ou le partenaire du failli](2026-10-28-effacement-decharge-caution-conjoint-partenaire.md)
 
-Depuis le 1er janvier 2026, la caution qui a la qualité de consommateur peut être déchargée si son engagement est manifestement disproportionné, sans avoir à prouver sa gratuité : une possibilité réelle de décharge s'ouvre au partenaire de vie du failli.
+Pour une sûreté constituée depuis le 1er janvier 2026, la caution qui a la qualité de consommateur peut être déchargée si son engagement est manifestement disproportionné, sans avoir à prouver sa gratuité : une possibilité réelle de décharge s'ouvre au partenaire de vie du failli.
 
 [Effacement des dettes](themes.md#effacement){ .ifa-tag } [Cautions](themes.md#caution){ .ifa-tag }
 

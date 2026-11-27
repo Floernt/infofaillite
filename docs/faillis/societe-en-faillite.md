@@ -59,7 +59,7 @@ Le dirigeant qui, sans empêchement légitime, ne respecte pas l'article XX.146 
 
 Si vous vous êtes porté caution de la société auprès de la banque, d'un bailleur ou d'un fournisseur, sa faillite ne vous libère pas : le créancier, peu ou pas payé dans la faillite, se tournera vers vous. Il en va de même d'une hypothèque consentie sur un bien personnel.
 
-Depuis le 1er janvier 2026, l'article XX.176 permet au consommateur qui s'est porté garant de demander sa décharge lorsque son engagement est manifestement disproportionné à ses biens et à ses revenus. Lorsque le débiteur principal est une société, le garant ne doit toutefois pas pouvoir influencer substantiellement ses décisions. Le dirigeant de la société remplit donc en principe difficilement cette condition. Votre conjoint ou un proche resté étranger à la gestion pourra, lui, examiner cette voie : voir [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
+Pour une sûreté constituée depuis le 1er janvier 2026, l'article XX.176 permet au consommateur qui s'est porté garant de demander sa décharge lorsque son engagement est manifestement disproportionné à ses biens et à ses revenus ; pour une sûreté plus ancienne, la décharge reste réservée à la caution qui s'est engagée à titre gratuit. En principe, le dirigeant qui peut influencer substantiellement les décisions de la société n'agit pas comme consommateur (article I.1, 2°, du CDE) et n'en bénéficie pas. Votre conjoint ou un proche resté étranger à la gestion pourra, lui, examiner cette voie : voir [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
 
 ### Le compte courant d'administrateur
 
