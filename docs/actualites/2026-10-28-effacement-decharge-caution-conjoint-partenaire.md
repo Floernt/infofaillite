@@ -9,17 +9,17 @@ themes:
 articles_cde:
 - XX.174
 - XX.176
-resume: 'Pour une sûreté constituée depuis le 1er janvier 2026, la caution qui a la qualité de consommateur peut
-  être déchargée si son engagement est manifestement disproportionné, sans avoir à
-  prouver sa gratuité : une possibilité réelle de décharge s''ouvre au partenaire
-  de vie du failli.'
+resume: 'Pour une sûreté constituée depuis le 1er janvier 2026, la caution qui a la
+  qualité de consommateur peut être déchargée si son engagement est manifestement
+  disproportionné, sans avoir à prouver sa gratuité : une possibilité réelle de décharge
+  s''ouvre au partenaire de vie du failli.'
 description: Conjoint, cohabitant ou partenaire du failli - Effacement (art. XX.174
   CDE) et décharge de la caution consommateur (art. XX.176 CDE) depuis la loi du 5
   juin 2025
 keywords: conjoint failli, cohabitant failli, effacement conjoint, décharge caution
   faillite, article XX.174, article XX.176, caution disproportionnée, partenaire du
   failli
-updated: '2026-11-06'
+updated: '2026-11-27'
 ---
 Pour une sûreté constituée depuis le 1er janvier 2026, la caution qui a la qualité de consommateur peut être déchargée si son engagement est manifestement disproportionné à ses facultés de remboursement. Elle n'a plus à prouver que son engagement était gratuit, ce qui ouvre une possibilité réelle de décharge au partenaire de vie du failli.
 
