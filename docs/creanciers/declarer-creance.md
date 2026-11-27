@@ -48,7 +48,7 @@ Votre déclaration doit être complète dès l'envoi initial. Vous ne pourrez pa
 
 **Le détail de votre créance :** montant exact en euros (capital + intérêts échus + frais), cause de la dette (factures impayées avec leurs numéros et dates, loyers, prêt, salaires, etc.), dates des opérations et des échéances, et état de la créance (exigible, conditionnelle, à terme ou litigieuse).
 
-**Vos garanties :** toute hypothèque, gage, privilège général ou spécial doit être mentionné explicitement, avec les détails nécessaires (bien grevé, rang, montant garanti, date d'inscription). Oublier une garantie peut vous faire perdre votre rang préférentiel.
+**Vos garanties :** toute hypothèque, gage, privilège général ou spécial doit être mentionné explicitement, avec les détails nécessaires (bien grevé, rang, montant garanti, date d'inscription). Oublier une garantie peut vous faire perdre votre rang préférentiel. Mentionnez aussi toute caution, avec ses nom, prénom et adresse : son omission peut la décharger (voir plus bas).
 
 **Les pièces justificatives :** copies des factures impayées, contrats (vente, bail, prêt), bons de livraison signés, mises en demeure, et tout document prouvant l'existence et le montant de la dette.
 
@@ -85,7 +85,7 @@ Vous pouvez modifier votre déclaration après envoi, à condition de contacter 
 
 **Oublier de mentionner les garanties.** Si vous oubliez de déclarer une hypothèque, un gage ou un privilège, vous perdez votre rang préférentiel et devenez créancier chirographaire ordinaire.
 
-**Oublier de mentionner une caution.** Il n'y a pas de délai spécifique pour la mention et aucune décharge automatique attachée à son absence, mais mentionner la caution dans votre déclaration permet au curateur de suivre les paiements partiels et de les imputer correctement sur votre créance admise. Pour le régime des cautions, lisez [les sûretés et cautions dans la faillite](suretes-cautions.md).
+**Oublier de mentionner une caution.** La caution doit être énoncée, avec ses nom, prénom et adresse, dans la déclaration ou au plus tard dans les trois mois du jugement déclaratif. À défaut, la caution consommateur (pour une sûreté antérieure à 2026, la caution à titre gratuit) est déchargée et vous perdez votre recours contre elle (article XX.156, alinéa 3). Pour le régime des cautions, lisez [les sûretés et cautions dans la faillite](suretes-cautions.md#mention-caution-declaration).
 
 **Ne pas communiquer son IBAN.** Le dividende est versé par virement. Sans IBAN, le paiement sera retardé et le montant éventuellement consigné.
 

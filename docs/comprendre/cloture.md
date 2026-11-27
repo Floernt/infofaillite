@@ -57,6 +57,8 @@ La demande de refus peut être formulée avant la clôture par le curateur, [le 
 
 Les personnes qui se sont portées caution pour les dettes du failli ne bénéficient pas de son effacement. Les créanciers peuvent continuer à les poursuivre normalement après la clôture de la faillite — la caution reste engagée pour les montants impayés.
 
+Elle est toutefois déchargée, sans démarche de sa part, si le créancier ne l'a pas énoncée, avec ses nom, prénom et adresse, dans sa déclaration de créance ou au plus tard dans les trois mois du jugement déclaratif. Cette règle protège la caution consommateur ou, pour une sûreté constituée avant le 1er janvier 2026, la personne physique qui s'est engagée à titre gratuit (article XX.156, alinéa 3). Voir [la mention de la caution dans la déclaration](../creanciers/suretes-cautions.md#mention-caution-declaration).
+
 ### La décharge de la caution consommateur
 
 Depuis le 1er janvier 2026 (loi du 5 juin 2025), l'article XX.176 du Code de droit économique permet au consommateur qui s'est constitué sûreté personnelle du failli de demander sa décharge, totale ou partielle, si son obligation est manifestement disproportionnée à ses biens et à ses revenus à l'ouverture de la procédure. Il n'a plus à prouver que son engagement était gratuit. Lorsque le débiteur principal est une société, le garant ne doit pas pouvoir influencer substantiellement ses décisions. La demande prend la forme d'une requête déposée dans le registre, dont le dépôt suspend les voies d'exécution. Conditions, pièces à joindre et exclusions : voir [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).

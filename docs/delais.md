@@ -33,11 +33,12 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 
 Le jugement déclaratif fixe la date limite de déclaration, qui ne peut dépasser trente jours à compter du jugement (article XX.104) : le délai court du jugement, et non de sa publication ni du moment où vous en prenez connaissance. Une déclaration tardive reste possible : le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance. Son droit d'agir en admission se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165). La déclaration tardive est examinée lors d'un procès-verbal de vérification ultérieur (voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)).
 
-Si votre créance est garantie par une caution, il est utile de la mentionner dans votre déclaration de créance — mais aucun délai spécifique n'est attaché à cette mention et son omission n'entraîne pas la libération de la caution. Votre droit contre la caution reste indépendant de la procédure de faillite. Pour les détails, consultez [les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md).
+Si votre créance est garantie par une caution ou une autre sûreté personnelle, énoncez-la dans votre déclaration de créance ou, au plus tard, dans les trois mois du jugement déclaratif, avec les nom, prénom et adresse de la caution (article XX.156, alinéa 3). À défaut, la caution qui a la qualité de consommateur est déchargée ; pour une sûreté constituée avant le 1er janvier 2026, c'est la personne physique qui s'est engagée à titre gratuit. Pour les détails, consultez [les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md#mention-caution-declaration).
 
 | Délai | Point de départ | Action | Conséquence du non-respect |
 |---|---|---|---|
 | 30 jours | Jugement de faillite | Déclarer la créance | Exclusion des répartitions provisoires |
+| 3 mois | Jugement de faillite | Énoncer la sûreté personnelle et l'identité de la caution (art. XX.156, al. 3) | Décharge de la caution consommateur (à titre gratuit, pour une sûreté antérieure à 2026) |
 | Dépôt du 3ᵉ PV (≈ 12 mois) | Jugement de faillite | Délai pratique de déclaration | Forclusion |
 
 ### Contestation

@@ -650,6 +650,10 @@ Pas automatiquement : l'effacement du failli ne profite pas à la caution. Depui
 
 La condition de gratuité a disparu. Lorsque le débiteur est une société, le garant ne doit pas pouvoir influencer substantiellement ses décisions : un proche resté étranger à la gestion remplit en principe cette condition, un dirigeant qui gère effectivement la société non. Dans les dossiers plus anciens, l'ancienne exigence d'un engagement gratuit peut encore s'appliquer.
 
+La caution est aussi déchargée, sans démarche de sa part, si le créancier ne l'a pas énoncée, avec ses nom, prénom et adresse, dans sa déclaration de créance ou au plus tard dans les trois mois du jugement déclaratif (article XX.156, alinéa 3). Cette règle protège la caution consommateur ou, pour une sûreté constituée avant le 1er janvier 2026, la personne physique qui s'est engagée à titre gratuit.
+
+[Pour aller plus loin : la mention de la caution dans la déclaration](../creanciers/suretes-cautions.md#mention-caution-declaration){ .ifa-more }
+
 [Pour aller plus loin : la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur){ .ifa-more }
 
 </details>
@@ -1228,7 +1232,7 @@ Si le failli est une personne physique, le dessaisissement prend fin et il retro
       "name": "La personne qui s'est portée caution du failli est-elle libérée ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pas automatiquement : l'effacement du failli ne profite pas à la caution. Depuis le 1er janvier 2026 (loi du 5 juin 2025), l'article XX.176 du CDE permet toutefois au consommateur qui s'est constitué sûreté personnelle du failli de demander au tribunal d'être déchargé, en tout ou en partie, si son obligation est manifestement disproportionnée à ses biens et à ses revenus à l'ouverture de la procédure. La condition de gratuité a disparu. Lorsque le débiteur est une société, le garant ne doit pas pouvoir influencer substantiellement ses décisions : un proche resté étranger à la gestion remplit en principe cette condition, un dirigeant qui gère effectivement la société non. Dans les dossiers plus anciens, l'ancienne exigence d'un engagement gratuit peut encore s'appliquer."
+        "text": "Pas automatiquement : l'effacement du failli ne profite pas à la caution. Depuis le 1er janvier 2026 (loi du 5 juin 2025), l'article XX.176 du CDE permet toutefois au consommateur qui s'est constitué sûreté personnelle du failli de demander au tribunal d'être déchargé, en tout ou en partie, si son obligation est manifestement disproportionnée à ses biens et à ses revenus à l'ouverture de la procédure. La condition de gratuité a disparu. Lorsque le débiteur est une société, le garant ne doit pas pouvoir influencer substantiellement ses décisions : un proche resté étranger à la gestion remplit en principe cette condition, un dirigeant qui gère effectivement la société non. Dans les dossiers plus anciens, l'ancienne exigence d'un engagement gratuit peut encore s'appliquer. La caution est aussi déchargée, sans démarche de sa part, si le créancier ne l'a pas énoncée, avec ses nom, prénom et adresse, dans sa déclaration de créance ou au plus tard dans les trois mois du jugement déclaratif (article XX.156, alinéa 3). Cette règle protège la caution consommateur ou, pour une sûreté constituée avant le 1er janvier 2026, la personne physique qui s'est engagée à titre gratuit."
       }
     },
     {

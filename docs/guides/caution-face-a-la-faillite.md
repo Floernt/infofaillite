@@ -52,7 +52,7 @@ Dans l'exemple, Julie s'est engagée par contrat, comme consommatrice, et elle n
 
 **Sans attendre la clôture.** Le droit du créancier contre la caution est indépendant de la procédure de faillite. Il peut vous poursuivre dès que le débiteur est en défaut, sans attendre la clôture, et il conserve ce droit après l'effacement des dettes du failli.
 
-**Sans formalité dans la faillite.** Le créancier n'a aucun délai à respecter pour mentionner la caution au curateur, et l'absence de cette mention ne vous libère pas. Ne comptez donc pas sur une omission du créancier.
+**À condition de vous avoir mentionné à temps.** Le créancier doit signaler votre caution dans sa déclaration de créance, avec vos nom, prénom et adresse, ou au plus tard dans les trois mois du jugement de faillite. S'il ne le fait pas, vous êtes libéré, sans démarche de votre part, si vous vous êtes engagé comme consommateur ou, pour un engagement pris avant le 1er janvier 2026, si vous vous êtes engagé gratuitement. Cette protection ne joue pas pour le garant professionnel ni pour le dirigeant qui peut influencer substantiellement les décisions de la société. Si vous êtes concerné, vérifiez donc, par exemple auprès du curateur, si le créancier vous a mentionné dans le délai : c'est un moyen de défense à opposer à sa réclamation. Dans l'exemple, la banque a mentionné Marc et Julie dans sa déclaration du 2 avril 2026 : ce moyen ne joue pas.
 
 **Dans les limites de votre engagement.** Le créancier ne peut vous réclamer que ce que couvre votre acte, et il ne peut pas être payé deux fois : ce qu'il reçoit dans la faillite et ce qu'il obtient d'autres garants s'imputent sur sa créance. Dans l'exemple, la banque peut réclamer à Julie et à Marc jusqu'à 60 000 euros chacun, mais elle ne peut pas encaisser au total plus que les 70 000 euros qui lui restent dus.
 
@@ -130,7 +130,7 @@ Dans l'exemple, la clôture de la faillite de la SRL ne change rien pour Marc : 
 | Moment | Ce que vous pouvez faire | Voir |
 |---|---|---|
 | Dès l'annonce de la faillite | Retrouver l'acte, qualifier votre engagement, vérifier sa date | [Étape 1](#etape-1) |
-| À la première réclamation | Contrôler l'étendue de votre engagement et, s'il date de 2026 ou après, sa forme et l'information reçue | [Étape 2](#etape-2) |
+| À la première réclamation | Vérifier que le créancier vous a mentionné à temps, contrôler l'étendue de votre engagement et, s'il date de 2026 ou après, sa forme et l'information reçue | [Étape 2](#etape-2) |
 | Dès que possible | Déposer une requête en décharge, qui suspend les voies d'exécution | [Étape 3](#etape-3) |
 | À la clôture, si le failli est votre conjoint ou cohabitant légal | Vérifier que son effacement vous libère, et à défaut demander la décharge | [Étape 4](#etape-4) |
 | Au moment de payer | Négocier, faire imputer le paiement, examiner votre recours | [Étape 5](#etape-5) |
@@ -147,6 +147,7 @@ Dans l'exemple, la clôture de la faillite de la SRL ne change rien pour Marc : 
 | 30 jours au plus après le jugement | Date limite de déclaration des créances, fixée par le jugement | Au plus tard le 2 avril 2026 |
 | Dès le défaut du débiteur | Le créancier peut agir contre la caution | Mise en demeure de la banque en avril 2026 |
 | Le plus tôt possible | Requête en décharge ; son dépôt suspend les voies d'exécution | 30 avril 2026 |
+| 3 mois après le jugement | Date limite pour que le créancier mentionne la caution, à défaut de quoi la caution protégée est libérée | 3 juin 2026 |
 | 1 an après le jugement | Prescription du droit d'agir en admission d'une créance | 3 mars 2027 |
 | Clôture | Dissolution de la société ; effacement du failli personne physique | Date variable |
 
