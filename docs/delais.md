@@ -55,7 +55,7 @@ Le contredit — la contestation d'une créance admise par le curateur — doit 
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
 | 15 jours | Publication du jugement déclaratif au Moniteur belge | Tierce opposition contre le jugement de faillite ou contre celui qui fixe la date de cessation de paiement (art. XX.108, § 3) | Le jugement devient définitif |
-| 5 ans | Les faits reprochés au dirigeant, ou leur découverte s'ils ont été cachés par dol (art. 2:143 CSA) | Action en responsabilité contre les dirigeants pour faits de leurs fonctions | Prescription de l'action (voir [les délais de prescription](#delais-de-prescription-des-actions-en-justice)) |
+| 5 ans | La faute reprochée au dirigeant ou, pour une série de fautes, la dernière d'entre elles ; leur découverte si elles ont été cachées par dol (art. 2:143 CSA) | Action en responsabilité contre les dirigeants pour faits de leurs fonctions | Prescription de l'action (voir [les délais de prescription](#delais-de-prescription-des-actions-en-justice)) |
 
 ---
 
@@ -122,7 +122,7 @@ Pour comprendre le déroulement des procès-verbaux, consultez [la vérification
 | Action | Délai | Point de départ |
 |---|---|---|
 | Demande de report de la date de cessation de paiement | 6 mois | Jugement de faillite (art. XX.105) |
-| Actions contre les dirigeants pour faits de leurs fonctions, dont l'action en comblement de passif (art. XX.225) | 5 ans | Les faits fautifs, ou leur découverte s'ils ont été cachés par dol (art. 2:143 CSA) |
+| Actions contre les dirigeants pour faits de leurs fonctions, dont l'action en comblement de passif (art. XX.225) | 5 ans | La faute ou, pour une série de fautes, le dernier fait ; leur découverte s'ils ont été cachés par dol (art. 2:143 CSA ; C. const., 18 septembre 2025, n° 116/2025) |
 | Demande de refus d'effacement (faillites prononcées depuis le 1er septembre 2023) | 3 ans | Expiration du droit à l'admission des créances (en pratique, environ 4 ans après le jugement de faillite) |
 | Tierce opposition contre l'effacement (même régime) | 3 mois, et dans la limite du délai de 3 ans | Publication du jugement de clôture |
 | Tierce opposition contre l'effacement (faillites prononcées du 1er mai 2018 au 31 août 2023) | 3 mois | Publication du jugement accordant l'effacement |

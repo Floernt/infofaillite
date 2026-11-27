@@ -174,7 +174,7 @@ Le tribunal peut assortir l'interdiction d'un sursis de trois ans ou suspendre l
 | 6 mois après le jugement | Dernier jour pour demander le report de la date de cessation de paiements | 3 septembre 2026 |
 | Fin du 2e trimestre qui suit celui de la faillite | Dernier jour pour demander le droit passerelle | 30 septembre 2026 |
 | 1 mois après la notification | Appel contre un jugement d'interdiction de gérer | Selon la date de notification |
-| 5 ans après les faits reprochés (ou leur découverte s'ils ont été cachés) | Prescription, en principe, des actions contre le dirigeant pour des faits de sa gestion, dont l'action pour faute grave et caractérisée | Sans objet pour la faute grave et caractérisée : petite société |
+| 5 ans après la faute reprochée, ou après la dernière d'une série de fautes (ou leur découverte si elles ont été cachées) | Prescription, en principe, des actions contre le dirigeant pour des faits de sa gestion, dont l'action pour faute grave et caractérisée | Sans objet pour la faute grave et caractérisée : petite société |
 
 Ces délais sont repris, avec ceux des créanciers et du curateur, dans [la page des délais](../delais.md#delais-pour-les-faillis).
 
