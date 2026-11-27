@@ -127,7 +127,7 @@ Pour comprendre le déroulement des procès-verbaux, consultez [la vérification
 | Tierce opposition contre l'effacement (même régime) | 3 mois, et dans la limite du délai de 3 ans | Publication du jugement de clôture |
 | Tierce opposition contre l'effacement (faillites prononcées du 1er mai 2018 au 31 août 2023) | 3 mois | Publication du jugement accordant l'effacement |
 
-Le délai de cinq ans court en principe des faits reprochés au dirigeant, et non du jugement de faillite : il peut donc être entamé, voire expiré, au jour de la faillite. Le Livre XX ne fixe pas de délai propre pour les actions des articles XX.226 et XX.227, ni pour les actions en inopposabilité de la période suspecte, et certaines actions obéissent à des délais particuliers. Voyez [la responsabilité du dirigeant](faillis/responsabilite-dirigeant.md#prescription).
+Le délai de cinq ans court en principe des faits reprochés au dirigeant, et non du jugement de faillite : il peut donc être entamé, voire expiré, au jour de la faillite. Ce délai couvre aussi, à notre sens, l'action pour poursuite d'une activité sans issue (art. XX.227). Le Livre XX ne fixe pas de délai propre pour l'action de l'article XX.226, ni pour les actions en inopposabilité de la période suspecte, et certaines actions obéissent à des délais particuliers. Voyez [la responsabilité du dirigeant](faillis/responsabilite-dirigeant.md#prescription).
 
 ---
 
