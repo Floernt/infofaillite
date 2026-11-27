@@ -8,7 +8,7 @@ keywords: indépendant faillite étapes, faillite personne physique mode d'emplo
 public:
 - independant
 draft: true
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Indépendant en nom propre : de la faillite à l'effacement, en huit étapes
 
@@ -139,7 +139,7 @@ Dans l'exemple, la maison est vendue en 2027 et la faillite est clôturée au pr
 
 **Votre conjoint ou cohabitant légal.** S'il est personnellement coobligé à une dette contractée pendant le mariage ou la cohabitation légale, il est libéré en même temps que vous. Cette protection suit votre sort et ne couvre ni le cohabitant de fait, ni le cohabitant légal déclaré moins de six mois avant la faillite, ni les dettes contractuelles étrangères à votre activité, comme un crédit privé. Dans l'exemple, l'épouse est libérée du solde du prêt professionnel.
 
-**Vos cautions.** Les personnes qui vous ont cautionné ne bénéficient pas de votre effacement. Celle qui a la qualité de consommateur peut toutefois demander sa décharge si son engagement est manifestement disproportionné à ses biens et à ses revenus. Dans l'exemple, le frère reste tenu des 15 000 euros, sauf décharge. Voyez [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
+**Vos cautions.** Les personnes qui vous ont cautionné ne bénéficient pas de votre effacement. Celle qui a la qualité de consommateur peut toutefois demander sa décharge si son engagement est manifestement disproportionné à ses biens et à ses revenus ; pour un engagement antérieur au 1er janvier 2026, elle doit en outre s'être engagée à titre gratuit. Dans l'exemple, le frère reste tenu des 15 000 euros, sauf décharge. Voyez [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
 
 **Si l'effacement est refusé.** L'appel est possible dans le mois de la signification ou de la notification du jugement. La réhabilitation ne s'obtient ensuite qu'en payant l'intégralité des sommes dues, en principal, intérêts et frais.
 

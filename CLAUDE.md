@@ -35,6 +35,19 @@ Site documentaire **Guide de la faillite en Belgique** (infofaillite.be), basé 
 - Le **sitemap est statique**, généré par [scripts/build_sitemap.py](scripts/build_sitemap.py) dans [overrides/sitemap.xml](overrides/sitemap.xml) : avec un menu explicite, celui de Zensical ne listerait que les pages du menu. Il est régénéré automatiquement par `inject_git_dates.py`.
 - Les pages d'entrée de rubrique ouvrent sur une grille `ifa-subtiles` (liens numérotés dans l'ordre du menu) : la tenir à jour quand une page est ajoutée à la rubrique.
 
+## Dépôt : matière première des actualités
+
+[depot/](depot/) reçoit les documents que Florian dépose pour une future note (mode d'emploi : [depot/README.md](depot/README.md)). Contenu ignoré par Git, seul le README est versionné. Un fichier à la racine de `depot/` est à traiter ; `depot/traite/AAAA-MM-JJ-slug/` contient les sources déjà exploitées, rangées sous le nom de la note produite.
+
+Quand Florian demande de « traiter le dépôt » :
+
+1. **Inventaire** des fichiers à la racine de `depot/` (hors `README.md` et `traite/`), avec les éventuelles consignes déposées à côté.
+2. **Lecture** de chaque source (PDF : `pdftotext -layout -enc UTF-8 fichier.pdf -`) ; identifier le type de note (jurisprudence, doctrine, législation, pratique).
+3. **Croisement avec l'existant** : grep dans `docs/` sur la juridiction, la date, le numéro de rôle, les parties, les articles. Chercher une suite de procédure (appel, cassation d'une décision déjà commentée) ou une contradiction avec une page ou une note publiée. Une contradiction appelle une correction des pages concernées (avertissement « Mise à jour » sur une note publiée, réécriture des passages de fond), à signaler à Florian.
+4. **Date** : par défaut le prochain créneau libre du calendrier des notes ([superpowers/revue-actualites.md](superpowers/revue-actualites.md)). Proposer de sortir de ce rythme si la note corrige un contenu déjà en ligne.
+5. **Publication** : procédure ci-dessous (new_actualite, rédaction, build_actualites, commits, inject_git_dates).
+6. **Rangement** : déplacer la source dans `depot/traite/<nom de la note sans .md>/` ; entrée dans [log.md](log.md).
+
 ## Actualités : publier une note
 
 1. `python scripts/new_actualite.py "Titre" --type jurisprudence|doctrine|legislation|pratique --themes slug1,slug2 [--date AAAA-MM-JJ]` crée le squelette ; les slugs viennent de [data/themes.yml](data/themes.yml).

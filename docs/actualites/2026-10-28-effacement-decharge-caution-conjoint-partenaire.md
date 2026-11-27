@@ -9,25 +9,25 @@ themes:
 articles_cde:
 - XX.174
 - XX.176
-resume: 'Depuis le 1er janvier 2026, la caution qui a la qualité de consommateur peut
-  être déchargée si son engagement est manifestement disproportionné, sans avoir à
-  prouver sa gratuité : une possibilité réelle de décharge s''ouvre au partenaire
-  de vie du failli.'
+resume: 'Pour une sûreté constituée depuis le 1er janvier 2026, la caution qui a la
+  qualité de consommateur peut être déchargée si son engagement est manifestement
+  disproportionné, sans avoir à prouver sa gratuité : une possibilité réelle de décharge
+  s''ouvre au partenaire de vie du failli.'
 description: Conjoint, cohabitant ou partenaire du failli - Effacement (art. XX.174
   CDE) et décharge de la caution consommateur (art. XX.176 CDE) depuis la loi du 5
   juin 2025
 keywords: conjoint failli, cohabitant failli, effacement conjoint, décharge caution
   faillite, article XX.174, article XX.176, caution disproportionnée, partenaire du
   failli
-updated: '2026-11-06'
+updated: '2026-11-27'
 ---
-Depuis le 1er janvier 2026, la caution qui a la qualité de consommateur peut être déchargée si son engagement est manifestement disproportionné à ses facultés de remboursement. Elle n'a plus à prouver que son engagement était gratuit, ce qui ouvre une possibilité réelle de décharge au partenaire de vie du failli.
+Pour une sûreté constituée depuis le 1er janvier 2026, la caution qui a la qualité de consommateur peut être déchargée si son engagement est manifestement disproportionné à ses facultés de remboursement. Elle n'a plus à prouver que son engagement était gratuit, ce qui ouvre une possibilité réelle de décharge au partenaire de vie du failli.
 
 ## Le contexte
 
 Quand une personne physique est déclarée en faillite, son conjoint ou son partenaire peut lui aussi être exposé. Il a pu signer un crédit avec le failli, se porter caution de sa société ou être tenu par la loi au paiement de certaines dettes du ménage. Deux mécanismes peuvent le protéger : l'effacement des dettes du failli (anciennement « excusabilité ») et la décharge de la caution.
 
-La loi applicable dépend de la date du jugement de faillite. Une faillite prononcée avant le 1er mai 2018 reste soumise à la loi du 8 août 1997. Une faillite prononcée entre le 1er mai 2018 et le 1er septembre 2023 relève du livre XX du Code de droit économique (CDE) dans sa version de l'époque. Après le 1er septembre 2023, c'est le livre XX tel que modifié par la loi du 7 juin 2023 qui s'applique.
+Pour l'effacement, la loi applicable dépend de la date du jugement de faillite. Une faillite prononcée avant le 1er mai 2018 reste soumise à la loi du 8 août 1997. Une faillite prononcée entre le 1er mai 2018 et le 1er septembre 2023 relève du livre XX du Code de droit économique (CDE) dans sa version de l'époque. Après le 1er septembre 2023, c'est le livre XX tel que modifié par la loi du 7 juin 2023 qui s'applique.
 
 ## Ce que prévoit la loi
 
@@ -37,7 +37,7 @@ Cette protection a trois limites. Elle ne joue pas pour le cohabitant légal don
 
 La seconde voie est la décharge de la caution (article XX.176 CDE). Avant la réforme, la caution devait prouver que son engagement était gratuit, c'est-à-dire qu'elle n'en tirait aucun avantage économique, direct ou indirect. Les juridictions estimaient presque toujours que le conjoint qui garantit la société de son partenaire en profite indirectement à travers les revenus du ménage. La cour d'appel de Liège l'a jugé le 6 mars 2012, tout comme le tribunal de l'entreprise de Liège dans un jugement inédit du 22 mars 2022.
 
-Depuis la loi du 5 juin 2025, entrée en vigueur le 1er janvier 2026, le texte vise le consommateur qui s'est constitué sûreté personnelle du failli. Celui-ci peut demander à être déchargé, en tout ou en partie, si son obligation est manifestement disproportionnée à ses biens et à ses revenus à l'ouverture de la procédure. Quand le débiteur principal est une société, le garant ne doit pas pouvoir influencer substantiellement ses décisions. Un partenaire qui reste étranger à l'activité de la société devrait en principe remplir cette condition.
+Depuis la loi du 5 juin 2025, entrée en vigueur le 1er janvier 2026, le texte vise le consommateur qui s'est constitué sûreté personnelle du failli. Ce nouveau régime vaut pour les sûretés constituées depuis cette date (article 18 de la loi) ; les sûretés plus anciennes restent soumises à l'exigence de gratuité. Celui-ci peut demander à être déchargé, en tout ou en partie, si son obligation est manifestement disproportionnée à ses biens et à ses revenus à l'ouverture de la procédure. Quand le débiteur principal est une société, le dirigeant qui peut influencer substantiellement ses décisions n'agit en principe pas comme consommateur (article I.1, 2°, CDE) et n'en bénéficie pas. Un partenaire qui reste étranger à l'activité de la société devrait en principe avoir cette qualité.
 
 ## Pourquoi c'est utile aux praticiens
 

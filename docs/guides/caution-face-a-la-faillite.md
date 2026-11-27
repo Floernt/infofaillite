@@ -25,9 +25,9 @@ La page [sûretés et cautions](../creanciers/suretes-cautions.md) expose le ré
 
 Ce guide suit la personne physique qui a garanti, par contrat, les dettes d'un débiteur déclaré en faillite : une société ou un indépendant en nom propre. La faillite du débiteur principal n'éteint pas votre obligation : le créancier, peu ou pas payé dans la procédure, se tournera vers vous.
 
-Deux régimes encadrent votre situation, et ils ne se confondent pas. Le premier relève du droit de l'insolvabilité : la décharge que le tribunal peut accorder à la caution consommateur, et la libération du conjoint ou du cohabitant légal par l'effacement du failli. Le second relève du Code civil : depuis le 1er janvier 2026, il encadre les sûretés personnelles constituées par un consommateur. Les règles applicables dépendent de deux dates, celle du jugement de faillite et celle de votre engagement. Dans un dossier ancien, l'exigence d'un engagement à titre gratuit peut encore jouer.
+Deux régimes encadrent votre situation, et ils ne se confondent pas. Le premier relève du droit de l'insolvabilité : la décharge que le tribunal peut accorder à la caution consommateur, et la libération du conjoint ou du cohabitant légal par l'effacement du failli. Le second relève du Code civil : depuis le 1er janvier 2026, il encadre les sûretés personnelles constituées par un consommateur. Pour les règles propres aux cautions, une date compte : celle de votre engagement, et non celle du jugement de faillite. Si vous vous êtes engagé avant le 1er janvier 2026, les anciennes règles continuent de s'appliquer, y compris l'exigence d'un engagement à titre gratuit pour la décharge.
 
-Un exemple simplifié et fictif accompagne le guide. En 2021, une SRL de menuiserie dirigée par Marc obtient un crédit d'investissement. La banque exige deux cautions de 60 000 euros chacune : celle de Marc, et celle de Julie, sa compagne, cohabitante de fait, salariée dans un autre secteur et étrangère à la gestion de la société. Le tribunal déclare la SRL en faillite le 3 mars 2026. Il reste 70 000 euros dus à la banque.
+Un exemple simplifié et fictif accompagne le guide. En janvier 2026, une SRL de menuiserie dirigée par Marc, déjà en difficulté, obtient un crédit de trésorerie. La banque exige deux cautions de 60 000 euros chacune, signées le même mois : celle de Marc, et celle de Julie, sa compagne, cohabitante de fait, salariée dans un autre secteur et étrangère à la gestion de la société. Le tribunal déclare la SRL en faillite le 3 mars 2026. Il reste 70 000 euros dus à la banque.
 
 ---
 
@@ -37,14 +37,14 @@ Retrouvez l'acte que vous avez signé et répondez à trois questions. Elles com
 
 **Quelle sûreté avez-vous donnée ?** La caution est une sûreté personnelle : vous vous êtes engagé à payer la dette du débiteur si celui-ci ne la paie pas. Une hypothèque consentie sur un bien qui vous appartient, pour garantir les dettes du débiteur, est une sûreté réelle : elle porte sur ce bien, et elle reste valable malgré la faillite et l'effacement du failli. Vous pouvez aussi être codébiteur, c'est-à-dire tenu à la dette au même titre que le failli. Enfin, une garantie autonome, un porte-fort d'exécution, une lettre de patronage contraignante ou une solidarité consentie par un consommateur depuis le 1er janvier 2026 sont convertis de plein droit en cautionnement.
 
-**Avez-vous agi comme consommateur ?** La protection propre aux cautions vise le garant qui a la qualité de consommateur. Si le débiteur est une société, une condition s'ajoute pour la décharge : vous ne devez pas pouvoir influencer substantiellement ses décisions. Le proche resté étranger à la gestion remplit en principe cette condition. Le dirigeant qui gère effectivement la société, non.
+**Avez-vous agi comme consommateur ?** La protection propre aux cautions vise le garant qui a la qualité de consommateur. Le proche resté étranger à la gestion de la société débitrice a en principe cette qualité. En principe, le dirigeant qui peut influencer substantiellement les décisions de la société n'agit pas comme consommateur et ne bénéficie pas de cette protection.
 
-**Quand vous êtes-vous engagé ?** Une sûreté personnelle constituée par un consommateur depuis le 1er janvier 2026 doit respecter des exigences de forme et d'information (étape 2). Une sûreté plus ancienne reste soumise aux anciennes règles, sauf accord contraire des parties.
+**Quand vous êtes-vous engagé ?** Une sûreté personnelle constituée par un consommateur depuis le 1er janvier 2026 doit respecter des exigences de forme et d'information (étape 2). La décharge de l'étape 3 vous est ouverte sans condition de gratuité. Une sûreté plus ancienne reste soumise aux anciennes règles, sauf accord contraire des parties : la décharge suppose alors que vous vous soyez engagé à titre gratuit.
 
 !!! tip "À faire dès cette étape"
     Rassemblez l'acte de caution, le contrat garanti, la correspondance avec le créancier et, si le débiteur a fait aveu de faillite, vérifiez sur Regsol que vous figurez dans la liste des consommateurs qui se sont portés garants de l'entreprise, que l'aveu doit contenir.
 
-Dans l'exemple, Julie s'est engagée par contrat, comme consommatrice, et elle n'exerce aucune influence sur les décisions de la SRL. Marc, gérant, est dans la situation inverse.
+Dans l'exemple, Julie s'est engagée par contrat, en janvier 2026, comme consommatrice, et elle n'exerce aucune influence sur les décisions de la SRL. Marc, gérant, est dans la situation inverse.
 
 ---
 
@@ -52,9 +52,9 @@ Dans l'exemple, Julie s'est engagée par contrat, comme consommatrice, et elle n
 
 **Sans attendre la clôture.** Le droit du créancier contre la caution est indépendant de la procédure de faillite. Il peut vous poursuivre dès que le débiteur est en défaut, sans attendre la clôture, et il conserve ce droit après l'effacement des dettes du failli.
 
-**À condition de vous avoir mentionné à temps.** Le créancier doit signaler votre caution dans sa déclaration de créance, avec vos nom, prénom et adresse, ou au plus tard dans les trois mois du jugement de faillite. S'il ne le fait pas, vous êtes libéré, sans démarche de votre part, si vous vous êtes engagé comme consommateur ou, pour un engagement pris avant le 1er janvier 2026, si vous vous êtes engagé gratuitement. Cette protection ne joue pas pour le garant professionnel ni pour le dirigeant qui peut influencer substantiellement les décisions de la société. Si vous êtes concerné, vérifiez donc, par exemple auprès du curateur, si le créancier vous a mentionné dans le délai : c'est un moyen de défense à opposer à sa réclamation. Dans l'exemple, la banque a mentionné Marc et Julie dans sa déclaration du 2 avril 2026 : ce moyen ne joue pas.
+**À condition de vous avoir mentionné à temps.** Le créancier doit signaler votre caution dans sa déclaration de créance, avec vos nom, prénom et adresse, ou au plus tard dans les trois mois du jugement de faillite. S'il ne le fait pas, vous êtes libéré, sans démarche de votre part, si vous vous êtes engagé comme consommateur ou, pour un engagement pris avant le 1er janvier 2026, si vous vous êtes engagé gratuitement. Cette protection ne joue pas pour le garant professionnel. En principe, le dirigeant qui peut influencer substantiellement les décisions de la société n'agit pas comme consommateur et n'en bénéficie pas. Si vous êtes concerné, vérifiez donc, par exemple auprès du curateur, si le créancier vous a mentionné dans le délai : c'est un moyen de défense à opposer à sa réclamation. Dans l'exemple, la banque a mentionné Marc et Julie dans sa déclaration du 2 avril 2026 : ce moyen ne joue pas.
 
-**Dans les limites de votre engagement.** Le créancier ne peut vous réclamer que ce que couvre votre acte, et il ne peut pas être payé deux fois : ce qu'il reçoit dans la faillite et ce qu'il obtient d'autres garants s'imputent sur sa créance. Dans l'exemple, la banque peut réclamer à Julie et à Marc jusqu'à 60 000 euros chacun, mais elle ne peut pas encaisser au total plus que les 70 000 euros qui lui restent dus.
+**Dans les limites de votre engagement.** Le créancier ne peut vous réclamer que ce que couvre votre acte, et il ne peut pas être payé deux fois : ce qu'il reçoit dans la faillite et ce qu'il obtient d'autres garants s'imputent sur sa créance. Dans l'exemple, la banque peut réclamer à Julie et à Marc jusqu'à 60 000 euros chacun, mais elle ne peut pas encaisser au total plus que les 70 000 euros qui lui restent dus. Julie s'étant engagée en janvier 2026, la banque devra aussi établir qu'elle a respecté les exigences décrites ci-dessous.
 
 **Les points de contrôle, si vous vous êtes engagé depuis le 1er janvier 2026.** Le créancier doit pouvoir prouver qu'il vous a informé, avant la signature, de l'étendue de la dette garantie, de l'effet général de la sûreté et des risques particuliers liés à la situation financière du débiteur. Votre engagement doit figurer dans un écrit distinct du contrat principal, à peine de nullité. Il doit comporter un montant maximal, les accessoires ne pouvant dépasser la moitié du principal. Il ne peut couvrir que les dettes futures d'un contrat déjà existant et désigné dans l'acte. Le créancier doit en outre vous avoir informé chaque année de l'encours et, sans délai injustifié, de toute défaillance du débiteur. Enfin, si votre engagement était manifestement disproportionné à votre patrimoine et à vos revenus au moment où vous l'avez pris, le juge le réduit ; c'est à vous de prouver cette disproportion. Le détail figure dans [les sûretés constituées par un consommateur](../creanciers/suretes-cautions.md#surete-consommateur-code-civil).
 
@@ -65,9 +65,9 @@ Dans l'exemple, Julie s'est engagée par contrat, comme consommatrice, et elle n
 
 ## Étape 3 : demander la décharge au tribunal { #etape-3 }
 
-**Ce que vous pouvez obtenir.** Le consommateur qui s'est constitué sûreté personnelle du failli peut demander au tribunal d'être déchargé, en tout ou en partie, si son obligation est « manifestement disproportionnée à ses biens et à ses revenus » à l'ouverture de la procédure. Depuis le 1er janvier 2026, vous n'avez plus à prouver que votre engagement était gratuit. Sous l'ancien régime, les juridictions estimaient presque toujours que le conjoint qui garantit la société de son partenaire en profite indirectement, ce qui fermait cette voie aux proches du dirigeant.
+**Ce que vous pouvez obtenir.** Le consommateur qui s'est constitué sûreté personnelle du failli peut demander au tribunal d'être déchargé, en tout ou en partie, si son obligation est « manifestement disproportionnée à ses biens et à ses revenus » à l'ouverture de la procédure. Si vous vous êtes engagé depuis le 1er janvier 2026, vous n'avez pas à prouver que votre engagement était gratuit. Si vous vous êtes engagé avant cette date, l'ancien régime s'applique : la décharge est réservée à la personne physique qui s'est engagée à titre gratuit, sans aucun avantage économique direct ou indirect, et les juridictions estimaient presque toujours que le conjoint qui garantit la société de son partenaire en profite indirectement, ce qui fermait cette voie aux proches du dirigeant.
 
-**Qui en est exclu.** Celui qui a donné une hypothèque sur un bien propre pour garantir les dettes du failli, puisque le texte ne vise que les sûretés personnelles. La personne tenue en vertu de la loi et non d'un contrat. Et, lorsque le débiteur est une société, le garant qui peut influencer substantiellement ses décisions : le dirigeant remplit donc en principe difficilement les conditions.
+**Qui en est exclu.** Celui qui a donné une hypothèque sur un bien propre pour garantir les dettes du failli, puisque le texte ne vise que les sûretés personnelles. La personne tenue en vertu de la loi et non d'un contrat. Et, lorsque le débiteur est une société, en principe le dirigeant qui peut influencer substantiellement ses décisions : il n'agit pas comme consommateur et n'en bénéficie pas.
 
 **Comment la demander.** Vous déposez une requête dans le registre de la faillite, sur Regsol, accompagnée de votre dernière déclaration fiscale, de votre dernier avertissement-extrait de rôle, du relevé de votre patrimoine et de tout document établissant vos ressources et vos charges.
 
@@ -76,7 +76,7 @@ Dans l'exemple, Julie s'est engagée par contrat, comme consommatrice, et elle n
 
 **L'effet immédiat.** Le dépôt de la requête suspend les voies d'exécution à votre égard. Avant ce dépôt, rien n'arrête les poursuites du créancier : il n'y a donc aucun intérêt à attendre.
 
-Dans l'exemple, Julie dépose sa requête le 30 avril 2026, après avoir reçu une mise en demeure de la banque. Son engagement de 60 000 euros représente plusieurs années de son salaire, et elle ne possède aucun bien immobilier. Supposons que le tribunal la décharge à concurrence de 45 000 euros : elle reste tenue de 15 000 euros. Marc, gérant, ne peut pas sérieusement prétendre à la même décharge.
+Dans l'exemple, Julie dépose sa requête le 30 avril 2026, après avoir reçu une mise en demeure de la banque. Son engagement datant de janvier 2026, elle n'a pas à établir qu'il était gratuit. Son engagement de 60 000 euros représente plusieurs années de son salaire, et elle ne possède aucun bien immobilier. Supposons que le tribunal la décharge à concurrence de 45 000 euros : elle reste tenue de 15 000 euros. Marc, gérant, ne peut pas sérieusement prétendre à la même décharge.
 
 ---
 
@@ -94,7 +94,7 @@ Si cette voie vous est fermée, la décharge de l'étape 3 reste ouverte, y comp
 
 Votre régime matrimonial compte également. En communauté, les dettes professionnelles peuvent être poursuivies sur les biens communs ; en séparation de biens, le conjoint n'est pas tenu, sauf engagement personnel.
 
-Dans l'exemple, Julie ne peut pas invoquer ce mécanisme à double titre : le débiteur est une société, et elle est cohabitante de fait. Si Marc avait exercé en nom propre, avait contracté le crédit en 2021 et que Julie avait été sa cohabitante légale depuis 2019, elle aurait été libérée de la dette professionnelle garantie en même temps que lui, à la clôture, sauf refus de l'effacement de Marc.
+Dans l'exemple, Julie ne peut pas invoquer ce mécanisme à double titre : le débiteur est une société, et elle est cohabitante de fait. Si Marc avait exercé en nom propre, avait contracté le crédit en janvier 2026 et que Julie avait été sa cohabitante légale depuis 2019, elle aurait été libérée de la dette professionnelle garantie en même temps que lui, à la clôture, sauf refus de l'effacement de Marc.
 
 ---
 
@@ -129,7 +129,7 @@ Dans l'exemple, la clôture de la faillite de la SRL ne change rien pour Marc : 
 
 | Moment | Ce que vous pouvez faire | Voir |
 |---|---|---|
-| Dès l'annonce de la faillite | Retrouver l'acte, qualifier votre engagement, vérifier sa date | [Étape 1](#etape-1) |
+| Dès l'annonce de la faillite | Retrouver l'acte, qualifier votre engagement, vérifier sa date : elle détermine les règles applicables | [Étape 1](#etape-1) |
 | À la première réclamation | Vérifier que le créancier vous a mentionné à temps, contrôler l'étendue de votre engagement et, s'il date de 2026 ou après, sa forme et l'information reçue | [Étape 2](#etape-2) |
 | Dès que possible | Déposer une requête en décharge, qui suspend les voies d'exécution | [Étape 3](#etape-3) |
 | À la clôture, si le failli est votre conjoint ou cohabitant légal | Vérifier que son effacement vous libère, et à défaut demander la décharge | [Étape 4](#etape-4) |
@@ -142,6 +142,7 @@ Dans l'exemple, la clôture de la faillite de la SRL ne change rien pour Marc : 
 
 | Délai | Ce qui se passe | Dans l'exemple |
 |---|---|---|
+| Date de l'engagement | Détermine le régime applicable : depuis le 1er janvier 2026, pas de condition de gratuité pour la décharge | Janvier 2026 |
 | Jour du jugement de faillite | Date à laquelle s'apprécie la disproportion pour la décharge | 3 mars 2026 |
 | 5 jours après le jugement | Publication au Moniteur belge | Au plus tard le 8 mars 2026 |
 | 30 jours au plus après le jugement | Date limite de déclaration des créances, fixée par le jugement | Au plus tard le 2 avril 2026 |

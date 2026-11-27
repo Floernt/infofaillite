@@ -25,7 +25,7 @@ description: Cour constitutionnelle, arrêts 108/2024 et 139/2025 - Délai de ti
 keywords: appel jugement de faillite délai, tierce opposition aveu de faillite, article
   XX.108, signification jugement déclaratif, Cour constitutionnelle 139/2025, Cour
   constitutionnelle 108/2024
-updated: '2026-11-26'
+updated: '2026-11-27'
 ---
 # Le délai de recours du failli contre le jugement de faillite court de la signification, pas de la publication
 
@@ -45,11 +45,11 @@ Dans la seconde, une autre SRL est déclarée en faillite le 6 février 2025 sur
 
 Pour les tiers, auxquels le jugement n'a pas à être signifié, la publication au Moniteur belge reste un point de départ pertinent. Le failli est dans une autre situation : le curateur doit de toute façon lui signifier le jugement, avec la mention explicite des recours possibles. Faire courir son délai à partir d'une publication qui offre moins de garanties, tant pour la connaissance effective du jugement que pour l'information sur les recours, restreint de manière disproportionnée son droit d'accès au juge. La volonté de régler rapidement la faillite n'y change rien, puisque rien n'empêche le curateur de signifier sans tarder.
 
-La Cour constate donc l'inconstitutionnalité de l'article XX.108, § 3, alinéa 3 (tierce opposition du failli qui a fait aveu) et alinéa 4 (appel du failli), en ce que le délai court à partir de la publication et non de la signification.
+Saisie de questions préjudicielles, la Cour constate donc l'inconstitutionnalité de l'article XX.108, § 3, alinéa 3 (tierce opposition du failli qui a fait aveu) et alinéa 4 (appel du failli), en ce que le délai court à partir de la publication et non de la signification.
 
 ## Pourquoi ces arrêts intéressent les praticiens
 
-Pour le failli, qu'il ait fait aveu ou qu'il ait été cité, le délai de quinze jours pour contester le jugement se calcule désormais à partir de la signification. Pour le curateur, l'enseignement est inverse : tant que le jugement n'a pas été signifié, le délai de recours du failli ne court pas, ce qui plaide pour une signification rapide.
+Pour le failli, qu'il ait fait aveu ou qu'il ait été cité, le délai de quinze jours pour contester le jugement se calcule à partir de la signification. Le texte de l'article XX.108, § 3, n'a toutefois pas été modifié : si la publication intervient avant la signification, la prudence commande au failli d'agir dans les quinze jours de la publication. Pour les tiers, le délai court toujours de la publication. Pour le curateur, l'enseignement est inverse : tant que le jugement n'a pas été signifié, le délai de recours du failli ne court pas, ce qui plaide pour une signification rapide.
 
 Le délai reste court. Un failli qui envisage de contester le jugement a intérêt à agir dès réception de l'exploit, sans attendre.
 

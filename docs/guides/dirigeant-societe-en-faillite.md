@@ -79,7 +79,7 @@ La loi vise expressément « les gérants et administrateurs de la personne mora
 
 **Les cautions.** La faillite de la société ne vous libère pas de la caution donnée à la banque, au bailleur ou à un fournisseur : le créancier, peu ou pas payé dans la faillite, se tournera vers vous. Il en va de même d'une hypothèque consentie sur un bien personnel. Dans l'exemple, la banque réclamera 60 000 euros à la gérante.
 
-**La décharge de la caution consommateur.** Le consommateur qui s'est porté garant peut demander sa décharge si son engagement est manifestement disproportionné à ses biens et à ses revenus. Lorsque le débiteur principal est une société, le garant ne doit pas pouvoir influencer substantiellement ses décisions : le dirigeant remplit donc en principe difficilement cette condition. Votre conjoint ou un proche resté étranger à la gestion pourra, lui, examiner cette voie. Voyez [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
+**La décharge de la caution consommateur.** Le consommateur qui s'est porté garant peut demander sa décharge si son engagement est manifestement disproportionné à ses biens et à ses revenus ; pour un engagement antérieur au 1er janvier 2026, il doit en outre s'être engagé à titre gratuit. En principe, le dirigeant qui peut influencer substantiellement les décisions de la société n'agit pas comme consommateur et n'en bénéficie pas. Votre conjoint ou un proche resté étranger à la gestion pourra, lui, examiner cette voie. Voyez [la décharge de la caution consommateur](../creanciers/suretes-cautions.md#decharge-caution-consommateur).
 
 **Le compte courant créditeur.** Si vous avez avancé de l'argent à la société, vous en êtes créancier : déclarez cette créance dans le délai fixé par le jugement. Elle sera en principe payée au rang des fournisseurs ordinaires, souvent peu ou pas. Dans l'exemple, la gérante déclare 7 000 euros au plus tard le 2 avril. Voyez [déclarer votre créance](../creanciers/declarer-creance.md).
 
@@ -174,7 +174,7 @@ Le tribunal peut assortir l'interdiction d'un sursis de trois ans ou suspendre l
 | 6 mois après le jugement | Dernier jour pour demander le report de la date de cessation de paiements | 3 septembre 2026 |
 | Fin du 2e trimestre qui suit celui de la faillite | Dernier jour pour demander le droit passerelle | 30 septembre 2026 |
 | 1 mois après la notification | Appel contre un jugement d'interdiction de gérer | Selon la date de notification |
-| 5 ans après les faits reprochés (ou leur découverte s'ils ont été cachés) | Prescription, en principe, des actions contre le dirigeant pour des faits de sa gestion, dont l'action pour faute grave et caractérisée | Sans objet pour la faute grave et caractérisée : petite société |
+| 5 ans après la faute reprochée, ou après la dernière d'une série de fautes (ou leur découverte si elles ont été cachées) | Prescription, en principe, des actions contre le dirigeant pour des faits de sa gestion, dont l'action pour faute grave et caractérisée | Sans objet pour la faute grave et caractérisée : petite société |
 
 Ces délais sont repris, avec ceux des créanciers et du curateur, dans [la page des délais](../delais.md#delais-pour-les-faillis).
 

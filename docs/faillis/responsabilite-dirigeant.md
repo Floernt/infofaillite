@@ -86,7 +86,9 @@ La Cour constitutionnelle a jugé cette règle conforme à la Constitution, y co
 
 La règle connaît des tempéraments. Si les faits ont été cachés par dol, le délai ne court qu'à partir de leur découverte. Lorsque les fautes forment une série indivisible, il court à partir du dernier fait. Enfin, l'action civile qui naît d'une infraction ne se prescrit pas avant l'action publique.
 
-En pratique, le délai peut donc être entamé, voire expiré, au jour de la faillite, puisqu'il se calcule à partir des faits reprochés et non à partir du jugement. Ces décisions portaient toutefois sur des actions fondées sur l'ancien Code des sociétés et sur le droit commun. Il n'existe pas, à notre connaissance, de jurisprudence publiée sur la prescription des actions des articles XX.226 et XX.227. Voir aussi [la page des délais](../delais.md).
+En pratique, le délai peut donc être entamé, voire expiré, au jour de la faillite, puisqu'il se calcule à partir des faits reprochés et non à partir du jugement.
+
+Ce délai vaut aussi, à notre sens, pour l'action de l'article XX.227. Le texte de l'article 2:143 vise « toutes actions » contre les dirigeants « pour faits de leurs fonctions », et la poursuite d'une activité sans issue est bien un fait de gestion. Le délai court alors à partir du dernier acte de cette poursuite, au plus tard à l'aveu ou au jugement de faillite. Aucune décision publiée ne l'a encore jugé expressément. La question reste ouverte pour l'action de l'article XX.226, qui ne repose pas sur une faute de gestion mais sur la succession de faillites. Voir aussi [la page des délais](../delais.md).
 
 ---
 
