@@ -6,6 +6,16 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-11-27] edit | Mention de la caution (XX.156, al. 3), délais de recours, convocations
+
+Travail de la session du 26 novembre (398b4cdf), commité le 27.
+
+- **Correction factuelle importante** : depuis le 1er janvier 2026, le créancier doit énoncer la caution, avec ses nom, prénom et adresse, dans sa déclaration ou au plus tard dans les trois mois du jugement déclaratif (art. XX.156, al. 3). À défaut, la caution protégée est déchargée. Pour une sûreté antérieure à 2026, la protection vise la caution à titre gratuit. Le site affirmait jusqu'ici l'absence de délai et de décharge. Pages corrigées : `creanciers/suretes-cautions.md` (nouvelle ancre `#mention-caution-declaration`), `creanciers/README.md`, `creanciers/declarer-creance.md`, `creanciers/creanciers-categories.md`, `comprendre/cloture.md`, `glossaire.md`, `delais.md`, FAQ et guides caution, créancier garanti et récupérer sa créance.
+- `delais.md` et FAQ : délais de recours contre le jugement déclaratif distingués selon qu'ils concernent le failli (signification) ou les tiers (publication), XX.108 et C. const. n° 108/2024 et 139/2025. Le délai de 48 heures pour répondre aux convocations est supprimé, faute de base légale (XX.146).
+- `faillis/obligations.md` : interdiction de gérer pour défaut de collaboration « sans empêchement légitime ».
+
+---
+
 ## [2026-11-27] edit | Responsabilité des dirigeants (art. 51 CRAF, prescription) et période suspecte
 
 Passe de correction à partir d'une note de relecture. Tous les textes ont été relus en source primaire : Justel, Juportal et const-court.be.

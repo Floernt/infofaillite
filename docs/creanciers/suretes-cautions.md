@@ -3,7 +3,7 @@ description: Les sûretés et cautions dans la faillite - Hypothèques, gages, p
   cautions personnelles et leur déclaration dans la procédure
 keywords: hypothèque faillite belgique, gage faillite, caution faillite, sûreté réelle
   faillite, privilège créancier faillite, déclaration créance
-updated: '2026-10-28'
+updated: '2026-11-27'
 ---
 # Les sûretés et cautions dans la faillite
 

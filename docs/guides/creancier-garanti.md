@@ -8,7 +8,7 @@ keywords: créancier hypothécaire faillite, gage fonds de commerce faillite, pr
 public:
 - creancier
 draft: true
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Créancier garanti : hypothèque, gage, privilège, en six étapes
 

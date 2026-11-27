@@ -5,7 +5,7 @@ description: Les droits des créanciers selon leur catégorie - Salarié, baille
 keywords: créancier salarié faillite, bailleur commercial faillite, banque hypothèque
   faillite, fournisseur chirographaire faillite, ONSS privilège faillite, administration
   fiscale faillite
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Les droits des créanciers selon leur catégorie
 

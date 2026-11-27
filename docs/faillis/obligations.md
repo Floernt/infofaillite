@@ -3,7 +3,7 @@ description: Obligations légales du failli - Documents à fournir, convocations
   collaboration avec le curateur
 keywords: obligations failli, documents faillite, inventaire, descente faillite, collaboration
   curateur, banqueroute
-updated: '2026-11-26'
+updated: '2026-11-27'
 public:
 - independant
 - dirigeant

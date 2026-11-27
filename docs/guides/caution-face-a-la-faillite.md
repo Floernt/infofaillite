@@ -10,7 +10,7 @@ public:
 - dirigeant
 - independant
 draft: true
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Caution : votre engagement face à la faillite, en six étapes
 

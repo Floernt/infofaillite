@@ -8,7 +8,7 @@ keywords: créancier faillite étapes, que faire client en faillite, déclarer c
 public:
 - creancier
 draft: true
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Créancier : récupérer votre créance en sept étapes
 
