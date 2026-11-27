@@ -3,3 +3,7 @@ site/
 __pycache__/
 *.pyc
 .claude/
+
+# Dépôt de matière première pour les actualités (seul le README est versionné)
+depot/*
+!depot/README.md
