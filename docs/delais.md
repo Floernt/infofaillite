@@ -3,7 +3,7 @@ description: Tableau récapitulatif de tous les délais de la procédure de fail
   en Belgique - Créanciers, faillis, curateur, recours judiciaires
 keywords: délais faillite belgique, 30 jours déclaration créance, délai appel jugement
   faillite, procès-verbaux vérification dates
-updated: '2026-11-26'
+updated: '2026-11-27'
 ---
 # Les délais importants à ne pas manquer
 
@@ -33,11 +33,12 @@ La procédure de faillite est jalonnée de délais stricts dont le non-respect e
 
 Le jugement déclaratif fixe la date limite de déclaration, qui ne peut dépasser trente jours à compter du jugement (article XX.104) : le délai court du jugement, et non de sa publication ni du moment où vous en prenez connaissance. Une déclaration tardive reste possible : le créancier en retard ne participe qu'aux répartitions faites sur l'actif non encore distribué et supporte les frais de vérification de sa créance. Son droit d'agir en admission se prescrit par un an à compter du jugement déclaratif, sauf exceptions limitées (article XX.165). La déclaration tardive est examinée lors d'un procès-verbal de vérification ultérieur (voir [la vérification des créances et les procès-verbaux](creanciers/verification-contestation.md)).
 
-Si votre créance est garantie par une caution, il est utile de la mentionner dans votre déclaration de créance — mais aucun délai spécifique n'est attaché à cette mention et son omission n'entraîne pas la libération de la caution. Votre droit contre la caution reste indépendant de la procédure de faillite. Pour les détails, consultez [les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md).
+Si votre créance est garantie par une caution ou une autre sûreté personnelle, énoncez-la dans votre déclaration de créance ou, au plus tard, dans les trois mois du jugement déclaratif, avec les nom, prénom et adresse de la caution (article XX.156, alinéa 3). À défaut, la caution qui a la qualité de consommateur est déchargée ; pour une sûreté constituée avant le 1er janvier 2026, c'est la personne physique qui s'est engagée à titre gratuit. Pour les détails, consultez [les sûretés et cautions dans la faillite](creanciers/suretes-cautions.md#mention-caution-declaration).
 
 | Délai | Point de départ | Action | Conséquence du non-respect |
 |---|---|---|---|
 | 30 jours | Jugement de faillite | Déclarer la créance | Exclusion des répartitions provisoires |
+| 3 mois | Jugement de faillite | Énoncer la sûreté personnelle et l'identité de la caution (art. XX.156, al. 3) | Décharge de la caution consommateur (à titre gratuit, pour une sûreté antérieure à 2026) |
 | Dépôt du 3ᵉ PV (≈ 12 mois) | Jugement de faillite | Délai pratique de déclaration | Forclusion |
 
 ### Contestation
@@ -54,7 +55,7 @@ Le contredit — la contestation d'une créance admise par le curateur — doit 
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
 | 15 jours | Publication du jugement déclaratif au Moniteur belge | Tierce opposition contre le jugement de faillite ou contre celui qui fixe la date de cessation de paiement (art. XX.108, § 3) | Le jugement devient définitif |
-| 3 ans | Clôture de la faillite | Action en responsabilité contre les dirigeants | Prescription de l'action |
+| 5 ans | Les faits reprochés au dirigeant, ou leur découverte s'ils ont été cachés par dol (art. 2:143 CSA) | Action en responsabilité contre les dirigeants pour faits de leurs fonctions | Prescription de l'action (voir [les délais de prescription](#delais-de-prescription-des-actions-en-justice)) |
 
 ---
 
@@ -67,12 +68,12 @@ L'obligation la plus importante est l'aveu de faillite : dès que vous constatez
 | Délai | Point de départ | Action | Conséquence du non-respect |
 |---|---|---|---|
 | 1 mois | Cessation de paiements | Déposer l'aveu de faillite | Risque d'interdiction de gérer ; refus d'effacement (indépendant) |
-| 48 heures | Convocation du curateur ou du juge-commissaire | Répondre ou se présenter | Interdiction de gérer de trois ans (article XX.229, § 2) ; défaut pouvant affecter l'effacement (indépendant) |
+| Pas de délai légal fixe | Convocation du curateur ou du juge-commissaire | Se présenter à la date fixée par la convocation et répondre sans retard aux demandes de renseignements (article XX.146) | Interdiction de gérer de trois ans possible, sauf empêchement légitime (article XX.229, § 2 et § 5) ; défaut pouvant affecter l'effacement (indépendant) |
 | Immédiatement | Jugement de faillite | Remettre tous les documents au curateur | Risque de poursuites pénales ; interdiction de gérer ; refus d'effacement (indépendant) |
 
 ### Droit passerelle (indépendants)
 
-Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle pendant douze mois au maximum. La demande doit être déposée auprès de votre caisse d'assurances sociales au plus tard le dernier jour du deuxième trimestre civil qui suit le trimestre de la faillite. Ce délai est absolu et n'admet aucune exception.
+Si vous exerciez en tant qu'indépendant avant la faillite, vous pouvez bénéficier du droit passerelle — une prestation mensuelle pendant douze mois au maximum. La demande doit être déposée auprès de votre caisse d'assurances sociales au plus tard le dernier jour du deuxième trimestre civil qui suit le trimestre de la faillite. Passé ce délai, la demande est en principe tardive.
 
 **Exemple :** faillite prononcée en février 2026 (1er trimestre) → demande à déposer au plus tard le 30 septembre 2026 (fin du 3e trimestre, soit le deuxième trimestre qui suit celui de la faillite).
 
@@ -82,11 +83,12 @@ Pour tous les détails, consultez [reprendre une activité professionnelle aprè
 
 | Délai | Point de départ | Action | Conséquence |
 |---|---|---|---|
-| 15 jours | Signification du jugement déclaratif par le curateur | Appel du jugement (tierce opposition si la faillite a été prononcée sur aveu) | La faillite est confirmée définitivement |
+| 15 jours | Signification du jugement déclaratif au failli (par prudence, publication au Moniteur belge si elle est antérieure) | Recours du failli : appel, tierce opposition si la faillite a été prononcée sur aveu, opposition s'il a fait défaut sur citation | La faillite est confirmée définitivement |
+| 15 jours | Publication du jugement déclaratif au Moniteur belge | Recours des tiers (créanciers et autres intéressés) : tierce opposition, ou appel s'ils étaient parties | La faillite est confirmée définitivement |
 | 1 mois | Notification du jugement d'interdiction de gérer (article XX.232) | Appel | L'interdiction est définitive |
 | 1 mois | Signification ou notification du jugement refusant l'effacement (droit commun, article 1051 du Code judiciaire) | Appel | Le refus est définitif |
 
-L'article XX.108, § 3, du Code de droit économique fait courir le délai de quinze jours à partir de la publication du jugement au Moniteur belge. Pour le failli, la Cour constitutionnelle a jugé que ce point de départ était discriminatoire : son délai court à partir de la signification que le curateur doit lui faire du jugement (arrêts n° 108/2024 du 3 octobre 2024 pour la tierce opposition après aveu, et n° 139/2025 du 23 octobre 2025 pour l'appel).
+L'article XX.108, § 3, du Code de droit économique fait courir les délais d'appel et de tierce opposition à partir de la publication du jugement au Moniteur belge (l'opposition, à partir de la signification). Saisie de questions préjudicielles, la Cour constitutionnelle a jugé cette règle contraire à la Constitution en ce que, pour le failli, le délai court de la publication et non de la signification du jugement qui lui est faite (arrêts n° 108/2024 du 3 octobre 2024 pour la tierce opposition du failli qui a fait aveu, et n° 139/2025 du 23 octobre 2025 pour l'appel du failli, sur aveu comme sur citation). Le texte de la loi n'a pas été modifié : si la publication intervient avant la signification, il est prudent pour le failli d'agir dans les quinze jours de la publication. Pour les tiers, le délai court toujours de la publication.
 
 ---
 
@@ -119,12 +121,13 @@ Pour comprendre le déroulement des procès-verbaux, consultez [la vérification
 
 | Action | Délai | Point de départ |
 |---|---|---|
-| Nullités de la période suspecte (de plein droit) | 3 ans | Jugement de faillite |
-| Action en comblement de passif (curateur) | 4 ans | Jugement de faillite |
-| Action en comblement de passif (créanciers) | 3 ans | Clôture de la faillite |
+| Demande de report de la date de cessation de paiement | 6 mois | Jugement de faillite (art. XX.105) |
+| Actions contre les dirigeants pour faits de leurs fonctions, dont l'action en comblement de passif (art. XX.225) | 5 ans | Les faits fautifs, ou leur découverte s'ils ont été cachés par dol (art. 2:143 CSA) |
 | Demande de refus d'effacement (faillites prononcées depuis le 1er septembre 2023) | 3 ans | Expiration du droit à l'admission des créances (en pratique, environ 4 ans après le jugement de faillite) |
 | Tierce opposition contre l'effacement (même régime) | 3 mois, et dans la limite du délai de 3 ans | Publication du jugement de clôture |
 | Tierce opposition contre l'effacement (faillites prononcées du 1er mai 2018 au 31 août 2023) | 3 mois | Publication du jugement accordant l'effacement |
+
+Le délai de cinq ans court en principe des faits reprochés au dirigeant, et non du jugement de faillite : il peut donc être entamé, voire expiré, au jour de la faillite. Le Livre XX ne fixe pas de délai propre pour les actions des articles XX.226 et XX.227, ni pour les actions en inopposabilité de la période suspecte, et certaines actions obéissent à des délais particuliers. Voyez [la responsabilité du dirigeant](faillis/responsabilite-dirigeant.md#prescription).
 
 ---
 

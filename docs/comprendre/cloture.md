@@ -3,7 +3,7 @@ description: La clôture de la faillite - Types de clôture, effacement automati
   des dettes pour personnes physiques, décharge de caution, fin du dessaisissement
 keywords: clôture faillite belgique, fin faillite, effacement dettes faillite, insuffisance
   actif, décharge caution faillite, jugement clôture
-updated: '2026-11-06'
+updated: '2026-11-27'
 ---
 # La clôture de la faillite
 
@@ -56,6 +56,8 @@ La demande de refus peut être formulée avant la clôture par le curateur, [le 
 ### Le principe général
 
 Les personnes qui se sont portées caution pour les dettes du failli ne bénéficient pas de son effacement. Les créanciers peuvent continuer à les poursuivre normalement après la clôture de la faillite — la caution reste engagée pour les montants impayés.
+
+Elle est toutefois déchargée, sans démarche de sa part, si le créancier ne l'a pas énoncée, avec ses nom, prénom et adresse, dans sa déclaration de créance ou au plus tard dans les trois mois du jugement déclaratif. Cette règle protège la caution consommateur ou, pour une sûreté constituée avant le 1er janvier 2026, la personne physique qui s'est engagée à titre gratuit (article XX.156, alinéa 3). Voir [la mention de la caution dans la déclaration](../creanciers/suretes-cautions.md#mention-caution-declaration).
 
 ### La décharge de la caution consommateur
 

@@ -16,9 +16,10 @@ Relevées par plusieurs guides ; à corriger dans les pages de fond plutôt que 
 - **Rang du super-privilège des travailleurs** : avant les créanciers hypothécaires (`suretes-cautions.md`, qui le qualifie aussi de privilège spécial) ou au rang 2 sur l'actif mobilier (`paiement-dividendes.md`).
 - **Versement du dividende** : par la CDC un à trois mois après l'homologation (`paiement-dividendes.md`) ou par le curateur dans le mois (`deroulement-phase-4-5.md`, `cloture.md`).
 - **Effacement et interdiction de gérer** : l'effacement vaut réhabilitation, qui met fin à l'interdiction (`interdiction.md`), contre l'interdiction qui continue de courir (`cloture.md`, FAQ `#apres-la-cloture`).
-- **Présomption de faute pour le précompte et la TVA** : écartée lorsque le non-paiement résulte de difficultés ayant mené à la faillite (`responsabilite-dirigeant.md`) contre présomption sans nuance (FAQ `#dettes-onss-fiscales-dirigeant`).
+- ~~**Présomption de faute pour le précompte et la TVA**~~ : levée le 27 novembre 2026. Art. 51, § 3, CRAF lu sur Justel : la présomption ne joue pas en cas de réorganisation judiciaire, de faillite ou de dissolution judiciaire. Page et FAQ alignées sur l'art. 51 CRAF (anciens art. 442quater CIR et 93undecies C TVA, abrogés au 1er janvier 2020).
 - **Contredit** : point de départ (Regsol, ou Moniteur ou Regsol) ; ouvert au failli (`droits.md`) alors que `deroulement-phase-4-5.md` et `delais.md` ne le présentent que comme une voie du créancier, par exploit d'huissier.
-- **Délais de prescription des actions contre les dirigeants** dans `delais.md` : quatre ans après le jugement (comblement de passif par le curateur) et trois ans après la clôture (action en responsabilité, créanciers) ; à mettre en cohérence.
+- ~~**Délais de prescription des actions contre les dirigeants**~~ : levée le 27 novembre 2026. Les « 4 ans », « 3 ans après la clôture » et « 3 ans » (nullités) n'avaient aucun fondement ; remplacés par cinq ans à partir des faits (art. 2:143, § 1er, CSA ; C. const. n° 47/2007 et n° 116/2025 ; Cass. 13 mars 2026, C.23.0433.F). **Restent ouverts** : prescription des actions XX.226 et XX.227 (aucune décision trouvée ; XX.226 ne vise peut-être pas des « faits de leurs fonctions ») et des actions en inopposabilité XX.111 à XX.114 (aucun délai propre ; droit commun probable, non vérifié).
+- **Seuils indexés de l'art. 2:57 CSA** : le tableau de `responsabilite-dirigeant.md` reprend les montants de base du texte (exacts). Les avis d'indexation au Moniteur belge (variation de 5 % de l'indice depuis décembre 2017) n'ont pas pu être consultés : rechercher « Avis » + « 2:57 » au Moniteur, 2020-2026, et mettre le tableau à jour s'il en existe.
 - **`delais.md`** : la section « Les cinq délais les plus critiques » ne compte que quatre lignes ; aucune ligne pour la revendication ; « date limite pratique » de la déclaration tardive au troisième procès-verbal, contre la prescription d'un an ailleurs.
 
 ## Guide 1 : guides/aveu-de-faillite.md
@@ -46,15 +47,15 @@ Relevées par plusieurs guides ; à corriger dans les pages de fond plutôt que 
 - Étape 5 : contredit du failli dans le mois de la publication du procès-verbal (`droits.md`) ; voir la contradiction transversale sur le contredit.
 - Étape 6 : déclaration d'insaisissabilité du logement, reprise de la FAQ avec sa réserve ; aucune page de fond.
 - Étape 8 : appel dans le mois contre un refus d'effacement (source unique : `delais.md`, « droit commun ») ; réhabilitation réduite à la condition de paiement intégral.
-- Délai de 48 heures pour répondre aux convocations (`delais.md`) contre « rapidement » (`obligations.md`) : non repris.
+- Délai de 48 heures pour répondre aux convocations (`delais.md`) contre « rapidement » (`obligations.md`) : non repris. **Résolu le 26 novembre 2026** : aucun délai légal de 48 heures ; l'article XX.146 impose de se rendre aux convocations et de fournir les renseignements requis, et l'article XX.229, § 2 et § 5, permet (sans l'imposer) une interdiction de trois ans en l'absence d'empêchement légitime. `delais.md` corrigé.
 - Exemple : jugement le 12 février 2026 ; Moniteur au 17 février, déclarations au 14 mars, premier procès-verbal au 31 mars, droit passerelle au 30 septembre 2026 ; admission « vers le 12 février 2027 » et refus d'effacement possible jusque vers le 12 février 2030 (approximations de `effacement.md`) ; clôture au printemps 2028, choix de l'exemple.
 
 ## Guide 4 : guides/dirigeant-societe-en-faillite.md
 
 - Plafond de 250 000 euros dans l'exemple : déduit du tableau de `responsabilite-dirigeant.md` en assimilant bilan moyen et bilan du dernier exercice (l'exception pour faute grave vise le second, les plafonds le premier).
 - Étape 6 : remise en cause du remboursement du compte courant (8 000 euros) et créance portée à 15 000 euros au rang ordinaire : déduction tirée du principe général de `periode-suspecte.md`.
-- `periode-suspecte.md` est confus : donations dans les six mois à la fois nulles de plein droit et nullités facultatives ; délai de dix ans pour les libéralités frauduleuses. Le guide reste général.
-- Délai de six mois pour demander le report de la date de cessation de paiements : source unique, FAQ `#periode-suspecte`.
+- ~~`periode-suspecte.md` est confus~~ : réécrite le 27 novembre 2026 sur les art. XX.105 et XX.111 à XX.114 lus sur Justel (inopposabilité plutôt que nullité ; actes gratuits et actes notablement déséquilibrés de plein droit ; délai de dix ans supprimé ; ajout de XX.113). Points non textuels restés en formulation prudente : conditions de l'action paulienne de XX.114 (conscience du préjudice, connaissance du tiers), sort du tiers après inopposabilité, sûreté constituée en même temps que la dette.
+- ~~Délai de six mois pour demander le report de la date de cessation de paiements~~ : confirmé, art. XX.105, al. 5.
 - Clôture « souvent dans l'année » en cas d'insuffisance d'actif : ordre de grandeur de la FAQ.
 - Traités prudemment : recours du dirigeant au nom de la société, responsabilité liée à un contrat de travail parallèle, absence de réhabilitation pour le dirigeant (`interdiction.md`).
 

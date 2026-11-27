@@ -8,7 +8,7 @@ keywords: créancier hypothécaire faillite, gage fonds de commerce faillite, pr
 public:
 - creancier
 draft: true
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Créancier garanti : hypothèque, gage, privilège, en six étapes
 
@@ -54,12 +54,12 @@ Même garantie, la créance doit être déclarée dans la faillite, dans le dél
 - **pour une hypothèque** : l'adresse de l'immeuble, le rang, le montant inscrit et la date de l'inscription, avec une copie de celle-ci ;
 - **pour un gage** : la description précise du bien grevé, la date de constitution et le montant garanti, avec l'acte et, le cas échéant, l'inscription au registre des gages ;
 - **pour un privilège** : sa nature et sa base légale ;
-- **pour une caution** : son identité, le montant cautionné, la nature de l'engagement et la date de l'acte. Cette mention n'est pas obligatoire, mais elle facilite l'imputation des paiements partiels.
+- **pour une caution** : ses nom, prénom et adresse, le montant cautionné, la nature de l'engagement et la date de l'acte. Cette mention conditionne votre recours contre la caution protégée (voir l'encadré ci-dessous) et facilite l'imputation des paiements partiels.
 
 **Déclarez la totalité.** Indiquez le montant de la créance entière, en distinguant la part que vous estimez couverte par la garantie et le solde éventuel. Le cours des intérêts est arrêté pour les créanciers ordinaires, mais il continue pour les créances garanties par une hypothèque, un gage ou un privilège spécial, payables seulement sur le produit du bien grevé.
 
 !!! danger "Une garantie oubliée est une garantie perdue"
-    Une hypothèque, un gage ou un privilège qui n'est pas mentionné dans la déclaration vous fait perdre votre rang préférentiel : votre créance est traitée au même rang que celle des fournisseurs sans garantie. L'oubli d'une caution, en revanche, ne vous prive pas de votre droit contre elle. Dans l'exemple, la banque déclare 280 000 euros avant le 2 avril, en décrivant l'hypothèque, le gage et la caution.
+    Une hypothèque, un gage ou un privilège qui n'est pas mentionné dans la déclaration vous fait perdre votre rang préférentiel : votre créance est traitée au même rang que celle des fournisseurs sans garantie. Une caution oubliée peut être libérée : si vous ne la mentionnez pas, avec ses nom, prénom et adresse, dans la déclaration ou au plus tard dans les trois mois du jugement, la caution qui s'est engagée comme consommateur (pour un engagement antérieur au 1er janvier 2026, à titre gratuit) est libérée et vous perdez votre recours contre elle. Mentionnez donc toute caution, sans chercher à deviner si elle est protégée. Dans l'exemple, la banque déclare 280 000 euros avant le 2 avril, en décrivant l'hypothèque, le gage et la caution.
 
 **À la vérification.** Si le curateur n'admet votre créance qu'à titre chirographaire, il conteste en réalité votre garantie : vous pouvez défendre votre rang selon [l'étape 5 du parcours commun](creancier-recuperer-sa-creance.md#etape-5). Vous pouvez aussi former un contredit limité au rang d'un autre créancier, si un privilège concurrent vous paraît admis sans base suffisante.
 
@@ -116,8 +116,9 @@ Dans l'exemple, la vente de l'atelier laisse 200 000 euros pour les créanciers 
 
 **La caution reste tenue.** La faillite du débiteur n'éteint pas l'engagement de la caution, et l'effacement des dettes d'un failli personne physique ne lui profite pas. Vous pouvez la poursuivre dès que le failli est en défaut, sans attendre la clôture, et encore après celle-ci. Si elle vous paie une partie de la créance pendant la procédure, informez-en le curateur : votre créance admise est réduite d'autant. Dans l'exemple, la banque peut réclamer au gérant 50 000 euros, le plafond de son engagement.
 
-**Les limites à connaître.** Trois régimes peuvent réduire ce que vous obtiendrez de la caution ou d'un coobligé :
+**Les limites à connaître.** Quatre régimes peuvent réduire ce que vous obtiendrez de la caution ou d'un coobligé :
 
+- **la caution non mentionnée à temps** : la caution consommateur que vous n'avez pas mentionnée dans les trois mois du jugement est libérée (étape 2) ;
 - **la décharge de la caution consommateur** : depuis le 1er janvier 2026, le consommateur qui s'est porté caution du failli peut demander au tribunal d'être déchargé, en tout ou en partie, si son engagement est manifestement disproportionné à ses biens et à ses revenus à l'ouverture de la procédure. Lorsque le débiteur est une société, il ne doit pas pouvoir influencer substantiellement ses décisions. Le dépôt de sa requête suspend les voies d'exécution à son égard. Un gérant qui dirige effectivement la société ne remplit en principe pas cette condition ;
 - **le conjoint ou le cohabitant légal coobligé** d'un failli personne physique est libéré par l'effacement de celui-ci, pour les dettes contractées pendant le mariage ou la cohabitation légale, dans les limites prévues par la loi ;
 - **les sûretés constituées par un consommateur depuis le 1er janvier 2026** obéissent à de nouvelles règles du Code civil : information préalable du garant, écrit distinct, plafond, information en cours de contrat. Vérifiez qu'elles ont été respectées avant d'agir.
@@ -148,6 +149,7 @@ Le détail figure dans [les sûretés personnelles](../creanciers/suretes-cautio
 | Entre 35 et 60 jours après le jugement | Premier procès-verbal de vérification | 15 avril |
 | Après le premier procès-verbal | Le créancier hypothécaire de premier rang peut faire vendre l'immeuble | À partir du 15 avril |
 | 1 mois après la publication du procès-verbal | Dernier jour pour former un contredit sur le rang d'un autre créancier | 15 mai |
+| 3 mois après le jugement | Dernier jour pour mentionner la caution, si elle ne figure pas déjà dans la déclaration | 3 juin |
 | Vers 6 mois, puis vers 12 mois | Deuxième et troisième procès-verbaux | Septembre, puis mars de l'année suivante |
 | 1 à 4 ans après le jugement | Répartition du produit et paiement du solde chirographaire | Selon la liquidation |
 | Sans délai propre à la faillite | Poursuite de la caution | Dès le défaut du failli |

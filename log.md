@@ -6,6 +6,31 @@ Journal chronologique, append-only. Chaque entrée commence par `## [YYYY-MM-DD]
 
 ---
 
+## [2026-11-27] edit | Mention de la caution (XX.156, al. 3), délais de recours, convocations
+
+Travail de la session du 26 novembre (398b4cdf), commité le 27.
+
+- **Correction factuelle importante** : depuis le 1er janvier 2026, le créancier doit énoncer la caution, avec ses nom, prénom et adresse, dans sa déclaration ou au plus tard dans les trois mois du jugement déclaratif (art. XX.156, al. 3). À défaut, la caution protégée est déchargée. Pour une sûreté antérieure à 2026, la protection vise la caution à titre gratuit. Le site affirmait jusqu'ici l'absence de délai et de décharge. Pages corrigées : `creanciers/suretes-cautions.md` (nouvelle ancre `#mention-caution-declaration`), `creanciers/README.md`, `creanciers/declarer-creance.md`, `creanciers/creanciers-categories.md`, `comprendre/cloture.md`, `glossaire.md`, `delais.md`, FAQ et guides caution, créancier garanti et récupérer sa créance.
+- `delais.md` et FAQ : délais de recours contre le jugement déclaratif distingués selon qu'ils concernent le failli (signification) ou les tiers (publication), XX.108 et C. const. n° 108/2024 et 139/2025. Le délai de 48 heures pour répondre aux convocations est supprimé, faute de base légale (XX.146).
+- `faillis/obligations.md` : interdiction de gérer pour défaut de collaboration « sans empêchement légitime ».
+
+---
+
+## [2026-11-27] edit | Responsabilité des dirigeants (art. 51 CRAF, prescription) et période suspecte
+
+Passe de correction à partir d'une note de relecture. Tous les textes ont été relus en source primaire : Justel, Juportal et const-court.be.
+
+- `faillis/responsabilite-dirigeant.md`, section précompte et TVA : elle repose désormais sur l'**art. 51 CRAF**. Les art. 442quater CIR et 93undecies C TVA sont abrogés au 1er janvier 2020, et un encadré signale l'ancienne numérotation. La section précise aussi l'exception à la présomption de faute en cas de faillite (§ 3) et l'avertissement préalable d'un mois par recommandé (§ 5).
+- Même page, faute grave : ajout de **Cass. 23 mai 2024** (dividendes et décharge) et de **Cass. 2 décembre 2021** (preuve de l'exception des petites sociétés à charge du dirigeant).
+- Même page, plafonds de l'art. 2:57 : la règle d'indexation est précisée et le tableau est donné comme montants de base.
+- Même page, nouvelle section `#prescription` : cinq ans à partir des faits (art. 2:143 CSA ; C. const. n° 47/2007 et n° 116/2025 ; Cass. 13 mars 2026).
+- **Correction factuelle importante** dans `delais.md` : les « 3 ans » (nullités), « 4 ans » (curateur) et « 3 ans après la clôture » (créanciers) n'avaient aucun fondement. Ils sont remplacés par cinq ans à partir des faits. Ajout du report de date (six mois, XX.105). Même correction dans le calendrier du guide dirigeant.
+- `comprendre/periode-suspecte.md` réécrite sur les art. XX.105 et XX.111 à XX.114 : la page parle d'inopposabilité plutôt que de nullité, range les actes gratuits et notablement déséquilibrés parmi les inopposabilités de plein droit, supprime le délai de dix ans sans fondement et ajoute l'art. XX.113. `comprendre/liquidation-actifs.md` est alignée.
+- FAQ : questions `#periode-suspecte`, `#dettes-onss-fiscales-dirigeant` (CRAF) et plafond 2:57.
+- Points restés ouverts, consignés dans `superpowers/points-a-verifier.md` : avis d'indexation des seuils de l'art. 2:57 ; prescription des actions XX.226, XX.227 et des inopposabilités.
+
+---
+
 ## [2026-11-26] edit | Renvois vers infoprj.be
 
 Liens ciblés vers les pages de fond d'infoprj.be partout où la réorganisation judiciaire est évoquée. Les liens florianernotte.be existants sont conservés. Les guides d'infoprj ne sont pas liés : ils répondent encore 404 en ligne. Toutes les URL ajoutées vérifiées (200).

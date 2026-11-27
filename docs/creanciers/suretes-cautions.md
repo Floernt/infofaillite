@@ -3,7 +3,7 @@ description: Les sûretés et cautions dans la faillite - Hypothèques, gages, p
   cautions personnelles et leur déclaration dans la procédure
 keywords: hypothèque faillite belgique, gage faillite, caution faillite, sûreté réelle
   faillite, privilège créancier faillite, déclaration créance
-updated: '2026-10-28'
+updated: '2026-11-27'
 ---
 # Les sûretés et cautions dans la faillite
 
@@ -55,9 +55,19 @@ La caution est une personne — physique ou morale — qui s'est engagée à pay
 
 ### L'exercice de votre droit contre la caution
 
-Le droit du créancier contre la caution est indépendant de la procédure de faillite. Vous pouvez la poursuivre dès que le failli est en défaut, sans attendre la clôture, et conserver ce droit après l'effacement des dettes du failli. Aucun délai spécifique n'est imposé pour « déclarer » la caution au curateur : il n'y a pas de décharge automatique attachée à un défaut de mention dans la déclaration de créance.
+Le droit du créancier contre la caution est indépendant de la procédure de faillite. Vous pouvez la poursuivre dès que le failli est en défaut, sans attendre la clôture, et conserver ce droit après l'effacement des dettes du failli. Encore faut-il avoir énoncé la caution à temps dans la procédure.
 
-Il reste néanmoins utile de mentionner la caution dans votre déclaration de créance — nom, adresse, montant cautionné, nature du cautionnement (solidaire ou simple), date de l'acte, copie jointe. Cela permet au curateur d'organiser correctement les répartitions et évite des discussions ultérieures sur les paiements partiels obtenus de la caution, qui doivent être imputés sur la créance admise.
+### Énoncer la caution dans la déclaration de créance (article XX.156, alinéa 3) { #mention-caution-declaration }
+
+L'article XX.156, alinéa 3, du Code de droit économique, dans sa version en vigueur depuis le 1er janvier 2026, dispose :
+
+> « Tout créancier jouissant d'une sûreté personnelle l'énonce dans sa déclaration de créance ou, au plus tard, dans les trois mois de la date du jugement déclaratif de faillite, sauf si la faillite est clôturée plus tôt, et mentionne les nom, prénom et adresse du consommateur qui s'est constitué sûreté personnelle au sens de l'article 9.1.42, alinéas 1er et 2, du Code civil du failli, faute de quoi cette personne est déchargée. »
+
+Le texte applicable dépend de la date à laquelle la sûreté a été constituée (article 18 de la loi du 5 juin 2025). Pour une sûreté constituée depuis le 1er janvier 2026, la décharge profite au consommateur au sens de l'article 9.1.42 du Code civil. Pour une sûreté constituée avant cette date, l'ancien texte reste applicable : il visait « la personne physique qui, à titre gratuit, s'est constituée sûreté personnelle du failli ».
+
+Cette décharge est automatique : la caution n'a rien à demander. Elle ne joue pas pour la caution qui sort de ce champ, comme le garant professionnel, le dirigeant qui peut influencer substantiellement les décisions de la société faillie ou, pour une sûreté antérieure à 2026, la caution qui ne s'est pas engagée à titre gratuit. Contre celle-là, l'omission ne vous fait pas perdre votre recours. Elle est aussi distincte de la décharge pour disproportion, que la caution doit demander au tribunal ([article XX.176](#decharge-caution-consommateur)).
+
+En pratique, énoncez toute caution dans votre déclaration de créance, sans chercher à deviner sa qualité : nom, prénom, adresse, montant cautionné, nature du cautionnement (solidaire ou simple), date de l'acte, copie jointe. C'est une condition pour conserver votre recours contre la caution protégée, et cela permet au curateur d'imputer correctement sur la créance admise les paiements partiels obtenus de la caution. Si vous l'avez oubliée, complétez votre déclaration avant l'expiration des trois mois.
 
 ### La décharge de la caution consommateur (article XX.176) { #decharge-caution-consommateur }
 
@@ -74,7 +84,7 @@ La décharge suppose désormais :
 La caution dépose une requête dans le registre de la faillite (REGSOL), accompagnée de sa dernière déclaration fiscale et de son dernier avertissement-extrait de rôle, du relevé de son patrimoine et de tout document établissant ses ressources et ses charges. Le dépôt de la requête suspend les voies d'exécution à son égard.
 
 !!! note "Faillites et sûretés antérieures au 1er janvier 2026"
-    La loi applicable dépend de la date du jugement de faillite et, pour les règles du Code civil décrites plus bas, de la date à laquelle la sûreté a été constituée. Dans un dossier ancien, l'exigence d'un engagement à titre gratuit peut encore trouver à s'appliquer : vérifiez le régime applicable avant d'introduire ou de contester une demande de décharge.
+    La loi applicable dépend de la date du jugement de faillite et, pour les règles du Code civil décrites plus bas comme pour la [mention de la caution dans la déclaration](#mention-caution-declaration), de la date à laquelle la sûreté a été constituée. Dans un dossier ancien, l'exigence d'un engagement à titre gratuit peut encore trouver à s'appliquer : vérifiez le régime applicable avant d'introduire ou de contester une demande de décharge.
 
 ### Le conjoint ou cohabitant légal coobligé : l'effacement (article XX.174) { #conjoint-cohabitant-cooblige }
 
@@ -106,7 +116,7 @@ En cas de disproportion manifeste avec le patrimoine et les revenus du garant au
 
 **Privilège non déclaré :** vous perdez votre droit préférentiel légal et passez au rang chirographaire.
 
-**Caution non mentionnée :** votre droit contre la caution n'est pas perdu — il n'existe pas de décharge automatique liée à un défaut de mention dans la déclaration de créance. Vous pouvez toujours poursuivre la caution. Mais la mention reste utile pour assurer le suivi des paiements partiels et leur imputation correcte sur votre créance admise.
+**Caution non mentionnée :** si vous n'énoncez pas la caution, avec ses nom, prénom et adresse, dans votre déclaration ou au plus tard dans les trois mois du jugement déclaratif, la caution consommateur (pour une sûreté antérieure à 2026, la caution à titre gratuit) est déchargée et vous perdez votre recours contre elle (article XX.156, alinéa 3). Contre une caution qui sort de ce champ, le recours subsiste. Voyez [la section consacrée à cette mention](#mention-caution-declaration).
 
 ---
 
@@ -114,7 +124,7 @@ En cas de disproportion manifeste avec le patrimoine et les revenus du garant au
 
 **Je suis banque et j'ai une hypothèque sur un immeuble du failli. Comment la faire valoir ?** Déclarez votre créance en mentionnant l'hypothèque avec tous les détails (adresse, rang, montant, date d'inscription). Après le premier procès-verbal de vérification, vous pouvez opter pour la vente directe de l'immeuble selon les règles de la saisie immobilière si vous êtes en premier rang.
 
-**Dois-je déclarer la caution dans un délai particulier pour qu'elle reste tenue ?** Non. Il n'existe pas de délai spécifique pour mentionner la caution au curateur, ni de décharge automatique pour défaut de mention. Votre droit contre la caution subsiste indépendamment de la procédure de faillite. La mention dans la déclaration de créance reste néanmoins utile pour le bon suivi des paiements partiels et leur imputation.
+**Dois-je déclarer la caution dans un délai particulier pour qu'elle reste tenue ?** Oui. Énoncez-la, avec ses nom, prénom et adresse, dans votre déclaration de créance ou au plus tard dans les trois mois du jugement déclaratif (plus tôt si la faillite est clôturée avant). Faute de quoi la caution consommateur est déchargée ; pour une sûreté constituée avant le 1er janvier 2026, c'est la caution personne physique à titre gratuit (article XX.156, alinéa 3). Le plus sûr est de mentionner toute caution dans la déclaration elle-même.
 
 **Puis-je poursuivre la caution avant même la clôture de la faillite ?** Oui. Votre droit contre la caution est indépendant de la procédure de faillite. Vous pouvez agir contre la caution dès que le failli est en défaut de paiement — la faillite ne vous oblige pas à attendre la clôture.
 
