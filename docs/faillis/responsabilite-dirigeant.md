@@ -6,7 +6,7 @@ keywords: responsabilité dirigeant faillite, article XX.225, article XX.227, ar
   administrateur faillite, article 51 CRAF, prescription 2:143 CSA
 public:
 - dirigeant
-updated: '2026-11-26'
+updated: '2026-11-27'
 ---
 # Votre responsabilité personnelle de dirigeant
 

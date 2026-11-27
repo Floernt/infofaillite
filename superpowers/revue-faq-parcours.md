@@ -1,5 +1,7 @@
 # FAQ unifiée et parcours dirigeant : relecture
 
+> **Mise à jour du 27 novembre 2026** : les lignes Q39 et Q40 (art. 442quater CIR et 93undecies C TVA) sont dépassées. Ces articles sont abrogés depuis le 1er janvier 2020 ; le régime figure à l'art. 51 CRAF, lu sur Justel. Voir `points-a-verifier.md`.
+
 Document interne, non publié (29 octobre 2026). Sources légales consultées : texte consolidé du Code de droit économique (Justel, à jour au 4 août 2026) et du Code des sociétés et des associations (à jour au 2 avril 2026).
 
 ## Corrigé dans le guide pendant ce chantier

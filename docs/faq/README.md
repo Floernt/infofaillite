@@ -5,7 +5,7 @@ keywords: questions fréquentes faillite, FAQ faillite belgique, faillite socié
   déclarer créance faillite, effacement des dettes, curateur, Fonds de fermeture
 hide:
 - navigation
-updated: '2026-11-26'
+updated: '2026-11-27'
 ---
 # Questions fréquentes sur la faillite
 
